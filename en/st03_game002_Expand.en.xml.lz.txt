@@ -1,0 +1,287 @@
+[m03_3000][0D00]
+
+<face:0101>
+This is headquarters. What's*
+the status over there?<press>
+<face:00EA>
+<sound:0015><blink><shake:0128>Oh, Chief! It's you!<press>
+They're making preparations*
+now. No problems, sir!<press>
+<face:0101>
+How much longer, then?<press>
+<face:00EA>
+One more hour, sir.<press>
+<face:0101>
+I see. Carry on, then.<press>
+<sound:0015><blink>Oh, one more thing.<press>
+Inspector Cabanela*
+wishes to speak to you.
+
+-------------------------------
+
+[m03_3010][0D01]
+
+<face:008D>
+<sound:0016><1CFF_1100>Evening. Cabanela here.*
+How you boys doin'?<press>
+<face:00EA>
+<sound:0017><blink><shake:0128>Inspector Cabanela!*
+Fine, sir!<press>
+<face:008A>
+You got another little call tonight,*
+didn't you? From my baby?
+
+-------------------------------
+
+[m03_3020][0D02]
+
+<face:00EA>
+<shake:0128>From Lynne...? Uh, well, yes...<press>
+<face:008A>
+Did my girl have anything...*
+iiinteresting to say?<press>
+<face:00EA>
+<shake:0128>Uh, not especially. She hung*
+up almost immediately.<press>
+<face:008A>
+I seeeee...<press>
+Next time she gives you a buzz,*
+be sure to let me know riiight*
+away. Thaaat's a good fellow.<press>
+<face:00EA>
+Yes, sir.<press>
+<face:008D>
+<sound:0015><blink>You try to cover it up, and*
+I'm sure you'll regret it*
+very much. Veeery much.<press>
+<face:00EA>
+<sound:0017><blink><shake:0128>Yes, sir! I'll call you right*
+away, sir! Immediately!<press>
+<face:008A>
+<sound:0016>Don't forget. She's a*
+<red>fugitive<black>, after all...<press>
+<face:00EA>
+Yes, sir.<press>
+<face:008A>
+Carry on, then. I might*
+"pop in" a little later.<press>
+<face:00EA>
+<sound:0017><blink><shake:0128>Yes, sir! Looking forward*
+to seeing you, sir!
+
+-------------------------------
+
+[m03_3030][0D03]
+
+<face:00EA>
+Inspector Cabanela seems*
+to be looking for her, too...<press>
+<sound:0016>...Your Lynne, I mean.<press>
+<face:00EE>
+Inspector Cabanela? What would*
+the Special Investigation Unit want*
+with Lynne?<press>
+<face:00EA>
+I don't know. I guess something*
+happened that we don't know about.<press>
+<face:00EE>
+Tonight, of all nights.
+
+-------------------------------
+
+[m03_3040][0D04]
+
+<face:00EA>
+Inspector Cabanela must*
+be upset tonight, too.<press>
+<sound:0015><blink>Weren't he and Prisoner D99 --*
+Detective Jowd -- <red>good friends<black>?<press>
+<face:00EE>
+You sure about that? If they*
+were such good friends...<press>
+...how come Inspector Cabanela*
+never came to visit him?<press>
+<face:00EA>
+He's the head of*
+Special Investigation.*
+He's a very busy man.
+
+-------------------------------
+
+[m03_3050][0D05]
+
+<face:00EA>
+<sound:0015><blink><shake:0128>Wh-What's wrong?<press>
+<face:00EE>
+Jowd was my hero, you*
+know. I wanted to be a*
+detective because of him.<press>
+<sound:0018><blink><shake:0128>But look at me!<press>
+Rottin' away in a place*
+like this! And I can't even*
+do anything to help Lynne...<press>
+<sound:0018><blink><shake:0128>What am I doing with my life?!<press>
+<face:00EA>
+.........<press>
+<sound:0016>Th-This new side of you*
+is kind of... endearing...<press>
+<face:00EE>
+.........<press>
+<face:00EA>
+Anyway, the thing to*
+do is work at fixing what*
+you can, little by little.<press>
+Like, for example, your*
+house of cards. It*
+collapsed, you know.<press>
+<face:00EE>
+<shake:0128>#groan#
+
+-------------------------------
+
+[m03_3060][0D06]
+
+<fchat:0001>
+Lynne should be heading for*
+the Chicken Kitchen now.<press>
+But the call from*
+police headquarters*
+intrigues me, too.<press>
+<blue>(It's looking pretty obvious*
+right now. That white-suited*
+inspector suspects Lynne.)<black><press>
+<blue>(And she's being*
+considered a <red>fugitive<blue>...*
+This is not good...)<black><press>
+Wonder if I should go check*
+in on the chief and the*
+inspector in white, too?
+
+-------------------------------
+
+[m03_3120][0D07]
+
+Aaaaargh!
+
+-------------------------------
+
+[m03_3070][0D08]
+
+.........
+
+-------------------------------
+
+[m03_3080][0D09]
+
+<face:00EA>
+<sound:0017><blink><shake:0128>What do you think of my*
+<red>quirky behavior<black>?! Surprised?
+
+-------------------------------
+
+[m03_3090][0D0A]
+
+<face:00EA>
+You seemed bored, so I*
+thought I'd wake you up.<press>
+<sound:0018><blink><shake:0128>You can call that <red>my "Gotcha!"*
+move<black>! What do you think?
+
+-------------------------------
+
+[m03_3100][0D0B]
+
+<face:00EA>
+Hey, wait a minute...<press>
+<sound:0016>{28FF}0UAre you... dead...?<press>
+<face:00EE>
+<sound:0015><blink>Dead? Of course not.<press>
+<face:00EA>
+<sound:0018><blink><shake:0128>Oh, thank goodness!{28FF}<0001_1E00><press>
+I thought I'd surprise you,*
+but you surprised me!<press>
+<sound:0017><blink><shake:0128>You're good. Oh, you're good...
+
+-------------------------------
+
+[m03_3110][0D0C]
+
+You're good.
+
+-------------------------------
+
+[m03_9000][1900]
+
+Internal extension
+
+-------------------------------
+
+[m03_9010][1901]
+
+External line
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9050][1905]
+
+Special Detention
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+
+[m03_9070][1908]
+
+<face:0044>
+The screen shows*
+rows of tiny rooms.<press>
+The rooms are really, really*
+small. And you can see right*
+into them from the outside.<press>
+I suppose the open bars keep*
+the rooms airy, but I wouldn't*
+wanna live in one, myself...<press>
+I wonder where these*
+little rooms are?
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+

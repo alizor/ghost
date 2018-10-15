@@ -1,0 +1,1035 @@
+[m04_0162][1B21]
+
+What's this?
+
+-------------------------------
+
+[m04_0170][1B22]
+
+Here you go!
+
+-------------------------------
+
+[m04_0210][1B27]
+
+<face:000D>
+The note said "The Chicken*
+Kitchen, 10:00."<press>
+I wonder who that pointy-haired*
+man was going to meet here?<press>
+<fchat:0001>
+If you're going to call me*
+anything, at least try to*
+make it my name, "<red>Sissel<black>."<press>
+<fchat:0003>
+<sound:0015><blink><shake:0128>Sorry about that! I'm*
+really bad with names.<press>
+<fchat:0001>
+<blue>(The future of this lady's*
+career as a detective*
+looks pretty bleak...)<black>
+
+-------------------------------
+
+[m04_0220][1B29]
+
+<fchat:0001>
+What was that sign?*
+A tempting dessert*
+menu, maybe?<press>
+<fchat:0003>
+...It's kind of embarrassing*
+to have somebody watch*
+your every move like this.<press>
+No, that sign was...*
+Come to think of it,*
+what did that sign say?<press>
+My memory's a little*
+hazy on that part.<press>
+<fchat:0001>
+<blue>(In any case, just hanging*
+around here isn't going*
+to fix anything.)<black><press>
+<blue>(I'll have to look for a way*
+to <red>get beyond this area<blue>.)<black>
+
+-------------------------------
+
+[m04_0221][1B2A]
+
+<fchat:0001>
+Hmm...<press>
+<fchat:0003>
+What's taking my*
+chicken so long?<press>
+<fchat:0001>
+Unfortunately for you,*
+according to what we*
+saw before...<press>
+...the van arrives before*
+your chicken does.<press>
+<blue>(In any case, just hanging*
+around here isn't going*
+to fix anything.)<black><press>
+<blue>(I'll have to look for a way*
+to <red>get beyond this area<blue>.)<black>
+
+-------------------------------
+
+[m04_0230][1B2B]
+
+<fchat:0001>
+.........*
+<blue>(It's no use...)<black><press>
+<blue>(I can't read what it says!)<black><press>
+<fchat:0003>
+<sound:0015><blink>Let's see... Oh, hey!<press>
+Now I remember*
+what that sign says!<press>
+<sound:0016>"If you would like some*
+water, please ring the*
+bell <red>three times<black>."<press>
+<fchat:0001>
+"<red>Three times<black>"...?<press>
+<fchat:0003>
+<sound:008E><blink>Yeah, the waitress doesn't*
+bring any water if you only*
+ring the bell once.<press>
+She said, "Those are*
+the rules, apparently."<press>
+<sound:0018><blink><shake:0128>I said, "'Apparently'? What*
+do you mean, 'apparently'?*
+Don't you work here?"<press>
+<fchat:0001>
+<blue>(Quite a stickler for the*
+details, this detective...)<black>
+
+-------------------------------
+
+[m04_0231][1B2C]
+
+<fchat:0003>
+<sound:0015><blink>You wrote this note, right?<press>
+<fchat:0001>
+I... I think so.*
+<blue>(But I don't remember.)<black><press>
+<fchat:0003>
+"Ten o'clock"? That means*
+it's already time for your*
+meeting with whoever it is.<press>
+Now that I think about it...<press>
+<sound:0016>Whoever you were*
+supposed to meet*
+might already be here.<press>
+<fchat:0001>
+You're the detective.*
+Shouldn't you have checked*
+that when you got here?<press>
+<fchat:0003>
+<sound:0015><blink>Oh, yeah. Sorry! The chicken*
+at this restaurant is really*
+good, so... you know. Ha ha.<press>
+<fchat:0001>
+<blue>(Um, no, I don't know.)<black><press>
+<fchat:0003>
+Maybe we should take*
+a look around the rest*
+of the restaurant.
+
+-------------------------------
+
+[m04_0240][1B2D]
+
+<face:00D1>
+<sound:0017><blink><shake:0128>You rang?<press>
+<face:0015>
+<sound:0015><blink>Huh...? Oh, sorry. I*
+didn't ring the bell.<press>
+<face:00D1>
+<sound:0016>Oh, okay... I get it. This*
+was <red>a little dig<black>, wasn't it?<press>
+Kind of like, "Hey, where's*
+my food?" right?<press>
+<face:0003>
+<blink><shake:0128>No, not at all! Besides,*
+I didn't ring it.<press>
+<face:00D1>
+Oh, okay. That's all right, then.<press>
+But the chef is the one who*
+makes the chicken. No sense in*
+harassing me about it, right?<press>
+Just keep that in mind, 'kay?
+
+-------------------------------
+
+[m04_0250][1B2E]
+
+Odd girl.
+
+-------------------------------
+
+[m04_0260][1B2F]
+
+<fchat:0001>
+I agree.<press>
+<fchat:0003>
+Me, too.
+
+-------------------------------
+
+[m04_0270][1B30]
+
+<face:00D1>
+<sound:0017><blink><shake:0128>You want MORE water?<press>
+<face:0015>
+<sound:0015><blink>Huh...? Oh, sorry. I*
+didn't ring the bell.<press>
+<change:000D>
+<end>
+And what's with the*
+"MORE water" bit?<press>
+<face:00D1>
+Oh, well. C'mon. This*
+is your third glass.<press>
+<sound:0016>Oh, okay... I get it. This*
+was <red>a little dig<black>, wasn't it?<press>
+Kind of like, "Hey, where's*
+my food?" right?<press>
+<face:0003>
+<blink><shake:0128>No, not at all! Besides,*
+I didn't ring it.<press>
+<change:0005>
+<end>
+But I would like to see you*
+bringing me my chicken soon.<press>
+<face:00D1>
+Duly noted.<press>
+<sound:0017><blink><shake:0128>In the meantime, enjoy*
+a nice glass of water.
+
+-------------------------------
+
+[m04_0280][1B31]
+
+<face:00D7>
+.........<press>
+<face:00DA>
+.........<press>
+<fchat:0003>
+<sound:0015><blink>Hey, we can't hear*
+what they're saying!<press>
+<fchat:0001>
+Don't yell at me.<press>
+Apparently, we ghosts*
+can't hear conversations*
+that are too far away.<press>
+If we want to hear*
+what they're saying,*
+we have to get closer.<press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>Whaaat?! But I want to*
+hear what they're saying!<press>
+<fchat:0001>
+Yes, those two are*
+definitely suspicious...<press>
+<blue>(Hmm. I was supposed to*
+<red>meet <blue>somebody here at*
+this restaurant tonight...)<black><press>
+<blue>(Or maybe it wasn't so much*
+just "meet," but more like*
+<red>something else<blue>...?)<black>
+
+-------------------------------
+
+[m04_0290][1B32]
+
+<face:0072>
+Hmm, yes... Sissel...<press>
+<face:0088>
+If all goes well with our "<red>deal<black>"*
+tonight, we will have the power*
+to change the world, sir.<press>
+<face:0072>
+Hmm, yes... It's a very important*
+night, indeed, my good man. We*
+can't afford to make mistakes.
+
+-------------------------------
+
+[m04_0300][1B33]
+
+<fchat:0003>
+A "<red>deal<black>"...? I wonder*
+what it's all about?<press>
+<fchat:0001>
+I wish I knew... But those*
+two are definitely worth*
+checking out.
+
+-------------------------------
+
+[m04_0301][1B34]
+
+<fchat:0003>
+<sound:0015><blink>Huh. That waitress*
+isn't coming.<press>
+I wonder if I got*
+carried away a little*
+with the bell?<press>
+<fchat:0001>
+I dunno. It looks like*
+you're not the only*
+customer in here, though.<press>
+<blue>(The waitress is probably*
+just busy right now.)<black>
+
+-------------------------------
+
+[m04_0320][1B36]
+
+<fchat:0003>
+<sound:0015><blink>Uh-oh. Are you thinking*
+what I'm thinking?<press>
+It looks like we might*
+be stuck here...<press>
+<fchat:0001>
+But there's still*
+one possibility...<press>
+<fchat:0003>
+<sound:0016><blink>If you're counting on the*
+"past me," you'd better not.<press>
+<fchat:0001>
+Huh?
+
+-------------------------------
+
+[m04_0325][1B37]
+
+<fchat:0003>
+I didn't ask for any*
+more water after this.<press>
+<fchat:0001>
+<blue>(In other words, it won't do*
+us any good to wait for the*
+waitress to come back, eh?)<black><press>
+<blue>(Maybe we'd better*
+rethink things here...)<black>
+
+-------------------------------
+
+[m04_0330][1B38]
+
+<face:00D6>
+So what do you think,*
+my dear Beauty?<press>
+<sound:0016>Do you really think we*
+can trust this "<red>deal<black>"?<press>
+<face:00D8>
+Who knows? It's not our*
+job to think about that.<press>
+But those incidents DID*
+happen in this country,*
+just as he predicted.<press>
+<face:00D6>
+Yes, and they were pretty*
+amusing, too, weren't they?<press>
+That fellow who sang out*
+national secrets during a*
+live TV broadcast...<press>
+<face:00D8>
+And the man who laid siege to*
+the Metro Police Department,*
+taking the top dog hostage...<press>
+<face:00D6>
+But what if he double-crosses*
+us? It wouldn't be pretty...<press>
+<face:00D8>
+No, no. He needs this <red>deal<black>, too.<press>
+And we've accepted all*
+his conditions, as well.<press>
+<face:00D6>
+Yes, and thanks to that, we*
+have to be here on this*
+extra little "assignment"...<press>
+<sound:0015><blink>But as long as I'm paired up*
+with you, Beauty, I don't mind.<press>
+<fchat:0003>
+How do these two...?<press>
+<sound:0016><blink>How do they know*
+about the cases at*
+the <red>Special Prison<black>...?<press>
+<fchat:0001>
+Special Prison...?<press>
+<fchat:0003>
+The guy who sang national*
+secrets... The man who held*
+siege to Metro Police...<press>
+Those cases are <red>classified*
+information<black>.<press>
+<fchat:0001>
+Hmm... I've heard about*
+both of those cases...*
+and recently, too.<press>
+<fchat:0003>
+The perpetrators in*
+those cases are being*
+held at a special facility.<press>
+That's what the "<red>Special*
+Prison<black>" is. But it's not known*
+about by the general public.<press>
+<fchat:0001>
+So Prisoner D99 -- Detective*
+Jowd -- is one of these*
+"special cases," too, huh?<press>
+<fchat:0003>
+.........<press>
+<fchat:0001>
+<blue>(These two are talking*
+about the very same cases*
+I heard about just tonight.)<black><press>
+<sound:0016><blue>(That couldn't be just*
+<red>coincidence<blue>, could it?)<black>
+
+-------------------------------
+
+[m04_0690][1B39]
+
+<fchat:0001>
+This is one big trunk. It*
+seems pretty heavy, too.<press>
+<fchat:0003>
+It's very suspicious... and red.<press>
+<sound:0015><blink>Hey, let's see what's in it!<press>
+<fchat:0001>
+Sorry, but that's not*
+possible.<press>
+<sound:0016><blue>(It's <red>locked<blue>.)<black><press>
+<fchat:0003>
+Darn. I wanted to*
+see what's inside...
+
+-------------------------------
+
+[m04_0335][1B3A]
+
+<face:00D6>
+He should be here by now.<press>
+Doesn't he know the first rule*
+of making a <red>deal<black>? "Never*
+keep the customer waiting."<press>
+<face:00D8>
+<sound:0015><1EFF_7800><blink>Be quiet for a minute.
+
+-------------------------------
+
+[m04_0338][1B3B]
+
+<face:00D8>
+<sound:0016>There's a "bug" in this*
+restaurant somewhere.<press>
+<face:00D6>
+A bug...? I don't see any bug.<press>
+<face:00D8>
+<sound:0016>Right there. A ladybug.<press>
+<face:00D8>
+I just HATE little bugs...
+
+-------------------------------
+
+[m04_0700][1B3C]
+
+<fchat:0003>
+Quick! Do something!
+
+-------------------------------
+
+[m04_0710][1B3D]
+
+<fchat:0003>
+That big bird is just about*
+to fall on my head!<press>
+<fchat:0001>
+"Do something,"*
+you say, but...
+
+-------------------------------
+
+[m04_0720][1B3E]
+
+<fchat:0001>
+<blue>(Is there anything I*
+can do from here?)<black>
+
+-------------------------------
+
+[m04_0350][1B3F]
+
+<face:00D8>
+Hmm.<press>
+<face:00D6>
+What is it, Beauty?<press>
+<face:00D8>
+<sound:0016>Why don't we move*
+to a different spot?
+
+-------------------------------
+
+[m04_0355][1B40]
+
+<face:00D9>
+That table in the back looks good.
+
+-------------------------------
+
+[m04_0360][1B41]
+
+<face:00D6>
+<sound:0015><blink>Now you're talking, Beauty,*
+my dear! Just what I've*
+been waiting for.<press>
+A quiet, secluded spot,*
+just the two of us... I*
+wouldn't object to that.<press>
+<face:00D8>
+<sound:0016>All of a sudden, I get this feeling*
+somebody is <red>eavesdropping<black>...<press>
+My <red>sixth sense<black> is very*
+strong, you know.
+
+-------------------------------
+
+[m04_0365][1B42]
+
+<face:00D6>
+<shake:0128>That's all right, my dear. You*
+don't have to make excuses...<press>
+<sound:0017><blink><shake:0128>Off we go, across the bridge of*
+poultry, to the land of love!
+
+-------------------------------
+
+[m04_0370][1B43]
+
+<fchat:0003>
+<sound:0016><blink>What just happened? Did*
+she sense we were here?<press>
+<fchat:0001>
+<shake:0128>What, with her "<red>sixth*
+sense<black>"? Ha ha.<press>
+<fchat:0003>
+<sound:0015><blink>But, you know, I have*
+some pretty amazing*
+powers, myself...<press>
+<fchat:0001>
+Yeah? Like what?<press>
+<fchat:0003>
+Like...<press>
+...Like if there's chicken*
+nearby, I can tell right*
+away!<press>
+<fchat:0001>
+.........*
+That's called a*
+"<red>sense of smell<black>."<press>
+<blue>(But, anyway, at least*
+the <red>situation <blue>has changed*
+a little bit now.)<black>
+
+-------------------------------
+
+[m04_0375][1B44]
+
+<fchat:0003>
+<sound:0017><blink><shake:0128>I don't believe in a "<red>sixth*
+sense<black>." It's not scientific.<press>
+<fchat:0001>
+<blue>(...Says the ghost.)<black><press>
+<fchat:0003>
+But, come to think of*
+it, we've been left*
+behind, haven't we?<press>
+<fchat:0001>
+It looks that way.<press>
+<fchat:0003>
+<red>Not having legs<black> is even*
+more inconvenient than*
+I thought it would be.<press>
+<sound:0015><blink>But what are we*
+going to do now?!<press>
+They're all the*
+way over there!<press>
+<sound:0018><blink><shake:0128>I'm telling you, we'd better*
+shake a leg, or we're going*
+to miss what they're saying!<press>
+<fchat:0001>
+It'd be pretty hard*
+to "shake a leg," not*
+having legs and all...
+
+-------------------------------
+
+[m04_0380][1B45]
+
+<fchat:0001>
+<blue>(They're still talking*
+about something.)<black><press>
+<fchat:0003>
+<sound:0015><blink><shake:0128>I want to hear!<press>
+<fchat:0001>
+Me, too.
+
+-------------------------------
+
+[m04_0390][1B46]
+
+<fchat:0003>
+So I was wondering...<press>
+<sound:0015><blink>We're not stuck over here*
+by any chance, are we?<press>
+<fchat:0001>
+Uh, we just might be...<press>
+<fchat:0003>
+Okay, well, I have*
+two thoughts.<press>
+Number one. If we want*
+to get over to where*
+those two are...<press>
+<sound:0016>...we have to use <red>this red*
+trunk <black>they forgot somehow.<press>
+<fchat:0001>
+Sounds about right. What's*
+your other thought?<press>
+<fchat:0003>
+<sound:0016>It doesn't look like this*
+blue-haired <red>bartender<black> is*
+going to be much help.<press>
+<fchat:0001>
+<blue>(So I guess we have*
+to find somebody who*
+CAN help, then.)<black>
+
+-------------------------------
+
+[m04_0400][1B47]
+
+<face:00D0>
+<sound:0017><blink><shake:0128>You rang?<press>
+<sound:0015><blink>Oh... I get it. You saw that*
+couple over there, and you*
+started to get lonely, right?<press>
+And so you decided to call me.*
+Aww, that's so sweet!<press>
+<face:00DC>
+Forgive me...<press>
+<sound:0016>...but I didn't ring for anybody.<press>
+<face:00D0>
+<blink><shake:0128>What?<press>
+<face:00DC>
+Now, could you not stand*
+in my light, please? I can't*
+see my glass properly.<press>
+<face:00D0>
+I've been working here for two*
+days, and I've been waiting this*
+whole time for you to notice me!<press>
+<sound:0017><blink><shake:0128>Now, would you stop trying*
+to shake me up, and just*
+stick to shaking cocktails?!
+
+-------------------------------
+
+[m04_0405][1B48]
+
+<fchat:0003>
+She has a surprisingly short*
+career with this place...
+
+-------------------------------
+
+[m04_0401][1B49]
+
+<fchat:0003>
+Huh. That waitress*
+isn't coming.<press>
+<sound:0015><blink>Hey, I know!<press>
+<sound:0017><blink><shake:0128>Maybe it's because my*
+chicken is almost ready!<press>
+<fchat:0001>
+Sorry, but I don't think*
+eating that chicken is*
+part of your future.<press>
+<blue>(But it looks like death is,*
+unfortunately. And soon.)<black><press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>Death instead of chicken?!*
+Fate is a cruel mistress...<press>
+<fchat:0001>
+<blue>(Maybe we should've done*
+something sooner...!)<black>
+
+-------------------------------
+
+[m04_0402][1B4A]
+
+<face:00D0>
+<sound:0015><blink>Oh! The chicken must*
+be almost ready.<press>
+Better get it to that poor, starving*
+customer who's barely managing*
+to hold on by drinking water!<press>
+<fchat:0003>
+Does she mean me?<press>
+<fchat:0001>
+Apparently.<press>
+<fchat:0003>
+.........<press>
+Hmm. I wonder if saving*
+her was the right move...?<press>
+<face:00D0>
+Call me again, anytime!
+
+-------------------------------
+
+[m04_0410][1B4B]
+
+<face:00D0>
+Oh! You just broke that glass!*
+Just like you did my heart...<press>
+<face:00DC>
+A broken glass can never*
+be put back the way it was.*
+Just leave it there.<press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>You can't just leave it!*
+Somebody might get hurt!
+
+-------------------------------
+
+[m04_0420][1B4C]
+
+<face:00D0>
+<sound:0016>Doesn't this trunk belong to*
+that couple over there?
+
+-------------------------------
+
+[m04_0422][1B4D]
+
+<face:00DC>
+The only things we allow*
+customers to lose here*
+are their cares.<press>
+Miss, please go and let them*
+know about the trunk,*
+if you would be so kind.<press>
+<face:00D0>
+<sound:0015><blink><shake:0128>How gallant of you! I just might*
+fall for you, you know.
+
+-------------------------------
+
+[m04_0425][1B4E]
+
+Odd girl.
+
+-------------------------------
+
+[m04_0430][1B4F]
+
+Well, goodbye!
+
+-------------------------------
+
+[m04_0440][1B50]
+
+<face:00D0>
+I've been working here for*
+two days, and I've had my*
+eye on you the whole time!<press>
+I think this might be my last*
+night working here, though.<press>
+<blink><shake:0128>It's been fun!
+
+-------------------------------
+
+[m04_0450][1B51]
+
+<fchat:0003>
+I guess she's leaving this*
+place with her surprisingly*
+short career intact!
+
+-------------------------------
+
+[m04_0610][1B52]
+
+<face:00D5>
+Of all the things to forget!*
+It wouldn't have been pretty*
+if I forgot this{F800}
+
+-------------------------------
+
+[m04_0451][1B53]
+
+<fchat:0003>
+.........<press>
+Everybody's gone, huh? The*
+waitress... The trunk guy...<press>
+<fchat:0001>
+Looks that way, yes.<press>
+<fchat:0003>
+And, yet, here we sit.<press>
+<fchat:0001>
+Yup. Looks like it.<press>
+<fchat:0003>
+.........<press>
+<fchat:0001>
+<sound:0016><blue>(I think we might've*
+forgotten something*
+important.)<black>
+
+-------------------------------
+
+[m04_0730][1B54]
+
+<fchat:0003>
+Here we are, finally!<press>
+<fchat:0001>
+I feel kind of bad about*
+eavesdropping, though.<press>
+<fchat:0003>
+Not me!<press>
+I mean, we just delivered*
+their lost trunk to them,*
+after all!<press>
+<sound:0015><blink><shake:0128>They owe us at*
+least that much!<press>
+<fchat:0001>
+<blue>(What kind of detective*
+says something like that?)<black>
+
+-------------------------------
+
+[m04_0460][1B55]
+
+<face:00D6>
+I can't believe I forgot*
+the trunk, of all things!<press>
+<face:00D8>
+With such a small body,*
+you probably only have*
+a small brain to match.<press>
+<face:00D6>
+<blink><shake:0128>Ouch, that hurts, Beauty!*
+But that's okay... That's*
+what I love about you.<press>
+<fchat:0003>
+THAT'S what he*
+loves about her?<press>
+<fchat:0001>
+I don't get it, either.<press>
+<face:00D6>
+Now, where were we...? Oh, right!*
+Who to invite to the wedding...<press>
+<blink>...IF we got married,*
+that is. Of course.
+
+-------------------------------
+
+[m04_0490][1B56]
+
+<face:00D8>
+<sound:0016><blink>We can talk about that*
+when we're <red>alone<black>.<press>
+<face:00D6>
+<sound:0015><blink>Hmm? But aren't we*
+alone now, Beauty?<press>
+<fchat:0003>
+<sound:0015><blink>Huh? Do you think she senses*
+our presence again?!<press>
+<face:00D8>
+I spy a <red>ladybug<black>.<press>
+<face:00D6>
+A ladybug...?<press>
+<face:00D8>
+I just HATE little bugs...
+
+-------------------------------
+
+[m04_0521][1B59]
+
+<fchat:0003>
+<sound:0018><blink><shake:0128>What?! After all that*
+trouble, it happened*
+anyway?!<press>
+<fchat:0001>
+I-It looks that way, yes...<press>
+It's not over yet, though.<press>
+<fchat:0003>
+<sound:0015><blink>It's not? What are*
+you talking about?<press>
+<fchat:0001>
+<sound:0016>You're not <red>dead <black>yet.<press>
+<fchat:0003>
+<blink><shake:0128>N-No, but I'm going to be,*
+in just a few seconds!
+
+-------------------------------
+
+[m04_0525][1B5A]
+
+<fchat:0001>
+<blue>(But before that happens,*
+maybe there's <red>something*
+we can do<blue> from here!)<black>
+
+-------------------------------
+
+[m04_0526][1B5B]
+
+<fchat:0003>
+Huh. That waitress*
+isn't coming.<press>
+<fchat:0001>
+Of course not.<press>
+<sound:0016>You pushed her down*
+and knocked her out.<press>
+<fchat:0003>
+But, you know, I've*
+heard about some*
+professional boxers...<press>
+Even if they're unconscious,*
+they still get to their feet*
+when they hear the bell.<press>
+Now THAT'S*
+professionalism!<press>
+<fchat:0001>
+Sorry, but I have no idea*
+what you're talking about.<press>
+<blue>(Anyway, we're almost*
+out of time.)<black><press>
+<blue>(Is there anything we*
+can do from here?)<black>
+
+-------------------------------
+
+[m04_0530][1B5C]
+
+{07FF}<change:010C>
+y<0CFF_5000>{06FF}<NJ:003C>
+<center>.........<press>
+<face:0029>
+Hello...?*
+<blue>(Looks like he's unconscious.)<black><press>
+<face:0003>
+<sound:0017><blink><shake:0128>Excuse me! Could you wake*
+up for a second, please?!<press>
+<face:002B>
+<blue>(Pushy as ever, this detective.)<black><press>
+One thing I've learned...<press>
+<change:0027>
+<end>
+<sound:0016>...is that <red>the newly-dead<black> stay*
+unconscious for a little while*
+at first.<press>
+<face:0016>
+<sound:0015><blink>Huh?<press>
+<face:002B>
+I was like that, and you*
+were like that, too.<press>
+<face:000E>
+Oh, yeah... I guess you're right.<press>
+<face:0029>
+Anyway, if we restart*
+the flow of time now...<press>
+...you'll die.<press>
+<face:0014>
+Yeah, I know.<press>
+<face:0027>
+<sound:0016>Why don't we try <red>going back*
+even further in time<black>?<press>
+<face:000E>
+<blink><shake:0128>Wh-What? Even further...?*
+But how?<press>
+<face:0027>
+Simple. We go back four minutes*
+before the death of this poor driver*
+here.<press>
+<face:0016>
+<sound:0015><blink><shake:0128>You can do that?!<press>
+<face:0034>
+I never tried it before, so I don't*
+know how it'll go. But if we can*
+erase the driver's death...<press>
+<change:0027>
+<end>
+<sound:0016><blink>...that should erase your death, too.<press>
+<face:0016>
+<blink><shake:0128>Oh, wow!<press>
+<face:0029>
+<blue>(I can't think of any*
+other way. Let's try it!)<black>
+
+-------------------------------
+
+[m04_0650][1B62]
+
+<face:0029>
+Hmm. We didn't manage*
+to find too many leads...<press>
+<face:0003>
+I say we should check out*
+those two upstairs more.*
+Call it a "detective's hunch."<press>
+<face:002B>
+<blue>(Or maybe we can call*
+it "just plain nosiness"...)<black><press>
+<change:0027>
+<end>
+Anyway, I guess we should try*
+casting a wider net and see what*
+other info we can haul in.
+
+-------------------------------
+
+[m04_0660][1B63]
+
+<face:002B>
+<blue>(I wonder what those*
+two blue people are*
+up to...?)<black><press>
+<face:000D>
+<sound:0016>They seemed to have*
+noticed our <red>presence<black>...<press>
+<face:0029>
+As long as we can't <red>get near*
+them<black>, we won't be able to*
+hear what they're saying.<press>
+<face:0011>
+<sound:0015><blink>Then let's try to get ourselves*
+over to the table next to the*
+meaty meat somehow!
+
+-------------------------------
+
+[m04_0670][1B64]
+
+<face:002B>
+Doesn't look like it's going*
+to be easy to<red> stop <black>that chunk*
+of chicken from falling.<press>
+<face:000D>
+Well, I am all for <red>trying to*
+stop it<black>, if we can.<press>
+<face:0029>
+I don't see that happening*
+any time soon.<press>
+<change:0027>
+<end>
+So for now, we should try to*
+<red>go to wherever we can <black>and*
+see where that takes us!
+
+-------------------------------
+

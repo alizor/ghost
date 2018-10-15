@@ -1,0 +1,591 @@
+[m09_1090][2B11]
+
+<sound:0018>Why doesn't*
+she answer?!
+
+-------------------------------
+
+[m09_1730][2B12]
+
+.........
+
+-------------------------------
+
+[m09_1740][2B13]
+
+
+
+-------------------------------
+
+[m09_1750][2B14]
+
+
+
+-------------------------------
+
+[m09_1760][2B15]
+
+This is terrible!
+
+-------------------------------
+
+[m09_1770][2B16]
+
+<sound:0017><center>Unhhh!
+
+-------------------------------
+
+[m09_1780][2B17]
+
+
+
+-------------------------------
+
+[m09_1790][2B18]
+
+
+
+-------------------------------
+
+[m09_1800][2B19]
+
+<sound:0018><center>Nnnghhh!
+
+-------------------------------
+
+[m09_1810][2B1A]
+
+
+
+-------------------------------
+
+[m09_1820][2B1B]
+
+
+
+-------------------------------
+
+[m09_1830][2B1C]
+
+<sound:0015><center>Ngh...?
+
+-------------------------------
+
+[m09_1840][2B1D]
+
+<sound:0018><center>Nnngaaaaah!
+
+-------------------------------
+
+[m09_1850][2B1E]
+
+<sound:0017><center>Gaaaaagh!
+
+-------------------------------
+
+[m09_1860][2B1F]
+
+<sound:0018><center>Graaaaagh!
+
+-------------------------------
+
+[m09_1100][2B20]
+
+M-Medicine...!
+
+-------------------------------
+
+[m09_1110][2B21]
+
+W-Water...!
+
+-------------------------------
+
+[m09_1510][2B4B]
+
+And so the justice minister*
+is now back to life.<space>
+But the furrows on his brow*
+are even deeper now...
+
+-------------------------------
+
+[m09_1520][2B4C]
+
+And, apparently, our lady*
+detective is the present*
+cause of those furrows.
+
+-------------------------------
+
+[m09_1530][2B4D]
+
+<face:00E3>
+Look, Detective.<press>
+He was sentenced after a fair*
+trial. And the man himself*
+wants to be executed.<press>
+<face:0010>
+<blink><shake:0128>But there was no evidence! All*
+they had was his own confession.<press>
+<face:00E3>
+<sound:0016>But it was no ordinary confession.*
+It was the confession of an*
+esteemed detective.
+
+-------------------------------
+
+[m09_1540][2B4E]
+
+<sound:0018><center>Stay back!
+
+-------------------------------
+
+[m09_1550][2B4F]
+
+<face:00E3>
+<sound:0017><blink><shake:0128>I told you I don't want*
+anybody coming near me!
+
+-------------------------------
+
+[m09_1552][2B50]
+
+<face:000C>
+<blink><shake:0128>Mr. Minister, please listen to me!<press>
+I might be able to gather new*
+<red>evidence <black>in that case tonight!
+
+-------------------------------
+
+[m09_1555][2B51]
+
+<face:00E3>
+<blink>Wh-What...?<press>
+<face:0014>
+So, please, please! Just give*
+me a little more time!
+
+-------------------------------
+
+[m09_1557][2B52]
+
+<face:00E3>
+I just got a call from the prison.<press>
+<sound:0016>Your death-row convict*
+apparently just <red>escaped<black>.<press>
+<face:0008>
+<sound:0015><blink>...!<press>
+<face:00E3>
+Unfortunately, after all this*
+time, it seems he now wants*
+to dodge his punishment.<press>
+<face:0008>
+<blink><shake:0128>B-But...<press>
+<face:00E3>
+When he's apprehended, his*
+sentence will be carried out.<press>
+Tonight.<press>
+<face:000A>
+No...
+
+-------------------------------
+
+[m09_1560][2B53]
+
+<face:001C>
+But when the sentence was*
+handed down, you were against*
+enforcing the death penalty.
+
+-------------------------------
+
+[m09_1570][2B54]
+
+<face:0008>
+<blink>So why did you sign the*
+order all of a sudden?<press>
+<face:00E3>
+<shake:0128>Well, I...<press>
+<sound:0016>I was simply performing my*
+duty as justice minister.*
+That's all there is to it.
+
+-------------------------------
+
+[m09_1580][2B55]
+
+<face:000C>
+<press>
+<face:0029>
+<press>
+<face:0004>
+<press>
+<face:0029>
+<press>
+<press>
+<face:0027>
+<press>
+<face:0004>
+
+
+-------------------------------
+
+[m09_1590][2B56]
+
+<face:0044>
+
+
+-------------------------------
+
+[m09_1600][2B57]
+
+<face:0004>
+<press>
+<face:0029>
+<press>
+<face:0008>
+<press>
+<press>
+<change:0004>
+<end>
+<press>
+<face:0029>
+<press>
+<face:0004>
+<press>
+<face:002B>
+<press>
+<change:0027>
+<end>
+<press>
+<face:0004>
+<press>
+<face:0029>
+<press>
+<face:0006>
+<press>
+<face:002B>
+<press>
+<press>
+<face:0004>
+
+
+-------------------------------
+
+[m09_1700][2B58]
+
+<fchat:0001>
+Lynne looks like she's*
+about to rip into the*
+justice minister.<press>
+I think she's forgotten*
+all about me.<press>
+I think I'll send*
+her a little <red>signal<black>.
+
+-------------------------------
+
+[m09_1710][2B59]
+
+<face:0005>
+<sound:0015><blink><shake:0128><blink>Sissel! There you are!<press>
+<fchat:0001>
+It sounds like the minister*
+is being very stubborn.<press>
+<face:000F>
+<sound:0018><blink><shake:0128>That's right! He is! Maybe we*
+shouldn't have saved him after all!<press>
+<fchat:0001>
+The minister has to*
+have the execution*
+carried out tonight.<press>
+<sound:0016>And he has a very*
+good <red>reason <black>for it.<press>
+<face:0015>
+<sound:0015><blink>A good reason?
+
+-------------------------------
+
+[m09_1713][2B5A]
+
+<face:0044>
+<sound:0000><NJ:003C>
+<center><blue>(I told Lynne what I had learned*
+<center>about the <red>kidnapping<blue>.)<black>
+
+-------------------------------
+
+[m09_1715][2B5B]
+
+<face:0007>
+<sound:0018><blink><shake:0128>K-Kidnapping?! They <red>kidnapped<black>*
+the justice minister's daughter?!<press>
+<fchat:0001>
+Apparently.<press>
+<face:0019>
+<shake:0128><blink>Oh, my goodness...
+
+-------------------------------
+
+[m09_1716][2B5C]
+
+<face:0013>
+<sound:0015><blink>But, still...
+
+-------------------------------
+
+[m09_1717][2B5D]
+
+<face:000F>
+<sound:0017><blink><shake:0128>That's still no reason to hurry*
+forward with the execution!<press>
+<fchat:0001>
+Why don't you go ahead*
+and say that to the*
+justice minister, then?
+
+-------------------------------
+
+[m09_1718][2B5E]
+
+<face:001B>
+Hmm... The poor man...*
+I hate to do that to him...<press>
+<fchat:0001>
+<blink>Oh, by the way...
+
+-------------------------------
+
+[m09_1719][2B5F]
+
+<fchat:0001>
+<sound:0016>Do you think you*
+could carry me?<press>
+<face:0003>
+<sound:0015><blink>Oh, right. Sure. Not very*
+handy, is it, having no legs?
+
+-------------------------------
+
+[m09_1601][2B60]
+
+<face:0004>
+This sword and globe*
+combo is heavy!<press>
+<face:0027>
+And I'm in here, too, don't forget.<press>
+<face:000E>
+I guess that means a single soul is*
+heavier than the whole world...<press>
+<change:0004>
+<end>
+<sound:0015><blink>Maybe I'll use this thing*
+to persuade the minister*
+to change his mind.<press>
+<face:0027>
+Good luck with that.
+
+-------------------------------
+
+[m09_1610][2B61]
+
+<face:00E3>
+<sound:0016>What are you going to do*
+with that globe? Crack me*
+in the head with it?<press>
+<face:0006>
+<blink><shake:0128>Oh, this? Er, heh heh...*
+Pay no attention to this.<press>
+<fchat:0001>
+<blue>(It's kind of hard NOT to*
+pay attention to it...)<black><press>
+<face:00E3>
+By the way... and please pardon*
+me if this is a silly question...<press>
+<sound:0015><blink>Were you... talking to*
+somebody just now...?<press>
+<blink><shake:0128>But, of course not, right...?*
+I mean, there's no such thing...<press>
+...as ghosts, right...?<press>
+<fchat:0001>
+<sound:0016>Are you talking about me?
+
+-------------------------------
+
+[m09_1615][2B62]
+
+Aaaaagh!
+
+-------------------------------
+
+[m09_1620][2B63]
+
+<face:00E3>
+<sound:0018><blink><shake:0128>No, there's no such thing! This is a*
+dream! It's nothing but a dream!<press>
+<fchat:0001>
+Don't you remember me?<press>
+<face:00E5>
+<sound:0018><shake:0128><blink>My dream is talking to me!<press>
+<fchat:0001>
+<blue>(Hmph. So now I'm*
+a "dream," eh?)<black>
+
+-------------------------------
+
+[m09_1622][2B64]
+
+<face:001C>
+Mr. Minister...?<press>
+We know. We know*
+about your daughter.<press>
+<change:0014>
+<end>
+<sound:0016>She was <red>kidnapped<black>, wasn't she?
+
+-------------------------------
+
+[m09_1625][2B65]
+
+<face:0014>
+And if the execution doesn't*
+take place tonight...<press>
+<change:001C>
+<end>
+<sound:0016>...you won't see her again...
+
+-------------------------------
+
+[m09_1645][2B69]
+
+<center>Your medicine!*
+<center>Medicine!
+
+-------------------------------
+
+[m09_1650][2B6A]
+
+<face:00E5>
+Oh, what am I going to do...?
+
+-------------------------------
+
+[m09_1660][2B6B]
+
+<face:00E5>
+The death-row prisoner*
+has escaped. If he isn't*
+executed tonight...<press>
+<sound:0018><shake:0128><blink>...my daughter... my Amelie...!<press>
+<face:0010>
+<sound:0017><blink><shake:0128>But what if that execution*
+isn't the right thing to do?!
+
+-------------------------------
+
+[m09_1662][2B6C]
+
+<sound:0018>Ngaaaaah!
+
+-------------------------------
+
+[m09_1664][2B6D]
+
+<fchat:0001>
+<sound:0016>C'mon, Lynne. If you*
+keep pressing him like*
+that, he's gonna die again.<press>
+<face:0018>
+<blink><shake:0128>What can I do, then...?!
+
+-------------------------------
+
+[m09_1666][2B6E]
+
+<fchat:0001>
+We have to do something*
+about that <red>kidnapping<black>.<press>
+Until we do that, it'll be*
+<red>impossible <black>to get the*
+minister on our side.<press>
+That's the way I see it.<press>
+<blue>(I think I'll start by*
+gathering <red>info <blue>on*
+the kidnapping...)<black><press>
+<blue>(...in the only way*
+I know how...)<black>
+
+-------------------------------
+
+[m09_1670][2B6F]
+
+<face:000E>
+Don't you think there's something*
+fishy about <red>this kidnapping thing<black>?<press>
+<face:0029>
+<sound:0015><blink>Fishy?<press>
+<face:000E>
+I mean, the demand is to carry*
+out an execution that was*
+already set to be carried out...<press>
+<face:0014>
+It's just like the minister*
+said. There's no need for*
+such a kidnapping.<press>
+<face:002B>
+Hmm... You might be right.<press>
+<face:00E4>
+<sound:0016>Are you... talking to somebody*
+again...? No, no. There's no*
+such thing... No such thing...!<press>
+<face:00E6>
+<sound:0018><blink><shake:0128>I'm a <red>realist<black>! I'll never*
+believe in them!<press>
+<sound:0017><blink><shake:0128>...Not in the existence of ghosts,*
+not in this escape from prison,*
+and not in this kidnapping!<press>
+<face:002B>
+<sound:0016>Hmm. This "<red>realist<black>" is running*
+away from several very real facts...<press>
+<face:0004>
+<sound:0016>At high speed, too.<press>
+<face:0029>
+Anyway, let me try and find out*
+more about this kidnapping.<press>
+After all, I know <red>where*
+the kidnappers are<black>.<press>
+<face:0016>
+<sound:0015><blink><shake:0128>Oh, that's right. You have*
+their <red>telephone number<black>!<press>
+<face:002B>
+<blue>(I think I'll go see what these*
+kidnappers look like.)<black>
+
+-------------------------------
+
+[m09_1900][2B70]
+
+<face:0027>
+We meet again, Mr. Minister.<press>
+<face:00E4>
+<sound:0018><shake:0128><blink>Wh-What?! I've never*
+seen you before!<press>
+<shake:0128>I-In any case, I'm a very busy man!<press>
+<face:00E6>
+<sound:0017><shake:0128><blink>If you're a dream, please don't*
+bother me when I'm awake!<press>
+<face:0034>
+<blue>(Uh, I'm NOT a dream...)<black><press>
+<face:000E>
+<sound:0015><blink>Looks like it's just a waste of*
+time, trying to talk to this guy.<press>
+<face:002B>
+<sound:0015><blink>I think you're right. Stubborn*
+justice minister...<press>
+<face:00E6>
+<sound:0018><shake:0128><blink>Please stop speaking ill of*
+me inside my own head!
+
+-------------------------------
+

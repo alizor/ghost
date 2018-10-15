@@ -1,0 +1,159 @@
+[m13_1040][300F]
+
+<face:00F8>
+<sound:0017><blink><shake:0128>And so I made up my mind!*
+I resolved to live here in*
+this park and defend it!<press>
+<face:00CE>
+Okaaay... And what does that*
+have to do with this "rock of*
+the gods" you mentioned?<press>
+<face:00F8>
+<sound:0015><blink><shake:0128>You still don't appear*
+to understand!
+
+-------------------------------
+
+[m13_1050][3010]
+
+<face:00FA>
+<sound:0017><blink><shake:0128>It's written quite clearly in the*
+fourth leaflet, in great detail!<press>
+<face:00CE>
+Excuse me, but I have*
+to use the restroom...
+
+-------------------------------
+
+[m13_1065][3012]
+
+<sound:0017>Eeeeeeek!
+
+-------------------------------
+
+[m13_1067][3013]
+
+<sound:0017>I'm coming!
+
+-------------------------------
+
+[m13_1068][3014]
+
+<sound:0017>Just hold on!
+
+-------------------------------
+
+[m13_1069][3015]
+
+<sound:0017>I'll be*
+right there!
+
+-------------------------------
+
+[m13_1070][3016]
+
+<face:00D5>
+I've located the target, Beauty.<press>
+A girl of the right age, coming*
+out of the right apartment*
+building, at the right time...
+
+-------------------------------
+
+[m13_1075][3017]
+
+<face:00D5>
+Yes, my dear. I'll ever-so-gently*
+nab her and come right back to*
+your side.
+
+-------------------------------
+
+[m13_1078][3018]
+
+<face:00D5>
+Good evening, young lady.*
+Won't you come with me?
+
+-------------------------------
+
+[m13_1081][301A]
+
+<face:0070>
+<sound:0017><shake:0128>Eeeeeeek!
+
+-------------------------------
+
+[m13_1090][301B]
+
+<face:00FB>
+<sound:0018><blink><shake:0128>O gods! What do I do?!*
+What should I do?!*
+I have to do something!
+
+-------------------------------
+
+[m13_1100][301C]
+
+Hnnnh!
+
+-------------------------------
+
+[m13_1120][301E]
+
+<face:002D>
+<sound:0018><blink><shake:0128>What in the world?!*
+What just happened?!<press>
+<face:00F9>
+<sound:0015><blink>Oh, that's <red>Mino<black>.<press>
+<face:0036>
+<sound:0016>Mino...?<press>
+<face:00FB>
+<sound:0017><blink><shake:0128>Mino the <red>mascot<black>, the*
+symbol of Temsik Park.<press>
+<face:003A>
+<shake:0128><blink>Forget about the NAME*
+of that big, creepy lump*
+of concrete!<press>
+<change:002B>
+<end>
+I'm talking about the way*
+it <red>changed direction<black>!*
+Did you see that?!<press>
+<face:00F9>
+<sound:0017><blink><shake:0128>Yes! Yes, I did! We witnessed*
+it with our own eyes! The power*
+of the rock of the gods!<press>
+<change:00FB>
+<end>
+<sound:0018><blink><shake:0128>That was the <red>power of the gods<black>!*
+The power of the gods saved*
+that little girl!<press>
+<face:0034>
+...And then that same*
+power very deliberately*
+crushed you instead?<press>
+<face:00F9>
+<sound:0017><blink><shake:0128>Yes! Yes, precisely! That*
+is called the "<red>mischief*
+of the gods<black>"!<press>
+<face:002B>
+<blue>(Was it the mischief of the*
+gods, or was it a ghost trick...?)<black><press>
+<sound:0015><blink><blue>(But, nah... It couldn't have*
+been a ghost trick...)<black><press>
+<blue>(<red>No ghost trick could<blue> change*
+the direction of something*
+that heavy in mid-air...)<black><press>
+<change:0029>
+<end>
+<sound:0015><blink>...!*
+But, wait a minute...<press>
+<change:002D>
+<end>
+<sound:0016><blue>(What if there was somebody*
+with <red>much greater powers<blue>*
+than me...?)<black>
+
+-------------------------------
+

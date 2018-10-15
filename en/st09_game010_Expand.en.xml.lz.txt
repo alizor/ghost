@@ -1,0 +1,1283 @@
+[m09_2000][2C00]
+
+It looks like the kidnappers*
+made a big mistake.<space>
+The girl in the trunk*
+was Detective Jowd's*
+daughter, Kamila...<space>
+...not the minister's daughter.
+
+-------------------------------
+
+[m09_2001][2C01]
+
+When I got back to the justice*
+minister's office, things were*
+getting even more out of hand.<space>
+The devastated man was being*
+grilled by the fiery detective lady.
+
+-------------------------------
+
+[m09_2002][2C02]
+
+I told Lynne what I had found*
+out about the kidnapping...<space>
+...that it wasn't the justice*
+minister's daughter who*
+had been abducted.<press>
+...That the kidnappers had been*
+holed up in Kamila's old house...<space>
+...and that they sensed my*
+presence and were already gone.
+
+-------------------------------
+
+[m09_2010][2C03]
+
+<face:001A>
+<sound:0018><shake:0128><blink>But Kamila?! Why do*
+they have Kamila?!<press>
+Her father isn't the stupid*
+old justice minister!<press>
+<face:0034>
+I think the "stupid old" part*
+is a little uncalled for...<press>
+<change:0029>
+<end>
+It looks like the kidnappers*
+made a mistake somehow.<press>
+<face:001C>
+The poor girl! Kidnapped for*
+the ransom of her own father's*
+execution...!<press>
+<change:0008>
+<end>
+<shake:0128><blink>It's just too much!<press>
+<face:0034>
+It's a cruel twist of fate, I agree.<press>
+<change:002B>
+<end>
+And then there are those*
+other twists, too...<press>
+...like the kidnappers' winding up in*
+and using <red>Kamila's old house <black>as*
+their hideout...<press>
+<face:0014>
+There's no way it could*
+be just coincidence.<press>
+<face:0029>
+...And them sensing my presence.<press>
+<change:002B>
+<end>
+<sound:0016>They seem to <red>know <black>about*
+the powers of the dead.<press>
+<face:0014>
+I just don't understand any of it...
+
+-------------------------------
+
+[m09_2020][2C04]
+
+<face:00E3>
+<1CFF_1600>I told you before, Detective.<press>
+I want you to stand back.
+
+-------------------------------
+
+[m09_2030][2C05]
+
+<face:0010>
+<sound:0017><shake:0128><blink>Who cares about distance*
+at a time like this?!<press>
+<change:0014>
+<end>
+Look, Mr. Minister...<press>
+...it wasn't your daughter*
+that was kidnapped!<press>
+<fchat:0001>
+Don't try to pretend*
+you didn't hear what*
+we were saying.
+
+-------------------------------
+
+[m09_2031][2C06]
+
+<sound:0018><center>Aaaaagh!
+
+-------------------------------
+
+[m09_2040][2C07]
+
+<face:00E5>
+<shake:0128><blink>H-How can I believe*
+in you?! I'm a realist!
+
+-------------------------------
+
+[m09_2041][2C08]
+
+<sound:0017><center>Please!
+
+-------------------------------
+
+[m09_2050][2C09]
+
+<face:000C>
+If you don't believe what*
+we say, see for yourself!*
+Just call home and--<press>
+<face:00E5>
+<sound:0018><shake:0128><blink>I tried calling a hundred times!*
+My wife won't answer!<press>
+<face:0016>
+<sound:0015><blink>She won't...?<press>
+<face:00E3>
+<shake:0128>I-It's complicated...!<press>
+<change:00E5>
+<end>
+<sound:0017><blink><shake:0128>Oh, why does life have to be*
+such a complicated thing?!<press>
+<face:000E>
+<sound:0016>But if she doesn't answer, doesn't*
+that mean everything's <red>normal<black>...?<press>
+<face:00E5>
+<sound:0018><blink><shake:0128>It doesn't prove it!
+
+-------------------------------
+
+[m09_2051][2C0A]
+
+<face:00E3>
+And I'm being watched. I can't*
+have the police go check for me.<press>
+Besides... if the execution*
+isn't carried out tonight...<press>
+<change:00E5>
+<end>
+<sound:0017><blink><shake:0128>...the hostage will be killed!*
+What difference does it make*
+that it's not my daughter?!<press>
+<face:0008>
+<sound:0015><blink>...!
+
+-------------------------------
+
+[m09_2055][2C0B]
+
+<face:008B>
+<1EFF_1E00><shake:0128><center>Whoo-whee! That's quite a piiickle,*
+<center>Mr. Minister, quiiite a pickle.
+
+-------------------------------
+
+[m09_2070][2C0D]
+
+<face:008A>
+<sound:0016><blink><1CFF_1100>Miss me, baby?<press>
+<face:0015>
+<sound:0015><blink><shake:0128>Inspector Cabanela!
+
+-------------------------------
+
+[m09_2075][2C0E]
+
+<face:008A>
+I have a little repooort*
+for you, Mr. Minister.
+
+-------------------------------
+
+[m09_2076][2C0F]
+
+<face:008A>
+<sound:0016>The escaped prisoner has been*
+apprehended. Thought you might*
+like to see him, so here he is!
+
+-------------------------------
+
+[m09_2080][2C10]
+
+<sound:0018>Detective*
+Jowd?!
+
+-------------------------------
+
+[m09_2090][2C11]
+
+<face:001B>
+<shake:0128><blink>Detective Jowd... I'm*
+so sorry...! I tried--
+
+-------------------------------
+
+[m09_2110][2C12]
+
+<face:0013>
+<shake:0128><blink>I know that you're innocent!<press>
+<change:001B>
+<end>
+I just can't prove it...
+
+-------------------------------
+
+[m09_2115][2C13]
+
+<face:0009>
+<shake:0128>I'm so sorry...
+
+-------------------------------
+
+[m09_2100][2C14]
+
+<face:0097>
+Lynne...<press>
+<change:00AF>
+<end>
+Please... Don't apologize to me...
+
+-------------------------------
+
+[m09_2117][2C15]
+
+<face:008A>
+Ah, the beautiful love between*
+a teacher and student. It brings*
+a tear to my eye...<press>
+<face:001B>
+.........
+
+-------------------------------
+
+[m09_2800][2C17]
+
+<fchat:0001>
+Lynne doesn't really <red>know*
+<black>that Jowd is innocent...<press>
+She just <red>believes <black>it from*
+the bottom of her heart.<press>
+<blue>(The <red>execution <blue>and the*
+<red>kidnapping <blue>are real threats,*
+and time marches on...)<black><press>
+<blue>(I'll gather information*
+and see if I can think*
+of something...)<black><press>
+<sound:0015><blink>This all relates back to me*
+somehow... I just know it.
+
+-------------------------------
+
+[m09_2810][2C18]
+
+<fchat:0001>
+This brave little water*
+pitcher saved the*
+justice minister's life.<press>
+He drank all of the water,*
+so now it's empty.<press>
+<blue>(I think he should*
+get it refilled...)<black><press>
+You never know when*
+another fit may visit...
+
+-------------------------------
+
+[m09_2820][2C19]
+
+<fchat:0001>
+This brave little medicine*
+bottle saved the justice*
+minister's life.<press>
+There are only two*
+capsules left in the bottle.<press>
+According to the minister*
+himself, he's supposed to*
+take two at a time.<press>
+<blue>(So he has enough for*
+just one more fit...)<black>
+
+-------------------------------
+
+[m09_2120][2C1A]
+
+<face:001B>
+You knew, didn't you,*
+Inspector Cabanela?<press>
+<sound:0016><blink>That the <red>execution <black>was tonight...<press>
+<face:008A>
+I don't beliiieve I had any*
+obligation to tell you.
+
+-------------------------------
+
+[m09_2121][2C1B]
+
+<face:0013>
+And you're fine with this?<press>
+I mean, you know as well as I do...
+
+-------------------------------
+
+[m09_2121b][2C1C]
+
+<face:0013>
+Detective Jowd could never*
+have done such a thing.
+
+-------------------------------
+
+[m09_2121a][2C1D]
+
+Ha ha ha!
+
+-------------------------------
+
+[m09_2122][2C1E]
+
+<face:008D>
+<sound:0016>Oh, c'mon now, baby.*
+I knooow no such thing.<press>
+<face:0015>
+<blink><shake:0128>Huh?
+
+-------------------------------
+
+[m09_2122a][2C1F]
+
+<face:008A>
+I knooow two things to be*
+true, and two things only.<press>
+<sound:0015><blink>One: He was given*
+the death penalty.<press>
+<sound:0015><blink>And, two: He triiied to escape.<press>
+<change:008D>
+<end>
+What else could I do*
+but haul him in, baby?
+
+-------------------------------
+
+[m09_2123][2C20]
+
+<face:001B>
+If that's the case...<press>
+<sound:0016><1EFF_1E00><blink>...why did you bring him here?<press>
+<face:008A>
+What ever do you*
+mean, young lady?<press>
+<face:001B>
+He escaped from prison,*
+right? So why didn't you just*
+take him back to the prison?<press>
+I think... you only brought*
+him here...
+
+-------------------------------
+
+[m09_2124][2C21]
+
+<face:0013>
+<sound:0016><1CFF_1F00><blink>...to brag about your*
+<red>accomplishment<black>. Isn't*
+that right, Inspector?<press>
+For your own selfish reasons?<press>
+<face:008A>
+.........
+
+-------------------------------
+
+[m09_2125][2C22]
+
+<face:0013>
+So were all those rumors*
+about you true?<press>
+That the only thing you care*
+about is a spotless record?<press>
+Is that more important to*
+you than saving a friend?<press>
+<face:008A>
+.........
+
+-------------------------------
+
+[m09_2126][2C23]
+
+<face:008A>
+Everybody has certain*
+principles they caaan't go*
+back on... including me.<press>
+You'll understand that*
+someday, baby.
+
+-------------------------------
+
+[m09_2127][2C24]
+
+<face:00BC>
+<blink><center>That's enough, Lynne.
+
+-------------------------------
+
+[m09_2128][2C25]
+
+<face:0015>
+<sound:0015><blink><shake:0128>But, Detective Jowd!<press>
+<face:0097>
+I'm a death-row inmate*
+who escaped from prison.*
+This is how it should be.<press>
+<face:000F>
+<sound:0018><blink><shake:0128>B-But...!
+
+-------------------------------
+
+[m09_2129][2C26]
+
+<face:001B>
+.........
+
+-------------------------------
+
+[m09_2130][2C27]
+
+<face:009D>
+So, Mr. Ghost, we meet again.<press>
+I hear something happened...*
+Something about a <red>kidnapping<black>...?<press>
+<face:0029>
+Some kidnappers are saying*
+they abducted the justice*
+minister's daughter.<press>
+<face:00AD>
+That's terrible.*
+What's their demand?<press>
+<face:0034>
+<sound:0016>The carrying out of your*
+<red>execution<black>... tonight.<press>
+<face:009B>
+<sound:0018><shake:0128><blink>{2EFF}i{17FF}Ha ha ha!{17FF}<press>
+<change:009D>
+<end>
+I had no idea I was so hated!<press>
+But the minister doesn't*
+have to worry.<press>
+<change:00AD>
+<end>
+I die, and it's all over. Very simple.<press>
+<face:000F>
+<sound:0017><shake:0128><blink><1EFF_3C00>It's NOT that simple!<press>
+<face:0097>
+<blink>Why not?<press>
+<face:001B>
+Because it isn't really*
+the minister's daughter*
+who got kidnapped.<press>
+<change:0013>
+<end>
+<sound:0016><1CFF_1A00><blink>It's <red>Kamila<black>!<press>
+<face:0099>
+<shake:0128><blink>Wh-What?! Kamila...?<press>
+<face:0029>
+I checked it out for*
+myself. I'm positive.<press>
+<face:009F>
+<sound:0018><blink><shake:0128>{2EFF}j{17FF}No! It can't be!{17FF}<press>
+<face:002B>
+And, by the way, Kamila told*
+me something interesting.<press>
+She said the one who killed*
+her mother five years ago...<press>
+<change:0029>
+<end>
+<sound:0016><blink>...was Kamila herself.<press>
+<face:0016>
+<sound:0015><blink><shake:0128>What?! What are*
+you talking about?<press>
+<face:009F>
+<sound:0018><shake:0128><blink>{2EFF}k{17FF}Don't listen to him!{17FF}<press>
+<sound:0017><blink><shake:0128>I'm the one who shot her!*
+I'm the one who shot Alma!<press>
+<change:0099>
+<end>
+And when I'm executed tonight,*
+that will be the end of it.<press>
+<sound:0017><blink><shake:0128>Kamila... won't have to suffer*
+any more after tonight!<press>
+<face:0034>
+For a capable detective, you say*
+some incredibly misguided things.<press>
+<face:0099>
+<sound:0015><blink><shake:0128>...!<press>
+<face:0038>
+You dying isn't going to*
+end that girl's suffering.<press>
+It'll just bring her new suffering.<press>
+The only person's pain this*
+execution is going to ease...<press>
+<change:0029>
+<end>
+<sound:0016><blink>...is yours.<press>
+<face:0099>
+<sound:0018><shake:0128><blink>...!<press>
+<face:0019>
+<shake:0128>I-Is it true...? What Kamila said...?<press>
+<face:00AF>
+.........<press>
+<face:0029>
+Why don't you tell*
+us what you know?
+
+-------------------------------
+
+[m09_2140][2C28]
+
+The murder five years ago
+
+-------------------------------
+
+[m09_2150][2C29]
+
+The powers of the dead
+
+-------------------------------
+
+[m09_2160][2C2A]
+
+An impossible move
+
+-------------------------------
+
+[m09_2170][2C2B]
+
+"Adjustment" to the scene
+
+-------------------------------
+
+[m09_2200][2C2C]
+
+<face:00AF>
+To be honest, I still don't*
+understand what happened*
+that day...<press>
+It was my wife's --*
+Alma's -- <red>birthday<black>.<press>
+We came home from work,*
+and she went in first.
+
+-------------------------------
+
+[m09_2205][2C2D]
+
+<face:010D>
+<sound:0193>{2CFF}{7800}{27FF}1e<center>#bang!#<0CFF_7800>{25FF}U<wait>
+
+-------------------------------
+
+[m09_2210][2C2E]
+
+Mom! Mom!!!
+
+-------------------------------
+
+[m09_2220][2C2F]
+
+What was*
+that noise?!
+
+-------------------------------
+
+[m09_2230][2C30]
+
+<face:0099>
+I looked for the shooter, but*
+there was nobody to be found...<press>
+<sound:0016><blink>There was nobody there*
+besides Alma and Kamila,*
+<red>just the two of them<black>.<press>
+<face:002B>
+<blue>(So the little lady's mother*
+died <red>right in front of her<blue>...)<black><press>
+<face:0019>
+<shake:0128><blink>Oh, my... That's so horrible...!
+
+-------------------------------
+
+[m09_2240][2C31]
+
+<face:00AF>
+Kamila told me about it.*
+She was crying.<press>
+<sound:0016>She said the contraption she made*
+did something it wasn't supposed*
+to, made <red>an impossible move<black>...<press>
+<face:002B>
+"An impossible move"...?
+
+-------------------------------
+
+[m09_2250][2C32]
+
+<face:0097>
+Kamila was a quiet little girl, but*
+she was good with her hands.<press>
+She was a little genius*
+at making elaborate*
+toys and contraptions.<press>
+<change:0099>
+<end>
+<sound:0016>But there were <red>two <black>very strange*
+points about that contraption...<press>
+<face:000D>
+<sound:0015><blink>The first was, of course,*
+<red>the firing of that gun<black>.<press>
+<face:0099>
+Right. That was an antique gun*
+I'd had on display for years.<press>
+<face:002B>
+So it <red>wasn't part of<black> the little*
+lady's original design...<press>
+<face:0013>
+<shake:0128><blink>Of course it wasn't! It was*
+supposed to be a surprise*
+for her mother's birthday!<press>
+<face:0099>
+And the other strange point was*
+<red>the movement of that Cupid<black>.<press>
+<face:000D>
+Cupid...?
+
+-------------------------------
+
+[m09_2251][2C33]
+
+<face:00BC>
+<center>It was supposed to shoot its*
+<center>arrow without turning around.
+
+-------------------------------
+
+[m09_2252][2C34]
+
+<face:00BC>
+<sound:0016><blink><center>Somebody made a change to*
+<center>the contraption's design, and*
+<center>then <red>manipulated <black>it...
+
+-------------------------------
+
+[m09_2255][2C35]
+
+<face:0007>
+<shake:0128><blink>I don't know what to say...<press>
+<face:00AF>
+I didn't have time to think*
+things through then.<press>
+All I knew was I had*
+to protect Kamila.<press>
+I made a small "<red>adjustment<black>" to*
+the scene, and turned myself in.
+
+-------------------------------
+
+[m09_2260][2C36]
+
+<face:000D>
+What kind of "adjustment"?<press>
+<face:0099>
+<sound:0016><blink>The <red>gun<black>, of course.<press>
+<face:002B>
+<blue>(The <red>gun<blue>, eh? Come to think of it...)<black>
+
+-------------------------------
+
+[m09_2261][2C37]
+
+<face:002B>
+...There was no gun there. Just*
+a <red>picture <black>hanging on the wall.<press>
+<face:0099>
+<sound:0015><blink>Of course not, because I <red>secretly*
+switched the gun out of that frame*
+with the picture<black>.
+
+-------------------------------
+
+[m09_2262][2C38]
+
+<face:00AF>
+I didn't believe what she told*
+me about her contraption.<press>
+But one thing was for certain.<press>
+<change:0099>
+<end>
+<sound:0016>That gun was still <red>smoking<black>.<press>
+<face:0007>
+<shake:0128><blink>So that gun really*
+DID shoot Alma...<press>
+<face:0099>
+I hid the gun before*
+I went to the police.<press>
+<face:000D>
+<sound:0015><blink>You hid it?<press>
+<face:0097>
+I put it in a wooden box and*
+gave it to <red>a certain detective<black>.<press>
+<face:0015>
+<sound:0015><shake:0128><blink>What?! Y-You mean...?!<press>
+<face:009D>
+And that detective still*
+thinks it's a <red>music box<black>.<press>
+<face:0019>
+So that's what was in the box, huh?<press>
+<face:0099>
+I got a different murder*
+weapon ready to give to*
+the police -- my own pistol.<press>
+<change:00AF>
+<end>
+And I did a few other things*
+to make it look good. I won't*
+go into the details...<press>
+When I was all done,*
+I turned myself in.
+
+-------------------------------
+
+[m09_2270][2C39]
+
+<face:00AF>
+It's been five years since then.*
+I stopped thinking about it.<press>
+"I shot Alma." There's no other*
+explanation. That's what I'd*
+convinced everyone of -- even me.<press>
+<change:0099>
+<end>
+But, tonight, you showed up and*
+gave me an explanation I never*
+would've thought of before.<press>
+<face:0029>
+<sound:0016><blink>The <red>powers of the dead<black>, right?<press>
+<face:0099>
+That day, in that room,*
+<red>powers that I didn't*
+understand<black> were at work.<press>
+And, if that's the case, it*
+clears up all the mysteries.<press>
+<face:002B>
+Maybe not all. There are a*
+couple of other people who*
+<red>know <black>about those powers.
+
+-------------------------------
+
+[m09_2280][2C3A]
+
+<face:00DA>
+<sound:0016><blink><center>Is somebody there?*
+<center>Can you hear me?<press>
+<center>I can<red> sense<black> your*
+<center>presence, you know.
+
+-------------------------------
+
+[m09_2290][2C3B]
+
+<face:0044>
+<center>The kidnappers who*
+<center>abducted Kamila <red>knew<black>*
+<center>about those powers.
+
+-------------------------------
+
+[m09_2291][2C3C]
+
+<face:0099>
+This is no ordinary kidnapping.<press>
+It looks like my wife's case*
+isn't coming to an end after all.<press>
+I'm the only one who*
+thought it was.<press>
+<face:0009>
+Detective Jowd...<press>
+<face:0038>
+There's still time before*
+dawn... a little, anyway.<press>
+<change:0027>
+<end>
+<sound:0016>How about you see this case*
+through to the end before you die?<press>
+<face:0099>
+.........
+
+-------------------------------
+
+[m09_2300][2C3D]
+
+<face:0013>
+Detective Jowd, is what you*
+told us just now true?<press>
+<face:0099>
+Yes, of course.
+
+-------------------------------
+
+[m09_2301][2C3E]
+
+<face:0013>
+<sound:0017><blink><shake:0128>In that case, there's still time!<press>
+<face:0097>
+<sound:0016><blink>Still time?<press>
+<face:0013>
+Time to <red>solve <black>the case that*
+started five years ago!
+
+-------------------------------
+
+[m09_2302][2C3F]
+
+<face:001B>
+You didn't do it, Detective Jowd.*
+And, of course, little Kamila*
+didn't do it, either.
+
+-------------------------------
+
+[m09_2303][2C40]
+
+<face:0013>
+<sound:0017><blink><shake:0128>So the <red>true perpetrator<black> is still out*
+there. And I'm going to prove it!<press>
+<face:000F>
+<sound:0018><blink><shake:0128>For Kamila's sake!
+
+-------------------------------
+
+[m09_2304][2C41]
+
+<face:00AF>
+.........
+
+-------------------------------
+
+[m09_2305][2C42]
+
+<face:009D>
+<sound:0016><blink><1CFF_1900>That sounds wonderful.
+
+-------------------------------
+
+[m09_2306][2C43]
+
+<face:0003>
+Thank you, Detective Jowd!<press>
+<face:0099>
+<blink><shake:0128>Lynne! Where is that*
+music box now?<press>
+<face:0013>
+In Temsik Park.*
+Kamila left it there!<press>
+<face:009D>
+That gun is important evidence.*
+You'd better go pick it up.
+
+-------------------------------
+
+[m09_2307][2C44]
+
+<face:0011>
+<sound:0017><shake:0128><blink>Yes, sir! I'll go right now!
+
+-------------------------------
+
+[m09_2310][2C45]
+
+<face:0004>
+Sissel, take care of*
+Detective Jowd!<press>
+<change:000E>
+<end>
+<sound:0017><blink><shake:0128>And do something about the*
+kidnapping, so we can get*
+the minister on our side!<press>
+<fchat:0001>
+<sound:0016><blink>And yet again, I say, "Easy*
+enough for you to say."
+
+-------------------------------
+
+[m09_2320][2C46]
+
+<face:0089>
+Whaaat's goin' on? Deal me the*
+deal, Mr. Death-Row Inmate.
+
+-------------------------------
+
+[m09_2330][2C47]
+
+<face:0097>
+A little change in plans.<press>
+My daughter has been kidnapped.*
+I can't just go off to die without*
+doing something.
+
+-------------------------------
+
+[m09_2331][2C48]
+
+<face:0089>
+Buuut you're in our*
+custody, don't forget...<press>
+Back at the prison, everybody's*
+waitin' for you, with a special*
+seat just for you, baby.
+
+-------------------------------
+
+[m09_2332][2C49]
+
+<face:00AD>
+Then I guess we'd better prove*
+my innocence on the double.<press>
+<face:0089>
+"On the double," is it? You sound*
+sooo determined, my old friend.
+
+-------------------------------
+
+[m09_2333][2C4A]
+
+<face:0099>
+<sound:0016>I want to save Kamila...*
+in more ways than one.<press>
+<change:0097>
+<end>
+And that's all there is to it.
+
+-------------------------------
+
+[m09_2334][2C4B]
+
+<face:0089>
+I see, my old friend... in*
+more ways than one...
+
+-------------------------------
+
+[m09_2340][2C4C]
+
+<face:008A>
+<sound:0016><blink>What saaay you, Mr. Minister?*
+May we have your <red>decision<black>?
+
+-------------------------------
+
+[m09_2350][2C4D]
+
+<face:008A>
+Should the execution be carried*
+out toniiight, <red>as planned<black>?<press>
+Or should we <red>hold off<black>, and*
+wait for this "important*
+evidence" to come in?
+
+-------------------------------
+
+[m09_2351][2C4E]
+
+<face:00E5>
+<sound:0015><blink><shake:0128>.........<press>
+<shake:0128>The order <red>still stands<black>.<press>
+<change:00E3>
+<end>
+<sound:0016><shake:0128><blink>Bring the prisoner back*
+immediately and resume*
+its enforcement.
+
+-------------------------------
+
+[m09_2360][2C4F]
+
+<face:008A>
+As you wish, Your Excellency.
+
+-------------------------------
+
+[m09_2360a][2C50]
+
+<face:00E3>
+<shake:0128>Please! Don't bow down to me!<press>
+<change:00E5>
+<end>
+<sound:0018><shake:0128><blink>And especially not that low!
+
+-------------------------------
+
+[m09_2361][2C51]
+
+<face:008A>
+In that case, can I have one*
+of your boooys arrange a*
+prison van to pick him up?
+
+-------------------------------
+
+[m09_2362][2C52]
+
+Would you*
+be so kind?
+
+-------------------------------
+
+[m09_2363][2C53]
+
+<sound:0017><center>Yes, sir!
+
+-------------------------------
+
+[m09_2370][2C55]
+
+<face:0089>
+The van should take about*
+ten minutes, I'm guessin'.<press>
+Your escape tonight was briiilliant.<press>
+<sound:0016><blink>Will you show me another <red>miracle*
+<black>in these last few minutes of*
+yours, Mr. Death-Row Inmate?<press>
+<face:0097>
+.........
+
+-------------------------------
+
+[m09_2380][2C57]
+
+<fchat:0001>
+I'm glad to see Detective*
+Jowd all fired up now...<press>
+<sound:0016><blink>...but I feel like I'm*
+under the gun here.<press>
+Even if Lynne does come*
+through with the proof *
+of Jowd's innocence...<press>
+...it will be meaningless*
+if Jowd or Kamila dies.<press>
+<sound:0016>I've got to <red>do something*
+<black>about that kidnapping...*
+somehow.<press>
+<sound:0015><blink><blue>(Maybe I should ask for*
+some advice from the*
+capable detective here...?)<black>
+
+-------------------------------
+
+[m09_2390][2C58]
+
+<face:0097>
+Most likely, the minister*
+won't stop the execution.<press>
+Not as long as there's <red>any small*
+chance<black> his daughter is the one*
+who was kidnapped.<press>
+<face:0036>
+<shake:0128><blink>But she ISN'T the one!*
+I'm sure of it!<press>
+<face:0097>
+<sound:0016>Well, it would be great*
+if we could <red>prove <black>that*
+to the minister.<press>
+<face:0034>
+Prove it? How?<press>
+I doubt his wife is ever gonna*
+answer that phone if we call*
+from here.<press>
+<face:0097>
+IF we call from here, right.*
+But a telephone works in*
+<red>both directions<black>.<press>
+<face:002B>
+What are you saying?<press>
+<face:009D>
+<sound:0016><blink>What I'm saying is, <red>only*
+family members<black> can*
+solve a family problem.<press>
+<change:0097>
+<end>
+Hey, Mr. Ghost...?<press>
+<face:0029>
+<blink>Yes?<press>
+<face:00AF>
+I have to admit, I don't like*
+depending on others...<press>
+<change:0099>
+<end>
+...but you're the only one who*
+can change this situation.<press>
+<face:0029>
+<sound:0015><blink>Gee, Detective...<press>
+<face:0099>
+For these past five years,*
+Kamila is the only thing*
+that kept me going.<press>
+<change:00AF>
+<end>
+I can't go meekly to the chair now.<press>
+<change:0099>
+<end>
+I hate to ask this, but would*
+you mind... saving me?<press>
+<face:0027>
+I'll try.<press>
+<change:002B>
+<end>
+<blue>(The key to getting the justice*
+minister to stop the execution...)<black><press>
+<sound:0016><blue>(...is <red>his wife and daughter<blue>.*
+But is there a way...?)<black>
+
+-------------------------------
+
+[m09_2500][2C59]
+
+<face:00E4>
+<shake:0128>My poor Amelie!*
+Is she all right...?<press>
+<face:0034>
+Actually, the girl who was*
+kidnapped is named "<red>Kamila<black>."<press>
+<face:00E6>
+<sound:0018><shake:0128><blink>Why is a dream talking to*
+me in my head again?!<press>
+<face:0016>
+<sound:0015><blink>Wait a minute... "<red>Amelie<black>"?<press>
+<change:000E>
+<end>
+<sound:0016>Could that be the*
+Amelie <red>next door<black>?<press>
+<face:0027>
+Yes, I think so...<press>
+<face:0016>
+<sound:0015><shake:0128><blink>Wow. I didn't know the justice*
+minister lived next door!<press>
+<face:00E4>
+<shake:0128><blink>No, not me... My wife...*
+It's, uh... complicated...<press>
+<face:002B>
+<blue>(Yeah, I bet it would be pretty*
+hard to admit <red>she left him<blue>...)<black><press>
+<face:0006>
+<sound:0015><shake:0128><blink>The minister's wife*
+ran away on him?!<press>
+<change:000E>
+<end>
+Maybe they grew apart, what*
+with him being so busy...?<press>
+<face:0034>
+Yeah, I bet you're right.<press>
+<face:00E6>
+<sound:0018><shake:0128><blink>Please stop gossiping about*
+me inside my own head!
+
+-------------------------------
+
+[m09_2510][2C5A]
+
+<face:0034>
+Excuse me, Mr. Minister?<press>
+<face:00E6>
+<sound:0018><shake:0128><blink>I can't hear you! La la la la!<press>
+<face:002B>
+I'm sure you heard everything*
+we've been saying.<press>
+<change:0029>
+<end>
+Are you telling me you*
+don't believe any of it?<press>
+<face:00E4>
+Let me speak plainly.*
+I don't trust you.<press>
+<sound:0016>But there's somebody else*
+whom I trust even less.<press>
+<face:0029>
+Oh, yeah? Who's that?<press>
+<face:00E4>
+<sound:0018><shake:0128><blink>Me!<press>
+I can't explain your existence.*
+It's not normal. But... I'm*
+pretty abnormal, myself...<press>
+<face:00E6>
+<sound:0018><blink><shake:0128>So maybe you're a figment of*
+my imagination, a delusion!<press>
+<sound:0017><blink><shake:0128>Would YOU listen to a delusion?!<press>
+<face:0029>
+To be honest...<press>
+<change:0034>
+<end>
+<sound:0015><blink>...I have no idea what*
+you're talking about.<press>
+I got the bit about you*
+not trusting me, though...<press>
+<face:00E4>
+<sound:0018><shake:0128><blink>Good!
+
+-------------------------------
+
+[m09_2600][2C5B]
+
+<face:002B>
+According to what I heard...<press>
+<change:0029>
+<end>
+...Amelie was supposed to go*
+to some sort of <red>lesson <black>tonight.<press>
+<face:000E>
+<blink>Those horrible kidnappers...!*
+They were lying in wait for her!<press>
+<face:0029>
+But Amelie didn't go out*
+after all. She couldn't.<press>
+<change:0034>
+<end>
+<sound:0016>She had a <red>fever<black>.<press>
+<face:0016>
+<sound:0015><blink><shake:0128>Huh... And so the kidnappers*
+grabbed Kamila by mistake*
+instead...?<press>
+<face:0034>
+Apparently. Amelie and Kamila*
+are about the same age...<press>
+<change:002B>
+<end>
+<blue>(The kidnappers must've gotten*
+the two of them <red>mixed up<blue>...)<black><press>
+<face:001C>
+.........<press>
+It's my fault...<press>
+If I hadn't asked Kamila to <red>do*
+that errand for me<black>, this never*
+would've happened...<press>
+<face:002B>
+<blue>(Oh, right... You asked her*
+to bring the <red>music box<blue>...)<black><press>
+<face:000A>
+Kamila...
+
+-------------------------------
+
+[m09_2700][2C5C]
+
+<fchat:0001>
+Well, hanging around here*
+won't change anything.<press>
+I've got ten minutes before*
+the prison van shows up.<press>
+If I could just do something*
+about the <red>kidnapping<black>*
+in those ten minutes...<press>
+<blue>(I guess the <red>telephone*
+lines<blue> are my only hope...!)<black>
+
+-------------------------------
+

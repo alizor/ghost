@@ -1,0 +1,834 @@
+[m03_4000][0E00]
+
+<face:00F5>
+<sound:0018><blink><shake:0128>Damn!<press>
+Don't think I can take*
+another second in*
+this stinkin' pit!
+
+-------------------------------
+
+[m03_4300][0E01]
+
+<face:00F5>
+Looks like guard man is gone.
+
+-------------------------------
+
+[m03_4010][0E02]
+
+<face:00F4>
+All this waitin' is wipin' me out!*
+Hope this one'll finally do it!
+
+-------------------------------
+
+[m03_4310][0E03]
+
+Go, go, GO!
+
+-------------------------------
+
+[m03_4020][0E04]
+
+<face:00F5>
+C'mon, Sausage Head!
+
+-------------------------------
+
+[m03_4050][0E05]
+
+<fchat:0001>
+Hmm...<press>
+This prisoner obviously isn't*
+the one I'm looking for.<press>
+<sound:0016>Prisoner D99 has a <red>beard<black>.<press>
+<blue>(There's one of those*
+little <red>blackboards<blue> Lynne*
+said would be in the cells.)<black><press>
+<sound:0015><blink>Maybe I should check*
+out Spiky's <red>schedule*
+for tomorrow<black>...
+
+-------------------------------
+
+[m03_4030][0E06]
+
+<face:0027>
+So this is one of those <red>little*
+blackboards<black> Lynne mentioned.<press>
+Let me just give it a little read...<press>
+<change:002B>
+<end>
+{28FF}0{7800}.........<press>
+<blue>(Tonight...)<black><press>
+<blue>(...I lost a lot of things --*
+my life, my memory...)<black><press>
+<sound:0016><blink><blue>(But there's a certain skill*
+I've apparently <red>lost<blue>, too...)<black><press>
+<change:002D>
+<end>
+<sound:0018><shake:0128><blink>{2EFF}?{17FF}I can't read!{17FF}<press>
+I can see that there's some kind*
+of "writing" on the blackboard...<press>
+<sound:0017><blink><shake:0128>But I have absolutely no*
+idea what it means!<press>
+<change:002B>
+<end>
+<blue>(If I can't read Prisoner D99's*
+work schedule for tomorrow...)<black><press>
+<blue>(...What do I do now?){28FF}<0001_5A00><black>
+
+-------------------------------
+
+[m03_4031][0E07]
+
+<fchat:0001>
+What am I supposed to*
+report back to Lynne now?<press>
+<sound:0015><blink>If I tell her "I couldn't*
+read it," she'll kill me!<press>
+<blue>(But, actually, I guess I*
+don't have to worry about*
+that one too much...)<black><press>
+Anyway...<press>
+I might as well try to*
+find Prisoner D99's cell.<press>
+Hopefully, I'll at least be*
+able to find out something*
+while I'm there.<press>
+<sound:0015><blink>I can't go back to*
+Lynne empty-handed!<press>
+<blue>(But, of course, a ghost*
+doesn't actually have*
+hands...)<black>
+
+-------------------------------
+
+[m03_4270][0E08]
+
+<fchat:0001>
+This telephone...<press>
+<sound:0015><blink>It looks like it's an internal*
+line only. It <red>doesn't call*
+outside<black> the prison.<press>
+So the only places I can go*
+with this telephone are...<press>
+...other phones within*
+the building that I've*
+<red>already possessed<black>.
+
+-------------------------------
+
+[m03_4320][0E09]
+
+<fchat:0001>
+Hmm... An*
+emergency button.<press>
+An emergency... in a*
+prison. That's gotta be*
+a pretty bad situation.<press>
+I'll just give it a little try...
+
+-------------------------------
+
+[m03_4321][0E0A]
+
+<fchat:0001>
+I caused quite an*
+uproar, I guess.<press>
+And I bet each prisoner*
+reacts differently to the*
+alarm...<press>
+It might be fun to watch.<press>
+<blue>(Let's see... If I want to*
+change my view, I can*
+<red>slide <blue>the screen...)<black><press>
+<blue>(Or I can use <DPAD> to do*
+the same thing. Guess I'll*
+take a little look around...)<black><press>
+Maybe their behavior*
+will give me a <red>clue*
+<black>about my next step.
+
+-------------------------------
+
+[m03_4280][0E0B]
+
+All clear!
+
+-------------------------------
+
+[m03_4330][0E0C]
+
+<fchat:0001>
+So if I sound the alarm, it*
+gets people moving, eh?<press>
+Maybe I can use*
+their movements*
+to get around, myself.<press>
+<blue>(That way, I can get*
+an idea...)<black><press>
+<blue>(...of what's going on*
+in each cell.)<black>
+
+-------------------------------
+
+[m03_4060][0E0F]
+
+<fchat:0001>
+By the looks of him...<press>
+...that must be the curry-*
+lover from the police*
+department siege case.<press>
+<sound:0017><shake:0128><blink>But never mind that!*
+Where did he go?!<press>
+<blue>(What's going on in*
+this cell?)<black><press>
+Anyway, there's a <red>little*
+blackboard<black> here, too.<press>
+<blue>(Just to be safe...)<black><press>
+<blue>(...maybe I'd better check*
+the curry-lover's <red>schedule*
+for tomorrow<blue>, too.)<black>
+
+-------------------------------
+
+[m03_4062][0E10]
+
+<fchat:0001>
+By the looks of him...<press>
+...this must be the curry-*
+lover from the police*
+department siege case.<press>
+<sound:0017><shake:0128><blink>But never mind that! Where*
+did he just come from?!<press>
+<blue>(What's going on in*
+this cell?)<black><press>
+Anyway, there's a <red>little*
+blackboard<black> here, too.<press>
+<blue>(Just to be safe...)<black><press>
+<blue>(...maybe I'd better check*
+the curry-lover's <red>schedule*
+for tomorrow<blue>, too.)<black>
+
+-------------------------------
+
+[m03_4070][0E11]
+
+<fchat:0001>
+I still can't read...<press>
+But I'd better go check out*
+Prisoner D99's cell anyway.<press>
+Maybe I can find some*
+kind of information that*
+might help Lynne out.<press>
+<blue>(Besides...)<black><press>
+<blue>(I want to see what*
+this prisoner Lynne is*
+investigating looks like...)<black>
+
+-------------------------------
+
+[m03_4390][0E13]
+
+<fchat:0001>
+It looks like the curry-*
+lover comes back when*
+he hears the bell.<press>
+I can't make heads or tails*
+out of his behavior once*
+he gets back, though...<press>
+<blue>(But this prisoner isn't*
+the one I'm looking for.)<black><press>
+<blue>(I'll just chalk this guy up*
+to "it takes all kinds"...)<black><press>
+I'd better try to find a*
+path to D99's cell.
+
+-------------------------------
+
+[m03_4400][0E14]
+
+<fchat:0001>
+What is this guy doing?<press>
+Maybe he misses curry*
+so much he's trying to*
+eat the dirt instead?<press>
+Yeah, that's probably it.*
+Or... I could be wrong.<press>
+In any case, I think there*
+was a phrase that describes*
+just this kind of situation...<press>
+<sound:0016>Oh, yeah. I know what it is:*
+"<red>Outlook not so good.<black>"<press>
+<blue>(This path doesn't lead*
+anywhere. I think I'd better*
+try to find another one.)<black>
+
+-------------------------------
+
+[m03_4340][0E16]
+
+<fchat:0001>
+Same thing here...<press>
+It looks like this is just*
+an internal phone, too.*
+It <red>doesn't call outside<black>.<press>
+So the only places I can go*
+with this telephone are...<press>
+...other phones within*
+the building that I've*
+<red>already possessed<black>.
+
+-------------------------------
+
+[m03_4290][0E17]
+
+Hmm...
+
+-------------------------------
+
+[m03_4100][0E18]
+
+<fchat:0001>
+What a strange cell...<press>
+And the prisoner inside*
+it... He seems to be...*
+enjoying himself.
+
+-------------------------------
+
+[m03_4101][0E19]
+
+<fchat:0001>
+This is the last cell*
+in this area.<press>
+So that means that this*
+man humming to himself*
+must be <red>Prisoner D99<black>.<press>
+According to what*
+the guards said...
+
+-------------------------------
+
+[m03_4110][0E1A]
+
+<face:00EE>
+D99, eh? Even I know*
+about this one.<press>
+<face:00EA>
+Yeah...?<press>
+<face:00EE>
+<sound:0037><blink><1CFF_1F00>He shot his wife, didn't*
+he? Right in front of a*
+family member...
+
+-------------------------------
+
+[m03_4120][0E1B]
+
+<fchat:0001>
+What in the world*
+really happened?<press>
+And why is Lynne*
+so concerned*
+about this prisoner?<press>
+I don't know the answers,*
+and I guess there's no*
+need for me to know.
+
+-------------------------------
+
+[m03_4121][0E1C]
+
+<fchat:0001>
+I have only one objective.<press>
+And that's to find out what*
+this painter's work schedule*
+is for tomorrow.
+
+-------------------------------
+
+[m03_4140][0E1D]
+
+<fchat:0001>
+Photos, eh? I wonder if*
+these are of his family?<press>
+This one looks like a young*
+woman holding a baby.<press>
+Their faces have been*
+blotted out with black paint.<press>
+Did he do it out of hatred,*
+or some other emotion?<press>
+Thankfully, that's*
+not something I need*
+to know right now.
+
+-------------------------------
+
+[m03_4130][0E1E]
+
+<fchat:0001>
+A newspaper article has*
+been cut out and framed.<press>
+Unfortunately,*
+I can't read it...<press>
+It's probably about D99's*
+case -- "<red>Man Murders Wife<black>,"*
+or something like that.<press>
+There's a picture of*
+the alleged <red>culprit*
+<black>in the article.<press>
+<sound:0016><blue>(Yup. It's this*
+prisoner all right.)<black>
+
+-------------------------------
+
+[m03_4350][0E1F]
+
+<face:002A>
+A newspaper article has*
+been cut out and framed.<press>
+I'll just give it a little read...<press>
+<change:002C>
+<end>
+<1EFF_7800>.........<press>
+<blue>(Tonight...)<black><press>
+<blue>(...I lost a lot of things --*
+my life, my memory...)<black><press>
+<sound:0016><blink><blue>(But there's a certain skill*
+I've apparently <red>lost<blue>, too...)<black><press>
+<change:002E>
+<end>
+<sound:0018><shake:0128><blink>{2EFF}?{17FF}I can't read!{17FF}<press>
+I can tell the article contains*
+some kind of "writing"...<press>
+But I have absolutely no*
+idea what it means!<press>
+<change:002C>
+<end>
+<blue>(If I can't read Prisoner D99's*
+<red>work schedule for tomorrow<blue>...)<black><press>
+<blue>(...What do I do now?!)<black><press>
+<change:002A>
+<end>
+<sound:0015><blink>In the article...<press>
+...there's a picture of*
+the alleged <red>culprit<black>.<press>
+<sound:0016><blue>(Yup. It's this*
+prisoner all right.)<black>
+
+-------------------------------
+
+[m03_4360][0E20]
+
+<fchat:0001>
+What am I supposed to*
+report back to Lynne now?<press>
+<sound:0015><blink>If I tell her "I couldn't*
+read it," she'll kill me!<press>
+<blue>(But, actually, I guess I*
+don't have to worry about*
+that one too much...)<black><press>
+Anyway...<press>
+I might as well take*
+a look around.<press>
+Hopefully, I'll at least be*
+able to find out something*
+while I'm here.<press>
+<sound:0015><blink>I can't go back to*
+Lynne empty-handed!<press>
+<blue>(But, of course, a ghost*
+doesn't actually have*
+hands...)<black>
+
+-------------------------------
+
+[m03_4160][0E21]
+
+<face:0029>
+So, the <red>work schedule for*
+tomorrow<black> of Prisoner D99...<press>
+...the information Lynne's*
+looking for, should be written*
+on this blackboard.<press>
+Unfortunately, I've lost*
+the ability to read...<press>
+<change:002B>
+<end>
+<blue>(...but here I am, anyway. The*
+least I can do is take a look.)<black><press>
+<1EFF_7800>.........<press>
+<blue>(Huh? What could this mean?)<black><press>
+<change:002F>
+<end>
+<sound:0016><blink><center>There's <red>nothing written<black>*
+<center>on the board at all.<press>
+<change:002B>
+<end>
+<blue>(I think something was*
+written on the blackboards*
+of the other prisoners...)<black><press>
+<blue>(...but this board is as*
+clean and blank as the*
+day it was hung there...)<black>
+
+-------------------------------
+
+[m03_4410][0E22]
+
+So I have the answer*
+Lynne was looking for.<space>
+Tomorrow's work schedule*
+for Prisoner D99 is...<space>
+..."nothing."<press>
+Would this information*
+mean anything to her?<space>
+It's not up to me*
+to know or care.<space>
+That's how I feel at*
+the moment, anyway.
+
+-------------------------------
+
+[m03_4370][0E23]
+
+<fchat:0001>
+Not being able to read,*
+I was wondering how this*
+was going to turn out...<press>
+Some things in this*
+world can be "read"*
+even if one can't read.<press>
+"Prisoner D99's work schedule*
+for tomorrow is <red>blank<black>."<press>
+I'd better get this*
+important information*
+to Lynne as fast as I can.
+
+-------------------------------
+
+[m03_4371][0E24]
+
+<fchat:0001>
+Nope, nothing written*
+on this blackboard.<press>
+I wonder if that means*
+he'll spend the day*
+painting, like today?<press>
+.........<press>
+That must be what it means.*
+Yeah... That must be it.
+
+-------------------------------
+
+[m03_4180][0E26]
+
+D99! Dinner!
+
+-------------------------------
+
+[m03_4190][0E27]
+
+<face:0096>
+Quite a feast tonight, I see.<press>
+<change:009C>
+<end>
+Ahh, and I'm absolutely*
+crazy about this chicken.<press>
+<face:00F2>
+.........<press>
+<face:009C>
+It's too bad it's all cold*
+and hard, though...<press>
+<change:00AC>
+<end>
+I'd say it's been about two*
+hours since it was cooked,*
+judging from the way it feels.<press>
+<face:00F2>
+.........<press>
+D99...?<press>
+I know it's kind of*
+pointless to ask now...<press>
+But just the same, I*
+still want to know.<press>
+<sound:0018><blink><shake:0128><1CFF_1F00>Why did you do it?<press>
+<face:0096>
+.........<press>
+<change:009C>
+<end>
+I agree. It's pointless to ask now.<press>
+My case is colder than this*
+chicken, and has been*
+forgotten by everybody.<press>
+Myself included.<press>
+<face:00F2>
+Detective Jowd...<press>
+<face:0096>
+Now, then!<press>
+Let me eat in peace, before*
+it gets too cold to cut!<press>
+<face:00F2>
+.........
+
+-------------------------------
+
+[m03_4200][0E28]
+
+<face:00F2>
+There's one more thing*
+I've been wondering*
+for a long time.
+
+-------------------------------
+
+[m03_4210][0E29]
+
+<face:0096>
+What's that?<press>
+<face:00F2>
+Who is the man in that painting?
+
+-------------------------------
+
+[m03_4220][0E2A]
+
+<face:009C>
+<sound:0015><blink>Oh, this?
+
+-------------------------------
+
+[m03_4230][0E2B]
+
+<face:0096>
+Well, being in prison*
+like this, you start to*
+forget faces, you know?<press>
+So I paint the faces that*
+I don't want to forget.<press>
+<change:009C>
+<end>
+<sound:0016>And this is <red>the last*
+of those faces<black>...
+
+-------------------------------
+
+[m03_4240][0E2D]
+
+<face:0096>
+Now, could you leave*
+me alone for a bit?<press>
+<change:00AC>
+<end>
+Let a man eat in peace.<press>
+<face:00F2>
+<blink><shake:0128>Okay, sure. Sorry to bother you.
+
+-------------------------------
+
+[m03_4250][0E2E]
+
+<fchat:0001>
+What in the world...?<press>
+What in the world*
+could this mean...?<press>
+<sound:0018><blink><shake:0128>Why is there <red>a painting*
+of me<black> in this man's cell?
+
+-------------------------------
+
+[m03_4251][0E2F]
+
+Who exactly is this prisoner?<space>
+The man whose case Lynne*
+is investigating is painting*
+a picture of me in his cell!<press>
+I have to go see Lynne... fast.<space>
+And not for her sake.<space>
+For mine. To solve this*
+"mystery of me"...
+
+-------------------------------
+
+[m03_4420][0E30]
+
+<fchat:0001>
+It's no use...<press>
+No matter how many times*
+I try, I still can't read what*
+it says.<press>
+But this blackboard is*
+different from the one*
+in Prisoner D99's cell.<press>
+I can tell something is*
+written on this one.<press>
+<blue>(I'm glad my task wasn't*
+to find out what this*
+particular board says...)<black>
+
+-------------------------------
+
+[m03_4380][0E31]
+
+<fchat:0001>
+This telephone doesn't*
+connect to the outside.<press>
+And I've got questions*
+I want to ask Lynne.<press>
+I've gotta get to a place*
+that has <red>an external*
+line<black>... and fast!
+
+-------------------------------
+
+[m03_4430][0E32]
+
+<fchat:0001>
+I'd better not set off the*
+emergency alarm right now.<press>
+The inside of my head*
+is already in a state of*
+emergency as it is...
+
+-------------------------------
+
+[m03_9020][1902]
+
+Guard room
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9050][1905]
+
+Special Detention
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+
+[m03_9080][1909]
+
+<fchat:0001>
+<blue>(There's a pad of note papers*
+hanging on the wall.)<black><press>
+<blue>(There's a red "O"*
+drawn on each one.)<black><press>
+<blue>(I think it's some kind of*
+letter or symbol, but I don't*
+recall what it means.)<black>
+
+-------------------------------
+
+[m03_9090][190A]
+
+<fchat:0001>
+<blue>(There's a pad of note papers*
+hanging on the wall.)<black><press>
+<blue>(There's a red "X"*
+drawn on each one.)<black><press>
+<blue>(I think it's some kind of*
+letter or symbol, but I don't*
+recall what it means.)<black>
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+
+[m03_6680][1316]
+
+<fchat:0001>
+This is the blackboard that*
+has this prisoner's schedule*
+for tomorrow written on it.<press>
+I can't read it, but that's*
+okay. I don't need to.<press>
+<fchat:0009>
+<sound:0015><blink>What a surprise. You've*
+forgotten how to read,*
+too?<press>
+<fchat:0001>
+Apparently. Can you read it?<press>
+<fchat:0009>
+<sound:0016>I can, but, like you said,*
+there's no need to.<press>
+<fchat:0001>
+<blue>(Oh, boy...)<black>
+
+-------------------------------
+
+[m03_6750][1321]
+
+<fchat:0001>
+Is this newspaper article*
+about your case?<press>
+<fchat:0009>
+Yeah. I tacked it up*
+there as a memento.<press>
+<fchat:0001>
+I can't read, but it probably*
+says something like...<press>
+<blue>(..."Man Murders Wife"...)<black><press>
+<fchat:0009>
+.........
+
+-------------------------------
+
+[m03_6760][1322]
+
+<fchat:0001>
+There's nothing written*
+on your blackboard.<press>
+Your schedule for*
+tomorrow is blank.<press>
+<fchat:0009>
+That's because I don't*
+need a "schedule."<press>
+Or a "tomorrow"...*
+Or "memories"...<press>
+.........<press>
+<fchat:0001>
+<blue>(This man...)<black><press>
+<sound:0016><blue>(I can never tell what*
+he's thinking...)<black>
+
+-------------------------------
+

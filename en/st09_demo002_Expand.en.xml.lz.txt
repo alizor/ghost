@@ -1,0 +1,183 @@
+[m09_1060][2B0C]
+
+<sound:0017>Emma!
+
+-------------------------------
+
+[m09_1065][2B0D]
+
+Oh, excuse me...
+
+-------------------------------
+
+[m09_1070][2B0E]
+
+<sound:0018>Whaaat?!
+
+-------------------------------
+
+[m09_1080][2B0F]
+
+All right...
+
+-------------------------------
+
+[m09_1085][2B10]
+
+I'll do as you say.
+
+-------------------------------
+
+[m09_1090][2B11]
+
+<sound:0018>Why doesn't*
+she answer?!
+
+-------------------------------
+
+[m09_1730][2B12]
+
+.........
+
+-------------------------------
+
+[m09_1740][2B13]
+
+
+
+-------------------------------
+
+[m09_1750][2B14]
+
+
+
+-------------------------------
+
+[m09_1760][2B15]
+
+This is terrible!
+
+-------------------------------
+
+[m09_1770][2B16]
+
+<sound:0017><center>Unhhh!
+
+-------------------------------
+
+[m09_1780][2B17]
+
+
+
+-------------------------------
+
+[m09_1790][2B18]
+
+
+
+-------------------------------
+
+[m09_1800][2B19]
+
+<sound:0018><center>Nnnghhh!
+
+-------------------------------
+
+[m09_1810][2B1A]
+
+
+
+-------------------------------
+
+[m09_1820][2B1B]
+
+
+
+-------------------------------
+
+[m09_1830][2B1C]
+
+<sound:0015><center>Ngh...?
+
+-------------------------------
+
+[m09_1840][2B1D]
+
+<sound:0018><center>Nnngaaaaah!
+
+-------------------------------
+
+[m09_1850][2B1E]
+
+<sound:0017><center>Gaaaaagh!
+
+-------------------------------
+
+[m09_1860][2B1F]
+
+<sound:0018><center>Graaaaagh!
+
+-------------------------------
+
+[m09_1100][2B20]
+
+M-Medicine...!
+
+-------------------------------
+
+[m09_1110][2B21]
+
+W-Water...!
+
+-------------------------------
+
+[m09_1120][2B22]
+
+<face:00E4>
+<sound:0016>Such a foolish man.<press>
+<face:0036>
+<sound:0015><blink>Oh, you woke up?<press>
+<face:00E4>
+He's a <red>contradiction<black>.<press>
+<face:002F>
+"Contradiction"...?<press>
+<face:00E4>
+The more we search for the truth,*
+the further into a <red>dilemma <black>we fall.<press>
+The world of men is steeped*
+in contradictions. If we choose*
+this, we can't have that...<press>
+<sound:0016>If a man tries to have his*
+medicine bottle and water*
+pitcher, too, <red>he loses both<black>.<press>
+<face:0034>
+Oh, I dunno... To me, it looks*
+like you could've had both*
+of those things just now...<press>
+<face:00E4>
+He didn't know the truth*
+about the world. That's why*
+he died. Such a foolish man.<press>
+Or maybe I should say,*
+a pathetic man. That's*
+the more fitting word.<press>
+<face:002B>
+<blue>(Uh, I don't think*
+this guy gets it yet.)<black><press>
+<sound:0015><blink><blue>(That the "foolish" and*
+"pathetic" man is <red>him<blue>.)<black><press>
+<change:0027>
+<end>
+<blue>(Is that what they call*
+a "<red>contradiction<blue>"?)<black><press>
+<change:0034>
+<end>
+By the way, what's your name?<press>
+<face:00E4>
+.........<press>
+<sound:0016>Just call me a "<red>seeker of truth<black>."<press>
+<face:002B>
+<blue>(Sidestepped that one, didn't he?)<black>
+
+-------------------------------
+

@@ -1,0 +1,421 @@
+[m02_3060][070E]
+
+<face:0094>
+Once the criminal gets the*
+punishment he deserves,*
+the hostage will go free.<press>
+Carry out the execution*
+immediately and wait*
+for our call.
+
+-------------------------------
+
+[m02_3061][070F]
+
+<face:0046>
+That's a good boy. Gee, a*
+<red>hostage <black>sure is a handy thing.<press>
+<change:0058>
+<end>
+<sound:0016><blink>It gives me complete <red>control <black>over*
+the top police inspector in the*
+country.
+
+-------------------------------
+
+[m02_3065][0710]
+
+<face:008E>
+<blink><shake:0128>Ngh...!<press>
+<face:0046>
+<sound:0015><blink>Whatsa matter? All those*
+broken bones smart a bit?<press>
+<change:0050>
+<end>
+What's it like to feel pain?*
+Does it make you feel ALIVE?<press>
+<face:008E>
+Why... are you doing this?<press>
+<face:0046>
+Now, is that any kind of*
+question for a top inspector*
+to ask? Isn't it obvious?<press>
+<change:0058>
+<end>
+<sound:0016><blink><red>Revenge<black>, of course.<press>
+Revenge on all the people who*
+stole my life away ten years ago.
+
+-------------------------------
+
+[m02_3067][0711]
+
+<face:008E>
+Don't be ridiculous.<press>
+It was a <red>meteorite <black>that stole your*
+life. Or have you forgotten that?
+
+-------------------------------
+
+[m02_3070][0712]
+
+<sound:0018><center>Wrong!
+
+-------------------------------
+
+[m02_3080][0713]
+
+<face:0056>
+<sound:0017><shake:0128><blink>I was <red>murdered<black>! By ALL OF YOU!
+
+-------------------------------
+
+[m02_3085][0714]
+
+<face:0048>
+Detective Jowd, who chased me*
+down and forced me into a corner,*
+even though I was innocent.<press>
+Lynne, that girl who was right*
+there where I was running.<press>
+<face:008E>
+<sound:0015><blink>Lynne? She was just an innocent*
+little girl playing in the park!<press>
+<face:0056>
+<sound:0018><blink><shake:0128>If that brat hadn't been*
+there, I never would've*
+thought of taking a hostage!<press>
+<face:008E>
+That's the most self-centered*
+garbage I've ever heard.
+
+-------------------------------
+
+[m02_3090][0715]
+
+<face:0058>
+<sound:0017><blink><shake:0128>And, finally, you,*
+Inspector Cabanela!<press>
+<face:008E>
+Me...?<press>
+<face:0054>
+If you hadn't done what you did...<press>
+...I never would've pointed*
+a gun at that kid.
+
+-------------------------------
+
+[m02_3100][0716]
+
+<face:0048>
+You were so proud of*
+your "spotless record."<press>
+And my case was the*
+one <red>blot <black>on it, wasn't it?<press>
+Only two people know the real*
+truth -- me, and Detective Jowd.<press>
+<face:008E>
+.........
+
+-------------------------------
+
+[m02_3110][0717]
+
+<face:0054>
+I bet tonight's execution will be*
+quite a <red>relief <black>to you, won't it?<press>
+<change:0058>
+<end>
+<sound:0016><blink>One of the people who know*
+about the stain on your record*
+will disappear for good.<press>
+That's why you didn't help*
+him escape from prison.
+
+-------------------------------
+
+[m02_3120][0718]
+
+<face:0048>
+<sound:0017><blink><shake:0128>That's the kind of guy you are!<press>
+<face:008E>
+<sound:0000><NJ:003C>
+.........
+
+-------------------------------
+
+[m02_3130][0719]
+
+<face:008E>
+I got nothing to say to you.*
+You'd never listen, anyway.
+
+-------------------------------
+
+[m02_3135][071A]
+
+<face:008E>
+<shake:0128><blink>Ye gods...<press>
+<face:0046>
+<NJ:003C>
+Now, then, Inspector.<press>
+<sound:0016><blink>Time to make a big red stain*
+on your spotless white coat.
+
+-------------------------------
+
+[m02_3140][071C]
+
+<face:0046>
+This was another condition*
+of my deal.<press>
+<change:0058>
+<end>
+To wipe out everybody*
+who knew about Temsik.
+
+-------------------------------
+
+[m02_3150][071D]
+
+<face:002D>
+<sound:0016>Revenge?! That's what I'm up to?!<press>
+<sound:0018><blink><shake:0128><blue>(None of this makes any sense...)<black><press>
+<face:008B>
+<NJ:003C>
+Hey, maaan...<press>
+<face:008D>
+<sound:0016><blink>Mind tellin' me what's goin' on?<press>
+<face:0036>
+<sound:0015><blink><shake:0128>Inspector Cabanela!*
+<blue>(He's awake!)<black><press>
+<face:008D>
+My head is spinnin', baby.<press>
+Am I to understand...<press>
+<change:008A>
+<end>
+<sound:0015><blink>...that "Cabanela" <red>character<black>*
+who just got shot... is me?<press>
+<face:0036>
+Uh, that's right.<press>
+<face:008D>
+<sound:0015><blink>And you're supposed to*
+be the <red>scoundrel <black>there*
+who just shot me?<press>
+<face:0038>
+<shake:0128>I, uh... I guess so...<press>
+<face:008A>
+<sound:0016><blink>But you couldn't be, could you?<press>
+<face:0036>
+<blink><shake:0128>Huh?<press>
+<face:008A>
+After all, the guy in the*
+red suit just walked out*
+the door, right?<press>
+So...<press>
+<change:0095>
+<end>
+<sound:0016><blink>...who are you?<press>
+<face:0038>
+<blue>(I guess I just have to face it...)<black><press>
+<sound:0018><blink><shake:0128><blue>(I'm not that "Sissel" guy!)<black><press>
+<change:0029>
+<end>
+I... I'm somebody who's*
+searching for himself.<press>
+That's why I'm here to save you.<press>
+<change:0034>
+<end>
+At the very least, you have*
+<red>information about that guy*
+in red<black>, information I need.<press>
+<face:008A>
+So you came on a rescue mission,*
+now, did you? Nothing like the*
+sound of that, baby!<press>
+<sound:0018><blink><shake:0128>Because there's <red>a very important*
+life<black> here somewhere, a life valuable*
+to this nation!<press>
+<change:008D>
+<end>
+<sound:0017><blink><shake:0128>Okaaay, so do your thing, baby!
+
+-------------------------------
+
+[m02_3760][0721]
+
+<fchat:0001>
+The top of this bookshelf is*
+lined with books.<press>
+This one on top is balanced*
+so precariously, it's a*
+wonder it doesn't fall off.<press>
+How did the old pigeon*
+guy even reach up here?<press>
+<blue>(And I wonder if he makes*
+his pigeon fetch it for him?)<black>
+
+-------------------------------
+
+[m02_3762][0778]
+
+<fchat:0001>
+The top of this bookshelf is*
+lined with books.<press>
+How does the old pigeon*
+guy even reach up here?<press>
+<blue>(And I wonder if he makes*
+his pigeon fetch these books*
+for him?)<black><press>
+<fchat:000C>
+<sound:0016>I ain't telling.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Hmm. So many mysteries*
+surrounding this old man!<press>
+<fchat:0001>
+<blue>(But never mind those...)<black>
+
+-------------------------------
+
+[m02_3765][0779]
+
+<fchat:0001>
+This is a really thick book.<press>
+I can't read, so I don't*
+know what it's about...<press>
+<blue>(Will I ever get my*
+memory back...?)<black>
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(So what exactly*
+is this thing?)<black><press>
+<blue>(It looks like a giant*
+nail clipper to me...)<black><press>
+<fchat:000C>
+<sound:0016>No, it most certainly*
+does not.<press>
+It's an instrument used in*
+analyzing radiation-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>O-Oh. Ahem. Yes, I see...<press>
+<fchat:000B>
+<sound:0015><blink>You're not alone, kid.<press>
+None of the rest of us*
+understand it, either, baby!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Yeah! You said it!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Old pictures... of what*
+look like little fragments*
+of rock.<press>
+<fchat:000C>
+Those are Temsik fragments.<press>
+That's an article from back*
+when it was big news.<press>
+<fchat:000B>
+Ten years ago, nobody*
+really understood it.<press>
+<fchat:000C>
+I guess that's*
+still true today.
+
+-------------------------------
+
+[m02_1440][0534]
+
+<fchat:0003>
+These pictures are old.*
+What are they of? Little*
+fragments of rock?<press>
+And the fragments*
+are glowing... Do you*
+know what these are?<press>
+<fchat:0001>
+Sorry, but I've lost my*
+memory. Probably not*
+the best person to ask...<press>
+<fchat:0003>
+<sound:0015><blink>That's okay. I was only*
+being polite. I didn't*
+really think you'd know.<press>
+<fchat:0001>
+<blue>(Ouch. This lady's*
+tongue can be sharp.)<black><press>
+<fchat:0003>
+Uh, I can hear what you're*
+thinking, remember?<press>
+<fchat:0001>
+<sound:0016>I know.<press>
+<fchat:0003>
+Good one.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+What could this be? It looks*
+like a giant nail clipper.<press>
+<fchat:0003>
+You think so?<press>
+<fchat:0001>
+Do YOU know what it is?<press>
+<fchat:0003>
+#sigh#<press>
+<sound:0016>Why did you have to ask me?!*
+Couldn't you see I was*
+looking away evasively?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0003>
+It's... one of those science-y*
+things that scientists use.<press>
+<sound:0018><blink><shake:0128>Ordinary people like us don't*
+have to know what it is!<press>
+<fchat:0001>
+<blue>(I don't remember*
+what "science" is...)<black><press>
+<blue>(...but it's apparently*
+something Lynne*
+doesn't like very much.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+These photos*
+look pretty old.<press>
+Pictures of little*
+fragments of rock...<press>
+That old pigeon guy has*
+some pretty strange*
+taste in wall décor.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+I have no idea what this*
+instrument is for.<press>
+As a matter of fact, this*
+whole desk is filled with*
+things I've never seen.<press>
+I know I've lost my*
+memory, but still...<press>
+That old pigeon man seems*
+like a pretty strange guy.
+
+-------------------------------
+

@@ -1,0 +1,218 @@
+[m03_6201][130B]
+
+<fchat:0001>
+Getting the chair to*
+short out when*
+nobody's around it...<press>
+It sounds like it*
+could be a plan.<press>
+<sound:0016><blue>(But, in this past world, I*
+can't just use the phone*
+lines whenever I want.)<black><press>
+<fchat:0009>
+And these guards*
+seem to be in a fog...<press>
+I doubt they'll be using*
+the phone much.<press>
+<fchat:0001>
+<blue>(Hmm. Maybe I need*
+to start over...?)<black>
+
+-------------------------------
+
+[m03_6460][132B]
+
+<face:0034>
+Hmm. Now I'm stuck here.<press>
+<face:009C>
+I'm just sorry I didn't get to see*
+Bailey's famous dancing.<press>
+<face:002B>
+<blue>(Getting the chair to short out*
+when nobody's around it...)<black><press>
+<change:0027>
+<end>
+<blue>(The plan is starting to solidify*
+in my mind... But I'd better find*
+a different path next time!)<black>
+
+-------------------------------
+
+[m03_6900][1400]
+
+<face:00EA>
+<sound:0016>I have this strange*
+feeling of uneasiness...
+
+-------------------------------
+
+[m03_6910][1401]
+
+<face:00EA>
+How about you? How do you feel?<press>
+<face:00EE>
+.........<press>
+<face:00EA>
+I feel jumpy and jittery...*
+I can't sit still.<press>
+<sound:0018><blink><shake:0128>I feel like I might start...*
+dancing at any minute!<press>
+<face:00EE>
+<sound:0016>If you're gonna dance, lemme know.*
+I'll get the video camera ready.
+
+-------------------------------
+
+[m03_6920][1402]
+
+<face:00EA>
+Nobody will listen to my concerns...<press>
+<fchat:0001>
+"<red>Concerns<black>," huh?*
+So he's worried?<press>
+<fchat:0009>
+That man is always*
+worried about something.<press>
+<sound:0016>And whatever he's*
+worried about, it always*
+comes true, without fail.
+
+-------------------------------
+
+[m03_6930][1403]
+
+<face:00EA>
+<sound:0018><blink><shake:0128>Listen to me!*
+That chair is dangerous!<press>
+<face:00EE>
+I know, Bailey. That's why*
+I don't advise you to sit on it.<press>
+<face:00EA>
+<sound:0018><blink><shake:0128>No, no, no! That's not what I mean!<press>
+Machines like that are*
+very sensitive to dust.<press>
+If the guys throw the switch*
+and the chair <red>shorts out<black>...<press>
+<sound:0017><blink><shake:0128>There might be <red>a huge explosion*
+<black>down there in that death chamber!<press>
+<face:00EE>
+<shake:0128>Oh, c'mon. Nothing's gonna happen.<press>
+Besides, even on the off*
+chance it does blow up, we're*
+way up here. We'll be fine.<press>
+<face:00EA>
+<sound:0015><blink><shake:0128>I know! Why don't we*
+go and test it out first!<press>
+<face:00EE>
+No way. I don't wanna get*
+blown up. You go by yourself.<press>
+<fchat:0001>
+<sound:0016><blue>(So this spot would be safe,*
+even if it does blow up, eh?)<black><press>
+<fchat:0009>
+What is it? You have a*
+new look in your eye.<press>
+<fchat:0001>
+If the <red>switch <black>in the*
+death chamber is thrown,*
+the chair will blow up.<press>
+<fchat:0009>
+That's right.<press>
+<fchat:0001>
+And if the chair blows*
+up, the execution*
+<red>can't be carried out<black>.<press>
+<fchat:0009>
+It only stands to reason.<press>
+<fchat:0001>
+And...<press>
+...if there's nobody in*
+the death chamber*
+when the chair explodes...<press>
+<sound:0016><blink>...<red>nobody will die<black>.<press>
+<fchat:0009>
+Precisely!<press>
+<sound:0015><blink>Very nice, Sissel. You've*
+hit upon some excellent*
+points, there.<press>
+<fchat:0001>
+<blue>(Okay, I'm starting to*
+see a <red>plan <blue>now...)<black>
+
+-------------------------------
+
+[m03_9000][1900]
+
+Internal extension
+
+-------------------------------
+
+[m03_9010][1901]
+
+External line
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9050][1905]
+
+Special Detention
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+
+[m03_9070][1908]
+
+<face:0044>
+The screen shows*
+rows of tiny rooms.<press>
+The rooms are really, really*
+small. And you can see right*
+into them from the outside.<press>
+I suppose the open bars keep*
+the rooms airy, but I wouldn't*
+wanna live in one, myself...<press>
+I wonder where these*
+little rooms are?
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+

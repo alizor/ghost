@@ -1,0 +1,815 @@
+[m09_3000][2D00]
+
+The minister's family now has*
+their smiles and harmony back.<space>
+But Kamila is still in the*
+hands of the kidnappers...<space>
+I decided to go back to the*
+justice minister's office.
+
+-------------------------------
+
+[m09_3000a][2D01]
+
+Surprisingly, the minister's brow*
+is still just as furrowed as ever.<space>
+Quite unlike a father who has just*
+learned his daughter is safe...<space>
+...he seems to still be in*
+the depths of despair.<press>
+The atmosphere in this room*
+is very different now.<space>
+It seems to have an air*
+of unfocused anxiety.<space>
+I get the feeling something*
+big is gonna happen...
+
+-------------------------------
+
+[m09_3010][2D03]
+
+<face:00E3>
+I just found out that my*
+daughter is safe. I'd like*
+to express my gratitude.<press>
+Thank you. Thank you*
+for my daughter's sake,*
+and for mine.
+
+-------------------------------
+
+[m09_3020][2D04]
+
+<face:008A>
+No need to thaaank us,*
+Mr. Minister. It was nothing.<press>
+<fchat:0001>
+<blue>(What did HE do?)<black>
+
+-------------------------------
+
+[m09_3030][2D05]
+
+<face:008A>
+But one question.<press>
+I can't heeelp but notice...<press>
+Your daughter is safe...
+
+-------------------------------
+
+[m09_3031][2D06]
+
+<face:008A>
+<sound:0016>...and yet, you still look*
+unhappy. How about a*
+little smiiile for us?<press>
+<face:00E3>
+<sound:0015><blink><shake:0128>Aaaaagh...<press>
+<face:008A>
+Of cooourse, there is*
+still the matter of the*
+other kidnapping victim...
+
+-------------------------------
+
+[m09_3031a][2D07]
+
+<face:0095>
+<sound:0016><blink>But is that really the*
+only thing that <red>troubles*
+you<black>, Mr. Minister?
+
+-------------------------------
+
+[m09_3031b][2D08]
+
+<sound:0018><center>!
+
+-------------------------------
+
+[m09_3031c][2D09]
+
+<face:00E3>
+Please, let me think in peace...*
+until the prison van arrives.
+
+-------------------------------
+
+[m09_3032][2D0A]
+
+<fchat:0001>
+I wonder if Lynne*
+is at the park yet?<press>
+Until we get her report,*
+I guess I'll just have to*
+wait here.<press>
+This continued distress*
+of the minister's...<press>
+<sound:0016>...is there really something*
+more to it, like the*
+inspector in white said?
+
+-------------------------------
+
+[m09_3040][2D0B]
+
+<face:0097>
+It seems to me the justice*
+minister has some kind of*
+big problem on his mind.<press>
+Why don't you try talking*
+to him instead of me?<press>
+<face:0034>
+<sound:0016>I don't even think he's ready*
+to <red>acknowledge my existence<black> yet.<press>
+<face:009D>
+He's an anxious fellow,*
+yes, but I bet he knows*
+when to accept the truth.<press>
+<change:00AD>
+<end>
+Would his face be so*
+furrowed otherwise?<press>
+<face:002B>
+<blue>(What does one have*
+to do with the other?)<black>
+
+-------------------------------
+
+[m09_3050][2D0C]
+
+<face:0034>
+Hello, Justice Minister.<press>
+<face:00E4>
+.........<press>
+<face:0029>
+How about you finally*
+admit I do exist?<press>
+<face:00E4>
+.........<press>
+That "thank you" I expressed...<press>
+<sound:0016><1EFF_1E00><blink>...that was meant for <red>you<black>.<press>
+<face:0029>
+<sound:0015><blink>...!<press>
+<face:00E4>
+You're a <red>ghost<black>, aren't you?<press>
+And you have the <red>power<black>*
+to control and manipulate*
+people, don't you?<press>
+<face:0034>
+No, I don't have that kind of*
+<red>power<black>. I can't control you.<press>
+<face:00E4>
+.........<press>
+We've actually known, you*
+know... for quite a while now...<press>
+But I had no idea they were the*
+powers of <red>the dead<black>, of <red>ghosts<black>...<press>
+<face:0029>
+Known? Known about what?<press>
+<face:00E4>
+<sound:0016><1DFF_2000><0001_0000><blink>We knew about the existence*
+of somebody who could control*
+others -- a "<red>manipulator<black>."<press>
+<face:0098>
+<sound:0015><blink><shake:0128>What's this?!<press>
+<face:00E4>
+That's why your execution*
+order caused me so much*
+anguish, Detective Jowd.<press>
+<face:0098>
+Mr. Minister.<press>
+Why don't you just tell us*
+everything you know?<press>
+<face:00E4>
+Yes, I suppose I should.<press>
+You need to hear it all...<press>
+...all about the huge <red>mistake<black>*
+this foolish man made...
+
+-------------------------------
+
+[m09_3100][2D0D]
+
+Manipulator
+
+-------------------------------
+
+[m09_3110][2D0E]
+
+<face:00E4>
+There are some cases in this*
+country right now that are*
+under a top-secret investigation.<press>
+Of course, you wouldn't*
+have known about them,*
+Detective Jowd.<press>
+<face:009C>
+Right. They don't share too*
+much top-secret information*
+with the inmates in prison...<press>
+<face:00E4>
+There are three prisoners,*
+including you, in the <red>Special*
+Prison<black> you just escaped from.<press>
+<sound:0016><blink>All three cases have <red>certain<black>*
+<red>points in common<black>.<press>
+<face:00AC>
+<sound:0015><blink>They do, do they? Tell us more.
+
+-------------------------------
+
+[m09_3120][2D0F]
+
+<face:00E9>
+<center>The rock singer who leaked*
+<center>national secrets in his lyrics*
+<center>during a TV broadcast.
+
+-------------------------------
+
+[m09_3130][2D10]
+
+<face:00E9>
+<center>The curry-loving fellow who took*
+<center>the chief commissioner hostage*
+<center>at the Metro Police Department.<press>
+<sound:0015><blink><center>Neither of these men had a*
+<center><red>motive <black>for their crime. And both*
+<center>of their crimes were... <red>impossible<black>.<press>
+<face:0096>
+Impossible...?
+
+-------------------------------
+
+[m09_3140][2D11]
+
+<face:00E4>
+The curry lover had no way of*
+knowing how to infiltrate the*
+commissioner's office.<press>
+And the rock singer had no*
+way of knowing the national*
+secrets he leaked.<press>
+The Special Investigation Unit*
+submitted an investigative*
+report to me on them.<press>
+<sound:0016><blink>They concluded that these*
+men's criminal acts were*
+not of their own <red>volition<black>.<press>
+<face:0098>
+<shake:0128><blink>But how could that be...?<press>
+<face:00E4>
+<sound:0015><blink>The theory the Unit came up*
+with was the existence of a*
+"<red>manipulator<black>."<press>
+<face:0029>
+A manipulator, huh...?<press>
+<face:00E4>
+That's when the <red>Special Prison*
+<black>was established as a facility*
+to research that theory.
+
+-------------------------------
+
+[m09_3150][2D12]
+
+Jowd's case
+
+-------------------------------
+
+[m09_3160][2D13]
+
+<face:00E4>
+Some unknown power*
+has been at work.<press>
+These past several years,*
+Inspector Cabanela has*
+been studying these cases.<press>
+<face:0098>
+He has, has he?<press>
+<face:00E4>
+<red>Manipulating somebody into*
+committing a criminal act...<black>*
+According to the inspector...
+
+-------------------------------
+
+[m09_3170][2D14]
+
+<face:00E4>
+<sound:0016><blink>...the first case of its kind was*
+a <red>locked room murder<black> involving*
+our nation's best detective.<press>
+<face:00AC>
+Are you trying to say I was*
+<red>manipulated <black>somehow*
+into shooting Alma?<press>
+I appreciate the theory,*
+but, unfortunately...<press>
+<change:009C>
+<end>
+<sound:0015><blink>...I don't recall being*
+"<red>controlled<black>" by anybody.<press>
+<change:0096>
+<end>
+It's just <red>not possible<black> to*
+manipulate another's*
+behavior like that.<press>
+<face:002B>
+<blue>(My powers certainly don't*
+work on living creatures.)<black>
+
+-------------------------------
+
+[m09_3180][2D15]
+
+<face:00E4>
+That's what I thought*
+when I first heard the*
+theory, too.<press>
+However...<press>
+<face:00E4>
+<sound:0016><blink>...I was seriously mistaken,*
+and it proved to be a big*
+mistake.{28FF}0F<press>
+<face:0098>
+What...?!<press>
+{28FF}<0001_6400><wait>
+
+-------------------------------
+
+[m09_3200][2D16]
+
+The minister's mistake
+
+-------------------------------
+
+[m09_3210][2D17]
+
+<face:002B>
+You mentioned a "mistake."*
+Could you tell us about it?<press>
+<face:00E4>
+.........<press>
+I suppose everybody here*
+has the right to know.<press>
+All right, fine. I'll speak out*
+loud so that Inspector*
+Cabanela can hear this, too.
+
+-------------------------------
+
+[m09_3220][2D18]
+
+<face:00E3>
+There's something I'd like*
+the two of you to hear.<press>
+<sound:0016>It's about a <red>mistake <black>I made.
+
+-------------------------------
+
+[m09_3230][2D19]
+
+<face:00E3>
+Inspector Cabanela, when*
+you first made that report*
+about a "<red>manipulator<black>"...<press>
+...I'm afraid I didn't believe it*
+at all. "<red>Impossible<black>," I thought.
+
+-------------------------------
+
+[m09_3235][2D1A]
+
+<face:008A>
+Perfectly understaaandable,*
+Mr. Minister.<press>
+<face:00E3>
+But... I was wrong. That*
+kind of <red>power <black>does exist.<press>
+And I...
+
+-------------------------------
+
+[m09_3238][2D1B]
+
+<face:00E3>
+<sound:0016>...I learned the truth*
+of that <red>firsthand<black>.
+
+-------------------------------
+
+[m09_3240][2D1C]
+
+<face:0095>
+<sound:0015><blink><shake:0128>What's thiiis...?<press>
+<face:00E3>
+A month ago, I signed the order*
+to carry out Detective Jowd's*
+execution.<press>
+However... that act wasn't*
+of my own volition.
+
+-------------------------------
+
+[m09_3245][2D1D]
+
+<face:00E3>
+<sound:0017><1CFF_1A00><blink>I was being "<red>controlled<black>."
+
+-------------------------------
+
+[m09_3250][2D1E]
+
+<face:008F>
+<sound:0018><shake:0128><blink>What?! You never told me*
+about this, Mr. Minister!
+
+-------------------------------
+
+[m09_3260][2D1F]
+
+<face:00E9>
+<sound:0000><NJ:003C>
+<center>What's going on? Th-This*
+<center>document... What am I doing?!<show><wait>
+
+-------------------------------
+
+[m09_3270][2D20]
+
+<face:00E9>
+<sound:0000><NJ:003C>
+<center>No! I mustn't... sign it...!<show><wait>
+
+-------------------------------
+
+[m09_3280][2D21]
+
+<face:00E9>
+<sound:0000><NJ:003C>
+<center>Wait! Don't deliver...*
+<center>that document...!<show><wait>
+
+-------------------------------
+
+[m09_3290][2D22]
+
+<face:00E3>
+That's when it started.<press>
+That's when all of my fear,*
+despair and suffering began.
+
+-------------------------------
+
+[m09_3300][2D23]
+
+Fear, despair and suffering
+
+-------------------------------
+
+[m09_3310][2D24]
+
+<face:00E3>
+At the time, it didn't even*
+cross my mind that I had*
+been "manipulated."<press>
+<sound:0016>And my memory of the event*
+was only <red>hazy<black>, at best.<press>
+<fchat:0001>
+<blue>(Hmm, so the memory of*
+being manipulated <red>doesn't*
+clearly remain<blue>, eh...?)<black><press>
+<face:00E3>
+Signing execution orders is*
+part of a justice minister's job.<press>
+At the time...<press>
+...I just thought my psyche*
+was rebelling against the task.
+
+-------------------------------
+
+[m09_3320][2D25]
+
+<face:00E9>
+<center>But the next day,*
+<center>it dawned on me.<press>
+<sound:0016><blink><center>I remembered Inspector*
+<center>Cabanela's report on the*
+<center>existence of a <red>manipulator<black>.
+
+-------------------------------
+
+[m09_3330][2D26]
+
+<face:00E3>
+As a minister of justice,*
+I couldn't admit what*
+had happened to me.
+
+-------------------------------
+
+[m09_3335][2D27]
+
+<face:00E9>
+"I only signed the execution*
+order because I was being*
+controlled."<press>
+<center>If something like that got*
+<center>out, this nation's judicial*
+<center>system would crumble!<press>
+<center>Besides, I had no evidence*
+<center>to present that I had actually*
+<center>been "controlled."<press>
+<center>So, in the end, I couldn't*
+<center>admit to anybody what*
+<center>had happened...<press>
+<face:0091>
+Hmm... I suppose... But it*
+sounds a bit like an excuse.<press>
+<change:0095>
+<end>
+You should've at least*
+told us, Mr. Minister.<press>
+<face:00E3>
+Yes! Yes, I know... I should have.*
+I was... running away from the*
+problem.
+
+-------------------------------
+
+[m09_3340][2D28]
+
+<face:00E3>
+And then my wife found out I*
+was worried about something.<press>
+<fchat:0001>
+Well, if you go around with*
+an expression like that, I*
+guess it's bound to happen...<press>
+<face:00E3>
+I explained it to her, and*
+she was dead set against*
+the way I was handling it.
+
+-------------------------------
+
+[m09_3350][2D29]
+
+<face:0062>
+<sound:0017><shake:0128><blink><center>If you don't withdraw that order*
+<center>and tell everyone the truth*
+<center>immediately, I'm moving out!
+
+-------------------------------
+
+[m09_3400][2D2A]
+
+<face:00E9>
+<NJ:003C>
+<center>And then, with the*
+<center>kidnapping tonight...<press>
+<NJ:003C>
+<center>...with it thrust under my*
+<center>nose like that, I could no*
+<center>longer deny my <red>mistake<black>.
+
+-------------------------------
+
+[m09_3400a][2D2B]
+
+<face:00E3>
+This "manipulator" comes upon*
+us from somewhere unseen.<press>
+<sound:0016>That's why I've been keeping*
+my <red>distance <black>from everybody.<press>
+<fchat:0001>
+So that's why you've*
+been telling people*
+to "stay back"...
+
+-------------------------------
+
+[m09_3400c][2D2C]
+
+So there's somebody*
+else besides me with*
+the powers of the dead.<space>
+I'm fine with that.<space>
+After all, I already knew*
+about a certain desk lamp...<press>
+What I'm not fine with is the fact*
+that person can control and*
+manipulate living creatures.<space>
+*
+That's certainly not*
+something I can do.<press>
+<space>
+*
+Apparently, different ghosts*
+get different ghost tricks...<space>
+
+
+-------------------------------
+
+[m09_3400d][2D2D]
+
+<face:00E3>
+But I never imagined*
+that tonight...<press>
+<sound:0016><blink>...I would find out where this*
+kind of <red>power <black>comes from.<press>
+<face:0095>
+<sound:0015><blink>Where it comes from...?
+
+-------------------------------
+
+[m09_3400b][2D2E]
+
+<face:00E3>
+Inspector Cabanela...<press>
+...this "<red>manipulator<black>" is a*
+ghost, a departed <red>spirit<black>.<press>
+<face:008F>
+<sound:0015><blink><shake:0128>A <red>spirit<black>...?!<press>
+<face:00E3>
+As a matter of fact, there's a*
+ghost talking to us right now.
+
+-------------------------------
+
+[m09_3401][2D2F]
+
+Wha...
+
+-------------------------------
+
+[m09_3402][2D30]
+
+<center>What did*
+<center>you say?!
+
+-------------------------------
+
+[m09_3410][2D31]
+
+<face:0093>
+<sound:0018><blink><shake:0128>Jowd! Don't tell me you*
+can hear this ghost, too?!
+
+-------------------------------
+
+[m09_3411][2D32]
+
+<face:0097>
+I'd say the only person who*
+CAN'T hear him is <red>you<black>.<press>
+<face:008F>
+<shake:0128><blink>"<red>Spirit<black>"...? "<red>Ghost<black>"...?*
+Gods in heaven...
+
+-------------------------------
+
+[m09_3416][2D34]
+
+<face:008F>
+Excuse me, Mr. Minister. I*
+suddenly have some urgent*
+business to attend to!<press>
+<change:0095>
+<end>
+I recommend you think*
+long and hard before making*
+your final decision, sir.
+
+-------------------------------
+
+[m09_3420][2D35]
+
+Inspector!
+
+-------------------------------
+
+[m09_3430][2D36]
+
+<face:000B>
+<blink>This is Lynne! I'm at the park!<press>
+<face:00E4>
+<sound:0015><blink><shake:0128>We've been waiting to*
+hear from you! Have you*
+found the <red>evidence<black>?
+
+-------------------------------
+
+[m09_3440][2D37]
+
+<face:001B>
+Well, uh... The situation here is...*
+It's kind of difficult to explain...<press>
+<change:0007>
+<end>
+<sound:0017><blink><shake:0128>Sissel! If you're there, come*
+to the <red>park <black>immediately!
+
+-------------------------------
+
+[m09_3450][2D38]
+
+<face:00E4>
+<sound:0016>It looks like your help*
+is needed, Sissel.<press>
+<fchat:0001>
+Yeah, I guess so, huh?
+
+-------------------------------
+
+[m09_3460][2D39]
+
+<face:002B>
+I never saw that coming.<press>
+<change:0029>
+<end>
+The minister was <red>being*
+controlled<black>, huh?<press>
+<face:00E4>
+<shake:0128><blink>I'm truly sorry, Detective Jowd.*
+I have no excuse to offer you...<press>
+<face:0097>
+<sound:0016>You know, maybe*
+it was all for the best.<press>
+<face:00E4>
+<sound:0015><blink><shake:0128>What... do you mean...?<press>
+<face:009D>
+If you had never*
+been manipulated...<press>
+<change:00AD>
+<end>
+<sound:0016><blink>...you never would've believed*
+the power existed.<press>
+After all, you're a "realist," right?<press>
+It just goes to show you, you*
+never know when even the*
+worst things can turn out good.<press>
+<face:00E4>
+<shake:0128>Detective Jowd... I... I don't*
+know what to say...<press>
+<face:009D>
+All right, Sissel. You'd*
+better go help Lynne.<press>
+She's a good kid, but she's*
+got a habit of taking on*
+other people's problems.<press>
+<face:0029>
+Yeah. I know.*
+<blue>(Let's see... She's in <red>Temsik Park<blue>, eh?)<black>
+
+-------------------------------
+
+[m09_3470][2D3A]
+
+<face:00E4>
+I knew, actually... right*
+from the beginning.<press>
+<face:0029>
+<sound:0015><blink>Knew what?<press>
+<face:00E4>
+That you saved my life, the*
+first time we met tonight...<press>
+<face:0029>
+Oh, that.<press>
+<face:00E4>
+When I talked about that*
+miserable, pathetic, short-*
+sighted, disgraceful man...<press>
+...I knew I was talking about*
+me. I hated who I had become.<press>
+But you helped me*
+appreciate the truth.<press>
+<sound:0016>Now I truly understand the*
+wonderful support I've been*
+getting from so many.<press>
+Including that of*
+my loving family.<press>
+<face:0029>
+I'm glad to hear that.<press>
+<face:00E4>
+I'm starting to realize*
+what a <red>lucky man<black> I am.<press>
+And it's all thanks to you.
+
+-------------------------------
+
+[m09_3480][2D3B]
+
+<fchat:0001>
+Hmm... I wonder why the*
+inspector in white went*
+running out like that?<press>
+But I'm more concerned*
+about Lynne. She looked*
+really upset.<press>
+<blue>(I'd better go see her... fast.)<black>
+
+-------------------------------
+

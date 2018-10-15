@@ -1,0 +1,93 @@
+[m03_5710][1205]
+
+<fchat:0001>
+This appears to be some kind*
+of control panel. I might be*
+able to operate it...<press>
+Hmm, but it doesn't seem*
+to be responding. It's too*
+dark to really tell, though.<press>
+<blue>(I guess the first thing*
+I need to do is restore*
+that generator.)<black>
+
+-------------------------------
+
+[m03_5700][1206]
+
+<fchat:0001>
+<sound:0016>I've seen these things*
+before. Some kind of tool*
+for turning things.<press>
+It's leaning up against the*
+wall. If I knock it over, I*
+wonder if he'll notice?<press>
+Darn... It's too heavy.*
+It won't budge.
+
+-------------------------------
+
+[m03_6320][1329]
+
+<fchat:0001>
+This appears to be some kind*
+of control panel. I might be*
+able to operate it...<press>
+Nope, it's already on, and*
+the buttons are locked.<press>
+<blue>(I guess I can't operate*
+it right now.)<black>
+
+-------------------------------
+
+[m03_6400][1334]
+
+Now I'm back in the present,*
+and it's completely shrouded*
+in darkness.<space>
+I can't see it, but I can feel*
+the tension in the air.<space>
+It's a state of emergency.<press>
+And that's only natural.<space>
+With the power failure, all of the*
+cell bars opened automatically.<space>
+Plus, now a death-row inmate*
+is loose in the darkness.<press>
+I did what I promised Lynne.*
+I stopped the execution.<space>
+But that condemned criminal*
+is now in just as much danger*
+as before.
+
+-------------------------------
+
+[m03_6410][1335]
+
+<fchat:0001>
+The darkness is thick, but*
+it can also be our friend.<press>
+Right now, it's what*
+Detective Jowd is*
+hiding himself in.<press>
+<blue>(I hope the detective is*
+all right in this blackness...)<black><press>
+<blue>(I'd better find him... fast.)<black><press>
+<sound:0015><blink>Come to think of it, he*
+gave me some advice.<press>
+<sound:0016>Head for the spoon,*
+he said. I wonder what*
+that was all about?
+
+-------------------------------
+
+[m03_6420][1336]
+
+<fchat:0001>
+It's no use. This internal*
+phone isn't working.<press>
+I might be able to use*
+another phone, but for now*
+I'd better find another path.
+
+-------------------------------
+

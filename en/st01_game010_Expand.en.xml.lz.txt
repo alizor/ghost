@@ -1,0 +1,167 @@
+[m01_0050][0106]
+
+So long, sister.
+
+-------------------------------
+
+[m01_0160][0110]
+
+<center>Oof!
+
+-------------------------------
+
+[m01_0170][0111]
+
+<center>Hold it!
+
+-------------------------------
+
+[m01_0230][0118]
+
+<center>Who's there?!
+
+-------------------------------
+
+[m01_0280][0122]
+
+<center>My eyesight...*
+<center>and your future!
+
+-------------------------------
+
+[m01_0540][013A]
+
+<20FF_1900><center>And so now I'm going back in*
+<center>time, to witness this woman's*
+<center>last four minutes alive.<space>
+<center>Not as a fuzzy, distant*
+<center>memory of the past, but as*
+<center>a very real, "living" present...
+
+-------------------------------
+
+[m01_0550][013B]
+
+<face:000B>
+Wake up! Are you okay?!*
+What happened to you?!<press>
+<change:0019>
+<end>
+Oh, no...!*
+He's... dead...
+
+-------------------------------
+
+[m01_0560][013C]
+
+Who are you?!
+
+-------------------------------
+
+[m01_0570][013D]
+
+<face:007C>
+Here's my business card right here,*
+sister. My little golden friend.<press>
+<face:0007>
+You did this. You killed him,*
+didn't you?<press>
+<face:007C>
+Instead of playing "whodunit"*
+right now, you oughta be more*
+concerned about your own fate.
+
+-------------------------------
+
+[m01_0580][013E]
+
+<face:0007>
+Who are you?*
+Some sort of a hitman?*
+What do you want with me?<press>
+<face:007C>
+They said we had to rub*
+out all the last traces of*
+"Temsik" left in this country.<press>
+<face:0013>
+<blink>"Temsik"...?*
+What in the world is that?<press>
+<face:007C>
+Beats me. I just do what I'm told.<press>
+All I know is, you've got*
+nowhere else to run to.*
+Time to die, sister.
+
+-------------------------------
+
+[m01_0590][013F]
+
+<face:007D>
+<sound:0016><blink>As long as that bad-boy*
+wrecking ball stays right up*
+there where it belongs.
+
+-------------------------------
+
+[m01_0600][0140]
+
+<face:0013>
+Look, all I want to know is,*
+who are you?<press>
+<face:007C>
+You don't know me,*
+and I don't know you.<press>
+This is just business.
+
+-------------------------------
+
+[m01_0610][0141]
+
+<face:0007>
+A shotgun? Kind of a flashy weapon*
+for a hitman, dontcha think?<press>
+<face:007B>
+Not flashy. Just thorough.<press>
+They call me "Nearsighted Jeego,"*
+but I never let my prey get away.<press>
+<face:000D>
+Ever thought about just*
+buying a pair of glasses?<press>
+<face:007B>
+Well, sister. This is it.<press>
+Two things are looking*
+pretty dim right now...
+
+-------------------------------
+
+[m01_0620][0142]
+
+<face:0083>
+And there you have it.*
+The last four minutes of her life.<press>
+<face:002D>
+No...!<press>
+<face:0083>
+<sound:0015><blink>It's kind of ironic,*
+when you think about it.<press>
+A woman toyed with by fate, and*
+a man toyed with by a ghost...<press>
+<face:0029>
+But she still died.<press>
+<face:0083>
+Yes, and you can change*
+that -- with your ghost tricks!<press>
+Just like you did four minutes ago.<press>
+<face:002B>
+<blue>(Possess... and manipulate, eh...?*
+"Ghost," and then "Trick"...)<black><press>
+<face:0083>
+And you can rewind these*
+four minutes as many*
+times as you like, too.<press>
+Now then, are you ready?<press>
+<face:0027>
+Yeah. Let's do it.
+
+-------------------------------
+

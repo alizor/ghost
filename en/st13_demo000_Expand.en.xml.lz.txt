@@ -1,0 +1,275 @@
+[m13_0030][2F00]
+
+What the...?
+
+-------------------------------
+
+[m13_0045][2F02]
+
+What's the*
+matter?
+
+-------------------------------
+
+[m13_0050][2F03]
+
+All right, fine.
+
+-------------------------------
+
+[m13_0055][2F04]
+
+This is Point X!
+
+-------------------------------
+
+[m13_0060][2F05]
+
+Yes, sir!*
+I'll go get her!
+
+-------------------------------
+
+[m13_0070][2F06]
+
+<face:00D7>
+<sound:0179><center><green>I can't believe I forgot*
+<center>the trunk, of all things!<2BFF_7801><black><press>
+<face:00DA>
+<sound:0179><center><green>With such a small body,*
+<center>you probably only have*
+<center>a small brain to match.<2BFF_7801><black><press>
+<face:00D7>
+<sound:0179><center><green>Ouch, that hurts, Beauty!*
+<center>But that's okay... That's*
+<center>what I love about you.<2BFF_7801><black>
+
+-------------------------------
+
+[m13_0075][2F07]
+
+<face:00DA>
+<sound:0179><center><green>I spy a ladybug.<2BFF_7801><black><press>
+<face:00D7>
+<sound:0179><center><green>A ladybug...?<2BFF_7801><black><press>
+<face:00DA>
+<sound:0179><center><green>I just HATE little bugs...<2BFF_7801><black><press>
+<face:010D>
+<sound:0179><center><green>.........<2BFF_7801><black>
+
+-------------------------------
+
+[m13_0080][2F08]
+
+<face:0016>
+Wow... The van driver*
+was a detective...<press>
+<face:0027>
+It looks like it...<press>
+I noticed something, though.<press>
+<change:002B>
+<end>
+<sound:0016>That <red>conversation <black>he was*
+listening to just before the crash...*
+I remember hearing it before.<press>
+<face:000E>
+You're right. We just heard it*
+a few minutes ago, didn't we?<press>
+<face:002B>
+<blue>(Just after that conversation, the*
+detective suddenly passed out.)<black><press>
+<blue>(<red>What happened<blue>, I wonder?)<black><press>
+<face:0012>
+We already know the answer!*
+We saw what happened at*
+the restaurant.
+
+-------------------------------
+
+[m13_0085][2F09]
+
+<face:0044>
+<sound:0016><center>She burned up the "<red>ladybug<black>"...
+
+-------------------------------
+
+[m13_0087][2F0A]
+
+<face:000E>
+Sometimes, when a high-tech*
+bug like that is destroyed, it*
+emits <red>a loud signal<black>.<press>
+<change:0014>
+<end>
+<sound:0016>Loud enough to <red>knock a person*
+out<black> if they were listening to it*
+through headphones...<press>
+<face:0027>
+So <red>that's why <black>the detective*
+passed out, huh?<press>
+<face:0006>
+<blink>Bingo. Now let's stop*
+it from happening!
+
+-------------------------------
+
+[m13_0090][2F0C]
+
+<face:00CD>
+<sound:0015><blink>That's Lynne, our*
+rookie detective...<press>
+What's she doing at Point X?*
+Could it be... just a coincidence...?<press>
+And we just got an APB*
+on her a little while ago.*
+Something about...<press>
+<sound:0016>"...an EXTREMELY important case's*
+EXTREMELY important witness,*
+currently EXTREMELY on the run..."<press>
+Now what? Should I report*
+this to Inspector Cabanela...?
+
+-------------------------------
+
+[m13_0112][2F11]
+
+<face:00CE>
+They told us to stay off the radio*
+unless it was an emergency...*
+but I think I'd better call this in.<press>
+Poor Lynne... I wonder*
+what she did this time?<press>
+Inspector Cabanela is pretty*
+protective when it comes to*
+Lynne... He'd want to know.
+
+-------------------------------
+
+[m13_0120][2F12]
+
+<face:00D0>
+<sound:0017><blink><shake:0128>Detective Rindge?! This is Memry!<press>
+<face:00CE>
+What's the matter? It's not*
+time for your regular report.<press>
+<face:00D0>
+<blink><shake:0128>Listen to this! There's a suspicious*
+couple in the bar upstairs!<press>
+<sound:0016>I'm going to put a*
+"<red>ladybug<black>" on them.<press>
+<face:00CE>
+<sound:0015><blink>A "ladybug"...? You mean*
+a <red>listening device<black>?<press>
+Don't do anything to blow our*
+cover. Inspector Cabanela will be*
+furious.<press>
+<face:00D0>
+<shake:0128>But they're doing all kinds of*
+suspicious whispering! We have*
+to find out what they're saying!<press>
+You can pick up the*
+signal from your van.<press>
+Check out their conversation*
+for me, would you?<press>
+<face:00CE>
+All right, fine. Once you get*
+going on something, I know*
+there's no stopping you...<press>
+<face:00D0>
+Thanks. Later, then!<press>
+<face:00CE>
+<sound:0015><blink>Hold on.<press>
+Did you see a customer come*
+in just now? A young woman*
+with red hair and red boots?<press>
+<face:00D0>
+<sound:0016>Oh, yeah. That restless,*
+suspicious chick. Sure.<press>
+<face:00CE>
+"Suspicious"...?<press>
+<face:00D0>
+I mean, c'mon. As soon as she*
+sat down, she ordered three*
+glasses of water in a row.<press>
+And she spilled the second*
+glass on the table.<press>
+<face:00CE>
+Okay, fine. Keep your eye*
+on her, too, if you would.<press>
+<face:00D0>
+<sound:0017><blink><shake:0128>You got it!
+
+-------------------------------
+
+[m13_0130][2F13]
+
+<fchat:0003>
+Oh, wow. That waitress...*
+was an <red>undercover agent<black>!<press>
+<fchat:0001>
+And she apparently*
+thought you were*
+pretty suspicious, too.<press>
+<fchat:0003>
+<sound:0015><blink>Oh, yeah. Sorry! I was really*
+thirsty, so... you know.*
+Ha ha.<press>
+<fchat:0001>
+<blue>(Um, no, I don't know.)<black><press>
+<fchat:0003>
+<sound:0015><blink>Anyway, did you hear*
+what I heard? About the*
+"<red>listening device<black>?"<press>
+We have to do something*
+about that bug!<press>
+<fchat:0001>
+<blue>(So should we stay here, or*
+follow up on the waitress...?)<black><press>
+Looks like it's time*
+to make a decision.
+
+-------------------------------
+
+[m13_0151][2F16]
+
+<center>Idiot!
+
+-------------------------------
+
+[m13_0210][2F1F]
+
+The static is awful...
+
+-------------------------------
+
+[m13_0220][2F20]
+
+What the heck*
+is this?
+
+-------------------------------
+
+[m13_0230][2F21]
+
+I can't hear*
+very well...
+
+-------------------------------
+
+[m13_0190][2F24]
+
+<fchat:0001>
+I guess we can't use*
+the telephone now.<press>
+In the past, we can only use*
+the lines while the phone*
+is being used to make a call.<press>
+<fchat:0003>
+Hmm. That's not very*
+convenient...<press>
+<fchat:0001>
+We'll have to look for*
+something else to try.
+
+-------------------------------
+

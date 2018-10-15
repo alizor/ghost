@@ -1,0 +1,101 @@
+[m07_0000][2900]
+
+<face:00D8>
+Apparently, the police in this*
+country aren't so easily fooled.<press>
+<sound:0016>I had no idea word of*
+tonight's <red>deal <black>had leaked...
+
+-------------------------------
+
+[m07_0010][2901]
+
+Papa, help!
+
+-------------------------------
+
+[m07_0020][2902]
+
+I'm gonna*
+be killed!
+
+-------------------------------
+
+[m07_0030][2903]
+
+I hate you,*
+Mama!
+
+-------------------------------
+
+[m07_0040][2904]
+
+<face:00D8>
+Luckily, I managed to arrange it*
+so that the justice minister could*
+hear her "voice."<press>
+But what's taking <red>the goods<black>*
+so long to arrive? I'm*
+starting to get concerned...
+
+-------------------------------
+
+[m07_0050][2905]
+
+<fchat:0001>
+Uh-oh.<press>
+This woman doesn't*
+show any signs of*
+moving from that spot.<press>
+And I can't use the*
+telephone line, either...<press>
+<blue>(Hmm. It looks like*
+I fell into a <red>trap<blue>.)<black><press>
+<fchat:000A>
+<sound:0016><blink>All women are like traps.<press>
+<fchat:000A>
+<sound:0017><blink><shake:0128>Some are sweet traps,*
+others are bitter... Don't*
+you understand that?!<press>
+<fchat:0001>
+<blue>(Okaaay... Anyway, I think I'd*
+better rethink things here...)<black>
+
+-------------------------------
+
+[m07_0980][2906]
+
+<fchat:0001>
+I can't use the*
+phone right now.<press>
+<fchat:000A>
+<sound:0018><blink><shake:0128>Like I said! All women*
+are like traps!<press>
+<fchat:0001>
+That and this are*
+hardly related...<press>
+<blue>(When in the past, I can only*
+use the line when the phone*
+is being used to make a call.)<black>
+
+-------------------------------
+
+[m07_0990][2907]
+
+<face:0029>
+<red>A mysterious kidnapping<black>, eh?*
+I'd like to find out more about it...<press>
+<change:002B>
+<end>
+<blue>(But, right now, I have another*
+problem to solve first.)<black><press>
+<face:00E3>
+<sound:0018><blink><shake:0128>"Cause as little trouble for*
+others as possible" -- now*
+THAT'S a rule to live by!<press>
+<face:0034>
+Never mind that.*
+I'll just start over.
+
+-------------------------------
+

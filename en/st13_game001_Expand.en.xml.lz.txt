@@ -1,0 +1,219 @@
+[m13_0030][2F00]
+
+What the...?
+
+-------------------------------
+
+[m13_0045][2F02]
+
+What's the*
+matter?
+
+-------------------------------
+
+[m13_0050][2F03]
+
+All right, fine.
+
+-------------------------------
+
+[m13_0055][2F04]
+
+This is Point X!
+
+-------------------------------
+
+[m13_0060][2F05]
+
+Yes, sir!*
+I'll go get her!
+
+-------------------------------
+
+[m13_0070][2F06]
+
+<face:00D7>
+<sound:0179><center><green>I can't believe I forgot*
+<center>the trunk, of all things!<2BFF_7801><black><press>
+<face:00DA>
+<sound:0179><center><green>With such a small body,*
+<center>you probably only have*
+<center>a small brain to match.<2BFF_7801><black><press>
+<face:00D7>
+<sound:0179><center><green>Ouch, that hurts, Beauty!*
+<center>But that's okay... That's*
+<center>what I love about you.<2BFF_7801><black>
+
+-------------------------------
+
+[m13_0075][2F07]
+
+<face:00DA>
+<sound:0179><center><green>I spy a ladybug.<2BFF_7801><black><press>
+<face:00D7>
+<sound:0179><center><green>A ladybug...?<2BFF_7801><black><press>
+<face:00DA>
+<sound:0179><center><green>I just HATE little bugs...<2BFF_7801><black><press>
+<face:010D>
+<sound:0179><center><green>.........<2BFF_7801><black>
+
+-------------------------------
+
+[m13_0151][2F16]
+
+<center>Idiot!
+
+-------------------------------
+
+[m13_0270][2F19]
+
+<fchat:0003>
+He's on the move!<press>
+<fchat:0001>
+There isn't much time left.*
+We have to stop him... fast.<press>
+<sound:0015><blink><shake:0128>Otherwise, he's*
+going to crash into*
+the Chicken Kitchen!<press>
+<fchat:0003>
+Hmm... This is like*
+that game, isn't it?<press>
+<sound:0017><blink><shake:0128>A game of "chicken"!<press>
+<fchat:0001>
+.........<press>
+<sound:0016>Sorry, but what's a*
+"game of chicken"?<press>
+<fchat:0003>
+Sorry.<press>
+I'd better choose my*
+audience more carefully*
+the next time I tell a joke.<press>
+<fchat:0001>
+<blue>(Never mind that... We*
+have to do something!)<black>
+
+-------------------------------
+
+[m13_0160][2F1A]
+
+<face:00CE>
+It's almost time for that*
+<red>deal <black>to go down tonight.<press>
+I don't know what it's all about, but*
+I hear it's a pretty important case.<press>
+I just hope Lynne doesn't*
+get caught in the crossfire...<press>
+<sound:0015><blink>Oh, that's right! I forgot*
+about the <red>listening device<black>!
+
+-------------------------------
+
+[m13_0165][2F1B]
+
+<face:00CE>
+I hope Detective Memry planted*
+it someplace where it won't be*
+spotted...
+
+-------------------------------
+
+[m13_0170][2F1C]
+
+<fchat:0003>
+Uh-oh...<press>
+Remember what that woman*
+did right after this?<press>
+<fchat:0001>
+She took out her lighter...<press>
+<sound:0016>...and she burned*
+up the "<red>ladybug<black>"...<press>
+<fchat:0003>
+And that's what*
+caused the accident.<press>
+<fchat:0001>
+<blink><shake:0128><blue>(We're out of time! We*
+have to do something!)<black>
+
+-------------------------------
+
+[m13_0210][2F1F]
+
+The static is awful...
+
+-------------------------------
+
+[m13_0220][2F20]
+
+What the heck*
+is this?
+
+-------------------------------
+
+[m13_0230][2F21]
+
+I can't hear*
+very well...
+
+-------------------------------
+
+[m13_0280][2F22]
+
+<sound:0017>Aaaaagh!
+
+-------------------------------
+
+[m13_0290][2F23]
+
+<fchat:0003>
+<sound:0018><blink><shake:0128><1CFF_0600>What do you think*
+you're doing?!<press>
+<fchat:0001>
+Oh, uh...<press>
+I just thought I'd better*
+do "something"...<press>
+<fchat:0003>
+<sound:0017><blink><shake:0128>Well, hurry up and put*
+the seat back up!<press>
+<fchat:0001>
+<sound:0018><blink><shake:0128>I can't! It's too heavy!<press>
+<blue>(All I can do now is hope this*
+guy has strong ab muscles...!)<black>
+
+-------------------------------
+
+[m13_0330][2F28]
+
+<face:002B>
+Let's see. What have we*
+learned from this accident?<press>
+<change:0034>
+<end>
+<sound:0015><blink>I think maybe it's "<red>headphones*
+can be dangerous<black>."<press>
+<face:000D>
+Hmm. I just bought a pair of*
+red headphones recently.<press>
+<face:002B>
+<blue>(Yes, and now they're at the*
+bottom of your fish tank.)<black>
+
+-------------------------------
+
+[m13_0340][2F29]
+
+<face:002F>
+<sound:0015><blink>Oops. That was my bad.<press>
+<face:000D>
+I get that you felt like you had to*
+do "something," but THAT...?<press>
+<face:0034>
+Well, there really isn't much I*
+CAN do once the van is moving.<press>
+<change:002B>
+<end>
+<blue>(We should rethink this.*
+Was there any other*
+path before that...?)<black>
+
+-------------------------------
+

@@ -1,0 +1,584 @@
+[m04_0000][1B00]
+
+I just can't get the images*
+I saw at police headquarters*
+out of my head.<space>
+The person who shot me tonight...<space>
+...is the last person in the*
+world I want to believe did it.<press>
+Now I'm here at the place*
+she and I agreed to meet.<space>
+The restaurant the police were*
+staking out as "Point X."<space>
+But when I got here, I*
+found the place in ruins.
+
+-------------------------------
+
+[m04_0010][1B01]
+
+Whoa. What in the world*
+happened here?
+
+-------------------------------
+
+[m04_0011][1B02]
+
+<face:00FD>
+Oh, the heavens! What do I do?!*
+If I had known something like*
+this would happen...<press>
+<sound:0017><shake:0128><blink>I would've paid the*
+poor child more!<press>
+<sound:0017><shake:0128><blink>I would've cooked more*
+chicken for her!<press>
+<sound:0017><shake:0128><blink>I would've sung to her*
+as much as she liked,*
+until she'd had her fill!<press>
+.........*
+Actually, about the singing...<press>
+...she did tell me she'd had*
+her fill a time or two...<press>
+<fchat:0001>
+<blue>(The chef seems to*
+be in quite a panic.)<black>
+
+-------------------------------
+
+[m04_0015][1B03]
+
+<fchat:0001>
+<sound:0016><blink><blue>(Anyway, at least it*
+doesn't look like the*
+waitress is dead.)<black>
+
+-------------------------------
+
+[m04_0020][1B04]
+
+<fchat:0001>
+According to that police*
+radio conversation I heard,*
+Lynne should be here...<press>
+...but I don't see*
+her anywhere.<press>
+It seems like bad luck has*
+it in for that redhead...<press>
+...so I was half expecting to*
+see her in trouble again.<press>
+<sound:0016><blue>(...I spotted the corpse*
+of the <red>van driver<blue>.)<black>
+
+-------------------------------
+
+[m04_0030][1B05]
+
+<face:0010>
+<sound:0018><1CFF_0C00><shake:0128><blink>Look at me! I'm dead!*
+What took you so long?!<press>
+<face:002F>
+.........<press>
+<change:0034>
+<end>
+Well... that's one*
+way to greet a guy.<press>
+What happened here?<press>
+<face:0012>
+Hey, how should I*
+know? I'm the victim.<press>
+<face:002B>
+<blue>(Is it just my imagination, or*
+is she getting more and more*
+<red>brazen <blue>every time she dies?)<black><press>
+<face:0006>
+<sound:0015><blink>Oh, that's because I'm*
+a detective. Have to*
+be tough, you know.<press>
+<change:0004>
+<end>
+<shake:0128><blink>Well? And? How did it go?<press>
+Did you check out <red>tomorrow's*
+work schedule<black> for Prisoner D99?<press>
+<face:0029>
+Yeah, just like I promised.<press>
+<sound:0016>Actually, I have a few things*
+I want to ask you about, too...<press>
+<face:0006>
+<blink>Sure! We agreed to "use each*
+other," after all, right?<press>
+<face:0029>
+Okay, let's <red>swap info<black>, then.
+
+-------------------------------
+
+[m04_0550][1B07]
+
+D99's work schedule
+
+-------------------------------
+
+[m04_0555][1B08]
+
+Execution
+
+-------------------------------
+
+[m04_0560][1B09]
+
+Point X
+
+-------------------------------
+
+[m04_0570][1B0A]
+
+My murderer
+
+-------------------------------
+
+[m04_0590][1B0C]
+
+Why she shot me
+
+-------------------------------
+
+[m04_0040][1B0D]
+
+<face:002B>
+Just like you said, each*
+prisoner had a little*
+blackboard in his cell.<press>
+But, the thing is...<press>
+<change:0029>
+<end>
+<sound:0016>...there wasn't anything written*
+on Prisoner D99's blackboard.*
+It was blank.<press>
+<face:0016>
+<sound:0015><blink>What?<press>
+<face:0034>
+I guess maybe it means <red>his*
+schedule for tomorrow hasn't*
+been decided<black> yet...?<press>
+<face:001A>
+B-Blank...?<press>
+<change:0008>
+<end>
+<sound:0018><1EFF_0A00><blink><shake:0128>{2EFF}!<center>{17FF}Blank?! Nooooo!{17FF}<press>
+<face:0036>
+<blue>(Huh? I didn't think she'd lose*
+it over a blank blackboard...)<black><press>
+<change:002B>
+<end>
+How come you're so upset about*
+an undecided work schedule?<press>
+I get the feeling that, back when I*
+was alive, I never had much of a*
+schedule to worry about, myself...<press>
+<face:001A>
+Do you know what it means*
+when a prisoner doesn't have*
+a schedule for the next day...?<press>
+<face:0029>
+Huh? It means something?<press>
+<face:001A>
+It doesn't mean "<red>he doesn't*
+have work to do<black>." It's more*
+like "<red>he can't work<black>."<press>
+And that's because...<press>
+<change:0008>
+<end>
+<sound:0016><1CFF_1F00><blink>...he's going to be <red>executed<black>.<press>
+<face:0036>
+<sound:0015><blink><red>Executed<black>?!
+
+-------------------------------
+
+[m04_0045][1B0E]
+
+<face:001C>
+Do you know what Prisoner D99's*
+"<red>crime<black>" was?<press>
+<face:0029>
+I think so.<press>
+They said something about*
+him <red>murdering <black>his wife, right*
+in front of a family member...<press>
+<face:001C>
+That's what they say.*
+But it's not true.<press>
+<change:0010>
+<end>
+<sound:0018><shake:0128><blink>He would never... Detective*
+Jowd would never do*
+anything like that!<press>
+<change:0014>
+<end>
+And the death penalty*
+hasn't been enforced in this*
+country for a very long time...<press>
+Not for decades...<press>
+<change:001C>
+<end>
+Even if the prisoner wants*
+it... like in this case...<press>
+<face:0029>
+<sound:0015><blink>...!*
+<blue>(The prisoner <red>wants <blue>it...?!)<black><press>
+<face:0014>
+There's definitely something*
+else going on with this case.*
+I just know it.<press>
+<change:0010>
+<end>
+<sound:0018><shake:0128><blink>And I have to find out what!<press>
+And if his work schedule*
+is blank for tomorrow...*
+I have to do it right now!<press>
+<face:002B>
+<blue>(So this Prisoner D99...*
+<red>Detective Jowd<blue>...)<black><press>
+<blue>(He must be connected*
+to me in some way, too.)<black>
+
+-------------------------------
+
+[m04_0048][1B0F]
+
+<face:0044>
+<sound:0016><blink><center><blue>(After all...<black>*
+<center><red>he obviously knows me<blue>!)<black>
+
+-------------------------------
+
+[m04_0050][1B10]
+
+<face:002B>
+The police were staking this*
+restaurant out tonight.<press>
+<change:0029>
+<end>
+<sound:0016>They called it "<red>Point X<black>."<press>
+<face:0004>
+"<red>Point X<black>," huh? That's a*
+good name for this place.<press>
+<face:0034>
+That white-suited inspector was*
+surprised to find out you just*
+casually waltzed in here.<press>
+<face:0016>
+Inspector Cabanela...?<press>
+<face:0029>
+What in the world made you*
+pick this place, anyway?<press>
+<face:000E>
+<sound:0015><blink>I guess I'd have to*
+say... <red>because of you<black>.<press>
+<face:0036>
+<blink><shake:0128>Me? Huh?
+
+-------------------------------
+
+[m04_0055][1B11]
+
+<face:000E>
+Do you remember*
+that note I found?<press>
+<face:0036>
+Yeah, I remember.*
+<blue>(That note I <red>didn't get*
+a chance to read<blue>...)<black><press>
+<face:0014>
+It had a place and*
+a time written on it.*
+<red>"The Chicken Kitchen, 10:00."<black><press>
+In other words...<press>
+<face:002B>
+<sound:0016><blue>(...I was supposed to <red>meet*
+somebody<blue> here tonight...?)<black><press>
+<face:0004>
+Yup, apparently so.<press>
+<change:000E>
+<end>
+I just had to get that <red>information<black>*
+you were going to give me.<press>
+That's why I came here. It*
+was the only <red>lead <black>I had left.<press>
+<face:0029>
+And this "here" is <red>Point X<black>.*
+So that must mean...<press>
+<change:002B>
+<end>
+<sound:0016><blink><blue>(...the mark the police were*
+waiting for was... <red>me<blue>...?)<black>
+
+-------------------------------
+
+[m04_0060][1B12]
+
+<face:002B>
+<press>
+<press>
+<face:0014>
+<press>
+<press>
+<face:002B>
+<press>
+<face:0014>
+<press>
+<face:0029>
+<press>
+<face:0014>
+<press>
+<face:0029>
+<press>
+<face:0014>
+<press>
+<press>
+<face:0034>
+<press>
+<face:000E>
+<press>
+<face:002B>
+<press>
+<face:000E>
+<press>
+<change:0014>
+<end>
+<press>
+<face:0029>
+
+
+-------------------------------
+
+[m04_0070][1B13]
+
+<face:002B>
+On my way here...<press>
+...I stopped by the Chief*
+of Police's office.<press>
+<face:0004>
+Oh, it was just on*
+your way, was it?<press>
+<face:002B>
+<sound:0016>And while I was there, I saw*
+who did it. I saw my <red>murderer<black>.<press>
+<face:0016>
+<sound:0015><blink>You saw him? Where?! How?!<press>
+<face:002B>
+Not "him." "Her"... There was a*
+<red>security camera<black> set up there at*
+the junkyard where I got shot.<press>
+The security tape showed*
+<red>the person who shot me<black>.<press>
+<change:0029>
+<end>
+<sound:0016><1EFF_0A00><blink>It was you.
+
+-------------------------------
+
+[m04_0080][1B14]
+
+<face:001D>
+<NJ:003C>
+<center>No way...<press>
+<NJ:003C>
+<center>You're kidding... right?
+
+-------------------------------
+
+[m04_0081][1B15]
+
+<face:0029>
+What do you have to say*
+for yourself, Detective?<press>
+<face:001A>
+<sound:0018><blink><shake:0128>It wasn't me... I didn't shoot you!<press>
+<face:002B>
+If I recall, this is what you*
+said about who shot me...<press>
+"<red>My memory just isn't*
+clear<black> on that part."<press>
+<change:0029>
+<end>
+So how can you say for*
+sure that it wasn't you?<press>
+<face:0008>
+<blink><shake:0128>B-Because! I told you before!<press>
+You were supposed to give*
+me some information!<press>
+<face:002B>
+"<red>Information<black>," huh...?<press>
+<change:0027>
+<end>
+<sound:0016>Maybe that "information" was*
+the <red>reason <black>you shot me.<press>
+<face:0008>
+<sound:0015><blink>What...? What do you mean...?
+
+-------------------------------
+
+[m04_0090][1B16]
+
+<face:001C>
+You said you had information*
+on the case I'm looking into.<press>
+So I would hardly shoot*
+you before I even heard*
+that information, right?<press>
+<face:0034>
+<sound:0016>I agree. That wouldn't make*
+sense. If it WAS "<red>before<black>"...<press>
+<face:0016>
+<blink>Huh?<press>
+<face:002B>
+<sound:0015><blink>But what if it was <red>after*
+<black>you'd already gotten the*
+information from me?
+
+-------------------------------
+
+[m04_0100][1B17]
+
+<face:002B>
+I definitely told you*
+<red>something <black>then.
+
+-------------------------------
+
+[m04_0105][1B18]
+
+<face:0029>
+And, whatever it was, <red>it really*
+shocked you<black>. What did I tell you?<press>
+<face:001A>
+<sound:0018>{28FF}04<shake:0128><blink>...!<press>
+<change:0008>
+<end>
+I don't remember... I don't know!*
+You've got to believe me!<press>
+After you saved me, I thought*
+I got all of my memories back...<press>
+<change:001C>
+<end>
+<sound:0016>...but maybe I really didn't....<press>
+<change:0018>
+<end>
+<sound:0017><shake:0128><blink>You told me <red>something<black>...?*
+I can't remember that part at all!
+
+-------------------------------
+
+[m04_0108][1B19]
+
+<face:0029>
+You got the <red>information*
+<black>you wanted from me,*
+and then you shot me.<press>
+Isn't that what happened?<press>
+<face:0018>
+<shake:0128><blink>No... No! I didn't shoot you!<press>
+<change:001C>
+<end>
+.........<press>
+Please tell me... What did*
+you tell me that time?<press>
+What did I learn from you...?<press>
+<face:0029>
+.........
+
+-------------------------------
+
+[m04_0110][1B1A]
+
+<face:001C>
+<1EFF_6400>.........<press>
+So... what are you*
+going to do now...?<press>
+<change:0014>
+<end>
+<1DFF_0900><0001_5A00>I mean, you fulfilled*
+your goal, right?<press>
+You found out who shot you.<press>
+<face:0029>
+.........<press>
+<face:000E>
+Are you going to get revenge?*
+That would be easy enough to do.<press>
+<change:0014>
+<end>
+All you have to do is not save me.<press>
+<face:0029>
+.........
+
+-------------------------------
+
+[m04_0120][1B1B]
+
+<face:0044>
+<sound:0000><NJ:003C>
+<center>Is this the <red>ending <black>I was hoping for?<press>
+<NJ:003C>
+<center>Had I unraveled all the*
+<center>"<red>mysteries of me<black>"?
+
+-------------------------------
+
+[m04_0130][1B1C]
+
+<face:0027>
+<1CFF_2000><blink>What am I going to do now? I'm*
+going to save you, that's what.<press>
+<face:0016>
+<sound:0015><blink>You are?<press>
+<face:0034>
+I want to know <red>everything<black>.<press>
+Who I was, why I was killed...
+
+-------------------------------
+
+[m04_0140][1B1D]
+
+<face:0044>
+<center><blue>(And I'd like to know who*
+<center>those guys are, too.)<black>
+
+-------------------------------
+
+[m04_0150][1B1E]
+
+<face:002B>
+I want answers, and*
+I'm gonna find them.<press>
+<change:0027>
+<end>
+<sound:0016>But to do that, I'm*
+gonna need your help.<press>
+<face:0016>
+.........<press>
+<change:0014>
+<end>
+<blink>Okay.<press>
+I won't say "thank you." Not yet.<press>
+And I won't say "I'm sorry," either.<press>
+But I'll help see to it that *
+you get your <red>answers<black>.<press>
+<face:0027>
+Good.<press>
+Now, I think it's time*
+to go back to the past.<press>
+<change:0034>
+<end>
+I can't leave you lying*
+flattened under a huge chunk*
+of chicken forever, after all.<press>
+<face:001C>
+<shake:0128>#groan#
+
+-------------------------------
+
+[m04_0170][1B22]
+
+Here you go!
+
+-------------------------------
+

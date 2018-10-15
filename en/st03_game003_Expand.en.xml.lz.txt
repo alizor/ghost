@@ -1,0 +1,324 @@
+[m03_5000][1000]
+
+I went to try and rescue Prisoner D99.<space>
+Even under ordinary*
+circumstances, that prison*
+has a strange atmosphere...<space>
+But, this time, there's something*
+even stranger about it.
+
+-------------------------------
+
+[m03_5001][1001]
+
+An execution... With my memory*
+gone, I don't have a clear image*
+of what that is in my head.<space>
+But even I can sense the*
+strong feeling of foreboding*
+that hangs in the air.<press>
+<space>
+*
+Maybe I'm too late...?
+
+-------------------------------
+
+[m03_5010][1002]
+
+<face:00EB>
+<sound:0018><shake:0128><blink>So! How is it going?! With the*
+generator! In the basement?!
+
+-------------------------------
+
+[m03_5011][1003]
+
+<face:00ED>
+They're trying to fix it now. It's*
+gonna take a while, they said.<press>
+They haven't even gotten the*
+internal phone there back up yet.<press>
+<face:00EB>
+<shake:0128>I just hope! The rowdies!*
+Don't rush the guard room!<press>
+<face:00ED>
+Uh, we don't have*
+any "rowdies" here.<press>
+And, what's more...<press>
+<sound:0016>...the one who committed*
+the most atrocious crime isn't*
+even here anymore at all.<press>
+<face:00EB>
+<sound:0018><shake:0128><blink>You promised! Not to talk!*
+About that!
+
+-------------------------------
+
+[m03_5012][1004]
+
+<face:00ED>
+Look, would ya knock it*
+off with that weird flippin'*
+and floppin' around?<press>
+I can't stand lookin' at it.*
+If you don't stop, I just*
+might hafta pound ya...<press>
+<face:00EB>
+<sound:0017><blink><shake:0128>This?! This is a glorious dance!*
+That's been passed down!*
+In my family for generations!<press>
+"When you don't know! What else*
+to do! Dance! Dance! Dance!"<press>
+<sound:0015><blink>We call it! The "<red>Panic Dance<black>!"
+
+-------------------------------
+
+[m03_5020][1005]
+
+<face:00F3>
+This is Special Detention, calling*
+from the death chamber. The*
+internal phone is finally back up.<press>
+It's pitch-black down here,*
+though, until they get the*
+generator going again.<press>
+How's it going up there?<press>
+<face:00EE>
+The phone's been ringing off*
+the hook from headquarters.<press>
+<face:00F3>
+Oh, boy. We can't let the*
+existence of this prison become*
+known to the outside world.<press>
+We'll have to round up*
+the prisoners somehow...*
+Is Bailey dancing?
+
+-------------------------------
+
+[m03_5030][1006]
+
+<face:00EE>
+Yup. You should see him.<press>
+<face:00F3>
+Take a video of it. We can all*
+watch it together when we're*
+done.<press>
+<face:00EE>
+Once the generator is back up, I'll*
+record it with the security camera.
+
+-------------------------------
+
+[m03_5040][1007]
+
+<fchat:0001>
+Despite how it looks,*
+this situation seems*
+pretty serious.<press>
+Bailey's dance is... uh,*
+certainly intriguing.<press>
+But that telephone call*
+that came in is even*
+more interesting.<press>
+<sound:0016><blue>(The man said he was*
+calling from the <red>death*
+chamber<blue>, eh...?)<black><press>
+Now that I have the*
+<red>extension number<black>, I*
+should go check it out.
+
+-------------------------------
+
+[m03_5050][1008]
+
+<face:00EB>
+<sound:0018><shake:0128><blink>Generator! Still not up?! I can't!*
+Keep this up! Much longer!
+
+-------------------------------
+
+[m03_5051][1009]
+
+<face:00ED>
+Believe me, nobody is askin'*
+you to. Why dontcha just stop?<press>
+<face:00EB>
+<sound:0017><shake:0128><blink>Will you dance! Instead, then?!<press>
+<face:00ED>
+<sound:0018><shake:0128><blink>Me?! You kiddin' me?!<press>
+<face:00EB>
+Somebody! Has to do it!
+
+-------------------------------
+
+[m03_5060][100A]
+
+<face:00EB>
+<sound:0017><shake:0128><blink>If that somebody! Is me! I'll*
+keep dancing! Until I drop!
+
+-------------------------------
+
+[m03_9000][1900]
+
+Internal extension
+
+-------------------------------
+
+[m03_9010][1901]
+
+External line
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9050][1905]
+
+Special Detention
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+
+[m03_9070][1908]
+
+<face:0044>
+The screen shows*
+rows of tiny rooms.<press>
+The rooms are really, really*
+small. And you can see right*
+into them from the outside.<press>
+I suppose the open bars keep*
+the rooms airy, but I wouldn't*
+wanna live in one, myself...<press>
+I wonder where these*
+little rooms are?
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+
+[m03_2000][0C00]
+
+<face:00EB>
+Doesn't anybody! Understand!*
+How this feels?<press>
+To dance! In the dark!*
+With nobody watching!
+
+-------------------------------
+
+[m03_2010][0C01]
+
+<face:00ED>
+Well, there's one thing ya*
+don't have to worry about.<press>
+<face:00EB>
+<sound:0015><blink><shake:0128>What's! That?!<press>
+<face:00ED>
+Even if the lights come back on...<press>
+<sound:0016>...the "nobody watching" part*
+ain't gonna change.
+
+-------------------------------
+
+[m03_2020][0C02]
+
+<face:00EB>
+<sound:0018><blink><shake:0128>What! Did you! Say to me?!<press>
+<sound:0017><blink><shake:0128>That! Does it! Now you've*
+made me! All the more!*
+Determined to dance!
+
+-------------------------------
+
+[m03_2030][0C03]
+
+<face:00EB>
+This "Panic Dance"! That has been*
+passed down! In our family! For*
+generations!<press>
+There's just! One problem! With it!
+
+-------------------------------
+
+[m03_2050][0C04]
+
+<face:00EB>
+<sound:0018><blink><shake:0128>Hey! Quit acting so*
+bored! And ask me!<press>
+<sound:0015><blink>Ask me! "What's the*
+problem! Bailey?!"
+
+-------------------------------
+
+[m03_2060][0C05]
+
+<face:00ED>
+Yeah, yeah. What's*
+the problem, Bailey?
+
+-------------------------------
+
+[m03_2070][0C06]
+
+<face:00EB>
+The problem is!<press>
+<sound:0017><blink><shake:0128>It's hard to know! <red>When to stop<black>!
+
+-------------------------------
+
+[m03_2080][0C07]
+
+<face:00EB>
+<sound:0018><blink><shake:0128>Hey! Quit acting so bored!*
+And pay attention!<press>
+<face:00ED>
+Guess it's hard for you to know*
+when to stop talkin', too.
+
+-------------------------------
+
+[m03_3070][0D08]
+
+.........
+
+-------------------------------
+

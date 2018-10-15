@@ -1,0 +1,622 @@
+[m03_8000][1800]
+
+On the other end of the telephone*
+line, the scene that greets me*
+tells me one simple fact...
+
+-------------------------------
+
+[m03_8001][1801]
+
+...that our great escape plan*
+has ended in failure.
+
+-------------------------------
+
+[m03_8010][1802]
+
+<face:0097>
+Never expected to see you*
+here, Inspector Cabanela.<press>
+<face:0089>
+I beliiieve that's my*
+line, my old friend.<press>
+<face:009D>
+What were you doing here?<press>
+<face:0089>
+I beliiieve that's my*
+line, too, clearly.
+
+-------------------------------
+
+[m03_8020][1803]
+
+<face:0090>
+<sound:0016>I came to... attend your execution.*
+They told me what time it was...<press>
+Couldn't get in to the chamber,*
+so I was observing a moment*
+of silence here.<press>
+<change:0089>
+<end>
+<sound:0015><blink>And when I looked up, my eyes full*
+of tears, there you were, baby.<press>
+<face:0097>
+It's just the way things turned out.<press>
+<change:009D>
+<end>
+I took part in what seemed like*
+a fun game, and here I am.<press>
+<face:0089>
+Here's what I wish, my old friend.<press>
+<change:0094>
+<end>
+<sound:0016><blink><red>Wish it was anybody but*
+me<black> who found you here...<press>
+<face:0097>
+.........
+
+-------------------------------
+
+[m03_8030][1804]
+
+<face:0089>
+'Cause now that I've found you,*
+maaan, I have to turn you in.<press>
+<face:0097>
+You have to stay spotlessly*
+clean, after all...
+
+-------------------------------
+
+[m03_8040][1805]
+
+<fchat:0001>
+There's a certain*
+"something" between*
+these two.<press>
+Is it a warm "something"?*
+Or is it cold?<press>
+Whatever it is,*
+it's immeasurably deep.<press>
+I should probably see what*
+Detective Jowd has to say.
+
+-------------------------------
+
+[m03_8230][1806]
+
+<fchat:0001>
+If I leave here now,*
+Detective Jowd*
+will be taken away.<press>
+I should see what he has to*
+say before that happens.<press>
+<blue>(Besides, he looks like*
+he's getting tired with*
+his hands up like that.)<black>
+
+-------------------------------
+
+[m03_8050][1807]
+
+<face:009D>
+Thanks for coming. I wanted*
+to say goodbye to you.<press>
+<change:00AD>
+<end>
+<sound:0016>As you can see, I guess I'm not*
+going to be much help to you.<press>
+<face:0029>
+What's going to happen to you?<press>
+<face:009D>
+<sound:0015><blink>Being executed tonight is*
+just about the only thing*
+on my schedule, it seems.<press>
+<face:002B>
+Executed, huh...?<press>
+Death is pretty much*
+meaningless to me...<press>
+<change:0027>
+<end>
+Anyway, I guess we'll be*
+seeing each other again.<press>
+<face:009D>
+.........<press>
+<face:0027>
+By the way, there's something*
+I'm looking for...<press>
+<face:009D>
+Oh, that's right. Your lost memory.<press>
+<face:0029>
+You know things I'd like to*
+know. Would you mind if I*
+asked you a few questions?<press>
+<face:009D>
+In return for tonight's fun*
+little game, is that it?
+
+-------------------------------
+
+[m03_8060][1808]
+
+About Sissel
+
+-------------------------------
+
+[m03_8061][1809]
+
+About Cabanela
+
+-------------------------------
+
+[m03_8062][180A]
+
+Execution
+
+-------------------------------
+
+[m03_8063][180B]
+
+The other murder
+
+-------------------------------
+
+[m03_8070][180C]
+
+<face:002B>
+I saw it, you know.<press>
+That <red>picture <black>you were painting*
+in your cell tonight.<press>
+That was <red>me<black>.<press>
+<change:0029>
+<end>
+<sound:0016>Which means you must <red>know <black>me.<press>
+<face:009D>
+.........<press>
+I'm very sorry, but...<press>
+<change:0097>
+<end>
+<blink>...I can't talk to you*
+about that now.<press>
+<face:002D>
+<sound:0018><blink><shake:0128>Wh-What?! Why not?!<press>
+<face:0097>
+Because I...<press>
+<change:0099>
+<end>
+<sound:0016>{28FF}0y<blink>...I don't know <red>your true face<black>.<press>
+<face:0036>
+<sound:0015><blink><shake:0128>My... "true face"...?<press>
+<face:0097>
+I'm a detective. I can only talk*
+about what I'm sure of.<press>
+However...<press>
+<change:009D>
+<end>
+...I can give you one <red>lead<black>, at least.<press>
+<face:0029>
+<sound:0015><blink>A lead? What is it?<press>
+<face:0097>
+A long time ago, I gave Lynne*
+something to hold on to for me.<press>
+<sound:0016>It was a <red>music box<black>.<press>
+<face:0029>
+<shake:0128><blink>...!<press>
+<face:009D>
+If you ever come across it,*
+I advise you to open it.<press>
+<change:00AD>
+<end>
+It might jog your memory.<press>
+<face:002B>
+{28FF}<0001_7800><blink><blue>(That <red>wooden box<blue> I found*
+in Lynne's apartment!)<black><press>
+<face:0097>
+And that's the only help*
+I can give you right now.
+
+-------------------------------
+
+[m03_8080][180D]
+
+<face:0029>
+That man pointing the gun*
+at you right now... They say*
+he's your "<red>good friend<black>"...<press>
+<face:0097>
+We were, when we were in the*
+detective division together.*
+That was a long time ago.<press>
+Now he's the head of the*
+Special Investigation Unit.*
+The top of the elite...<press>
+Getting ahead is the only*
+thing he thinks about now.<press>
+<sound:0016>And that white coat of his is the*
+symbol of his <red>determination<black>.<press>
+<face:0036>
+His white coat...?<press>
+<face:0097>
+For somebody looking to get*
+promoted to the top, what's the*
+one thing they're afraid of most?<press>
+<sound:0015><blink>A <red>blot <black>on their record, of course.*
+Like a stain on a pure-white coat...<press>
+<change:00AD>
+<end>
+Who would promote a man with*
+a coat covered in stains?<press>
+<face:002B>
+<blue>(If it was me, I'd go with a black*
+coat that didn't show the stains.)<black><press>
+<face:0097>
+The world is full of excellent*
+candidates. Even one mistake*
+could be the end of a career.<press>
+<face:0034>
+But everybody makes*
+mistakes, right?<press>
+<face:0097>
+Nevertheless, Cabanela has*
+chosen the path of the white coat...<press>
+<sound:0016>And he'd do anything --*
+anything at all -- to hide*
+his coat's "<red>shadows<black>."<press>
+<face:002B>
+Like send his good friend*
+to the gallows...<press>
+<face:009D>
+Because that's <red>the right thing to do<black>.*
+I'm a condemned criminal, after all.<press>
+<change:00AD>
+<end>
+And that's why he has that gun*
+pointed at me right now.
+
+-------------------------------
+
+[m03_8090][180E]
+
+<face:0029>
+Is your execution really*
+the right thing to do?<press>
+<face:0097>
+I had a fair trial, and that's what*
+was decided. No problem there.<press>
+<face:0038>
+But still...<press>
+<face:0097>
+<sound:0016>This is the <red>punishment<black>*
+that I should receive...<press>
+...in order to bring a final*
+close to that case and*
+put it to rest forever...<press>
+<face:0038>
+.........<press>
+Lynne believes you're innocent.*
+She's running around right now*
+trying to prove it.<press>
+<change:0029>
+<end>
+Is that all you have to leave her*
+with, "No problem there"?<press>
+<face:0097>
+.........<press>
+I...<press>
+I was sentenced to the death*
+penalty for killing my wife, Alma.<press>
+<sound:0016>But, to me, that's not all it was for.<press>
+<face:002B>
+<sound:0015><blink>What do you mean, "<red>that's*
+not all it was for<black>"?<press>
+<face:0097>
+I'm talking about something that*
+happened even before this case.<press>
+<change:0099>
+<end>
+{28FF}00<blink><red>I stole somebody else's life.<black><press>
+<face:002D>
+<sound:0017><blink><shake:0128>Wh-What?!<press>
+{28FF}<0001_5A00><wait>
+
+-------------------------------
+
+[m03_8150][180F]
+
+<face:0097>
+It was ten years ago.*
+I'll never forget it...<press>
+That day, I saved the*
+life of a little girl...<press>
+<change:0099>
+<end>
+<sound:0016><blink>...and I stole away*
+the life of a man.<press>
+<face:002B>
+<blue>(Ten years ago... the*
+life of a little girl...)<black><press>
+Could that "little girl" be...<press>
+<change:0029>
+<end>
+<sound:0016>...<red>Lynne<black>?<press>
+<face:0097>
+<sound:0015><blink>...!<1EFF_7800><press>
+<blink><shake:0128>She told you about that?<press>
+<face:0027>
+Yeah. She said you were her <red>hero<black>.
+
+-------------------------------
+
+[m03_8160][1810]
+
+<face:010D>
+<sound:0017><blink>{27FF}1e{2FFF}Now, just calm down!*
+{2FFF}And drop that weapon!
+
+-------------------------------
+
+[m03_8161][1811]
+
+<face:010D>
+<sound:0017><blink>{27FF}1eS-Stay back!*
+If you come any closer...<press>
+<sound:0018><blink>{27FF}1e...I'll shoot her!
+
+-------------------------------
+
+[m03_8170][1812]
+
+<face:00BC>
+<sound:0000><NJ:003C>
+<center>Ten years ago, in a certain park,*
+<center>a little girl was taken hostage.<press>
+<NJ:003C>
+<center>I was still young then. I didn't*
+<center>have any self-control.<press>
+<NJ:003C>
+<center>I remember asking*
+<center>myself at the time...<press>
+<NJ:003C>
+<center>"Jowd, are you going*
+<center>to shoot this guy?"<press>
+<NJ:003C>
+<center>And this is what I answered...<press>
+<NJ:003C>
+<center>"Yeah. I'm going to shoot."
+
+-------------------------------
+
+[m03_8171][1813]
+
+<face:00BC>
+<sound:0000><NJ:003C>
+<center>My hand was shaking a little.*
+<center>If my hand slipped...<press>
+<NJ:003C>
+<center>...the man might die. Even the*
+<center>little hostage girl was in danger.<press>
+<NJ:003C>
+<center>Nevertheless, that was my answer:*
+<center>"Yeah. I'm going to shoot."
+
+-------------------------------
+
+[m03_8179][1814]
+
+<face:00BC>
+<sound:0000><NJ:0078>
+<center>And the man died. I took his life.
+
+-------------------------------
+
+[m03_8180][1815]
+
+<face:0097>
+Lynne was never told the outcome.*
+She was so young at the time...<press>
+I don't deserve to be called a*
+"hero." What I deserve is...<press>
+<change:0099>
+<end>
+<blink>..."execution."
+
+-------------------------------
+
+[m03_8100][1816]
+
+<face:0097>
+Ready to go?<press>
+<change:009D>
+<end>
+My arms are getting tired.<press>
+<face:0089>
+You got it, baby. Time for the*
+big shooow of haulin' you in.
+
+-------------------------------
+
+[m03_8190][1817]
+
+<face:0097>
+<sound:0015><blink>Oh, that's right...<press>
+<change:009D>
+<end>
+<sound:0016>Just let me make*
+one last phone call.<press>
+<face:0089>
+That's a biiig favor to ask so*
+casually, my old friend...<press>
+Tell you what I'll dooo. I'll pretend*
+I'm not watchin'. I'll be listenin',*
+though. On that you can rely.
+
+-------------------------------
+
+[m03_8200][1818]
+
+<face:009D>
+Sissel, you've got your own path*
+to follow. You'd better hurry.<press>
+<fchat:0001>
+<sound:0015><blink>My own path...?<press>
+<face:00AD>
+Lynne is at the justice minister's*
+office right now, right?<press>
+It might not be a bad idea to say*
+my final farewell to him, too.
+
+-------------------------------
+
+[m03_8210][1819]
+
+<face:0008>
+<sound:0017><blink><shake:0128>H-Hello?! Everything's fine here!
+
+-------------------------------
+
+[m03_8240][181A]
+
+.........
+
+-------------------------------
+
+[m03_8211][181B]
+
+<face:009C>
+<sound:0016>Is this the Chicken Kitchen?*
+I'd like to request a delivery.<press>
+<face:0008>
+<blink><shake:0128>Um...<press>
+<change:000C>
+<end>
+<sound:0017><blink><shake:0128>The Chicken Kitchen is next door!<press>
+<blink><shake:0128>Goodbye!
+
+-------------------------------
+
+[m03_8220][181C]
+
+<face:0097>
+Hmm...<press>
+It sounds like she's in*
+some kind of trouble.<press>
+<fchat:0001>
+It does, doesn't it?<press>
+<face:00AD>
+Go help her out, would you, Sissel?
+
+-------------------------------
+
+[m03_8110][181D]
+
+<face:009D>
+Sorry to keep you waiting,*
+Inspector. Ready to go?
+
+-------------------------------
+
+[m03_8111][181E]
+
+<face:0089>
+<blink>Oh, before I forgeeet...
+
+-------------------------------
+
+[m03_8112][181F]
+
+<face:0089>
+<sound:0016>I have a little something for you.
+
+-------------------------------
+
+[m03_8120][1820]
+
+<face:008C>
+A present, if you will. There's*
+nothing else like it, baby!<press>
+<face:0097>
+<sound:0015><blink>If there's nothing else*
+like it, don't throw it.
+
+-------------------------------
+
+[m03_8121][1821]
+
+<face:0097>
+What's this? A pocket watch?<press>
+<change:009D>
+<end>
+Considering my situation,*
+it's the last thing in the*
+world I need right now.
+
+-------------------------------
+
+[m03_8121a][1822]
+
+<face:008C>
+<sound:0015><blink>Forgive me, maaan. Let's just say*
+I'm no good at chooosing presents.
+
+-------------------------------
+
+[m03_8130][1824]
+
+<face:0096>
+This is it, Sissel. Let me just*
+leave you with one thing.<press>
+<sound:0016>Don't trust other people's*
+memories. Look for what you*
+seek with your own eyes.<press>
+<fchat:0001>
+I'll remember that.
+
+-------------------------------
+
+[m03_8140][1825]
+
+<center>They're gone. There's*
+<center>nothing left here...<space>
+<center>No hope... and no cores, either.
+
+-------------------------------
+
+[m03_8141][1826]
+
+<center>Without any cores, I*
+<center>can't follow after them.<space>
+<center>This is the end of my "adventure."<space>
+<center>I feel pretty dejected, but I*
+<center>guess I'd better go find Lynne...
+
+-------------------------------
+
+[m03_8142][1827]
+
+<center>I'll follow the path Detective*
+<center>Jowd pointed out to me...<space>
+<center>...the path to the justice minister's*
+<center>office, where Lynne went to*
+<center>try and stop the execution.
+
+-------------------------------
+
+[m03_8250][1828]
+
+<fchat:0001>
+Nothing here,*
+same as before.<press>
+I guess I don't need to come*
+back here anymore...
+
+-------------------------------
+
+[m03_8260][1829]
+
+<fchat:0001>
+...unless I ever feel the urge*
+to see this moon again...
+
+-------------------------------
+

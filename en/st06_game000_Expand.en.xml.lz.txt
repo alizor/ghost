@@ -1,0 +1,158 @@
+[cicel_opmono][2400]
+
+<center>The telephone line guided*
+<center>me to Lynne's apartment.<space>
+<center>Fortunately, Lynne isn't*
+<center>here yet. But, unfortunately,*
+<center>the hitman is...<press>
+<center>And there are a couple of other*
+<center>unfortunate little developments*
+<center>waiting for me it seems...
+
+-------------------------------
+
+[mono2][2403]
+
+<fchat:0001>
+Hmm...<press>
+<sound:0016>It looks like there's*
+an unlucky little*
+lady here tonight.
+
+-------------------------------
+
+[mono3][2404]
+
+<fchat:0001>
+And an even unluckier*
+<red>little doggie<black>...<press>
+The poor, brave*
+little <red>warrior<black>.<press>
+<sound:0016>He must've been trying*
+to defend his mistress.
+
+-------------------------------
+
+[mono4][2405]
+
+<fchat:0001>
+If Lynne came home now...<press>
+.........<press>
+<blue>(I have to do something*
+about this situation...*
+and fast.)<black>
+
+-------------------------------
+
+[killer_mes][2406]
+
+<face:007F>
+That Nearsighted Jeego is*
+really losing his touch.<press>
+It looks like the title of*
+"head of the hitman*
+division" will soon be mine.<press>
+A pro never takes his*
+eyes off his prey.<press>
+That's the secret to*
+getting promoted.<press>
+<fchat:0001>
+What is this fool mumbling*
+about, sitting there stuffing*
+his face with donuts?<press>
+But never mind that.*
+I'd better rescue*
+that poor little lady.<press>
+<blue>(And that poor little*
+doggie, too, of course.)<black>
+
+-------------------------------
+
+[success][2408]
+
+{07FF}<change:010C>
+U<0CFF_5A00>{06FF}<NJ:003C>
+Huh? Where am I...?<0CFF_2800><sound:0016><blink><press>
+<sound:0018><shake:021E>And, more to the*
+point, WHO am I?<press>
+<face:0029>
+.........<press>
+<face:010C>
+<sound:0018><shake:021E>{2EFF}n{17FF}Who am I?!{17FF}<press>
+<face:0036>
+<sound:0015><blink>Uh, are you talking to me?<press>
+<face:010C>
+<shake:0128>Of course! Do you see*
+anybody else around here?!<press>
+<face:002B>
+<blue>(If I remember right, the dead*
+don't have <red>voices<blue>. Their thoughts*
+reach the other person directly.)<black><press>
+<blue>(I guess that explains why this*
+dog is talking to me right now.)<black><press>
+<change:0029>
+<end>
+This is your mistress's*
+apartment. And you are...<press>
+<change:0034>
+<end>
+<sound:0016>...presumably, the <red>little*
+doggie<black> who died here.<press>
+<face:010C>
+"<red>Died<black>"? So I'm dead, huh?<press>
+<face:002B>
+<blue>(Let's see. The dead lose*
+their memories. They even*
+forget <red>what they look like<blue>.)<black><press>
+<sound:0016><blue>(And so that's what this*
+blue "<red>flame<blue>" shape is*
+all about...)<black><press>
+<face:010C>
+<sound:0015><blink>Oh...!<press>
+{07FF}<0CFF_1400><show><wait>
+
+-------------------------------
+
+[success2][2409]
+
+{06FF}<sound:0017><shake:021E><change:0076>
+1<blink>There's no time to lose!<0CFF_0600><blink><press>
+<sound:0018><shake:021E>Miss Kamila!*
+My Miss Kamila is in trouble!<press>
+<face:0036>
+<sound:0015><blink>...!<press>
+<face:002D>
+<sound:0016><blink><shake:0128>You mean, you <red>remember<black>?!*
+You know who you are?!<press>
+<face:0076>
+<sound:0033><blink><shake:021E>That's right. I'm Missile.*
+Nice to meet you!<press>
+<sound:0033><blink><shake:021E>I'm a Pomeranian!<press>
+<face:002B>
+<blue>(Well...)<black><press>
+<blue>(I guess now I know it's*
+possible for the dead to*
+<red>regain their memories<blue>...)<black><press>
+<change:0027>
+<end>
+<sound:0015><blink><shake:0128><blue>(...thanks to this little doggie!)<black><press>
+<face:0076>
+<sound:0018><shake:021E>Miss Kamila! Miss Kamilaaaaa!<press>
+My Miss Kamila is in trouble!*
+And I vowed to devote my*
+life to protecting her!<press>
+<sound:0018><shake:021E>But I died before I could*
+rescue her! How could I*
+let her down like this?!<press>
+<face:0027>
+So you're more worried about*
+your mistress's safety than*
+your own death, eh?<press>
+I like your moxie, little doggie.<press>
+<blue>(Looks like it's time to go*
+<red>back <blue>to four minutes before*
+this little guy's death.)<black><press>
+<blink><blue>(Time to save this his life!)<black>
+
+-------------------------------
+

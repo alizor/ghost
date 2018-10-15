@@ -1,0 +1,594 @@
+[m13_0030][2F00]
+
+What the...?
+
+-------------------------------
+
+[m13_0045][2F02]
+
+What's the*
+matter?
+
+-------------------------------
+
+[m13_0050][2F03]
+
+All right, fine.
+
+-------------------------------
+
+[m13_0055][2F04]
+
+This is Point X!
+
+-------------------------------
+
+[m13_0060][2F05]
+
+Yes, sir!*
+I'll go get her!
+
+-------------------------------
+
+[m13_0120][2F12]
+
+<face:00D0>
+<sound:0017><blink><shake:0128>Detective Rindge?! This is Memry!<press>
+<face:00CE>
+What's the matter? It's not*
+time for your regular report.<press>
+<face:00D0>
+<blink><shake:0128>Listen to this! There's a suspicious*
+couple in the bar upstairs!<press>
+<sound:0016>I'm going to put a*
+"<red>ladybug<black>" on them.<press>
+<face:00CE>
+<sound:0015><blink>A "ladybug"...? You mean*
+a <red>listening device<black>?<press>
+Don't do anything to blow our*
+cover. Inspector Cabanela will be*
+furious.<press>
+<face:00D0>
+<shake:0128>But they're doing all kinds of*
+suspicious whispering! We have*
+to find out what they're saying!<press>
+You can pick up the*
+signal from your van.<press>
+Check out their conversation*
+for me, would you?<press>
+<face:00CE>
+All right, fine. Once you get*
+going on something, I know*
+there's no stopping you...<press>
+<face:00D0>
+Thanks. Later, then!<press>
+<face:00CE>
+<sound:0015><blink>Hold on.<press>
+Did you see a customer come*
+in just now? A young woman*
+with red hair and red boots?<press>
+<face:00D0>
+<sound:0016>Oh, yeah. That restless,*
+suspicious chick. Sure.<press>
+<face:00CE>
+"Suspicious"...?<press>
+<face:00D0>
+I mean, c'mon. As soon as she*
+sat down, she ordered three*
+glasses of water in a row.<press>
+And she spilled the second*
+glass on the table.<press>
+<face:00CE>
+Okay, fine. Keep your eye*
+on her, too, if you would.<press>
+<face:00D0>
+<sound:0017><blink><shake:0128>You got it!
+
+-------------------------------
+
+[m13_0130][2F13]
+
+<fchat:0003>
+Oh, wow. That waitress...*
+was an <red>undercover agent<black>!<press>
+<fchat:0001>
+And she apparently*
+thought you were*
+pretty suspicious, too.<press>
+<fchat:0003>
+<sound:0015><blink>Oh, yeah. Sorry! I was really*
+thirsty, so... you know.*
+Ha ha.<press>
+<fchat:0001>
+<blue>(Um, no, I don't know.)<black><press>
+<fchat:0003>
+<sound:0015><blink>Anyway, did you hear*
+what I heard? About the*
+"<red>listening device<black>?"<press>
+We have to do something*
+about that bug!<press>
+<fchat:0001>
+<blue>(So should we stay here, or*
+follow up on the waitress...?)<black><press>
+Looks like it's time*
+to make a decision.
+
+-------------------------------
+
+[m13_0151][2F16]
+
+<center>Idiot!
+
+-------------------------------
+
+[m13_0210][2F1F]
+
+The static is awful...
+
+-------------------------------
+
+[m13_0220][2F20]
+
+What the heck*
+is this?
+
+-------------------------------
+
+[m13_0230][2F21]
+
+I can't hear*
+very well...
+
+-------------------------------
+
+[m13_0190][2F24]
+
+<fchat:0001>
+I guess we can't use*
+the telephone now.<press>
+In the past, we can only use*
+the lines while the phone*
+is being used to make a call.<press>
+<fchat:0003>
+Hmm. That's not very*
+convenient...<press>
+<fchat:0001>
+We'll have to look for*
+something else to try.
+
+-------------------------------
+
+[m13_0400][2F2A]
+
+<fchat:0001>
+It appears to be the*
+entrance to a nearly-*
+deserted, dimly-lit park.<press>
+The voices of two young*
+people drift over to*
+me on the breeze...
+
+-------------------------------
+
+[m13_0410][2F2B]
+
+<face:00F8>
+<sound:0017><blink><shake:0128>Stop the park from being turned*
+into a housing site! Protect the*
+park, the rock of the gods!
+
+-------------------------------
+
+[m13_0420][2F2C]
+
+<face:00CE>
+<sound:0016>Uh, sorry, but could you*
+do that somewhere else?<press>
+I'm a little busy right now.*
+I don't have time to talk.<press>
+<face:00F8>
+<sound:0015><blink>I suppose you think I'm a*
+man of dubious character,*
+a<red> questionable person<black>...!<press>
+<face:00CE>
+<shake:0128>No, I, uh...<press>
+<face:00F8>
+But if an objective person were*
+asked, they might think YOU were*
+a little suspicious, yourself!<press>
+<sound:0017><blink><shake:0128>As two <red>suspicious characters<black>,*
+shouldn't we take the time to*
+converse with each other?<press>
+<face:00CE>
+Oh, boy... All right. But*
+just for a minute.<press>
+<face:00F8>
+<sound:0015><blink>There! I like your attitude!*
+I like it very much! Let's*
+relax and talk a while, then.<press>
+<sound:0017><blink><shake:0128>The night is young,*
+and so are we!<press>
+<face:00CE>
+<shake:0128>Oh, man...
+
+-------------------------------
+
+[m13_0450][2F2D]
+
+<fchat:0001>
+The entrance to the*
+park, still as nearly-*
+deserted as before.<press>
+The voice of one of*
+the young people has*
+become more animated...
+
+-------------------------------
+
+[m13_0460][2F2E]
+
+<face:00F8>
+<sound:0017><blink><shake:0128>This park! This park is in the*
+midst of a crisis! A calamity!*
+The park is in trouble!<press>
+<face:00CE>
+So... A housing site, huh?*
+That's what they want to*
+make this place into?<press>
+<face:00F8>
+<sound:0018><blink><shake:0128>Oh, what an evil plan! A terrible*
+plot that will surely bring down*
+the wrath of the gods upon us!<press>
+<face:00CE>
+<sound:0016><blink>Oh, I get it now... You LIVE*
+in this park, don't you?<press>
+<face:00FA>
+<sound:0015><blink><shake:0128>Well, I can't deny that*
+that, indeed, might be*
+the case, yes... However!<press>
+<change:00F8>
+<end>
+<sound:0017><blink><shake:0128>This park is no ordinary*
+park. No! Not ordinary! The*
+gods are here. The gods!<press>
+<face:00CE>
+The gods, huh...? And what*
+was that weird thing you*
+mentioned a minute ago?<press>
+<sound:0016>Something about the*
+"house of the gods" or*
+something?<press>
+<face:00F8>
+<sound:0015><blink><shake:0128>Yes! As I build my house on*
+the <red>rock of the gods<black>, it must be*
+protected! We must protect it!
+
+-------------------------------
+
+[m13_0470][2F2F]
+
+<face:00F8>
+If you look at paragraph twenty-*
+three of this leaflet, you'll see the*
+"rock of the gods" explained!<press>
+<sound:0015><blink>Won't you take a moment with*
+me now to study all about it?<press>
+<sound:0017><blink><shake:0128>The night is extremely young,*
+and so are we!<press>
+<face:00CE>
+...You mind if I keep on*
+working while you talk?
+
+-------------------------------
+
+[m13_0500][2F30]
+
+<fchat:0001>
+The entrance to the*
+nearly-deserted park...<press>
+The voices of two young*
+people drift over to*
+me on the breeze...
+
+-------------------------------
+
+[m13_0510][2F31]
+
+<face:00F8>
+Listen and heed!*
+Listen to my words!<press>
+I'm sure that unabashed*
+<red>peeping<black> of yours may*
+bring a momentary thrill...<press>
+But remember! The gods are*
+"peeping" at us at all times!<press>
+And that is why I stand before*
+you now to ask you this question!<press>
+<change:00FA>
+<end>
+<sound:0016><blink>Do you peep at the gods?<press>
+<face:00CE>
+<shake:0128>.........<press>
+<face:00FA>
+The gods are everywhere.*
+They are all around us.<press>
+<sound:0015><blink>So, come on. I invite you now*
+to come and converse with me!<press>
+<change:00F8>
+<end>
+<sound:0017><blink><shake:0128>The night is... getting late!*
+And we are young!<press>
+<face:00CE>
+<shake:0128>.........<press>
+<fchat:0001>
+<blue>(The detectives lips*
+are twitching.)<black><press>
+<sound:0016><blue>(Is he cold, or is it*
+something else?)<black>
+
+-------------------------------
+
+[m13_0550][2F32]
+
+<fchat:0001>
+The entrance to the*
+nearly-deserted park...
+
+-------------------------------
+
+[m13_0560][2F33]
+
+<fchat:0001>
+The detective who was*
+ordered by Cabanela to*
+perform a stake out...<press>
+<sound:0016>...is nowhere to be seen.*
+Maybe he's in the restroom?
+
+-------------------------------
+
+[m13_0570][2F34]
+
+<fchat:0001>
+I wonder if that strange*
+young man followed*
+him in there...?
+
+-------------------------------
+
+[m13_0600][2F35]
+
+<fchat:0001>
+The entrance to a nearly-*
+deserted, dimly-lit park.<press>
+The sad voice of a*
+young man drifts over*
+to me on the breeze...
+
+-------------------------------
+
+[m13_0610][2F36]
+
+<face:00CD>
+Hmph...<press>
+I suddenly feel so all alone.
+
+-------------------------------
+
+[m13_0620][2F37]
+
+<face:00CD>
+Yeah, he was a pain in the*
+neck, but now that he's gone...
+
+-------------------------------
+
+[m13_0630][2F38]
+
+<face:00CD>
+<sound:0016><blink>...I feel almost like I've been*
+abandoned by the gods...<press>
+<fchat:0001>
+<blue>(He is a complicated*
+young man.)<black>
+
+-------------------------------
+
+[m13_0650][2F39]
+
+<fchat:0001>
+The entrance to a nearly-*
+deserted, dimly-lit park.
+
+-------------------------------
+
+[m13_0660][2F3A]
+
+<fchat:0001>
+<sound:0015><blink>Detective Rindge must be*
+at the restaurant now.<press>
+Now that he's back,*
+he might be arresting*
+Lynne as I speak.<press>
+<blue>(I'd probably better*
+get over there, too.)<black><press>
+Come to think of it...<press>
+<sound:0016>...I don't see that odd*
+man around here*
+anywhere, either.<press>
+<blue>(Maybe he's off somewhere*
+dreaming about the gods*
+right now.)<black>
+
+-------------------------------
+
+[m13_0700][2F3B]
+
+<fchat:0001>
+The entrance to a nearly-*
+deserted, dimly-lit park.<press>
+The sad voice of a*
+young man drifts over*
+to me on the breeze...
+
+-------------------------------
+
+[m13_0710][2F3C]
+
+<face:00CD>
+<sound:0016><blink>I have to use the restroom...<press>
+But if I leave my post, I just*
+know I'll miss something.
+
+-------------------------------
+
+[m13_0720][2F3D]
+
+<face:00CD>
+Come to think of it...<press>
+...that annoying leaflet guy*
+disappeared when I used*
+the restroom earlier.
+
+-------------------------------
+
+[m13_0730][2F3E]
+
+<face:00CD>
+<sound:0015><blink>Darn it. It's almost <red>time<black>...<press>
+<sound:0017><blink><shake:0128>Which will show up first,*
+my mark, or the end of*
+my ability to hold out?
+
+-------------------------------
+
+[m13_0750][2F3F]
+
+<fchat:0001>
+The entrance to a nearly-*
+deserted, dimly-lit park.
+
+-------------------------------
+
+[m13_0760][2F40]
+
+<fchat:0001>
+It doesn't look like*
+Detective Rindge*
+will be coming back.<press>
+My best guess is...<press>
+<sound:0016><blink>...he's out looking*
+for the little lady.
+
+-------------------------------
+
+[m13_0800][2F41]
+
+<fchat:0001>
+The entrance to a nearly-*
+deserted, dimly-lit park.
+
+-------------------------------
+
+[m13_0810][2F42]
+
+<fchat:0001>
+<sound:0015><blink>Hey, look at that.*
+The detective is back.
+
+-------------------------------
+
+[m13_0820][2F43]
+
+<sound:0018><shake:0128><blink>Kamiiila!
+
+-------------------------------
+
+[m13_0830][2F44]
+
+<fchat:0001>
+<sound:0016>Without knowing the*
+situation, <red>this scene would*
+look pretty suspicious<black>...
+
+-------------------------------
+
+[m13_0850][2F45]
+
+<fchat:0001>
+The entrance to a nearly-*
+deserted, dimly-lit park.
+
+-------------------------------
+
+[m13_0860][2F46]
+
+<face:00F8>
+<sound:0017><blink><shake:0128>Stop the park from being turned*
+into a housing site! Protect the*
+park, the rock of the gods!
+
+-------------------------------
+
+[m13_0870][2F47]
+
+<face:00CE>
+Uh, sorry, but could you*
+do that somewhere else?<press>
+I'm a little busy right now.*
+I don't have time to talk.<press>
+<face:00F8>
+<sound:0015><blink>Then let me ask you this!<press>
+<change:00FA>
+<end>
+<sound:0016>The <red>rock of the gods<black>, or this*
+"<red>Kamila<black>" you mention...<press>
+<change:00F8>
+<end>
+<sound:0017><blink><shake:0128>...which is more important?<press>
+<sound:0017><blink>Please answer clearly*
+and without reserve!<press>
+<face:00CE>
+<sound:0017><blink><shake:0128>Kamila, of course!
+
+-------------------------------
+
+[m13_0880][2F48]
+
+<sound:0018><shake:0128><blink>The gods!
+
+-------------------------------
+
+[m13_0890][2F49]
+
+<fchat:0001>
+<sound:0016>Even knowing the*
+situation, <red>this scene still*
+looks pretty suspicious<black>...
+
+-------------------------------
+
+[m13_0900][2F4A]
+
+<fchat:0001>
+The entrance to the*
+nearly-deserted park...
+
+-------------------------------
+
+[m13_0910][2F4B]
+
+<fchat:0001>
+The detective who was*
+ordered by Cabanela to*
+perform a stakeout...<press>
+<sound:0016>...is nowhere to be seen.*
+His van is gone, too.<press>
+<sound:0015><blink><blue>(And that van just happens*
+to be the one sitting inside*
+the Chicken Kitchen.)<black><press>
+<blue>(I'd better find out*
+how that happened.)<black>
+
+-------------------------------
+

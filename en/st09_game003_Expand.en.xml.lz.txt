@@ -1,0 +1,881 @@
+[m09_1060][2B0C]
+
+<sound:0017>Emma!
+
+-------------------------------
+
+[m09_1065][2B0D]
+
+Oh, excuse me...
+
+-------------------------------
+
+[m09_1070][2B0E]
+
+<sound:0018>Whaaat?!
+
+-------------------------------
+
+[m09_1080][2B0F]
+
+All right...
+
+-------------------------------
+
+[m09_1085][2B10]
+
+I'll do as you say.
+
+-------------------------------
+
+[m09_1090][2B11]
+
+<sound:0018>Why doesn't*
+she answer?!
+
+-------------------------------
+
+[m09_1730][2B12]
+
+.........
+
+-------------------------------
+
+[m09_1740][2B13]
+
+
+
+-------------------------------
+
+[m09_1750][2B14]
+
+
+
+-------------------------------
+
+[m09_1760][2B15]
+
+This is terrible!
+
+-------------------------------
+
+[m09_1770][2B16]
+
+<sound:0017><center>Unhhh!
+
+-------------------------------
+
+[m09_1780][2B17]
+
+
+
+-------------------------------
+
+[m09_1790][2B18]
+
+
+
+-------------------------------
+
+[m09_1800][2B19]
+
+<sound:0018><center>Nnnghhh!
+
+-------------------------------
+
+[m09_1810][2B1A]
+
+
+
+-------------------------------
+
+[m09_1820][2B1B]
+
+
+
+-------------------------------
+
+[m09_1830][2B1C]
+
+<sound:0015><center>Ngh...?
+
+-------------------------------
+
+[m09_1840][2B1D]
+
+<sound:0018><center>Nnngaaaaah!
+
+-------------------------------
+
+[m09_1850][2B1E]
+
+<sound:0017><center>Gaaaaagh!
+
+-------------------------------
+
+[m09_1860][2B1F]
+
+<sound:0018><center>Graaaaagh!
+
+-------------------------------
+
+[m09_1100][2B20]
+
+M-Medicine...!
+
+-------------------------------
+
+[m09_1110][2B21]
+
+W-Water...!
+
+-------------------------------
+
+[m09_1490][2B24]
+
+<fchat:0001>
+No need to think too*
+hard about this one.<press>
+<sound:0016>All I have to do is <red>get*
+his medicine to him<black>.*
+Pretty simple.<press>
+<blue>(But there's one more*
+thing that concerns me...)<black><press>
+<fchat:0001>
+<sound:0015><blink><blue>(What was that <red>telephone*
+call<blue> the justice minister*
+got all about?)<black><press>
+<blue>(It was right after that*
+that his health took an*
+instant <red>downturn<blue>.)<black><press>
+<fchat:000A>
+<sound:0016><blink>Tsk. I've never seen*
+such a foolish, pathetic*
+and strange man.<press>
+<fchat:0001>
+Uh, I think you'd*
+better stop there.
+
+-------------------------------
+
+[m09_1505][2B25]
+
+<fchat:0001>
+<blue>(This is the telephone*
+call that made him start*
+<red>thrashing around<blue>.)<black><press>
+Who in the world*
+could it be from?<press>
+<fchat:000A>
+<sound:0016><blink>Such an insignificant man.<press>
+<fchat:0001>
+<sound:0015><blink>Huh?<press>
+<fchat:000A>
+An insignificant man*
+getting frightened by an*
+insignificant telephone call.<press>
+Nothing more than that.*
+No mystery there.<press>
+<fchat:0001>
+<blue>(Okaaay...)<black><press>
+<blue>(Anyway, I need*
+<red>information<blue>. I'd better*
+check out that call.)<black>
+
+-------------------------------
+
+[m09_1330][2B26]
+
+<fchat:0001>
+That's some wild*
+thrashing around...<press>
+That little attack changed*
+<red>the position of the phone<black>*
+ever so slightly.<press>
+<blue>(Even a small change in*
+distance can mean a world*
+of difference to me...)<black><press>
+<sound:0016><blue>(Did I just miss my <red>chance<blue>...?)<black>
+
+-------------------------------
+
+[m09_1130][2B27]
+
+<face:00D9>
+Forgive me for calling*
+so late, Mr. Minister.<press>
+<face:00E3>
+Who is this? How did*
+you get this number?<press>
+<face:00D9>
+<sound:0016>We have your daughter.<press>
+<face:00E3>
+<sound:0015><blink><shake:0128>Wh-Who is this...?*
+Amelie's tutor...?<press>
+<face:00D9>
+Would a tutor call*
+you at this hour?<press>
+<face:00E3>
+.........<press>
+<blink><shake:0128>N-No...<press>
+<face:00D9>
+I'll say it one more time.*
+We have your daughter.
+
+-------------------------------
+
+[m09_1140][2B28]
+
+<face:00E3>
+<sound:0017><blink><shake:0128>M-My daughter! Is she all*
+right?! Tell me she's all right!<press>
+<face:00D9>
+Hear for yourself.
+
+-------------------------------
+
+[m09_1150][2B29]
+
+Papa, help!
+
+-------------------------------
+
+[m09_1160][2B2A]
+
+I'm gonna*
+be killed!
+
+-------------------------------
+
+[m09_1170][2B2B]
+
+<face:00E3>
+<sound:0018><blink><shake:0128>What do you want...?*
+What are your demands?!<press>
+<face:00D9>
+<sound:0016>I believe we already made our*
+demand known the other day.
+
+-------------------------------
+
+[m09_1175][2B2C]
+
+<face:00E3>
+Oh... So it was you...<press>
+<face:00D9>
+And have you complied?<press>
+<sound:0016><blink>Has the <red>execution <black>been <red>carried out<black>?<press>
+<face:00E3>
+<blink><shake:0128>I-I didn't do it because of*
+your demand! I did it because...<press>
+<sound:0018><blink><shake:0128>...that's my job!<press>
+<face:00D9>
+Yes... Yes, of course.<press>
+<face:00E3>
+<sound:0017><blink><shake:0128>They should be contacting me any*
+minute now with the confirmation.*
+There's no need for this <red>kidnapping<black>!<press>
+<face:00D9>
+We're very thorough. You'd*
+do well to remember that.<press>
+<face:00E3>
+<blink><shake:0128>Aaaaagh...<press>
+<face:00D9>
+And of course it goes without*
+saying, we're watching you.<press>
+If this information*
+leaves that room...<press>
+<sound:0016>...you'll never see your daughter*
+again. I trust you understand that.<press>
+<face:00E3>
+"<red>Don't tell the police<black>," is that it?<press>
+<face:00D9>
+Exactly.<press>
+All you have to do is your job.<press>
+<face:00E3>
+All right... I'll do as you say.<press>
+I'll make sure the execution*
+is carried out <red>tonight<black>.*
+You have my word.
+
+-------------------------------
+
+[m09_1220][2B2D]
+
+<fchat:0001>
+<sound:0016><blink>A "<red>kidnapping<black>," eh?<press>
+<blue>(Once again, I'm not sure*
+I know what the word*
+means...)<black><press>
+<sound:0015><blink><blue>(...but it's apparently <red>the*
+cause of the minister's*
+attack<blue>.)<black><press>
+<fchat:000A>
+<sound:0016>Such a useless man.<press>
+<fchat:0001>
+<blink>Huh?<press>
+<fchat:000A>
+A useless man, caught*
+up in a useless case...<press>
+Why doesn't he*
+understand that...?<press>
+<fchat:0001>
+<blue>(Anyway... We only have*
+<red>four minutes<blue> here.)<black><press>
+<blue>(I'd better do something*
+about that <red>medicine<blue>.)<black>
+
+-------------------------------
+
+[m09_1720][2B2E]
+
+<fchat:0001>
+I can't use the phone*
+lines right now.<press>
+<fchat:000A>
+<sound:0016><blink>What a befitting*
+room for this man!<press>
+<fchat:0001>
+<sound:0015><blink>Huh?<press>
+<fchat:000A>
+It looks stately, but*
+it's filled with nothing*
+but useless trash.<press>
+<fchat:0001>
+<blue>(When in the past, I can only*
+use the line when the phone*
+is <red>being used to make a call<blue>.)<black><press>
+<blue>(I guess I'd better*
+find another path.)<black>
+
+-------------------------------
+
+[m09_1870][2B2F]
+
+<fchat:0001>
+<sound:0016>It's no use. The*
+line <red>isn't working<black>.<press>
+Hmm...<press>
+Apparently, it only works if*
+the other party answers.
+
+-------------------------------
+
+[m09_1910][2B30]
+
+<fchat:0001>
+So this medicine stops the*
+minister's attacks, eh?<press>
+If I could, I'd spill them*
+onto his desk right now...<press>
+...but, unfortunately,*
+I can't even open the cap.<press>
+<fchat:000A>
+<sound:0016><blink>What a shabby*
+excuse for a man.<press>
+<fchat:0001>
+<sound:0015><blink>Huh?<press>
+<fchat:000A>
+He wears his important-*
+looking uniform, and sits*
+working at his stately desk.<press>
+But what does he have*
+inside? Nothing! A miserable,*
+shabby excuse for a man.<press>
+<fchat:0001>
+I think you've already*
+said quite enough.
+
+-------------------------------
+
+[m09_1920][2B31]
+
+<fchat:0001>
+If only he could at least*
+drink some of this water...<press>
+<blue>(Too bad he knocks this*
+pitcher to the floor at the*
+end of his four minutes...)<black><press>
+<fchat:000A>
+<sound:0016><blink>Such a stupid man.<press>
+<fchat:0001>
+<sound:0015><blink>Huh?<press>
+<fchat:000A>
+Once water is spilled, there's*
+no getting it back.<press>
+<sound:0018><blink><shake:0128>And knowing this full well...<press>
+...why do people still*
+spill water pitchers?!<press>
+<fchat:0001>
+<blue>(I dunno. "<red>Those who do not*
+learn from history are*
+doomed to repeat it<blue>"...?)<black>
+
+-------------------------------
+
+[m09_1235][2B32]
+
+<fchat:0001>
+<shake:0128><blink>Uh-oh. Here it comes...<press>
+<blue>(His worry and anxiety*
+have reached their peak...)<black><press>
+<fchat:000A>
+<sound:0016><blink>Such a disgraceful man.<press>
+<fchat:0001>
+<sound:0015><blink>Huh?<press>
+<fchat:000A>
+If one lives his life in*
+fits, he's bound to be*
+plagued by fits.<press>
+<sound:0018><blink><shake:0128>It's so simple! Why doesn't*
+he understand?<press>
+<fchat:0001>
+<blue>(...But there wasn't a <red>chance<blue>*
+to rescue him before now.)<black><press>
+It's not over yet, though.*
+I can't give up now!
+
+-------------------------------
+
+[m09_1200][2B33]
+
+<fchat:0001>
+<sound:0015><blink>I just have to get this*
+medicine to the minister.<press>
+But, hmm...<press>
+<blink><shake:0128><blue>(There are only <red>a few*
+seconds <blue>left. It isn't*
+enough time!)<black><press>
+<fchat:000A>
+<sound:0016><blink>Such a shortsighted man...<press>
+<fchat:0001>
+<blink><shake:0128>Huh?<press>
+<fchat:000A>
+Happiness escapes us just as*
+we are about to pull it in.<press>
+<sound:0017><blink><shake:0128>We have to grab it while we*
+can. Not only happiness, but*
+dreams, love and hope, too!<press>
+<fchat:0001>
+Clearly, someone here*
+is overly na{6600}ve.<press>
+<sound:0018><blink><shake:0128><blue>(Anyway, <red>there isn't*
+enough time<blue> to do*
+anything in this state!)<black><press>
+<sound:0016><blink><blue>(I think I'd better rethink*
+this from the beginning...)<black><press>
+<fchat:000A>
+<sound:0016>If he could just get some*
+of that water, he might*
+feel a little better.<press>
+<fchat:0001>
+<blue>(Did he just say something*
+constructive?)<black>
+
+-------------------------------
+
+[m09_1180][2B34]
+
+<face:0029>
+To save the minister, I have*
+to get him his <red>medicine<black>.<press>
+<face:002D>
+<sound:0018><blink><shake:0128>But, as things are, there*
+just isn't enough time!<press>
+<face:00E3>
+<sound:0017><blink><shake:0128>Such unparalleled cowardice*
+this man has!<press>
+<face:002B>
+<blue>(<red>Before <blue>I get the medicine*
+to him, I think I have to*
+buy some <red>time <blue>first.)<black>
+
+-------------------------------
+
+[m09_1190][2B35]
+
+<face:002B>
+Next, I need to find a way to*
+get the minister his medicine.<press>
+<change:0034>
+<end>
+I'll just have to try a variety*
+of things. I might make a*
+bit of a mess, though...<press>
+<face:00E3>
+<sound:0015><blink>He and this whole room can*
+both fall into ruin together,*
+for all it matters.<press>
+<face:0036>
+<blue>(That wasn't exactly what I had*
+in mind... Anyway, I'd better*
+look for some kind of <red>lead<blue>...)<black>
+
+-------------------------------
+
+[m09_1210][2B36]
+
+<fchat:0001>
+There! That should help.<press>
+At least now he's*
+had some water.
+
+-------------------------------
+
+[m09_1215][2B37]
+
+<fchat:0001>
+<sound:0015><blink>He's still breathing,*
+apparently.<press>
+<blue>(But he looks far from*
+recovered, unfortunately...)<black><press>
+<fchat:000A>
+<sound:0016><blink>Such a wishy-washy man.<press>
+<fchat:0001>
+<blink>Huh?<press>
+<fchat:000A>
+He can't make up his mind*
+whether to live or die. That's*
+how he lives his life.<press>
+<fchat:0001>
+Okaaay...<press>
+At least now I bought*
+some <red>time <black>to get his*
+medicine to him.
+
+-------------------------------
+
+[m09_1211][2B38]
+
+<fchat:0001>
+The minister's fate*
+has changed...<press>
+<sound:0016>...but the situation still*
+seems the same.<press>
+<sound:0017><shake:0128><blink>I can't <red>move <black>anywhere now!<press>
+<fchat:0001>
+<blue>(Did I <red>miss something<blue>?)<black><press>
+I think I saw a path, just for*
+a second, <red>while the minister*
+was drinking the water<black>...<press>
+Maybe I should start over*
+<red>from the beginning<black>...
+
+-------------------------------
+
+[m09_1225][2B39]
+
+<face:00E3>
+<sound:0018><shake:0128>I have to call my wife!*
+I have to see if it's true!<press>
+<sound:0017><blink><shake:0128>Maybe they called*
+<red>the wrong person<black>!<press>
+<fchat:0001>
+<blue>(This minister doesn't*
+accept the truth easily...)<black><press>
+<fchat:000A>
+<sound:0016><blink>He's morally bankrupt.<press>
+<fchat:0001>
+Okay, now you're*
+taking it too far...<press>
+<blue>(His wife won't answer,*
+for some reason...)<black><press>
+<sound:0016><blue>(Hmm... A <red>wife <blue>who doesn't*
+answer her phone... I think*
+I know who THAT is...)<black><press>
+<fchat:000A>
+A morally bankrupt man*
+deserves a morally*
+bankrupt wife.<press>
+<sound:0018><shake:0128><blink>Why doesn't that man*
+understand that?!<press>
+<fchat:0001>
+<blue>(Now I'm sorry I ever*
+brought this guy along...)<black>
+
+-------------------------------
+
+[m09_1310][2B3A]
+
+<fchat:0001>
+I've never seen anybody*
+drink water the way*
+this man just did...<press>
+<blue>(The water pitcher is*
+completely empty.)<black><press>
+<fchat:000A>
+<sound:0016><blink>He's an empty*
+vessel of a man.<press>
+<fchat:0001>
+<sound:0015><blink>Huh?<press>
+<fchat:000A>
+An empty, withered man.<press>
+<sound:0017><blink><shake:0128>Where is his oasis?!<press>
+<fchat:0001>
+<blue>(This guy is a really starting*
+to get on my nerves...)<black>
+
+-------------------------------
+
+[m09_1230][2B3B]
+
+<fchat:0001>
+Okay, time for*
+the next step.<press>
+<sound:0015><blink>Now, about this*
+<red>medicine bottle<black>...
+
+-------------------------------
+
+[m09_1232][2B3C]
+
+<fchat:0001>
+If the minister's going to*
+make a full recovery...<press>
+<sound:0016>...I have to <red>deliver*
+<black>this thing to him.<press>
+<blue>(But how is a ghost*
+with no hands or feet*
+supposed to do that?)<black><press>
+<blue>(I guess I'll just have to*
+use my head, instead.)<black>
+
+-------------------------------
+
+[m09_1240][2B3D]
+
+<fchat:0001>
+This thing is pretty heavy.*
+It's got a good swing to it.<press>
+It's sharp enough to*
+cut the medicine*
+bottle in two, though.<press>
+<fchat:0001>
+<blue>(And it's <red>not long*
+enough<blue>, is it?)<black><press>
+<fchat:000A>
+<sound:0016><blink>Such a reckless man.<press>
+<fchat:0001>
+<sound:0015><blink>Huh?<press>
+<fchat:000A>
+Only cowards like to*
+keep weapons around.<press>
+<sound:0017><blink><shake:0128>What a truly dangerous*
+thing to have around!<press>
+<fchat:0001>
+<blue>(In any case...)<black><press>
+<blue>(I bet I could use this*
+<red>sword <blue>somehow...)<black>
+
+-------------------------------
+
+[m09_1250][2B3E]
+
+<fchat:0001>
+<sound:0015><blink><blue>(Hmm... That was <red>so close<blue>...)<black><press>
+If the swing just had a*
+little more <red>reach <black>to it...<press>
+<blue>(I think I'd better look*
+for something else...)<black>
+
+-------------------------------
+
+[m09_1260][2B3F]
+
+<fchat:0001>
+<sound:0015><blink><shake:0128><blue>(Hmm... That looks*
+<red>really good<blue>...)<black><press>
+If only the <red>medicine bottle<black>*
+was under that swing...<press>
+<sound:0016>I bet it would go flying...!*
+But to the wrong side*
+of the room.<press>
+<blue>(I think I'm starting to*
+form a plan here...)<black>
+
+-------------------------------
+
+[m09_1270][2B40]
+
+<fchat:0001>
+That was really loud.<press>
+<sound:0016>That urn is a lot <red>heavier<black>*
+than it looks.<press>
+<blue>(It's made out of some*
+pretty thick iron...)<black><press>
+I wouldn't want to*
+drop that on my foot.<press>
+<sound:0015><blink><blue>(But I don't have feet, so I*
+guess I don't have to worry.)<black>
+
+-------------------------------
+
+[m09_1280][2B41]
+
+<fchat:0001>
+This urn is pretty light.<press>
+<fchat:0001>
+<blue>(Once an urn is dropped,*
+there's no getting it back...)<black><press>
+<blue>(I guess I'd better think*
+carefully about what I*
+drop and when.)<black>
+
+-------------------------------
+
+[m09_1290][2B42]
+
+<fchat:0001>
+It's a pretty light*
+frame for its size.<press>
+<blue>(There sure are a lot*
+of things that can fall*
+down in this room...)<black><press>
+<fchat:000A>
+<sound:0016><blink>He's a fallen man.<press>
+<fchat:0001>
+<sound:0015><blink>Huh?<press>
+<fchat:000A>
+<sound:0017><blink><shake:0128>He deserves to have*
+everything come tumbling*
+down on his head!<press>
+<fchat:0001>
+I don't know about "fallen*
+man," but you talk about*
+him like he's your "fall guy."<press>
+<sound:0016><blue>(I guess the key here is*
+what <red>order <blue>the objects*
+are dropped in.)<black>
+
+-------------------------------
+
+[m09_1320][2B43]
+
+<face:002B>
+Well, I managed to*
+buy some time...<press>
+<face:002D>
+<sound:0016><blink>But I got distracted and*
+missed my <red>chance<black>...<press>
+<face:00E3>
+It's easiest to fail after a success.<press>
+<face:002B>
+<sound:0015><blink><blue>(It looks like I'll have to start*
+over <red>from the beginning<blue>.)<black>
+
+-------------------------------
+
+[m09_1350][2B44]
+
+<face:0029>
+Whew. There sure are a lot of*
+<red>falling <black>things in this room.<press>
+<face:00E3>
+And that man is the*
+epitome of them all.<press>
+<face:00E5>
+<sound:0017><blink><shake:0128>Let them all fall! Let all of*
+them and that man fall down*
+into the abyss together!<press>
+<face:002B>
+<blue>(I guess the question is what*
+<red>order <blue>and <red>combination <blue>things*
+should be dropped in...)<black>
+
+-------------------------------
+
+[m09_1360][2B45]
+
+<face:0027>
+Well, I tried dropping various*
+things, and ended up creating*
+something that <red>looks useful<black>.<press>
+<face:00E3>
+That's right. That man's*
+very life is like a <red>seesaw<black>.<press>
+<face:00E5>
+<sound:0017><blink><shake:0128>He never creates balance*
+in his life. No wonder he*
+is always out of kilter!<press>
+<face:002B>
+<blue>(A <red>seesaw<blue>, eh? The question*
+is, <red>how do I use it?<blue>)<black>
+
+-------------------------------
+
+[m09_1370][2B46]
+
+<face:002B>
+Hmm. I think I see my path now.<press>
+<change:0027>
+<end>
+The only thing I lacked was enough*
+<red>time<black>. I think I'll try again.<press>
+<face:00E3>
+Maybe time is what that man*
+lacked in his life as well.<press>
+<face:0034>
+We'll have plenty of time*
+to think about that later.
+
+-------------------------------
+
+[m09_1880][2B47]
+
+<sound:0018><center>M-My medicine!
+
+-------------------------------
+
+[m09_1890][2B48]
+
+<sound:0017><center>Aaaaagh!
+
+-------------------------------
+
+[m09_1300][2B49]
+
+<fchat:0001>
+<sound:0017><blink><shake:0128>There! The minister finally*
+took his medicine!<press>
+<blue>(I think maybe he even took*
+<red>TOO MUCH<blue> medicine...)<black><press>
+<fchat:000A>
+<sound:0016><blink>Such a greedy man.<press>
+<fchat:0001>
+<sound:0015><blink>Huh?<press>
+<fchat:000A>
+<sound:0017><shake:0128><blink>He's supposed to take two*
+capsules with water. Why*
+doesn't he know that?<press>
+<fchat:0001>
+Aw, cut the guy some slack.<press>
+There. See?
+
+-------------------------------
+
+[m09_1500][2B4A]
+
+<face:002B>
+Whew. That was a lot of work.<press>
+<face:00E4>
+<sound:0016><blink>Well, hopefully, this*
+taught him a lesson.<press>
+<face:0036>
+<sound:0015><blink>Huh?<press>
+<face:00E4>
+He greatly underestimated his*
+dependence on his medicine.<press>
+I hope he learned something*
+from this experience.<press>
+<sound:0016><blink>First, know yourself.<press>
+That is the key to everything.<press>
+<face:0034>
+I think you need to listen*
+to your own advice.<press>
+<change:0027>
+<end>
+Anyway, let's go back to*
+the world of the present.
+
+-------------------------------
+

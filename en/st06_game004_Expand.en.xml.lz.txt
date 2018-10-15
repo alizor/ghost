@@ -1,0 +1,397 @@
+[monologue][2800]
+
+<center>Once again, Lynne is in danger.<space>
+<center>And I think she knows it, too.<space>
+<center>I sincerely doubt she'll be coming*
+<center>back to this apartment tonight.
+
+-------------------------------
+
+[monologue2][2801]
+
+<center>She and I are connected*
+<center>to each other somehow.<space>
+<center>She's my only lead,*
+<center>and I can't lose her.<space>
+<center>I have to get to her, and fast.
+
+-------------------------------
+
+[cicel_00][2802]
+
+<fchat:0001>
+With the telephone*
+in this apartment*
+being out of service...<press>
+...my only hope of escape is*
+to find another telephone.<press>
+No "Mr. Desk Lamp"*
+here. The only friend*
+I have to talk to is...<press>
+<sound:0016>...that nice <red>little*
+doggie <black>curled up*
+there on the floor.
+
+-------------------------------
+
+[dog_talk][2803]
+
+<face:0075>
+<sound:0033><blink><shake:021E>Oh, hello! What's up?<press>
+<face:0028>
+I was wondering if*
+you could help me.<press>
+<face:0075>
+<sound:0017><blink><shake:021E><center>{2EFF}x{17FF}I'll certainly try!{17FF}<press>
+About the only thing I'm*
+really good at, though...<press>
+<sound:0033><blink><shake:021E>...is <red>barking<black>. There*
+really isn't much else.<press>
+<face:002C>
+<blue>(I think he might be right, there.)<black><press>
+<face:0075>
+But I'm really, really*
+good at <red>barking<black>!<press>
+Miss Lynne comes chasing*
+after me with a broom, the*
+lady next door kicks the wall...<press>
+<sound:0033><blink><shake:021E>I've got quite a bit of influence*
+around these parts!
+
+-------------------------------
+
+[cicel_01][2804]
+
+<fchat:0001>
+Well, I can't just hang*
+around here indefinitely.<press>
+How can I change this*
+situation? Just keep trying*
+stuff and see what works?
+
+-------------------------------
+
+[madam_mes][2805]
+
+I'll knock this*
+wall down!
+
+-------------------------------
+
+[madam_demo6][2806]
+
+<face:005F>
+If you keep that racket up...<press>
+<sound:0018><shake:011E>...I'll bring this whole*
+dilapidated building*
+down on you!
+
+-------------------------------
+
+[madam_demo][2807]
+
+<face:002C>
+Did you hear what I just heard?<press>
+<face:0075>
+You mean the lady next*
+door's angry howl?<press>
+<face:002C>
+No, forget that.<press>
+<change:0028>
+<end>
+<sound:0016>It was the <red>sound of a telephone*
+ringing<black>! Coming from the*
+apartment next door.<press>
+<face:0075>
+<sound:0015><blink>Oh, I get it! You're thinking*
+about <red>borrowing <black>her*
+telephone, aren't you!<press>
+<sound:0033><blink><shake:021E>But how are you going to do that*
+without breaking the wall down?<press>
+<face:0035>
+Well, the lady next door is kindly*
+offering to do it for us...<press>
+<face:0075>
+Yes, but she's mostly hoping*
+to crush me underneath it...
+
+-------------------------------
+
+[dog_talk3][2808]
+
+<face:0028>
+Come on, now. Can't you*
+bark any louder than that?<press>
+<face:0075>
+Louder?! But then that*
+lady will knock the wall*
+down on top of me!<press>
+<face:0028>
+We'll worry about*
+that when it happens.<press>
+<face:0075>
+Hmm... Anyway, I'm barking*
+as loud as I can already.<press>
+<face:002C>
+<blue>(I need to have this little doggie*
+put some more <red>energy <blue>into it.)<black><press>
+<blue>(Let's see... Wasn't there*
+something else around here that*
+gets a <red>reaction <blue>out of him...?)<black>
+
+-------------------------------
+
+[cicel_02][2809]
+
+<fchat:0001>
+Two things are certain --*
+there's a telephone in the*
+apartment next door...<press>
+...and I have to create a path*
+to get there somehow.<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>Should I keep barking?<press>
+<fchat:0001>
+"If you keep that up, I'll*
+knock this wall down!"<press>
+If she's true to her word,*
+we might be able to*
+change the situation.<press>
+<fchat:0002>
+I just want to avoid the*
+whole "getting crushed" part,*
+though, if you don't mind.<press>
+<fchat:0001>
+<blue>(I have to do something*
+to change this situation.)<black><press>
+<sound:0016><blue>(If I can create just <red>a little*
+more racket<blue> somehow...)<black>
+
+-------------------------------
+
+[no_action][280A]
+
+<face:002C>
+Right now, I need a little*
+<red>more racket<black>, not less.<press>
+I don't think I should turn*
+this off at the moment.<press>
+<change:002A>
+<end>
+<blue>(Besides, I want to see*
+if that woman will really*
+keep her promise.)<black><press>
+<face:0075>
+<sound:0033><blink><shake:021E>Oh, what will become of*
+me if I'm squashed into a*
+Pomeranian pancake?!<press>
+<face:002C>
+<blue>(Isn't there anything else to <red>spur<blue>*
+this little doggie on a bit more...?)<black>
+
+-------------------------------
+
+[madam_mes4][280B]
+
+I'll pound this*
+wall open!
+
+-------------------------------
+
+[madam_demo2][280E]
+
+<face:005F>
+<sound:0016><blink>I told you, didn't I? I told*
+you I would <red>knock the*
+wall down on you<black>!
+
+-------------------------------
+
+[madam_demo3][280F]
+
+<face:0075>
+So this is what it feels like*
+to have a wall knocked*
+down on you, huh...?<press>
+<face:002C>
+It's more like she knocked you*
+out "through" the wall, really...<press>
+<face:0075>
+I'm still alive, aren't I?
+
+-------------------------------
+
+[madam_demo4][2810]
+
+<fchat:0001>
+You are...<press>
+...but the TV and the*
+star ornament aren't.<press>
+<fchat:0002>
+#whimper# I'll never bark*
+again, not as long as I live!<press>
+<fchat:0001>
+But, wait a minute...<press>
+<sound:0016>It looks like all that*
+commotion wasn't*
+for naught.<press>
+<fchat:0002>
+<sound:0015><blink>Huh?
+
+-------------------------------
+
+[madam_demo5][2811]
+
+<face:0044>
+<sound:0016>Your barking made her*
+create a path for me.<press>
+<fchat:0002>
+<sound:0015><blink>It did?<press>
+But the wall is still*
+standing, just like before.<press>
+<fchat:0001>
+But there are paths only*
+the dead can see.<press>
+<fchat:0002>
+Oh, those kinds of paths!
+
+-------------------------------
+
+[dog_talk4][2812]
+
+<face:0075>
+Whew, that felt good. I haven't*
+barked like that in a long time.<press>
+<face:0028>
+You certainly seemed to be*
+putting your heart into it.<press>
+<face:0075>
+<sound:0033><blink><shake:0128>It's nice to really let*
+loose once in a while!<press>
+I'm a little tired now, though.*
+I'm not as young as I used to*
+be. I'm two already, after all.<press>
+<face:002C>
+<blue>(Hmm... I wonder how old I am?)<black>
+
+-------------------------------
+
+[cicel_03][2813]
+
+<fchat:0001>
+At least some good*
+came out of all that*
+commotion and chaos.<press>
+<fchat:0002>
+<sound:0015><blink>"Some good"?<press>
+<sound:0033><blink><shake:021E>I tend to think "commotion*
+and chaos" is ALWAYS*
+good, myself.<press>
+<fchat:0001>
+Well, we won't be*
+needing any more,*
+thank you very much.
+
+-------------------------------
+
+[cicel_04][2814]
+
+<fchat:0001>
+The situation has changed.*
+Just a little, but it just might*
+be enough...<press>
+<blue>(I just might be*
+able to borrow that*
+telephone now.)<black>
+
+-------------------------------
+
+[cicel_mes][2816]
+
+<fchat:0001>
+Wow... It's completely busted.<press>
+Probably from the shock*
+wave that emanated from*
+that woman's pounding...<press>
+<fchat:0002>
+I didn't know anything*
+like this was possible.<press>
+<fchat:0001>
+<blue>(I guess my ghost tricks are*
+<red>nothing <blue>compared to the*
+wrath of that woman.)<black>
+
+-------------------------------
+
+[clear_demo][2817]
+
+<face:0075>
+So you're leaving, huh?<press>
+<face:0028>
+I guess so.<press>
+<face:0075>
+You're going to go save Miss*
+Kamila and Miss Lynne?<press>
+<face:002A>
+.........<press>
+I have to follow my own*
+mystery first and foremost.*
+That means everything to me.<press>
+<face:0075>
+But you WILL save them, right?<press>
+<face:0035>
+If it helps me along*
+my way, then yes.<press>
+<face:0075>
+I don't have any*
+powers of the dead.<press>
+I'm not even dead, actually.<press>
+<sound:0033><blink><shake:021E>But I'm going to find a way to*
+go help Miss Kamila, too!<press>
+<face:0028>
+We create our own*
+paths. Right, Missile?<press>
+<face:0075>
+<sound:0015><blink>That's right!<press>
+<face:0028>
+Okay, I'm leaving now.*
+Guess this is our second*
+goodbye.<press>
+<face:0075>
+It is, isn't it?<press>
+<face:0028>
+My name is Sissel.<press>
+If we ever meet again, that's*
+what you can call me.<press>
+<face:0075>
+"Sissel," huh? Got it.*
+You know what, Sissel?<press>
+<sound:0033><blink><shake:021E>I'm going to create my own*
+path, just like you said!
+
+-------------------------------
+
+[tel_info][2704]
+
+<fchat:0001>
+Well, I guess the phone's*
+"<red>dead<black>" now, too... What are*
+the odds that would happen?<press>
+Looks like our little lady*
+is a bit of a klutz.<press>
+The next thing you know,*
+she'll be dropping that poor*
+little doggie in the tank.<press>
+Anyway, <red>something<black> is*
+happening to Lynne.<press>
+I'd better help Kamila*
+find her <red>treasure<black>.<press>
+<blue>(Hmm. I don't know if*
+it's because I lost my*
+memory or what...)<black><press>
+<blue>(But I don't seem to*
+remember what a*
+"<red>music box<blue>" is, exactly...)<black>
+
+-------------------------------
+

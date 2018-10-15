@@ -1,0 +1,216 @@
+[m03_0150][0A02]
+
+Aaaaargh!
+
+-------------------------------
+
+[m03_0170][0A16]
+
+<face:00EE>
+<sound:0016>What's with you all of a sudden?
+
+-------------------------------
+
+[m03_0180][0A17]
+
+<face:00EA>
+<sound:0018><blink><shake:0128>What do you think of my*
+<red>quirky behavior<black>?! Surprised?<press>
+<face:00EE>
+<sound:0015><blink>Huh?<press>
+<face:00EA>
+You seemed bored, so I*
+thought I'd wake you up.<press>
+<sound:0017><blink><shake:0128>You can call that<red> my "Gotcha!"*
+move<black>! What do you think?<press>
+<face:00EE>
+.........<press>
+If a normal person*
+pulled a move like that,*
+sure, I might be startled.<press>
+But this is you we're*
+talking about.
+
+-------------------------------
+
+[m03_0181][0A18]
+
+<face:00EA>
+Oh... Okay...
+
+-------------------------------
+
+[m03_0190][0A19]
+
+.........
+
+-------------------------------
+
+[m03_0200][0A1A]
+
+<face:00EA>
+<sound:0018><blink><shake:0128>H-How can you be*
+so insensitive?!<press>
+<sound:0018><blink><shake:0128>I-I was only trying to*
+open up communication*
+between us! I thought --<press>
+<face:00EE>
+Do your work, Bailey.<press>
+<fchat:0001>
+<blue>(What a team.)<black>
+
+-------------------------------
+
+[m03_9000][1900]
+
+Internal extension
+
+-------------------------------
+
+[m03_9010][1901]
+
+External line
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9050][1905]
+
+Special Detention
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+
+[m03_9070][1908]
+
+<face:0044>
+The screen shows*
+rows of tiny rooms.<press>
+The rooms are really, really*
+small. And you can see right*
+into them from the outside.<press>
+I suppose the open bars keep*
+the rooms airy, but I wouldn't*
+wanna live in one, myself...<press>
+I wonder where these*
+little rooms are?
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+
+[m03_2090][0C08]
+
+<face:00EA>
+<sound:0018><blink><shake:0128>The Chief is on his way over here!<press>
+<face:00EE>
+What's he wanna come now for?<press>
+<face:00EA>
+<sound:0017><blink><shake:0128>Well, because the death-row*
+inmate escaped, of course!<press>
+<face:00EE>
+<sound:0016>Oh... I'd hate to be in your*
+shoes right now, Bailey.*
+You're in charge, after all...
+
+-------------------------------
+
+[m03_2100][0C09]
+
+<face:00EA>
+<sound:0018><blink><shake:0128>Me?!<press>
+Oh, why did I ever have to*
+become a prison guard...?<press>
+I never would've taken a*
+job like this if I knew the*
+prisoners might escape...<press>
+<face:00EE>
+Wow... Unbelievable...<press>
+<face:00EA>
+<sound:0017><blink><shake:0128>Yes, I know, right? It IS unbelievable!
+
+-------------------------------
+
+[m03_2110][0C0A]
+
+<face:00EA>
+<sound:0017><blink><shake:0128>I can't take much more of this!<press>
+<sound:0018><blink><shake:0128>When is that chief supposed*
+to get here, anyway?!
+
+-------------------------------
+
+[m03_2120][0C0B]
+
+<face:00EE>
+How should I know?*
+You're the one who*
+talked to him, ain't ya?<press>
+<face:00EA>
+Aaaagh! I feel that*
+feeling coming on...<press>
+<sound:0016><blink>Shall I... dance...?<press>
+<face:00EE>
+Hey, don't get me*
+involved in this.<press>
+<face:00EA>
+All you have to do is*
+say the word "Panic"!<press>
+<sound:0017><blink><shake:0128>Just say the word*
+and I'll do it!
+
+-------------------------------
+
+[m03_2130][0C0C]
+
+<face:00EE>
+No way. I'm not gonna*
+be responsible for that.
+
+-------------------------------
+
+[m03_2140][0C0D]
+
+<face:00EA>
+<sound:0017><blink><shake:0128>Please! Won't somebody just*
+say the word "Panic" to me?!
+
+-------------------------------
+

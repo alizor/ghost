@@ -1,0 +1,889 @@
+[m05_1520][1F04]
+
+I visited the novelist's*
+apartment again.<space>
+I'm hoping to be able to do*
+something about this "mistaken*
+identity" kidnapping.
+
+-------------------------------
+
+[m05_1522][1F05]
+
+As long as there's any possibility*
+that it could be his own daughter*
+who was kidnapped...<space>
+...I doubt the justice minister will*
+call off the execution tonight.
+
+-------------------------------
+
+[m05_1525][1F06]
+
+The key to dispelling*
+the minister's doubts is*
+now in bed, coughing.<space>
+And I need to use this key,*
+before that prison van arrives to*
+pick up our death-row inmate.
+
+-------------------------------
+
+[m05_1041][1F07]
+
+<face:005E>
+<sound:0015><blink>My darling angel!*
+Oh, just listen to that cough!<press>
+<sound:0016>You naughty thing! Did you*
+leave your nice warm bed to*
+<red>go out <black>into the night to play?<press>
+A daughter after my own heart!*
+But, I must confess, I didn't*
+even notice you were gone!
+
+-------------------------------
+
+[m05_1042][1F08]
+
+<face:00DE>
+<sound:0018><blink><shake:0128>I didn't go out to play!<press>
+<sound:0018><blink><shake:0128>I went to buy Papa*
+a birthday present!
+
+-------------------------------
+
+[m05_1043][1F09]
+
+<face:00DE>
+He said he wanted a new lighter.<press>
+<face:005E>
+But that's no reason to*
+go out this late at night!
+
+-------------------------------
+
+[m05_1044][1F0A]
+
+<face:00DE>
+But my fever finally went down!*
+I could barely move before that...
+
+-------------------------------
+
+[m05_1045][1F0B]
+
+<face:005E>
+<sound:0016>But look what it brought you!*
+Your fever is worse now than ever.<press>
+Here is to the feverish*
+passion of my darling angel!
+
+-------------------------------
+
+[m05_1046][1F0C]
+
+<face:00DE>
+Mama?<press>
+<face:005E>
+Yes, darling?<press>
+<face:00DE>
+<sound:0015><blink>Let's call Papa and wish him*
+a happy birthday! Even though*
+it's already past midnight...<press>
+<face:005E>
+.........<press>
+Not tonight, Amelie.
+
+-------------------------------
+
+[m05_1112][1F0D]
+
+<sound:0018><shake:0128><center>I hate you!
+
+-------------------------------
+
+[m05_1047][1F0E]
+
+<fchat:0001>
+<sound:0016>It looks like this little*
+girl was <red>safe <black>all along.<press>
+<blue>(I already knew that, but I'm*
+still relieved, all the same.)<black><press>
+And there's another <red>lucky<black>*
+development, too.<press>
+<sound:0015><blink>Amelie <red>wants to*
+call<black> her father.<press>
+<blue>(Now, if I can just make use*
+of that <red>feeling <blue>somehow...)<black><press>
+<sound:0017><blink><shake:0128><blue>(That would surely <red>bring the*
+justice minister around<blue>!)<black>
+
+-------------------------------
+
+[m05_1470][1F0F]
+
+<sound:0015><shake:0128>The phone!
+
+-------------------------------
+
+[m05_1100][1F10]
+
+<face:005E>
+<sound:0018><blink><shake:0128>Amelie, I told you you*
+couldn't call him tonight!<press>
+<face:00DE>
+<sound:0018><blink><shake:0128>Why not?!<press>
+<face:005E>
+Listen to me, Amelie.<press>
+Your father is about to make*
+a big mistake.<press>
+I want him to reconsider.<press>
+<face:00DE>
+<sound:0018><blink><shake:0128>What do you know about it,*
+Mama? He's the one who's the*
+justice minister, you know!<press>
+<sound:0017><blink><shake:0128>All you do is write <red>weird novels<black>!<1EFF_1E00><press>
+<face:005E>
+.........
+
+-------------------------------
+
+[m05_1110][1F11]
+
+<face:0060>
+<sound:0018><shake:0128>What do you mean, "<red>weird<black>"?!*
+How dare you disparage my*
+<red>romantic <black>expressions?<1CFF_0A00><press>
+<sound:0018><blink><shake:0128>Now you've really made*
+me <red>angry<black>. You really have!<press>
+<sound:0017><blink><shake:0128>How do you expect me*
+to forgive such an insult?!
+
+-------------------------------
+
+[m05_1000][1F12]
+
+<face:005E>
+<sound:0015><blink>There!<press>
+I'll be keeping my eye on*
+you now, so you won't do*
+anything else mischievous!<press>
+<sound:0016><blink>Like calling your father!<press>
+<face:00DE>
+<sound:0018><blink><shake:0128>I hate you!<press>
+<face:005E>
+I can hear you, you know!
+
+-------------------------------
+
+[m05_1111][1F13]
+
+<fchat:0001>
+Whew! What a pair...<press>
+I don't know what this*
+family's issues are...<press>
+<sound:0016>...but I do know I have to*
+do something about this*
+lady <red>so Amelie can call<black>.
+
+-------------------------------
+
+[m05_1090][1F14]
+
+<face:00DE>
+Mama, what is Papa about to do?<press>
+<face:005E>
+.........<press>
+Never mind. Nothing you need*
+to know right now, Amelie.<press>
+<face:00DE>
+<sound:0016>Why is everything always*
+such a big secret? I'm part of*
+this family, too, you know!<press>
+<face:005E>
+It's not something for children's*
+ears. You'll understand someday.<press>
+<face:00DE>
+<sound:0018><blink><shake:0128>I don't want to know "someday"!*
+I want to know "now"!<press>
+<sound:0018><blink><shake:0128>It's not fair! You just*
+don't want to tell me!<press>
+I just want to wish*
+Papa a happy birthday!<press>
+<face:005E>
+Not tonight.<press>
+<fchat:0001>
+<blue>(If it was up to me...)<black><press>
+<blue>(...I'd let her call him...)<black>
+
+-------------------------------
+
+[m05_1350][1F15]
+
+#cough, cough!#
+
+-------------------------------
+
+[m05_1250][1F16]
+
+<face:005E>
+Oh, goodness! Look at the time!<press>
+As I bask in my tale of love,*
+time has been moving on*
+at the speed of light!
+
+-------------------------------
+
+[m05_1260][1F17]
+
+<fchat:0001>
+Hmm. So even though she's*
+immersed in love, she*
+can still hear this, eh?<press>
+But this won't buy enough*
+time for her daughter to*
+make a phone call...<press>
+<blue>(There must be something*
+else I can distract her with...)<black>
+
+-------------------------------
+
+[m05_1021][1F18]
+
+<face:005E>
+<sound:0016><blink>Well, well. Having a good*
+time, are we, little rodent?
+
+-------------------------------
+
+[m05_1020][1F19]
+
+Sweet dreams!
+
+-------------------------------
+
+[m05_1490][1F1A]
+
+<face:005E>
+<sound:0015><blink>Did you fancy the vintage,*
+my whiskered friend?
+
+-------------------------------
+
+[m05_1022][1F1B]
+
+<fchat:0001>
+She's more powerful*
+than I thought...
+
+-------------------------------
+
+[m05_1023][1F1C]
+
+<fchat:0001>
+<sound:0016>It looks like she tipped the*
+<red>wall candelabra <black>to one side,*
+too.<press>
+<blue>(Hmm. The <red>angle <blue>of*
+those candles...)<black><press>
+<blue>(I get the feeling I've seen*
+something very similar to*
+that quite recently...)<black>
+
+-------------------------------
+
+[m05_1210][1F1D]
+
+<face:005E>
+<sound:0018><blink><shake:0128>Oh, heavens! A <red>blackout<black>, at*
+a critical time like this?!<1DFF_1000><0001_6400><press>
+Of course, dim lights suit my*
+story of love very well, but...<press>
+<sound:0016>...I, myself, am not very*
+fond of the dark.
+
+-------------------------------
+
+[m05_1220][1F1E]
+
+<face:005E>
+<sound:0016>This chandelier just narrowly*
+missed the back of my head!<press>
+I love the thrill of romance,*
+but I don't need these*
+kinds of thrills, thank you!
+
+-------------------------------
+
+[m05_1360][1F1F]
+
+<face:005E>
+<sound:0016>Ah! What a wonderful atmosphere!<press>
+Perfect for a clandestine meeting*
+in the dusky twilight.
+
+-------------------------------
+
+[m05_1280][1F20]
+
+<fchat:0001>
+I don't exactly know how*
+this situation came about...<press>
+<sound:0015><blink>...but I think I owe*
+the rat an apology.<press>
+<blue>(The rat seems to*
+be unconscious.)<black><press>
+But now that the room*
+has <red>changed <black>into this...<press>
+<sound:0016><blink>...maybe I can <red>use it*
+<black>somehow.
+
+-------------------------------
+
+[m05_1500][1F21]
+
+<face:005F>
+What a naughty chandelier!
+
+-------------------------------
+
+[m05_1300][1F22]
+
+Such insolence!
+
+-------------------------------
+
+[m05_1370][1F23]
+
+<face:005E>
+Hmm...<press>
+<sound:0016>Is it "<red>insolence<black>" or "<red>insolation<black>"...?<press>
+.........<press>
+Whatever. I'll look*
+it up tomorrow.
+
+-------------------------------
+
+[m05_1290][1F24]
+
+That was close!
+
+-------------------------------
+
+[m05_1310][1F25]
+
+<fchat:0001>
+<sound:0016><blink><shake:0128>This lady is surprisingly*
+quick.<press>
+She dodged that*
+thing like a pro.<press>
+<sound:0015><blink>I guess I'd better*
+get serious here.
+
+-------------------------------
+
+[m05_1311][1F26]
+
+<fchat:0001>
+<sound:0018><blink><shake:0128>That's twice she managed*
+to dodge like that!<press>
+Who knew she was a*
+dodging champion?<press>
+I'm starting to*
+get annoyed...<press>
+<sound:0017><blink><shake:0128><blue>(Let me try that again.*
+I'll get her this time!)<black>
+
+-------------------------------
+
+[m05_1330][1F27]
+
+<fchat:0001>
+I can't move the chandelier*
+right now with her thrashing*
+around like that...<press>
+I hear ominous creaking*
+coming from the ceiling,*
+too...<press>
+<blue>(This is a dangerous*
+situation...)<black>
+
+-------------------------------
+
+[m05_1480][1F2A]
+
+Too weak...
+
+-------------------------------
+
+[m05_1120][1F2B]
+
+<face:0060>
+<sound:0018><blink><shake:0128>Amelie! Amelie, help me!<1CFF_0A00>
+
+-------------------------------
+
+[m05_1122][1F2C]
+
+<sound:0015>Mama!
+
+-------------------------------
+
+[m05_1123][1F2D]
+
+<face:00DE>
+<sound:0016>I'm sorry, Mama. I'm too*
+dizzy. I can't get up.<press>
+I'm afraid I can't help*
+you right now.
+
+-------------------------------
+
+[m05_1121][1F2E]
+
+<sound:0017>Eeeeeeek!
+
+-------------------------------
+
+[m05_1130][1F2F]
+
+<face:005E>
+<shake:0128><blink>Ah ha ha! Here is to the*
+weakness of my darling angel!
+
+-------------------------------
+
+[m05_1140][1F30]
+
+<fchat:0001>
+<sound:0016>That chandelier is*
+on there tighter than*
+her wedding band.<press>
+She won't be able to*
+escape on her own.
+
+-------------------------------
+
+[m05_1380][1F31]
+
+Help!
+
+-------------------------------
+
+[m05_1390][1F32]
+
+<face:0060>
+<sound:0018><shake:0128><blink>Whaaat?! What is*
+going on here?!<press>
+<sound:0018><shake:0128><blink>Amelie! Look! Do you see*
+this?! Help me, please!
+
+-------------------------------
+
+[m05_1400][1F33]
+
+<face:00DE>
+<shake:0128>#groan# Sorry. I'm too sick.*
+I can't get out of bed.<press>
+My head is spinning... So I guess*
+you'll just have to stay up there*
+spinning, too.
+
+-------------------------------
+
+[m05_1410][1F34]
+
+<fchat:0001>
+Looks like this lady <red>won't be*
+going anywhere<black> for a while.<press>
+Now the little girl*
+can call her father.
+
+-------------------------------
+
+[m05_1420][1F35]
+
+<fchat:0001>
+<sound:0016>The only trouble is,*
+<red>she can't reach it<black>.<press>
+<blue>(I guess I'll just have*
+to deliver it to her.)<black>
+
+-------------------------------
+
+[m05_1430][1F36]
+
+<fchat:0001>
+<sound:0015><blink><blue>(Oh, that's right! The*
+<red>angle <blue>of those candles...)<black><press>
+<blue>(I saw something very similar*
+just recently, didn't I?)<black>
+
+-------------------------------
+
+[m05_1440][1F37]
+
+<face:005E>
+<blink>Whew... I swear, that*
+was just like...<press>
+<sound:0016>...the thrill of <red>falling in love<black>...<press>
+<sound:0015><blink>I've got it! That could be*
+the title of my next novel!<press>
+<sound:0017><blink><shake:0128>"Lady Chandelier Falls*
+in Love"! It's perfect!<press>
+<fchat:0001>
+Thank goodness she's tough.<press>
+<blue>(I have to give Amelie*
+a chance to make*
+that phone call.)<black><press>
+<sound:0016><blue>(Should I try shaking this*
+lady up a little more?)<black>
+
+-------------------------------
+
+[m05_1030][1F38]
+
+<center>Ooh!
+
+-------------------------------
+
+[m05_1450][1F39]
+
+<fchat:0001>
+<sound:0016>Now I REALLY owe that*
+poor rat an apology.<press>
+But this might be a REALLY*
+good <red>chance <black>for me, too...<press>
+<sound:0015><blink><blue>(I have to get that*
+phone to Amelie!)<black>
+
+-------------------------------
+
+[m05_1152][1F3A]
+
+<face:0060>
+<sound:0018><blink><shake:0128>Wh-What in the WORLD*
+is going on here?!
+
+-------------------------------
+
+[m05_1150][1F3B]
+
+<face:00DE>
+<sound:0016>Oh, goodie.<press>
+<change:00E0>
+<end>
+<sound:0015><blink>Excuse me a minute while*
+I call Papa, okay, Mama?*
+I'll only be a minute.
+
+-------------------------------
+
+[m05_1151][1F3C]
+
+<sound:0018>Aaagh!
+
+-------------------------------
+
+[m05_1460][1F3D]
+
+<sound:0018><shake:0128>Don't you dare,*
+Amelie!
+
+-------------------------------
+
+[m05_1461][1F3E]
+
+<blink>I won't have it!
+
+-------------------------------
+
+[m05_1462][1F3F]
+
+<sound:0017><shake:0128>Get me down!
+
+-------------------------------
+
+[m05_1153][1F40]
+
+<sound:0018>Mama!
+
+-------------------------------
+
+[m05_1160][1F41]
+
+<face:00E0>
+<sound:0015><blink><shake:0128>Hello? Papa?
+
+-------------------------------
+
+[m05_1161][1F42]
+
+<face:00E5>
+<sound:0018><shake:021E>{2EFF}y<center>{17FF}Amelie!{28FF}0U{17FF}<press>
+<sound:0018><shake:021E>{2EFF}z<center>{17FF}Is that you?!{17FF}<press>
+<face:00DE>
+<sound:0016>{28FF}<0001_6400><blink>Of course it is, silly.*
+What did you think?<press>
+<face:00E5>
+<sound:0018><blink><shake:0128>But I heard-- They*
+said you were--!
+
+-------------------------------
+
+[m05_1164][1F43]
+
+<face:00E3>
+...No, never mind. It's nothing...<press>
+<face:00DE>
+Silly ol' Papa.<press>
+<change:00E0>
+<end>
+<shake:0128><blink>Happy birthday, Papa!<press>
+<face:00E3>
+<sound:0015><blink>Birthday...? Oh, right. It was*
+my birthday today, wasn't it?<press>
+<face:00E0>
+I'm sorry we couldn't*
+celebrate tonight.<press>
+<change:00DE>
+<end>
+Thanks to mean ol' Mama...
+
+-------------------------------
+
+[m05_1163][1F44]
+
+<face:00E3>
+<sound:0017><blink><shake:0128>Oh! Your mean ol' Mama...!*
+I mean, your mother! What*
+is she up to right now?!<press>
+<face:00E0>
+<shake:0128><blink>Well, she's certainly*
+"up" all right...<press>
+My stubborn mother is kind*
+of tied up at the moment...
+
+-------------------------------
+
+[m05_1162][1F45]
+
+Get me down!
+
+-------------------------------
+
+[m05_1170][1F46]
+
+<face:00DE>
+<sound:0015><blink>She needs to be taught a lesson*
+for causing us so much trouble.<press>
+<face:00E3>
+No, Amelie...
+
+-------------------------------
+
+[m05_1171][1F47]
+
+<face:00E3>
+<sound:0016>I'm the one who was wrong.
+
+-------------------------------
+
+[m05_1172][1F48]
+
+<face:00DE>
+<sound:0015><blink>Huh?<press>
+<face:00E3>
+Could you tell your*
+mother I'm sorry?<press>
+<face:00DE>
+<shake:0128>What do you have*
+to be sorry about?<press>
+<face:00E3>
+I was just about to make*
+a terrible mistake.<press>
+<change:00E7>
+<end>
+<sound:0016><blink>But it's all right now.<1CFF_1600><press>
+<face:00DE>
+Oh... Okay...<press>
+<face:00E7>
+You're still young. There's a*
+lot I can't tell you right now.<press>
+The job of justice minister is*
+very complicated, you see.<press>
+<face:00DE>
+Okay.<press>
+<face:00E7>
+But just remember... You're*
+always the most important*
+thing to your mother and me.<press>
+<face:00DE>
+.........<press>
+<face:00E7>
+<sound:0016>Did you do something naughty*
+to your mother? If you did, I*
+want you to apologize.<press>
+<face:00DE>
+I don't THINK I did anything...<press>
+<change:00E0>
+<end>
+<sound:0015><blink>But, okay. I'll apologize.<press>
+<face:00E7>
+<shake:0128>That's a good girl.<press>
+<face:00E0>
+Okay, Papa. Have a*
+good night. I love you!<press>
+<face:00E7>
+I love you, too, Amelie.*
+Good night, sweetheart.
+
+-------------------------------
+
+[m05_1173][1F49]
+
+<sound:0018><blink>#gasp#
+
+-------------------------------
+
+[m05_1190][1F4A]
+
+<face:00DE>
+Um... Mama...?<press>
+<sound:0016><blink>I'm sorry.<press>
+<face:005E>
+<sound:0015><blink>My goodness!*
+Why the sudden change?<1CFF_1000><press>
+<face:00DE>
+I... I guess I was wrong about*
+you. I didn't understand.<press>
+<face:005E>
+Oh, Amelie...
+
+-------------------------------
+
+[m05_1192][1F4B]
+
+<face:00DE>
+I thought all you ever did was*
+write these weird novels...<press>
+<face:005E>
+<sound:0016>That makes me a little sad...<press>
+<face:00E0>
+Papa said the job of justice*
+minister was complicated.<press>
+<face:005E>
+Yes, your father's job is very,*
+very complicated and difficult.<press>
+That's why I couldn't talk*
+to you about most of it.<press>
+But you're right. I shouldn't treat*
+you like such a little girl anymore.*
+You're growing up, after all.
+
+-------------------------------
+
+[m05_1195][1F4C]
+
+<face:00E0>
+And I promise to stop calling*
+your novels "weird" and try*
+actually reading them.<press>
+<face:005E>
+<sound:0015><blink><shake:0128>What?! Oh, uh...<press>
+Maybe you'd better wait until*
+you're a little older for that...<press>
+<face:00DE>
+Tsk. Oh, okay...<press>
+<face:005E>
+So, Amelie, if you're feeling*
+a little more charitable*
+toward your ol' Mama...<press>
+...do you think you could*
+let me down now...?<press>
+<face:00E0>
+You know, I would*
+LOVE to do that...<press>
+<change:00DE>
+<end>
+...but I'm just feeling too*
+dizzy and sick right now...
+
+-------------------------------
+
+[m05_1181][1F4D]
+
+<face:005E>
+Tonight, on this holiest*
+of nights -- my deadline...<press>
+<sound:0016>...it looks like the only*
+thing pressing on me*
+will be this chandelier...<press>
+Here is to Papa and*
+Mama's darling angel!
+
+-------------------------------
+
+[m05_1200][1F4E]
+
+All of a sudden, everybody*
+is getting along again.<space>
+It's such an abrupt change...*
+I can't understand it.<space>
+Is this what "family" is all about?<press>
+In any case, the situation has*
+changed dramatically now.<space>
+I just hope the mysteries of me*
+can be cleared up as quickly as the*
+furrows on the minister's brow...<press>
+I don't know where Kamila is...<space>
+But at least now the justice*
+minister's doubts are dispelled.<space>
+I think I'll go back to his*
+office, where everybody is*
+waiting for the prison van.
+
+-------------------------------
+
+[m05_9900][2100]
+
+<fchat:0001>
+I'd better not put out*
+the lamp right now.<press>
+<sound:0016><blue>(It will only pour oil on*
+the flames of anger in*
+this lady's heart.)<black><press>
+If I want to give Amelie*
+a chance to use the*
+telephone...<press>
+<sound:0015><blink>...I have to think of <red>a*
+way to keep her mother*
+out of the way<black>.
+
+-------------------------------
+
+[m05_9901][2101]
+
+<fchat:0001>
+If I recall, the novelist said*
+she didn't like the dark.<press>
+I don't want her thrashing*
+around any more than*
+she is already...<press>
+<blue>(I'd better not put out*
+this lamp right now.)<black>
+
+-------------------------------
+
+[m05_9902][2102]
+
+<fchat:0001>
+<sound:0015><blink>Hmm. The lady's dictionary...<press>
+Wasn't this on*
+her desk before?<press>
+The poor thing. Destined*
+to never be returned to*
+the bookshelves...
+
+-------------------------------
+

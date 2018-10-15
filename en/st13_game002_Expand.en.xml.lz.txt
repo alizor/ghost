@@ -1,0 +1,145 @@
+[m13_0120][2F12]
+
+<face:00D0>
+<sound:0017><blink><shake:0128>Detective Rindge?! This is Memry!<press>
+<face:00CE>
+What's the matter? It's not*
+time for your regular report.<press>
+<face:00D0>
+<blink><shake:0128>Listen to this! There's a suspicious*
+couple in the bar upstairs!<press>
+<sound:0016>I'm going to put a*
+"<red>ladybug<black>" on them.<press>
+<face:00CE>
+<sound:0015><blink>A "ladybug"...? You mean*
+a <red>listening device<black>?<press>
+Don't do anything to blow our*
+cover. Inspector Cabanela will be*
+furious.<press>
+<face:00D0>
+<shake:0128>But they're doing all kinds of*
+suspicious whispering! We have*
+to find out what they're saying!<press>
+You can pick up the*
+signal from your van.<press>
+Check out their conversation*
+for me, would you?<press>
+<face:00CE>
+All right, fine. Once you get*
+going on something, I know*
+there's no stopping you...<press>
+<face:00D0>
+Thanks. Later, then!<press>
+<face:00CE>
+<sound:0015><blink>Hold on.<press>
+Did you see a customer come*
+in just now? A young woman*
+with red hair and red boots?<press>
+<face:00D0>
+<sound:0016>Oh, yeah. That restless,*
+suspicious chick. Sure.<press>
+<face:00CE>
+"Suspicious"...?<press>
+<face:00D0>
+I mean, c'mon. As soon as she*
+sat down, she ordered three*
+glasses of water in a row.<press>
+And she spilled the second*
+glass on the table.<press>
+<face:00CE>
+Okay, fine. Keep your eye*
+on her, too, if you would.<press>
+<face:00D0>
+<sound:0017><blink><shake:0128>You got it!
+
+-------------------------------
+
+[m13_0130][2F13]
+
+<fchat:0003>
+Oh, wow. That waitress...*
+was an <red>undercover agent<black>!<press>
+<fchat:0001>
+And she apparently*
+thought you were*
+pretty suspicious, too.<press>
+<fchat:0003>
+<sound:0015><blink>Oh, yeah. Sorry! I was really*
+thirsty, so... you know.*
+Ha ha.<press>
+<fchat:0001>
+<blue>(Um, no, I don't know.)<black><press>
+<fchat:0003>
+<sound:0015><blink>Anyway, did you hear*
+what I heard? About the*
+"<red>listening device<black>?"<press>
+We have to do something*
+about that bug!<press>
+<fchat:0001>
+<blue>(So should we stay here, or*
+follow up on the waitress...?)<black><press>
+Looks like it's time*
+to make a decision.
+
+-------------------------------
+
+[m13_0190][2F24]
+
+<fchat:0001>
+I guess we can't use*
+the telephone now.<press>
+In the past, we can only use*
+the lines while the phone*
+is being used to make a call.<press>
+<fchat:0003>
+Hmm. That's not very*
+convenient...<press>
+<fchat:0001>
+We'll have to look for*
+something else to try.
+
+-------------------------------
+
+[m13_0300][2F26]
+
+<fchat:0003>
+Sissel?<press>
+<fchat:0001>
+Yes, Lynne?<press>
+<fchat:0003>
+Um, this is a bad*
+situation, isn't it?<press>
+<fchat:0001>
+Yes, I believe it is.<press>
+This suddenly seems like*
+a pretty lonely spot.<press>
+<fchat:0003>
+We're on our last legs here!<press>
+Of course, we don't really*
+HAVE legs, but that's*
+beside the point.<press>
+<fchat:0001>
+<blue>(Okay, now you're*
+just being dramatic.)<black>
+
+-------------------------------
+
+[m13_0320][2F27]
+
+<face:002B>
+I guess staying behind here*
+probably wasn't such a good idea.<press>
+<face:0005>
+<sound:0015><blink>Nope. I think we lost*
+that roll of the dice...<press>
+<face:002B>
+<blue>(There might've been a clue on*
+how to stop all this on the*
+other end of that phone line.)<black><press>
+<change:0027>
+<end>
+<blue>(But one thing is clear --*
+the answer isn't here.)<black>
+
+-------------------------------
+

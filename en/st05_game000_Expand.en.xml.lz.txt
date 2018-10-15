@@ -1,0 +1,543 @@
+[m05_0010][1E01]
+
+<face:005F>
+Tonight is that holiest of*
+all nights -- my deadline.<press>
+All I need to get some*
+inspiration from the Muses is*
+this bottle and some cheese.<press>
+Here is to the boorish*
+people next door!
+
+-------------------------------
+
+[m05_0020][1E02]
+
+Achoo!*
+Achoo!
+
+-------------------------------
+
+[m05_0040][1E03]
+
+<face:005E>
+Are you all right,*
+my darling angel?<press>
+Have you taken your*
+medicine like a good girl?
+
+-------------------------------
+
+[m05_0030][1E04]
+
+<fchat:0001>
+Well, here I am in*
+yet another strange*
+room...<press>
+What's with the oddly*
+tense air of this*
+place, anyway...?<press>
+Now where is that*
+little treasure I'm*
+looking for?
+
+-------------------------------
+
+[m05_0050][1E05]
+
+<fchat:0001>
+There it is. The <red>telephone<black>.*
+<blue>(Now if I can just borrow*
+it...)<black>
+
+-------------------------------
+
+[m05_0160][1E06]
+
+<fchat:0001>
+Even now, Lynne's*
+life is in danger.<press>
+I have to use that*
+phone... and fast.<press>
+<blue>(I can't very well make that*
+woman bring it to me...)<black><press>
+<blue>(I guess I'll have to find*
+a way over there myself.)<black>
+
+-------------------------------
+
+[m05_0310][1E07]
+
+<fchat:0001>
+This thing is too heavy.*
+I can't manipulate it.<press>
+Maybe that woman built*
+up her destructive power*
+by hefting this puppy.<press>
+It's more like a weapon*
+than a book.
+
+-------------------------------
+
+[m05_0060][1E08]
+
+<face:005E>
+<blue>"Oh, Mr. Prime Minister,*
+you mustn't! I'm a*
+married woman...!"<black><press>
+<blue>"And I'm a married man...*
+But we cannot resist*
+this any longer!"<black><press>
+<blue>"I'm ready to abdicate*
+it all for you!"<black><press>
+<sound:0017><blink><shake:011E><blue>"Even if it means my*
+ultimate ruination!"<black><press>
+.........<press>
+Hmm...<press>
+<sound:0016>"<red>Ruination<black>." Is that even a word?<press>
+And that "<red>abdicate<black>" just*
+doesn't look right somehow.<press>
+.........*
+This is going to nag*
+at me until I'm sure.
+
+-------------------------------
+
+[m05_0340][1E09]
+
+<face:005E>
+<blue>"No, I mustn't... I mustn't*
+allow myself to believe in*
+your love, Mr. Prime Minister..."<black><press>
+<blue>"But why won't you believe me?"<black><press>
+<blue>"My love for you is true, I swear!"<black><press>
+<sound:0017><blink><shake:0128><blue>"And it's so strong,*
+it overwhelms me...!"<black><press>
+.........<press>
+You know, I've always wondered.<press>
+<sound:0016>If you can be "overwhelmed"*
+by something, can you be*
+just plain "<red>whelmed<black>"?<press>
+.........*
+This is going to nag*
+at me until I'm sure.
+
+-------------------------------
+
+[m05_0350][1E0A]
+
+<face:005E>
+<blue>"No, Mr. Prime Minister,*
+we mustn't! If the people*
+ever find out..."<black><press>
+<blue>"I don't care what*
+they might think!"<black><press>
+<sound:0017><blink><shake:0128><blue>"What do the plebeian*
+masses understand, anyway?*
+Certainly not our love!"<black><press>
+.........<press>
+Hmm...<press>
+<sound:0016>What is this prime*
+minister talking about?<press>
+I've never even heard the*
+word "<red>plebeian<black>" before.<press>
+.........*
+This is going to nag*
+at me until I'm sure.
+
+-------------------------------
+
+[m05_0360][1E0B]
+
+Where is that*
+dictionary?
+
+-------------------------------
+
+[m05_0180][1E0C]
+
+<face:005F>
+Let's see... I know I put*
+it here somewhere...<press>
+Now, where could*
+it have gone to?
+
+-------------------------------
+
+[m05_0370][1E0D]
+
+I just can't find it.
+
+-------------------------------
+
+[m05_0210][1E0E]
+
+<sound:0018><blink><shake:0128>I'll get you*
+next time!
+
+-------------------------------
+
+[m05_0220][1E0F]
+
+<fchat:0001>
+I guess this woman isn't*
+the type to scream when*
+she sees a rat.<press>
+It's more like she takes them*
+as a challenge, something to*
+be hunted down...<press>
+I can kind of identify*
+with that way of thinking...<press>
+Hmm. I wonder if I*
+can use this <red>personality*
+trait<black> of hers?
+
+-------------------------------
+
+[m05_0230][1E10]
+
+<blink>Oh! There it is!
+
+-------------------------------
+
+[m05_0240][1E11]
+
+<face:005E>
+But it's strange...<press>
+I know I left this dictionary*
+on the shelf.<press>
+It's as if some little angel were*
+playing naughty tricks on me.
+
+-------------------------------
+
+[m05_0250][1E12]
+
+<face:005E>
+Perhaps... my darling angel...?
+
+-------------------------------
+
+[m05_0390][1E13]
+
+Mama.
+
+-------------------------------
+
+[m05_0080][1E15]
+
+<face:005E>
+What is it, my darling angel?<press>
+<face:00DE>
+<shake:0128>Ow... My head hurts, Mama.<press>
+<face:005E>
+You poor dear, and no wonder,*
+with a fever of 102!<press>
+Here is to a night of fever, hotter*
+than the love of my prime minister!
+
+-------------------------------
+
+[m05_0100][1E16]
+
+<face:00DE>
+It's almost time to go out for my*
+lesson... Can I take the night off?<press>
+<face:005E>
+Yes, I suppose that would*
+be best... But wait a minute!<press>
+<sound:0016>I bet you're happy to have an*
+excuse to get out of it, aren't you?<press>
+<face:00DE>
+<sound:0015><blink>Not especially. If I ever don't*
+want to go, I just don't go, and*
+pretend I did.<press>
+I go play with Kamila next*
+door or something.<press>
+<face:005E>
+Here is to the blunt honesty*
+of my darling angel!
+
+-------------------------------
+
+[m05_0110][1E17]
+
+<face:00DE>
+Hey, today is Papa's <red>birthday<black>.<press>
+<face:005E>
+Oh, is it?<press>
+<face:00DE>
+Aren't we going to*
+celebrate together?<press>
+<face:005E>
+.........*
+Let's not talk about*
+your father, dear.<press>
+Now Mama has to go back*
+to work. I have a deadline*
+tonight, after all!
+
+-------------------------------
+
+[m05_0300][1E18]
+
+<sound:0017><blink><shake:0128>Mama, wait!
+
+-------------------------------
+
+[m05_0120][1E19]
+
+<face:00DE>
+I have just one thing to say.<press>
+<sound:0016>Don't try and put me in the*
+middle of you two, okay?
+
+-------------------------------
+
+[m05_0130][1E1A]
+
+<face:005E>
+Whatever could you*
+be talking about?<press>
+<face:00DE>
+I know what's going on, you know.<press>
+You write novels, and*
+Papa wants you to stop.<press>
+But it was very selfish of you to*
+take me and <red>leave the house<black>.<press>
+I want to go home.<press>
+<face:005E>
+.........<press>
+Now, now. It's time for good*
+little girls to go to sleep.*
+Especially sick little girls!
+
+-------------------------------
+
+[m05_013a][1E1B]
+
+<sound:0018><blink><shake:0128>I hate you,*
+Mama!
+
+-------------------------------
+
+[m05_0410][1E1C]
+
+<fchat:0001>
+These two are quite a pair...<press>
+The father would have to be*
+a pretty strong man to*
+hold his own against them.<press>
+It sounds like their*
+family circumstances*
+are pretty complicated.<press>
+<blue>(I wonder if I had a family?)<black>
+
+-------------------------------
+
+[m05_0400][1E1D]
+
+Oh, my.*
+The lamp is out.
+
+-------------------------------
+
+[m05_0260][1E1E]
+
+<face:005E>
+<blue>"My darling lady! To think*
+that you were a spy all along!"<black><press>
+<blue>"What are you going to do*
+to me, Mr. Prime Minister?"<black><press>
+<blue>"I will arrest you and make sure*
+you receive the proper penalty."<black><press>
+<sound:0016><blue>"Your sentence: To be imprisoned*
+in my cell of love, and punished*
+with my whip of passion!"<black><press>
+<blue>"Oh, Mr. Prime Minister!"<black><press>
+<blue>"Oh, my dear lady!"<black><press>
+.........<press>
+Hmm...<press>
+I'd hate to live in this*
+prime minister's country.
+
+-------------------------------
+
+[m05_0320][1E1F]
+
+<fchat:0001>
+She brought this dictionary*
+all the way over here to*
+look something up...<press>
+Irregardless, here it sits, all*
+alone. Either she forgot*
+what she wanted to look up...<press>
+...or she forgot she even*
+wanted to look anything*
+up in the first place.<press>
+.........<press>
+Hmm... Is "<red>irregardless<black>"*
+really a word?
+
+-------------------------------
+
+[m05_0330][1E20]
+
+Oh! I made a typo!
+
+-------------------------------
+
+[m05_0270][1E21]
+
+<shake:0128><blink>Eek!
+
+-------------------------------
+
+[m05_0280][1E22]
+
+What is going on?!
+
+-------------------------------
+
+[m05_0290][1E23]
+
+<fchat:0001>
+The telephone is*
+right over there. If*
+only I could get to it...
+
+-------------------------------
+
+[m05_0291][1E24]
+
+<fchat:0001>
+I just need to <red>jump <black>over*
+there somehow.<press>
+I'd better keep my eyes*
+open for just the right*
+<red>timing <black>to make a move.
+
+-------------------------------
+
+[m05_0140][1E25]
+
+<face:00E3>
+Hello? Is that you?<press>
+<face:005F>
+How many times are you*
+going to make me tell you?<press>
+Tonight is that holiest of*
+all nights -- my deadline.<press>
+<face:00E3>
+Please. I'm begging you.*
+Change your mind and*
+come home to me!<press>
+<face:005F>
+I think you're the one who*
+needs to change his mind.<press>
+<face:00E3>
+Please, put yourself in my*
+position. You can write your*
+novel just as well from home.<press>
+<face:005F>
+Until you change your*
+mind, your daughter and*
+I won't be coming home!<press>
+<change:0061>
+<end>
+<sound:0018><shake:0128>Even if that means FOREVER!
+
+-------------------------------
+
+[m05_0145][1E26]
+
+<face:00E3>
+Let me talk to Amelie,*
+then, at least.<press>
+<face:005F>
+You can't talk to her. She's sick*
+with a fever right now, and I won't*
+have you giving her nightmares!<press>
+<face:00DE>
+<sound:0018><blink><shake:0128>I want to talk to Papa!<press>
+<face:005F>
+Now, I don't want to hear your*
+voice anymore tonight.<press>
+<face:00E3>
+Please... Wait a minute...<press>
+<face:005F>
+Don't try to call again.*
+I won't answer.<press>
+<change:0061>
+<end>
+<sound:0018><blink><shake:0128>I REFUSE to answer!
+
+-------------------------------
+
+[m05_0420][1E28]
+
+<fchat:0001>
+Now I finally have the*
+telephone lines I need.<press>
+<blue>(I'm curious about this*
+woman's husband...)<black><press>
+<blue>(But I should go find*
+my "only lead" first.)<black><press>
+That hitman who's after*
+Lynne is sure to be heading*
+to the <red>junkyard <black>right now.<press>
+I'd better hurry.
+
+-------------------------------
+
+[m05_9900][2100]
+
+<fchat:0001>
+I'd better not put out*
+the lamp right now.<press>
+<sound:0016><blue>(It will only pour oil on*
+the flames of anger in*
+this lady's heart.)<black><press>
+If I want to give Amelie*
+a chance to use the*
+telephone...<press>
+<sound:0015><blink>...I have to think of <red>a*
+way to keep her mother*
+out of the way<black>.
+
+-------------------------------
+
+[m05_9901][2101]
+
+<fchat:0001>
+If I recall, the novelist said*
+she didn't like the dark.<press>
+I don't want her thrashing*
+around any more than*
+she is already...<press>
+<blue>(I'd better not put out*
+this lamp right now.)<black>
+
+-------------------------------
+
+[m05_1330][1F27]
+
+<fchat:0001>
+I can't move the chandelier*
+right now with her thrashing*
+around like that...<press>
+I hear ominous creaking*
+coming from the ceiling,*
+too...<press>
+<blue>(This is a dangerous*
+situation...)<black>
+
+-------------------------------
+
+[m05_1460][1F3D]
+
+<sound:0018><shake:0128>Don't you dare,*
+Amelie!
+
+-------------------------------
+

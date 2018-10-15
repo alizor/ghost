@@ -1,0 +1,672 @@
+[m02_1440][0534]
+
+<fchat:0003>
+These pictures are old.*
+What are they of? Little*
+fragments of rock?<press>
+And the fragments*
+are glowing... Do you*
+know what these are?<press>
+<fchat:0001>
+Sorry, but I've lost my*
+memory. Probably not*
+the best person to ask...<press>
+<fchat:0003>
+<sound:0015><blink>That's okay. I was only*
+being polite. I didn't*
+really think you'd know.<press>
+<fchat:0001>
+<blue>(Ouch. This lady's*
+tongue can be sharp.)<black><press>
+<fchat:0003>
+Uh, I can hear what you're*
+thinking, remember?<press>
+<fchat:0001>
+<sound:0016>I know.<press>
+<fchat:0003>
+Good one.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+What could this be? It looks*
+like a giant nail clipper.<press>
+<fchat:0003>
+You think so?<press>
+<fchat:0001>
+Do YOU know what it is?<press>
+<fchat:0003>
+#sigh#<press>
+<sound:0016>Why did you have to ask me?!*
+Couldn't you see I was*
+looking away evasively?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0003>
+It's... one of those science-y*
+things that scientists use.<press>
+<sound:0018><blink><shake:0128>Ordinary people like us don't*
+have to know what it is!<press>
+<fchat:0001>
+<blue>(I don't remember*
+what "science" is...)<black><press>
+<blue>(...but it's apparently*
+something Lynne*
+doesn't like very much.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+These photos*
+look pretty old.<press>
+Pictures of little*
+fragments of rock...<press>
+That old pigeon guy has*
+some pretty strange*
+taste in wall décor.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+I have no idea what this*
+instrument is for.<press>
+As a matter of fact, this*
+whole desk is filled with*
+things I've never seen.<press>
+I know I've lost my*
+memory, but still...<press>
+That old pigeon man seems*
+like a pretty strange guy.
+
+-------------------------------
+
+[m02_2060][060B]
+
+<face:00D3>
+How long has it been*
+since I locked this room*
+up in darkness?<press>
+I once thought the truth could*
+be discovered in darkness...<press>
+...Maybe it was just that*
+the time wasn't ripe.
+
+-------------------------------
+
+[m02_2065][060D]
+
+<fchat:0003>
+You know what, Sissel?<press>
+I think this death might be*
+easier to prevent than the*
+others.<press>
+<fchat:0001>
+Why's that?<press>
+<fchat:0003>
+<sound:0016>You know. Because the*
+murderer is <red>mechanical<black>!<press>
+<fchat:0001>
+<blue>(She has a point.*
+I can't manipulate*
+living creatures...)<black><press>
+<blue>(But I can manipulate this*
+machine. Now I just gotta*
+figure out how to stop it...)<black><press>
+<fchat:0003>
+When the "four-minutes-ago*
+me" turns on the <red>light<black>...<press>
+...that's when the <red>murder*
+machine<black> is set in motion,*
+apparently.<press>
+<fchat:0001>
+<blue>(It looks like the key*
+to solving this one...)<black><press>
+<blue>(...is understanding this*
+Rube Goldberg machine.)<black>
+
+-------------------------------
+
+[m02_2300][060E]
+
+<fchat:0001>
+How did you manage*
+to cram yourself into*
+that tiny elevator?<press>
+<fchat:0003>
+I've always liked small,*
+cramped places.<press>
+Whenever I see a little*
+hole or crevice, I always*
+feel like crawling in.<press>
+The place I feel most at*
+home is that space between*
+my bed and the wall.<press>
+<fchat:0001>
+Yeah, I guess I can*
+understand that.<press>
+<fchat:0003>
+<sound:0015><blink>Ah, we're birds of a feather!*
+We should get together and*
+talk about it sometime!
+
+-------------------------------
+
+[m02_2100][060F]
+
+<face:00BD>
+<sound:0015><blink>Oh! Um, is this the*
+superintendent?<press>
+I'm so glad! I thought*
+I was all alone...<press>
+<face:00D3>
+.........
+
+-------------------------------
+
+[m02_2440][0610]
+
+He hung up.
+
+-------------------------------
+
+[m02_2410][0611]
+
+<face:00C0>
+It's all over... It's all over for me...<press>
+Lynne -- sweet, cute Lynne,*
+who shines as bright as the*
+sun -- ran away on me...<press>
+And then those detectives --*
+matching bookends, blue*
+and green -- yelled at me...<press>
+And then the old man with the*
+dirty blue dove on his head*
+completely ignored me...<press>
+If only somebody would give me*
+a kind word right about now...<press>
+<fchat:0001>
+<sound:0016>You wanna give*
+him a kind word,*
+Miss Bright-As-the-Sun?<press>
+<fchat:0003>
+<shake:0128><blink>Um... Let's see...<press>
+<sound:0015><blink>"Hang in there!"<press>
+<fchat:0001>
+<blue>(That's all you've got?)<black><press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>I'd like to see you do better!
+
+-------------------------------
+
+[m02_2420][0612]
+
+<face:00C1>
+It's all over... It's all over for me...<press>
+Lynne -- sweet, cute Lynne,*
+who shines as bright as the*
+sun -- ran away on me...<press>
+And then the old man with the*
+dirty blue dove on his head*
+completely ignored me...<press>
+All I wanted was for somebody*
+to give me a kind word...<press>
+Instead, what did I get?<press>
+<sound:0018><blink><shake:0128>Scalding steam from the kettle!<press>
+<fchat:0001>
+<sound:0016>You wanna give*
+him a kind word,*
+Miss Bright-As-the-Sun?<press>
+<fchat:0003>
+<shake:0128><blink>Um... Let's see...<press>
+<sound:0015><blink>Chin up! You're just*
+having a bad day!<press>
+<fchat:0001>
+<blue>(That's not a whole*
+heck of a lot better*
+than a scalding burn...)<black><press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>I'd like to see you do better!
+
+-------------------------------
+
+[m02_2430][0613]
+
+<face:00C2>
+Lynne ran away, the*
+detectives yelled at me, the*
+old pigeon man ignored me...<press>
+And then the kettle nearly*
+scared me to death...<press>
+<change:00BE>
+<end>
+<sound:0017><shake:0128>My life is in complete shambles!<press>
+<fchat:0003>
+<sound:0015><blink>That's gratitude for you!*
+We were just trying to warn*
+him with the kettle whistle!<press>
+<sound:0018><shake:0128>Would he have*
+preferred getting*
+scalded by the steam?<press>
+<fchat:0001>
+Well, at least his fate*
+was changed a bit.<press>
+That's good, anyway.
+
+-------------------------------
+
+[m02_2110][0614]
+
+<face:00BD>
+<sound:0015><blink>There you are, Superintendent!*
+That wasn't very nice of you,*
+you know.<press>
+<face:00D3>
+What wasn't?<press>
+<face:00BD>
+The least you can do is*
+say "hello" when you*
+answer the phone.<press>
+<sound:0017><blink><shake:0128>But you didn't say a word.*
+How is that supposed to*
+make me feel?<press>
+<face:00D3>
+A person has the right to*
+call whomever they please.*
+And, conversely...<press>
+...the person who answers has*
+the right to decide if they want*
+to talk to that person or not.<press>
+<face:00BD>
+So, in other words, all I*
+can do is wait, is that it?<press>
+<sound:0017><blink><shake:0128>Wait to meet <red>the person*
+of my destiny<black>, the person*
+who chooses to talk to me!
+
+-------------------------------
+
+[m02_2450][0615]
+
+<fchat:0003>
+<sound:0016><shake:0128>There it goes! The <red>murder*
+machine<black> has started!<press>
+<fchat:0001>
+And if the whole thing*
+plays out, that gun on*
+the wall will go off.<press>
+<blink><shake:0128>But before that happens,*
+it's up to me to use*
+my <red>ghost tricks<black>!<press>
+<fchat:0003>
+There must be some way to*
+disrupt this domino effect.<press>
+You just have to find it!<press>
+<fchat:0001>
+<blue>(Here goes!)<black>
+
+-------------------------------
+
+[m02_2460][0616]
+
+<fchat:0003>
+Oh, I know this toy.*
+The wheel spins and*
+moves down the pole.<press>
+<sound:0015><blink>Hey, look! There's a*
+thread attached to it!<press>
+<fchat:0001>
+It loops around the clock*
+and is tied to the frame*
+the gun is in...<press>
+...and it seems to be*
+connected to our fiery*
+Mr. Cupid as well.<press>
+<blue>(This toy seems to be*
+the "heart" of the*
+entire mechanism.)<black><press>
+<blue>(But inertia is surprisingly*
+powerful... I can't stop it*
+once it's set into motion!)<black>
+
+-------------------------------
+
+[m02_2465][0617]
+
+<fchat:0003>
+<sound:0015><blink>Hey! That was pretty good*
+just now!<press>
+<fchat:0001>
+Maybe if we were on a*
+putting green.<press>
+<fchat:0003>
+Well, with a swing like that...*
+Maybe we could put it to*
+some use here.<press>
+<fchat:0001>
+<blue>(Good thinking. I just*
+might be able to <red>use this*
+trick<blue> somehow.)<black><press>
+<sound:0016><blue>(If I could <red>change the*
+path<blue> the ball takes...)<black><press>
+<fchat:0003>
+That's great and all...<press>
+<sound:0015><blink>But it looks like we're*
+all out of time this round...
+
+-------------------------------
+
+[m02_2320][0618]
+
+<fchat:0003>
+So, about telephones...<press>
+In the "four minutes before"*
+world, you can't just use*
+them at any ol' time, right?<press>
+<fchat:0001>
+That's right. Only when it's*
+being used to make a call.<press>
+<fchat:0003>
+So maybe that call just now*
+was a good opportunity.<press>
+<fchat:0001>
+Hmm. It seems to me...<press>
+...there's a fine line between*
+"good opportunity" and*
+"our only hope"...<press>
+<fchat:0003>
+So which one was*
+that phone call?<press>
+<fchat:0001>
+Hmm. It seems to me...*
+<blue>(...I have no idea.)<black>
+
+-------------------------------
+
+[m02_2470][0619]
+
+<fchat:0001>
+This telephone doesn't seem*
+to be working right now.<press>
+<blue>(Usually, the telephone*
+line glows red, but it's*
+dark right now.)<black><press>
+Hmm... In the "four minutes*
+before death" world...<press>
+...it looks like I can't*
+use the telephone*
+lines whenever I want.
+
+-------------------------------
+
+[m02_2330][061A]
+
+<fchat:0003>
+<sound:0016>There it goes! The murder*
+machine has started!<press>
+<fchat:0001>
+I-I can see that.*
+<blue>(I have to do something!)<black><press>
+<fchat:0003>
+But what CAN you do?!<press>
+<sound:0018><blink><shake:0128>There's nowhere to move to*
+from here! You might as well*
+just throw up your hands!<press>
+<sound:0015><blink>And don't give me that "a*
+ghost doesn't have hands"*
+bit.<press>
+It's just a figure of speech!<press>
+<fchat:0001>
+<blue>(Hmm...)<black><press>
+<blue>(It looks like I messed*
+up somewhere...)<black>
+
+-------------------------------
+
+[m02_2340][061B]
+
+<face:0016>
+What just happened?<press>
+<face:0034>
+It looks like your future just*
+got a whole lot rosier.<press>
+<change:0027>
+<end>
+<sound:0016>Your death has been*
+erased... again.<press>
+<face:001C>
+I, uh... Thank you.<press>
+.........<press>
+<change:0004>
+<end>
+<blink>You kept your promise,*
+didn't you, Sissel?<press>
+<face:002B>
+<sound:0015><blink>My promise?<press>
+<face:0006>
+You said I'd see you*
+again if I died.<press>
+<face:0027>
+I don't remember making*
+any promises. It's all for my*
+own benefit, anyway...
+
+-------------------------------
+
+[m02_2345][061C]
+
+<face:000E>
+.........<press>
+What could this*
+room be all about?<press>
+<face:0029>
+Hmm... I can't imagine.<press>
+<face:000E>
+Those things that went off*
+at the end. Those were party*
+poppers, weren't they?<press>
+<face:002B>
+Party poppers?*
+<blue>(I have no recollection of what*
+they are, but that's no surprise...)<black><press>
+<face:0014>
+The party poppers, the gun*
+going off... It seems familiar*
+somehow...<press>
+<face:002B>
+.........<press>
+<change:0027>
+<end>
+I'll leave that part of the*
+puzzle to you. I have my*
+own "puzzle" to figure out.<press>
+Well, shall we go back now?*
+Back to your new "present"?
+
+-------------------------------
+
+[m02_2350][0631]
+
+<face:002B>
+If I want to change her fate...<press>
+<face:000F>
+<sound:0017><blink><shake:0128>...Then you need to do something*
+about that <red>murder machine<black>!<press>
+<face:0029>
+<blue>(I guess staying up here isn't*
+gonna do us any good...)<black>
+
+-------------------------------
+
+[m02_2360][0632]
+
+<face:0029>
+The key to this*
+"<red>murder machine<black>"...<press>
+<face:000D>
+<sound:0015><blink>...Is that cheeky little <red>Cupid*
+<black>who fires the arrow.<press>
+If he's going to shoot arrows,*
+I'd prefer they were arrows of*
+love, myself.<press>
+<face:002B>
+<blue>(So I either have to stop Cupid*
+from <red>turning<blue>, or stop his <red>arrow<blue>...)<black>
+
+-------------------------------
+
+[m02_2370][0633]
+
+<face:0029>
+The key to this*
+"<red>murder machine<black>"...<press>
+<face:000D>
+<sound:0015><blink>...Is that cheeky little <red>Cupid*
+<black>who fires the arrow.<press>
+<face:002B>
+<blue>(But wait a minute...*
+That <red>swinging <blue>shovel...)<black><press>
+<change:0029>
+<end>
+<sound:0016><blue>(I wonder if that can be used*
+as a "<red>weapon<blue>" somehow*
+against our Mr. Cupid?)<black>
+
+-------------------------------
+
+[m02_2380][0634]
+
+<face:0029>
+The key to this*
+"<red>murder machine<black>"...<press>
+<face:000D>
+<sound:0015><blink>...Is that cheeky little Cupid*
+who fires the <red>arrow<black>.<press>
+If only we could get that <red>ball*
+<black>to fly over and hit him...<press>
+<face:0027>
+<blue>(Yes, maybe that would*
+stop our little Mr. Cupid...)<black>
+
+-------------------------------
+
+[m02_2385][0635]
+
+<face:0011>
+<sound:0015><blink>Why can't you just make me*
+escape through that trap door*
+in the floor?!<press>
+<face:0034>
+You and I both know that's*
+impossible, missy.*
+Although...<press>
+<face:002B>
+<blue>(I thought I saw a <red>new path<blue>*
+open up to us when I opened*
+that door...)<black><press>
+<blue>(But did I miss my chance to*
+<red>get back on the main path<blue>*
+afterwards?)<black>
+
+-------------------------------
+
+[m02_2390][0636]
+
+<face:0029>
+I guess there isn't anything*
+we can do from here...<press>
+<face:0011>
+No sense in being shy and*
+<red>hanging back<black>, I always say.<press>
+<face:002B>
+<blue>(This from the detective*
+who hid in an elevator...)<black><press>
+<change:0027>
+<end>
+I guess I'd better keep my eyes*
+open for an opportunity to move*
+this time.
+
+-------------------------------
+
+[m02_2400][0637]
+
+<face:000D>
+Stopping this murder*
+machine is no easy task.<press>
+<face:002B>
+Well, if I can't stop it...<press>
+<change:0034>
+<end>
+<sound:0016>...maybe I can at least*
+<red>change <black>how it works.<press>
+<blue>(I'll just keep trying stuff*
+until I find a new <red>lead<blue>.)<black>
+
+-------------------------------
+
+[m02_2405][0638]
+
+<face:0034>
+What did you think about the*
+movement of Mr. Cupid just now?<press>
+<face:0003>
+I'd say we were really close.<press>
+<face:002B>
+<blue>(Yeah, I guess we've got*
+a little further to go.)<black><press>
+<change:0029>
+<end>
+<sound:0016><blue>(It all comes down to*
+the <red>right timing<blue>...)<black>
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(So what exactly*
+is this thing?)<black><press>
+<blue>(It looks like a giant*
+nail clipper to me...)<black><press>
+<fchat:000C>
+<sound:0016>No, it most certainly*
+does not.<press>
+It's an instrument used in*
+analyzing radiation-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>O-Oh. Ahem. Yes, I see...<press>
+<fchat:000B>
+<sound:0015><blink>You're not alone, kid.<press>
+None of the rest of us*
+understand it, either, baby!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Yeah! You said it!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Old pictures... of what*
+look like little fragments*
+of rock.<press>
+<fchat:000C>
+Those are Temsik fragments.<press>
+That's an article from back*
+when it was big news.<press>
+<fchat:000B>
+Ten years ago, nobody*
+really understood it.<press>
+<fchat:000C>
+I guess that's*
+still true today.
+
+-------------------------------
+

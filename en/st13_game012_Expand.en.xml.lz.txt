@@ -1,0 +1,457 @@
+[m13_1075][3017]
+
+<face:00D5>
+Yes, my dear. I'll ever-so-gently*
+nab her and come right back to*
+your side.
+
+-------------------------------
+
+[m13_1100][301C]
+
+Hnnnh!
+
+-------------------------------
+
+[m13_1130][301F]
+
+<face:002D>
+<sound:0015><blink><shake:0128>Look at that! There's another*
+<red>flame <black>besides mine!<press>
+<face:00FB>
+<sound:0017><blink><shake:0128>Oooooh! So that is the*
+<red>flame of a god<black>, is it?!<press>
+But hold on...<press>
+<change:00F9>
+<end>
+<sound:0015><blink>Your spirit is a <red>flame<black>, too,*
+isn't it...?<press>
+<face:002B>
+Yeah. So?<press>
+<face:00F9>
+Uh, pardon me, but...<press>
+<sound:0016>...are you <red>a god<black>?<press>
+<face:0034>
+I sincerely doubt it.<press>
+<change:002B>
+<end>
+<blue>(At the last minute, that*
+big lump of concrete made*
+a huge <red>swing to one side<blue>...)<black><press>
+<blue>(That was probably*
+<red>that flame's doing<blue>.)<black><press>
+<change:0029>
+<end>
+Who could it be?<press>
+<face:00F9>
+<sound:0015><blink>I definitely believe it's either*
+<red>a god or somebody god-related<black>!<press>
+<face:002B>
+<blue>(Hmm... Maybe I'd better*
+try <red>talking <blue>to this person...)<black>
+
+-------------------------------
+
+[m13_1140][3020]
+
+<face:002E>
+<sound:0015><blink><shake:0128>Wh-What the...?<press>
+This person with <red>much<black>*
+<red>greater powers<black> than me...<press>
+It's... It's...<press>
+<change:002C>
+<end>
+<sound:0016><blink>...<red>you<black>...?<press>
+<face:0079>
+<sound:0018><1EFF_1400><blink><shake:0128><center>{2EFF}f{17FF}Heeey!{17FF}<press>
+<face:0075>
+<sound:0017><1CFF_2B00><blink><shake:0128><center>{2EFF}Í{17FF}Sissel!{17FF}<press>
+<face:0037>
+<shake:0128><blink>Oh, my... It's...<press>
+<face:0075>
+<sound:0033><blink><shake:0128><center>{2EFF}u{17FF}...Missile!{17FF}<press>
+<face:0035>
+You look well...*
+<blue>(...for being dead.)<black><press>
+<face:0075>
+Did you see?!*
+Did you see what I did?!<press>
+<sound:0033><blink><shake:0128>I did it! I tried really*
+hard and I did it!<press>
+<sound:0033><blink><shake:0128>I saved Miss Kamila!<press>
+<face:00F9>
+<sound:0016>...Are you telling me I was*
+<red>done in<black> by a puppy dog?<press>
+<face:002A>
+<sound:0015><blink>Missile, what's going on?*
+How did you get the*
+<red>powers of the dead<black>?<press>
+<face:0075>
+<sound:0017><blink><shake:0128>I'm glad you asked!
+
+-------------------------------
+
+[m13_1150][3021]
+
+<face:0079>
+<center>After Miss Kamila went*
+<center>out and you left...
+
+-------------------------------
+
+[m13_1155][3022]
+
+<face:0079>
+<sound:0033><blink><shake:0128><center>I worked like crazy to make*
+<center>my own <red>path<black>, and I did it!
+
+-------------------------------
+
+[m13_1160][3023]
+
+<face:0079>
+<sound:0017><blink><shake:0128><center>And then I followed*
+<center>Miss Kamila out into*
+<center>the big, wide world!
+
+-------------------------------
+
+[m13_1170][3024]
+
+<face:0079>
+<sound:0017><blink><shake:0128><center>And then, here at this*
+<center>park, <red>I found her at last<black>!<press>
+<sound:0033><blink><shake:0128><center>Yes, you guessed it! I barked!*
+<center>You bet I did! And I went*
+<center>running after her, too!
+
+-------------------------------
+
+[m13_1190][3025]
+
+<face:0079>
+<NJ:003C>
+<center>And then I guess I died.<press>
+<NJ:003C>
+<center>And then I was unconscious*
+<center>for a little while.
+
+-------------------------------
+
+[m13_1200][3026]
+
+<face:0079>
+<NJ:003C>
+<center>When I came to,*
+<center>it was all over...<press>
+<NJ:003C>
+<center>Poor, poor Miss Kamila!<press>
+<NJ:003C>
+<center>Crushed under*
+<center>that big, scary lump...
+
+-------------------------------
+
+[m13_1210][3027]
+
+<face:00D5>
+<sound:0018><blink><shake:0128>Oh! Oh! What have I done?!<press>
+<sound:0018><blink><shake:0128>I'm so sorry, little lady!*
+Please forgive me!
+
+-------------------------------
+
+[m13_1213][3028]
+
+<face:0075>
+<sound:0017><blink><shake:0128><center>{2EFF}g{17FF}Miss Kamila!!!<0CFF_0A00><blink><0CFF_0A00><blink>{17FF}
+
+-------------------------------
+
+[m13_1215][3029]
+
+<face:0079>
+<center>I had to rescue Miss Kamila!*
+<center>It was up to me!<press>
+<center>I cried out from the*
+<center>depths of my heart.<press>
+<center>And then...
+
+-------------------------------
+
+[m13_1220][302A]
+
+<face:0076>
+I can't tell you how surprised*
+I was. But I bet you understand,*
+right?<press>
+<face:0027>
+Better than probably*
+anybody else could.<press>
+<face:0076>
+And I remembered what you*
+did for me, how you saved me.<press>
+<face:002B>
+So...<press>
+<change:0027>
+<end>
+<sound:0016>...you <red>went back<black>, right?*
+Back to <red>four minutes before*
+<black>the little lady's death?<press>
+<face:0076>
+<sound:0017><blink><shake:0128>{2EFF}Á{17FF}You bet I did!{17FF}
+
+-------------------------------
+
+[m13_1240][302B]
+
+<fchat:0002>
+<sound:0033><blink><shake:0128>Now's my chance, I thought!*
+I saw the <red>core<black>!<press>
+<fchat:0001>
+<sound:0016><blue>(I dunno... It looks*
+pretty <red>far<blue>...)<black><press>
+<fchat:0002>
+I stretched out my <red>paw<black>*
+toward the core.<press>
+Ooh, how I felt at*
+that moment!<press>
+I'd love for you to be*
+able to feel it, too!<press>
+<sound:0033><blink><shake:0128>Go ahead, Sissel! Go ahead*
+and try it for yourself!
+
+-------------------------------
+
+[m13_1250][302C]
+
+<face:0036>
+<sound:0015><blink><shake:0128>I-I can't believe it!<press>
+<blue>(How could you <red>connect <blue>over*
+such a great distance...?!)<black><press>
+<face:0076>
+<sound:0033><blink><shake:0128>Well, they don't call me*
+"<red>Missile<black>" for nothing!<press>
+<face:002B>
+Hmm. And so then you*
+manipulated that "Mino"*
+thing, and threw it aside...?<press>
+<face:00FB>
+...Right on top of my head.<press>
+<face:0076>
+<sound:0016>{28FF}0AWell, uh... <red>no<black>, actually.<press>
+<face:0036>
+<sound:0015><blink>Huh?<press>
+<face:0076>
+{28FF}<0001_6400>I can't <red>manipulate things<black>*
+like you can, Sissel.<press>
+<face:003A>
+<sound:0018><blink><shake:0128>You can't?!*
+Then how did you...?!<press>
+<face:0076>
+I didn't know what to do! Then*
+I happened to see something*
+out of the corner of my eye...<press>
+<sound:0015><blink>And it had a <red>core<black>, too.
+
+-------------------------------
+
+[m13_1260][302D]
+
+<face:0044>
+A single <red>leaf <black>hanging*
+from the tree...
+
+-------------------------------
+
+[m13_1265][302E]
+
+<face:0076>
+I tried reaching out to the leaf!
+
+-------------------------------
+
+[m13_1270][302F]
+
+<face:002D>
+<sound:0018><blink><shake:0128>Wh-What in the world?!<press>
+<face:0076>
+I can't <red>manipulate <black>things...<press>
+<sound:0033><blink><shake:0128>...but, apparently,*
+I can <red>swap <black>them!<press>
+<sound:0016>As long as the two things have*
+<red>the same shape<black>, that is.<press>
+<face:0036>
+<red>Swap <black>things with*
+the same shape...?<press>
+<face:0076>
+<sound:0017><blink><shake:0128>Go ahead and try it!*
+Touch the <red>Swap <black>button!
+
+-------------------------------
+
+[m13_1280][3030]
+
+<face:002D>
+<shake:0128><blink>Th-That's incredible!<press>
+And so that's how you saved*
+your mistress, is it?!<press>
+<face:00F9>
+<sound:0015><blink>And that's how I became*
+<red>caught up in this<black>, is it?!<press>
+<face:0076>
+<sound:0017><blink><shake:0128>{2EFF}Â{17FF}I'm very sorry!{17FF}<press>
+<sound:0018><blink><shake:0128>My <red>powers <black>were too <red>meager<black>!<press>
+<face:002B>
+<sound:0016><blink>"Meager"?<press>
+<face:0076>
+Because, you see,*
+I saw one more.
+
+-------------------------------
+
+[m13_1282][3031]
+
+<face:0075>
+I happened to notice*
+one more core.<press>
+<sound:0015><blink>There was something with*
+<red>the exact same shape<black> stuck*
+in the branches of a tree.<press>
+<face:0036>
+<sound:0018><blink><shake:0128>Hey, you're right!<press>
+If "Mino" could be <red>swapped<black>*
+again with that...<press>
+<face:00F8>
+<sound:0017><blink><shake:0128>...then <red>disaster <black>wouldn't have to*
+rain down on my head!
+
+-------------------------------
+
+[m13_1284][3032]
+
+<face:002B>
+But what is that thing?*
+It's too big to be a leaf...<press>
+<face:00FA>
+<sound:0015><blink><shake:0128>Whatever it is, I'd much prefer*
+it on my head than <red>Mino<black>!
+
+-------------------------------
+
+[m13_1286][3033]
+
+<face:0034>
+So why didn't you*
+<red>swap <black>them, Missile?<press>
+<face:0076>
+I couldn't.<press>
+I can stretch out my <red>paw <black>a little*
+further than you can, Sissel.
+
+-------------------------------
+
+[m13_1288][3034]
+
+<face:0076>
+<sound:0016>But this was just too far*
+for me. I couldn't reach.
+
+-------------------------------
+
+[m13_1290][3035]
+
+<face:00F9>
+I must admit, it's a fascinating*
+spectacle of a death, if I do*
+say so myself!<press>
+<face:0076>
+I kept retrying over and*
+over, seeing if there was*
+anything I could do...<press>
+<face:0027>
+<sound:0016><blink>I bet there's something*
+you can do now.<press>
+<face:0076>
+<sound:0015><blink>Huh?<press>
+<face:0027>
+If we work <red>together<black>,*
+you and me.<press>
+<face:0076>
+<shake:0128><blink>Sissel! You think so?!<press>
+<face:0029>
+I don't plan on letting anybody*
+die in front of me tonight.<press>
+<change:0034>
+<end>
+Do you think you*
+could help me?<press>
+<face:0076>
+<sound:0017><blink><shake:0128>{2EFF}Ã{17FF}Of course!{17FF}<press>
+<face:00F9>
+<sound:0017><blink><shake:0128>{2EFF}Ç{17FF}Naturally!{17FF}<press>
+<face:002B>
+So, we're going to drop that*
+"Mino" thing <red>in a different spot<black>.<press>
+<change:0027>
+<end>
+Okay, let's try it. Let's go back*
+again, to four minutes before!
+
+-------------------------------
+
+[m13_1820][3036]
+
+<fchat:0007>
+<sound:0015><blink>What's this? You're*
+not going to talk to*
+<red>the flame of a god<black>?<press>
+<fchat:0001>
+I thought I'd better try*
+to save you first...<press>
+<blue>(But now that I've*
+come this way...)<black>
+
+-------------------------------
+
+[m13_1825][3037]
+
+<fchat:0001>
+<sound:0016><blink><blue>(...the <red>path <blue>to the flame*
+has disappeared.)<black><press>
+<blue>(Did I really make the*
+right move here?)<black><press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>It is my opinion that*
+you should have*
+talked to the god!
+
+-------------------------------
+
+[m13_1827][3038]
+
+<fchat:0001>
+Well, too late now. I'll just*
+look around and see what I*
+can do on this side instead.
+
+-------------------------------
+
+[m13_1980][3060]
+
+<face:002B>
+I dunno... I felt kind of*
+at a loss this time...<press>
+<face:00FA>
+You should never have ignored*
+the <red>flame of that god<black>!<press>
+<face:002B>
+<blue>(Hmm. Somebody else with*
+<red>ghost tricks<blue> like me...)<black><press>
+<change:0029>
+<end>
+<blue>(I probably should've tried to*
+find out <red>who it was<blue>, huh?)<black>
+
+-------------------------------
+

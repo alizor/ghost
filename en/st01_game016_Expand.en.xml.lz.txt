@@ -1,0 +1,407 @@
+[m01_1400][021E]
+
+<face:0044>
+<NJ:003C>
+<center>Just as before, rain passes*
+<center>through me as it makes its*
+<center>way to the ground.<press>
+<NJ:003C>
+<center>I wonder if that red-headed*
+<center>woman is still here...?
+
+-------------------------------
+
+[m01_1410][021F]
+
+<face:0083>
+<sound:0015><blink>After that telephone call, she*
+reported the whole incident to*
+the police.<press>
+This junkyard is such an out-of-*
+the-way place. It'll take them a*
+while to get here...<press>
+Until they arrive, though,*
+it looks like she's*
+watching over your body.<press>
+<fchat:0001>
+A sense of duty, eh? It's a*
+wonder she isn't scared of*
+ghosts in this spooky place.
+
+-------------------------------
+
+[m01_1420][0220]
+
+<face:0083>
+<sound:0016>The ghosts are already*
+here! Heh heh.<press>
+<fchat:0001>
+Hey, cut that out! She'll*
+think I'm haunting the*
+place!<press>
+<face:0083>
+In any case...<press>
+...just leave this place to me. You*
+go out and pursue your mystery.
+
+-------------------------------
+
+[m01_1430][0221]
+
+<face:0083>
+So how was your meeting*
+with your murderer?<press>
+<fchat:0001>
+There were a couple of*
+guys, but I don't remember*
+ever seeing them before.<press>
+<face:0083>
+<sound:0016>But don't forget, you've*
+<red>lost your memory<black>.<press>
+Who knows? They might even*
+be good friends of yours.<press>
+<fchat:0001>
+<blue>(They're not exactly the*
+types I'd ever want to be*
+best buddies with...)<black><press>
+By the way, where is our*
+redhead?<press>
+<face:0083>
+I think she's around*
+here somewhere.
+
+-------------------------------
+
+[m01_1440][0222]
+
+<face:0013>
+So that guy in the black*
+suit was<red> targeting me<black>...<press>
+But why...?<press>
+<change:000D>
+<end>
+And then that wrecking ball*
+came down and <red>saved me<black>...<press>
+But how...?<press>
+.........<press>
+<change:0013>
+<end>
+There's something funny*
+going on tonight. And I've*
+got a bad feeling about it!<press>
+<fchat:0001>
+<blue>(I'll save her as many times*
+as it takes... as long as she *
+helps out with my mystery.)<black><press>
+<blue>(Besides, how many times*
+can a person die in one*
+night, right?)<black>
+
+-------------------------------
+
+[m01_1500][0223]
+
+<face:0083>
+<sound:0015><blink>Oh, back again?<press>
+<fchat:0001>
+Yeah, just checking to*
+see if anything's new.<press>
+<face:0083>
+Well, let me see...<press>
+<sound:0016>A moment ago, your corpse*
+was taken away by the police.<press>
+<fchat:0001>
+<shake:0128>It was? Oh.<press>
+<blue>(I guess I'll never see*
+my poor corpse again...)<black><press>
+<face:0083>
+Nothing is permanent. We*
+lose everything in the end...<press>
+<fchat:0001>
+But there are some things*
+we can get back. Right, Ray?<press>
+<face:0083>
+I suppose you are right.
+
+-------------------------------
+
+[m01_1510][0224]
+
+<face:0083>
+<sound:0015><blink>Ah, welcome back!*
+How is it going?<press>
+Have you solved all*
+of your mysteries?<press>
+<fchat:0001>
+Can't you tell by my face?<press>
+<face:0083>
+<sound:0016>I did see your face,*
+but I asked anyway.<press>
+<fchat:0001>
+<blue>(Smart-alecky light*
+fixture...)<black><press>
+The lady detective and I*
+decided to join forces.<press>
+She and I are connected*
+somehow... I just know it.<press>
+<face:0081>
+<sound:0015><blink><shake:0128>Oh! That's fine news!
+
+-------------------------------
+
+[m01_1515][0225]
+
+<fchat:0001>
+<blue>(Look at him wriggle*
+happily...)<black><press>
+<face:0083>
+Tonight, you and she*
+both suffered misfortune.<press>
+But if you combine her*
+bad luck and yours...<press>
+<sound:0017><blink><shake:0128>...it makes great<red> good fortune<black>.<press>
+Remember that.<press>
+<fchat:0001>
+I dunno. By my math, bad*
+luck plus bad luck equals*
+a whole lotta bad luck.<press>
+<face:0083>
+You should check your figures.
+
+-------------------------------
+
+[m01_1520][0226]
+
+<face:0083>
+Ah, there you are again!<press>
+It's getting late.*
+How are things progressing?<press>
+<fchat:0001>
+I saw the person who shot*
+me... I saw the whole thing*
+with my own eyes...<press>
+<face:0083>
+<sound:0015><blink>Well, well! That is a big step*
+forward, by the sound of it.<press>
+<fchat:0001>
+Forward... huh...?*
+Doesn't feel like it...<press>
+<face:0083>
+Here, let me share*
+something with you.<press>
+<fchat:0001>
+What's that?<press>
+<face:0083>
+<sound:0016>The "truth" is sometimes hidden in*
+the shadow of what's being looked*
+at, and can't be seen properly.<press>
+Don't forget that.<press>
+<fchat:0001>
+The shadow of what's*
+being looked at, huh?*
+I'll remember that.
+
+-------------------------------
+
+[m01_1530][0227]
+
+<face:0083>
+<sound:0015><blink>Fancy meeting you here.<press>
+How goes it with your quest?<press>
+<fchat:0001>
+Somehow, I find myself*
+roped into saving the life of*
+a death-row prisoner now.<press>
+But this prisoner apparently*
+<red>knows me<black>...<press>
+I don't know if saving him*
+is the right thing to do, or*
+the wrong thing.<press>
+<face:0083>
+Here, let me share*
+something with you.<press>
+<fchat:0001>
+What's that?<press>
+<face:0083>
+When you don't know whether*
+something is right or wrong...<press>
+<sound:0016><blink>...go with <red>what you believe<black>*
+deep down, and you'll find out*
+in the end if you were right.<press>
+Remember that.<press>
+<fchat:0001>
+<blue>(This is kind of turning*
+into a lecture series...)<black><press>
+<face:0083>
+When you get old like me,*
+you start wanting to show*
+off your wisdom.
+
+-------------------------------
+
+[m01_1540][0228]
+
+<face:0083>
+<sound:0015><blink>Ah, so how has it been*
+since we last met?<press>
+<fchat:0001>
+I feel like that red-head's*
+turned me into her lackey.<press>
+<face:0083>
+Ah, that's good. I'm glad*
+to see you two are getting*
+along so well.<press>
+<fchat:0001>
+I have to go meet up*
+with her at the <red>restaurant<black>...<press>
+<sound:0016><blue>(...but there's some activity*
+down at<red> police headquarters<blue>*
+that's got me curious, too.)<black><press>
+<face:0083>
+Police headquarters, you say?<press>
+<fchat:0001>
+They seem serious about*
+capturing Lynne.<press>
+<face:0083>
+I see...<press>
+Sounds to me like things*
+are beginning to<red> escalate<black>.<press>
+It's probably best to check*
+out anything that catches*
+your interest.<press>
+<fchat:0001>
+Yeah, that's what*
+I was thinking, too.<press>
+<face:0083>
+<sound:0017><blink><shake:0128>No time to be standing*
+around here talking to*
+a desk lamp!<press>
+<fchat:0001>
+<blue>(Says the one who's only*
+capable of standing around.)<black>
+
+-------------------------------
+
+[m01_1550][0229]
+
+<face:0083>
+<press>
+<fchat:0001>
+<press>
+<face:0083>
+<press>
+<fchat:0001>
+<press>
+<face:0083>
+<press>
+<fchat:0001>
+<press>
+
+
+-------------------------------
+
+[m01_1560][022A]
+
+<face:0083>
+<sound:0016>Are you all right? You*
+don't look very well.<press>
+<fchat:0001>
+I ran into another*
+dead body, and it*
+didn't even faze me.<press>
+<face:0083>
+It didn't "shock" you?<press>
+<fchat:0001>
+Nope. Not a bit.<press>
+<face:0083>
+All of these deaths you come*
+across... You should be able to*
+learn something from each one.<press>
+<fchat:0001>
+Yeah... I guess...<press>
+<face:0083>
+<sound:0015><blink>Such as... Let's see...*
+The <red>importance of life<black>,*
+for example.<press>
+<fchat:0001>
+<blue>(I don't think that's*
+quite it, somehow...)<black><press>
+Well, I guess I'd better*
+be getting back there...
+
+-------------------------------
+
+[m01_1570][022B]
+
+<fchat:0001>
+What's the matter, Ray?*
+Taking a break?<press>
+<face:0083>
+Ha ha. I'm embarrassed*
+to admit this, but...<press>
+<sound:0016>...I'm apparently starting*
+to <red>lose my strength<black>.<press>
+<fchat:0001>
+<sound:0015><blink><shake:0128>Wh-What?<press>
+<face:0083>
+Let me ask you one favor*
+first, if you don't mind.<press>
+There's <red>a small creature<black>*
+who needs your powers...<press>
+<fchat:0001>
+<blue>(Ah, you're talking about*
+the little lady, aren't you?)<black><press>
+<face:0083>
+She holds a clue to*
+that which you seek.<press>
+I encourage you to lend*
+her your strength.<press>
+<fchat:0001>
+How do you know all this?<press>
+<face:0083>
+You'll find out, soon enough.*
+I know you can do it.<press>
+Hurry along now. There's*
+no time to waste.<press>
+<fchat:0001>
+<shake:0128>Okay... I'm going.
+
+-------------------------------
+
+[m01_1580][022C]
+
+<face:0083>
+<NJ:003C>
+.........<press>
+<fchat:0001>
+<sound:0015><blink>Hey, why so quiet?<press>
+<face:0083>
+<NJ:003C>
+.........<press>
+<fchat:0001>
+Ray...?<press>
+<face:0083>
+<NJ:003C>
+.........<press>
+<fchat:0001>
+<sound:0016>Wh-What's going on...?*
+<blue>(Maybe he <red>isn't here*
+<blue>anymore...?)<black>
+
+-------------------------------
+
+[m01_1590][022D]
+
+<fchat:0001>
+Psst... Hey, Ray!*
+Are you there...?<press>
+<face:0083>
+<NJ:003C>
+.........<press>
+<fchat:0001>
+<blue>(I guess he's... gone...)<black><press>
+Don't tell me...<press>
+<sound:0016><blink><blue>(...he <red>ceased to exist<blue>...?)<black>
+
+-------------------------------
+

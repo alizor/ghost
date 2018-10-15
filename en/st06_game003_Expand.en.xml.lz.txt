@@ -1,0 +1,250 @@
+[tel_lost][2700]
+
+Not again!
+
+-------------------------------
+
+[op_demo_mes][2701]
+
+<face:006D>
+<shake:0128><blink>Darn. Now I've dropped*
+the phone in there, too.<press>
+<change:0067>
+<end>
+How about if we tell*
+her you did it, Missile?
+
+-------------------------------
+
+[op_demo_mes2][2702]
+
+<face:006D>
+But I sure hope Lynne's all right...<press>
+I'd better get going. I know*
+right where Dead End Drive is.<press>
+<change:0065>
+<end>
+<sound:0016>But I never saw any <red>music*
+box<black> around here! Where*
+am I supposed to find it?<press>
+Do you know where it is, Missile?
+
+-------------------------------
+
+[op_demo_mes3][2703]
+
+<face:0067>
+Help me look, okay?
+
+-------------------------------
+
+[cicel_00][2704]
+
+<fchat:0001>
+Well, I guess the phone's*
+"<red>dead<black>" now, too... What are*
+the odds that would happen?<press>
+Looks like our little lady*
+is a bit of a klutz.<press>
+The next thing you know,*
+she'll be dropping that poor*
+little doggie in the tank.<press>
+Anyway, <red>something<black> is*
+happening to Lynne.<press>
+I'd better help Kamila*
+find her <red>treasure<black>.<press>
+<blue>(Hmm. I don't know if*
+it's because I lost my*
+memory or what...)<black><press>
+<blue>(But I don't seem to*
+remember what a*
+"<red>music box<blue>" is, exactly...)<black>
+
+-------------------------------
+
+[tel_info][2705]
+
+<fchat:0001>
+Darn...<press>
+With the receiver in the*
+fish tank, I <red>can't use*
+the telephone lines<black>.<press>
+Don't tell me...<press>
+<sound:0016>...I'm <red>trapped <black>in this room?
+
+-------------------------------
+
+[dog_talk2][2706]
+
+<face:0028>
+Looks like this is your*
+chance to shine.<press>
+<face:0075>
+<sound:0015><blink>Me? What do you mean?<press>
+<face:0035>
+You can really help her out right*
+now, with that great nose of yours!<press>
+<face:0075>
+Oh, you're right!*
+I didn't think of that!<press>
+<sound:0033><blink><shake:021E>So what kind of smell*
+should I be looking for?<press>
+<face:0037>
+<blink>Oh, uh... I don't really know.<press>
+<face:0075>
+Oh.<press>
+<face:0035>
+Hey, come on. You can't expect*
+me to do everything for you.<press>
+<face:0075>
+That's okay. Don't feel*
+too bad about it...<press>
+<face:002C>
+<blue>(I'm being consoled by a dog...)<black>
+
+-------------------------------
+
+[caster_mes][2708]
+
+<face:0065>
+Hey, wait a minute. That*
+cart just moved, didn't it?<press>
+I've always thought so, but*
+that just proves it! This*
+apartment building is...<press>
+.........<press>
+<change:0063>
+<end>
+<sound:0016>...leaning to one side.<press>
+<fchat:0001>
+Whew! This little lady*
+knows how to keep me*
+on the edge of my seat!
+
+-------------------------------
+
+[caster_mes2][2709]
+
+<face:0065>
+The cart moved just now, didn't it?<press>
+I'm telling you, this building*
+leans to one side!<press>
+Ever since that lady*
+moved in next door...
+
+-------------------------------
+
+[girl_center_mes][270A]
+
+<face:0065>
+Darn. I can't find that silly*
+ol' music box anywhere.<press>
+If she was going to scream, she*
+should've done it after she told*
+me where the music box was...<press>
+<fchat:0001>
+Kamila must be scared.*
+She's still just a little girl,*
+after all.<press>
+It's cute the way she*
+keeps looking in the same*
+places, over and over.<press>
+<blue>(There must be some*
+way I can help her...)<black>
+
+-------------------------------
+
+[tree_mes][270B]
+
+<face:0065>
+Hmm. It looks like the*
+tree is getting impatient*
+for Christmas, too.<press>
+<change:0067>
+<end>
+Ha ha! Wouldn't it be*
+cute if that's what the*
+tree was really thinking?<press>
+<change:0065>
+<end>
+But, seriously, maybe the plug's*
+not in right. Just what I need, one*
+more thing to make Missile bark...
+
+-------------------------------
+
+[cicel_01][270C]
+
+<fchat:0001>
+That <red>wooden box*
+<black>that just fell...<press>
+That just might be the "<red>music*
+box<black>" we're looking for.<press>
+I bet the little lady will*
+know when she sees it.<press>
+<blue>(We're really close now!)<black>
+
+-------------------------------
+
+[ed_demo_mes1][270D]
+
+<face:0067>
+This is it! The <red>music box<black>!
+
+-------------------------------
+
+[ed_demo_mes3][270E]
+
+Yippee!
+
+-------------------------------
+
+[ed_demo_mes2][270F]
+
+<face:0068>
+Okay, I'm leaving now, Missile.<press>
+I have to go help Lynne! She's*
+like a sister to me, you know!<press>
+<change:0064>
+<end>
+You be good while I'm*
+away! And no barking!
+
+-------------------------------
+
+[ed_demo_mes4][2710]
+
+<face:0064>
+I'll leave the remote here.<press>
+But don't you touch it, Missile!<press>
+<change:0066>
+<end>
+If the TV comes on,*
+you'll start barking.<press>
+<change:006E>
+<end>
+I'd hate to find you flattened*
+underneath that wall*
+when I came home...
+
+-------------------------------
+
+[monologue][2711]
+
+<center>Still no peace for the little lady...<space>
+<center>And the redhead, Lynne, is facing*
+<center>a new crisis right now as well.<press>
+<center>Meanwhile, I'm in a bit*
+<center>of a pickle of my own.<space>
+<center>With the receiver at the*
+<center>bottom of the fish tank...<space>
+<center>I find myself still trapped*
+<center>in this apartment.<press>
+<center>Too bad I can't just curl up and go*
+<center>to sleep with my tail wagging, too...<space>
+<center>Because there is something I must do.<space>
+<center>The question is, how do I go about*
+<center>getting out of here...?
+
+-------------------------------
+

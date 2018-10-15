@@ -1,0 +1,519 @@
+[m02_1440][0534]
+
+<fchat:0003>
+These pictures are old.*
+What are they of? Little*
+fragments of rock?<press>
+And the fragments*
+are glowing... Do you*
+know what these are?<press>
+<fchat:0001>
+Sorry, but I've lost my*
+memory. Probably not*
+the best person to ask...<press>
+<fchat:0003>
+<sound:0015><blink>That's okay. I was only*
+being polite. I didn't*
+really think you'd know.<press>
+<fchat:0001>
+<blue>(Ouch. This lady's*
+tongue can be sharp.)<black><press>
+<fchat:0003>
+Uh, I can hear what you're*
+thinking, remember?<press>
+<fchat:0001>
+<sound:0016>I know.<press>
+<fchat:0003>
+Good one.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+What could this be? It looks*
+like a giant nail clipper.<press>
+<fchat:0003>
+You think so?<press>
+<fchat:0001>
+Do YOU know what it is?<press>
+<fchat:0003>
+#sigh#<press>
+<sound:0016>Why did you have to ask me?!*
+Couldn't you see I was*
+looking away evasively?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0003>
+It's... one of those science-y*
+things that scientists use.<press>
+<sound:0018><blink><shake:0128>Ordinary people like us don't*
+have to know what it is!<press>
+<fchat:0001>
+<blue>(I don't remember*
+what "science" is...)<black><press>
+<blue>(...but it's apparently*
+something Lynne*
+doesn't like very much.)<black>
+
+-------------------------------
+
+[m02_1505][053A]
+
+<center>When Lynne lost her life*
+<center>for the second time, she*
+<center>was being detained.<space>
+<center>On suspicion of my murder.<space>
+<center>But I saved her, hoping to*
+<center>solve my own mystery.<press>
+<center>Living creatures can choose to live*
+<center>their lives in one of two ways.<space>
+<center>They can either submit to their*
+<center>fate, or they can try to change it.<space>
+<center>Lynne is definitely in*
+<center>the second camp.<press>
+<center>As soon as I got back*
+<center>to the junkyard*
+<center>superintendent's office...<space>
+<center>...this fact was really*
+<center>brought home to me.
+
+-------------------------------
+
+[m02_1510][053B]
+
+Fool!
+
+-------------------------------
+
+[m02_1520][053C]
+
+<face:00C9>
+<sound:0017><blink><shake:0128>We told you not to let the*
+suspect out of your sight!<press>
+<face:00BE>
+<sound:0018><blink><shake:0128>My apologies, sir!<press>
+But I never th-thought*
+she would run away!<press>
+Lynne is our angel... I mean,*
+friend. I mean... she's like*
+family to us!<press>
+<face:00C9>
+<sound:0018><blink><shake:0128>Angel, friend or family -- they all*
+run when they have the chance!<press>
+<sound:0017><blink><shake:0128>Do you have any idea how*
+many years it's been since*
+my wife ran away?!<press>
+<face:00BE>
+<sound:013E><blink><shake:0128>I'm very sorry!*
+I have no idea, sir!<press>
+<face:00C9>
+<blink><shake:0128>Hmph! You'll never make*
+detective at that rate!<press>
+Now, find Lynne!<press>
+<face:00BE>
+<sound:013E><blink><shake:0128>Yes, sir!
+
+-------------------------------
+
+[m02_1525][053D]
+
+<face:00C9>
+If Inspector Cabanela gets*
+word of this, it's all over!
+
+-------------------------------
+
+[m02_1530][053E]
+
+<fchat:0001>
+So our red-headed detective*
+<red>escaped<black>, did she?<press>
+<blue>(But I just barely saved*
+her a few minutes ago.*
+Whew, she's fast.)<black><press>
+Well, guess I'll look*
+around for leads.
+
+-------------------------------
+
+[m02_1585][053F]
+
+<face:00C6>
+That old pigeon man... Do*
+you suppose he's carrying out*
+some sort of research here...?<press>
+Look at all these*
+precision instruments and*
+complicated devices...
+
+-------------------------------
+
+[m02_1590][0540]
+
+<face:00C6>
+What are you doing?<press>
+<face:00BE>
+<blink><shake:0128>Sir! I think maybe this is how*
+Lynne escaped -- through here.
+
+-------------------------------
+
+[m02_1600][0541]
+
+<face:00C6>
+She couldn't possibly fit in*
+that tiny little elevator!<press>
+<face:00BE>
+Oh, I don't know, sir...*
+Lynne is pretty slim...<press>
+<face:00C6>
+<sound:0018><blink><shake:0128>Fool! Don't you know that*
+women can make themselves*
+appear slim through fashion?!<press>
+<sound:0017><blink><shake:0128>To this day, I STILL don't know*
+how much my wife really weighs!
+
+-------------------------------
+
+[m02_1605][0542]
+
+<face:00BE>
+<sound:013E><blink><shake:0128>I'm very sorry!*
+I had no idea, sir!<press>
+<face:00C6>
+<blink><shake:0128>Hmph! You'll never make*
+detective at that rate!
+
+-------------------------------
+
+[m02_1610][0543]
+
+<face:00C6>
+Anyway... Where is that*
+old pigeon man?<press>
+<face:00BE>
+Oh, him, sir? He went through*
+the door behind me, sir.
+
+-------------------------------
+
+[m02_1620][0544]
+
+<face:00C7>
+It won't open.<press>
+<face:00BD>
+Apparently, that door leads*
+to the basement, but it's*
+currently locked, sir.
+
+-------------------------------
+
+[m02_1630][0545]
+
+<face:00C7>
+These instruments...*
+They're all very suspicious.<press>
+You'd better keep your*
+eye on that old man, too.<press>
+<face:00BD>
+<blink><shake:0128>Yes, sir!
+
+-------------------------------
+
+[m02_1940][0546]
+
+<face:00BD>
+<sound:0016>I could swear I just saw*
+this thing move...<press>
+<blink><shake:0128>Don't tell me...!*
+Could it be...?<press>
+<sound:0015><blink>...It sensed the tension between*
+me and the detective, and moved*
+to get away from it...?<press>
+<fchat:0001>
+<blue>(That was an*
+unexpected tangent.)<black><press>
+<face:00BD>
+I'll never make*
+detective at this rate...<press>
+What I need is some*
+sort of achievement,*
+a feather in my cap...<press>
+If only I could find a*
+helpful lead, that*
+might do the trick...<press>
+<fchat:0001>
+<blue>(A helpful and blindingly*
+obvious lead is <red>staring you*
+in the face<blue> right now...)<black>
+
+-------------------------------
+
+[m02_1570][0547]
+
+<face:00BD>
+<sound:0015><blink>Huh...? This is...*
+Lynne's notebook!<press>
+If I give this back to her,*
+it might "spark" something*
+between us...<press>
+Hmm... What to do, what*
+to do...? This is a very*
+complicated matter.
+
+-------------------------------
+
+[m02_1640][0548]
+
+<face:00C7>
+What have you got there?<press>
+<face:00BD>
+<sound:0015><blink><shake:0128>What, this?! Oh... uh...*
+This is... Um...<press>
+<face:00C7>
+Wait a minute... Is that...?<press>
+<face:00BD>
+<sound:013E><blink><shake:0128>Y-Yes, sir! It's Lynne's notebook!<press>
+<face:00C7>
+Notebook, eh? Come to think*
+of it, there was something*
+about that in the report.<press>
+Something about her*
+looking at her notebook*
+and making a phone call...
+
+-------------------------------
+
+[m02_1650][0549]
+
+<face:00C7>
+<sound:0016>This must be it. This*
+telephone number with*
+the big circle around it.<press>
+Aren't you curious to know*
+who she was calling?<press>
+<face:00BD>
+<sound:013E><blink><shake:0128>I am! I really am, sir!*
+I'd like to know!<press>
+<sound:0015><blink>...Oh!<press>
+<sound:013E><blink><shake:0128>But I don't have any ulterior*
+motive for wanting to know,*
+though. No, sir! No, sir!<press>
+<face:00C7>
+This number might be*
+an important lead.<press>
+I'd better check it out.
+
+-------------------------------
+
+[m02_1660][054A]
+
+<face:00C7>
+<sound:0017><blink><shake:0128>Hello?! To whom am*
+I speaking, please?!<press>
+<face:00EA>
+<blink><shake:0128>Yes?! Hello?!<press>
+<face:00C7>
+This is a criminal*
+investigation. We*
+need your cooperation.<press>
+<face:00EA>
+<sound:0015><blink>Hey, I know that voice... Is*
+that you, Detective McCaw?<press>
+<face:00C7>
+<sound:0015><blink>Oh... is that... Officer Bailey?<press>
+<face:00EA>
+What's up, sir? You don't*
+usually call this late.<press>
+<face:00C7>
+Oh, uh...<press>
+Did you get a call from one of*
+our detectives, Lynne, earlier?<press>
+<face:00EA>
+From Lynne?<press>
+<sound:0016>Yes, I did. She calls every night.<press>
+Maybe she senses it's*
+about to happen.<press>
+<face:00C7>
+Did she say anything special?<press>
+<face:00EA>
+No, not really. Is*
+something wrong?<press>
+<face:00C7>
+Yes, well... Ahem. I might*
+be contacting you again if*
+I have any other questions.
+
+-------------------------------
+
+[m02_1670][054B]
+
+<face:00C6>
+I'm going to go file the report*
+down at the station. I need*
+you to be vigilant here.
+
+-------------------------------
+
+[m02_1680][054C]
+
+<face:00BE>
+Excuse me, Detective, but...<press>
+<face:00C6>
+What is it?<press>
+<face:00BE>
+That notebook... Would*
+you mind if I gave...?<press>
+.........
+
+-------------------------------
+
+[m02_1685][054D]
+
+<face:00BE>
+<sound:0017><blink><shake:0128>Uh, never mind, sir!<press>
+<face:00C6>
+Hmph. Just stay on your toes.
+
+-------------------------------
+
+[m02_1690][054E]
+
+<fchat:0001>
+I can't hear from here.*
+Better get closer...
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+These photos*
+look pretty old.<press>
+Pictures of little*
+fragments of rock...<press>
+That old pigeon guy has*
+some pretty strange*
+taste in wall décor.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+I have no idea what this*
+instrument is for.<press>
+As a matter of fact, this*
+whole desk is filled with*
+things I've never seen.<press>
+I know I've lost my*
+memory, but still...<press>
+That old pigeon man seems*
+like a pretty strange guy.
+
+-------------------------------
+
+[m02_1560][0551]
+
+<fchat:0001>
+Lynne's notebook,*
+sad and forgotten, sits*
+behind the bookshelves.<press>
+Who could she have been*
+calling on the phone before*
+she hid it there?<press>
+<blue>(I wish I could find out...)<black>
+
+-------------------------------
+
+[m02_1970][0552]
+
+<fchat:0001>
+Lynne's notebook, eh?*
+I'd like to see what's inside...<press>
+But this guy has a death*
+grip on it. I can't open it.<press>
+I bet this detective never*
+lets his prey escape once*
+he gets a hold of it...
+
+-------------------------------
+
+[m02_1950][0553]
+
+<face:00BD>
+Darn. There goes my chance to*
+kindle a romance with Lynne.<press>
+And I didn't even get any credit*
+for finding the notebook.<press>
+And I forgot to ask whose*
+telephone number it was.<press>
+If only I could crawl into this*
+elevator and just disappear!<press>
+If I disappeared, I wonder if*
+Lynne would shed a tear for me...?<press>
+<fchat:0001>
+<blue>(And here I thought he*
+was examining the*
+elevator for clues...)<black>
+
+-------------------------------
+
+[m02_1960][0554]
+
+<face:00D3>
+It just might be time to*
+clean this room up...<press>
+But will that close*
+the matter...?<press>
+Her appearance here, of all*
+places -- and tonight, of all*
+times...<press>
+I hardly think it's coincidence...
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(So what exactly*
+is this thing?)<black><press>
+<blue>(It looks like a giant*
+nail clipper to me...)<black><press>
+<fchat:000C>
+<sound:0016>No, it most certainly*
+does not.<press>
+It's an instrument used in*
+analyzing radiation-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>O-Oh. Ahem. Yes, I see...<press>
+<fchat:000B>
+<sound:0015><blink>You're not alone, kid.<press>
+None of the rest of us*
+understand it, either, baby!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Yeah! You said it!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Old pictures... of what*
+look like little fragments*
+of rock.<press>
+<fchat:000C>
+Those are Temsik fragments.<press>
+That's an article from back*
+when it was big news.<press>
+<fchat:000B>
+Ten years ago, nobody*
+really understood it.<press>
+<fchat:000C>
+I guess that's*
+still true today.
+
+-------------------------------
+

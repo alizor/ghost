@@ -1,0 +1,907 @@
+[m03_9020][1902]
+
+Guard room
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9050][1905]
+
+Special Detention
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+
+[m03_9080][1909]
+
+<fchat:0001>
+<blue>(There's a pad of note papers*
+hanging on the wall.)<black><press>
+<blue>(There's a red "O"*
+drawn on each one.)<black><press>
+<blue>(I think it's some kind of*
+letter or symbol, but I don't*
+recall what it means.)<black>
+
+-------------------------------
+
+[m03_9090][190A]
+
+<fchat:0001>
+<blue>(There's a pad of note papers*
+hanging on the wall.)<black><press>
+<blue>(There's a red "X"*
+drawn on each one.)<black><press>
+<blue>(I think it's some kind of*
+letter or symbol, but I don't*
+recall what it means.)<black>
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+
+[m03_6030][1303]
+
+<face:00F2>
+<sound:0017><blink><shake:0128>Prisoner D99! It's time! L-Let's go!
+
+-------------------------------
+
+[m03_6035][1304]
+
+<face:0096>
+All right, men. I'm ready.<press>
+<change:009C>
+<end>
+Sorry you have to go through*
+this unpleasant experience.<press>
+<face:00F2>
+<blink><shake:0128>Wh-What?! No, we, uh...<press>
+<face:009C>
+Oh, well. I guess it's all*
+about collecting experiences...*
+for you and for me.
+
+-------------------------------
+
+[m03_6040][1305]
+
+Prepare to test!
+
+-------------------------------
+
+[m03_6050][1306]
+
+Throw the switch!
+
+-------------------------------
+
+[m03_6060][1307]
+
+<face:002B>
+So this is an execution, huh?<press>
+It seems to me there's gotta*
+be a safer way to do it...<press>
+<face:009B>
+<sound:0018><blink><shake:0128>Ha ha ha! It must be nice to*
+have no memory like that.<press>
+<change:00AD>
+<end>
+It makes things more interesting.*
+I envy you. I really do.<press>
+<face:0036>
+<blue>(It's no laughing matter to me.)<black><press>
+<face:009D>
+<sound:0016>That was an example of a*
+<red>failed execution<black>... although*
+the outcome was the same.<press>
+<face:002F>
+Failed...?<press>
+<face:0097>
+They haven't carried out an*
+execution in a long time.<press>
+<sound:0015><blink>They dragged that old chair out*
+from under some mothballs, and*
+I guess it had a <red>short<black>.<press>
+<face:002B>
+<blue>(So I guess that means that*
+if I can <red>stop the explosion<blue>...)<black><press>
+<face:009D>
+<sound:0016><blink>Hmm, I don't know about that.<press>
+<change:00AD>
+<end>
+Then I'd just be executed*
+as planned, and I'd still*
+wind up <red>just as dead<black>.<press>
+<face:002B>
+.........<press>
+<change:0029>
+<end>
+So what should I do?<press>
+<face:00AD>
+<sound:0015><blink>Beats me.<press>
+<change:009D>
+<end>
+You're the one who came to*
+save me. You figure it out.<press>
+<face:002B>
+<blue>(He's not making this easy.)<black>
+
+-------------------------------
+
+[m03_6431][130E]
+
+<fchat:0001>
+There. We escaped from*
+the death chamber.<press>
+<fchat:0009>
+<sound:0016>Good for you! It was stuffy*
+in there, wasn't it?<press>
+<fchat:0001>
+<blue>(That's not exactly what*
+I was worried about.)<black><press>
+<fchat:0009>
+All right. What now?<press>
+<fchat:0001>
+Hmm. Stop the execution*
+and save your life...<press>
+<sound:0015><blink>I think I'm getting an idea.<press>
+<fchat:0009>
+You are, are you? I'd be*
+very interested to hear it.<press>
+<fchat:0001>
+<blue>(Let's just <red>get*
+down there<blue>... fast!)<black>
+
+-------------------------------
+
+[m03_6220][130F]
+
+<fchat:0001>
+<sound:0015><blink>Hmm. It's not*
+working right now.<press>
+<fchat:0009>
+Maybe they like things quiet*
+during an execution?<press>
+<fchat:0001>
+<blue>(This guy is a bit*
+too detached.)<black><press>
+<fchat:0009>
+<sound:0016>While I was alive, people*
+thought I was a bit too*
+passionate about things.
+
+-------------------------------
+
+[m03_6640][1311]
+
+<face:00F4>
+<sound:0018><blink><shake:0128>Damn! It's totally clogged up!<press>
+If the big guy gets caught,*
+there goes all my plans*
+down the drain, too.<press>
+<sound:0018><blink><shake:0128>C'mon! Flush, dammit!
+
+-------------------------------
+
+[m03_6650][1312]
+
+<fchat:0001>
+<blue>(Hmm... Apparently*
+he's trying to flush...)<black><press>
+<sound:0016><blue>(...a <red>wadded-up*
+piece of paper<blue>...)<black><press>
+<fchat:0009>
+<sound:0015><blink><shake:0128>Oh, by the way.<press>
+As I'm sure you've*
+already realized...<press>
+<sound:0016>...the youth in this cell is*
+in cahoots with the big man*
+in the cell downstairs.
+
+-------------------------------
+
+[m03_6660][1313]
+
+<fchat:0001>
+The big man downstairs*
+seems to be digging*
+a tunnel.<press>
+<fchat:0009>
+Yes, trying to escape,*
+they are. But they're*
+both very na{6600}ve...<press>
+<sound:0015><blink>He can keep digging, but*
+he's just going to hit a*
+steel wall eventually.<press>
+<fchat:0001>
+<blue>(That's pretty tragic...)<black>
+
+-------------------------------
+
+[m03_6670][1314]
+
+<fchat:0009>
+The two of them have a*
+communication system*
+set up using the <red>toilets<black>.<press>
+The guitar youth is*
+warning his partner of*
+the guards' movements.<press>
+<sound:0015>A paper with "<red>O<black>" means "all*
+clear." "<red>X<black>" means "danger."<press>
+<fchat:0001>
+<blue>(Okay, yeah...)<black><press>
+<blue>(When the curry guy*
+sees an "<red>O<blue>," he goes*
+down to dig the tunnel.)<black><press>
+<blue>(Hmm, maybe I can*
+use that somehow.)<black>
+
+-------------------------------
+
+[m03_6625][1315]
+
+Dammit!
+
+-------------------------------
+
+[m03_6680][1316]
+
+<fchat:0001>
+This is the blackboard that*
+has this prisoner's schedule*
+for tomorrow written on it.<press>
+I can't read it, but that's*
+okay. I don't need to.<press>
+<fchat:0009>
+<sound:0015><blink>What a surprise. You've*
+forgotten how to read,*
+too?<press>
+<fchat:0001>
+Apparently. Can you read it?<press>
+<fchat:0009>
+<sound:0016>I can, but, like you said,*
+there's no need to.<press>
+<fchat:0001>
+<blue>(Oh, boy...)<black>
+
+-------------------------------
+
+[m03_6690][1317]
+
+<face:00F4>
+<sound:0018><blink><shake:0128>All riiight! My jam*
+grooved out the clog!<press>
+<sound:0018><blink><shake:0128>Now get down there*
+to Sausage Head!
+
+-------------------------------
+
+[m03_6700][131A]
+
+<fchat:0001>
+In the present world, four*
+minutes into the future...<press>
+<sound:0016>"Sausage Head" was lying*
+passed out in the tunnel.<press>
+<fchat:0009>
+Not knowing about the*
+execution, he must've*
+kept digging and digging.<press>
+<fchat:0001>
+<blue>(And the guards didn't*
+notice he was gone...?)<black><press>
+<fchat:0009>
+So I guess curry man's*
+future...<press>
+<sound:0015><blink>...has now changed a bit.
+
+-------------------------------
+
+[m03_6440][131B]
+
+<fchat:0009>
+Sissel.<press>
+I'm sure you know this,*
+but time is ticking.<press>
+<fchat:0001>
+<blue>(Almost time for*
+the <red>execution<blue>...)<black><press>
+<fchat:0009>
+If you don't "execute"*
+a <red>plan <black>pretty soon, it's*
+going to get tough.<press>
+<fchat:0001>
+<sound:0016>I think I do have a plan.<press>
+<fchat:0009>
+<sound:0015><blink>Do you? I'm looking*
+forward to seeing it.<press>
+<fchat:0001>
+Only problem is...<press>
+<blue>(...I don't see a <red>path<blue>*
+to get there yet...)<black><press>
+<fchat:0009>
+I'm really sorry about*
+all this trouble you're*
+going to for me.<press>
+<fchat:0001>
+<blue>(Funny, you don't LOOK*
+the least bit sorry.)<black>
+
+-------------------------------
+
+[m03_6630][131C]
+
+This thing is*
+as full as I am.
+
+-------------------------------
+
+[m03_6710][131D]
+
+<fchat:0001>
+Another message for*
+"Sausage Head," it*
+looks like.<press>
+<fchat:0009>
+No, not this time.<press>
+<sound:0016>I flushed that one.<press>
+<fchat:0001>
+You?<press>
+<fchat:0009>
+Remember? I flushed my*
+paper napkin after my meal.<press>
+<fchat:0001>
+<sound:0015><blink>Oh!*
+<blue>(That's right...)<black><press>
+<fchat:0009>
+Now, what will Sausage Head*
+make of it, I wonder?
+
+-------------------------------
+
+[m03_6720][131E]
+
+<fchat:0001>
+<sound:0015><blink>Hmm.<press>
+I guess Sausage Head isn't*
+going back into his tunnel.<press>
+<fchat:0009>
+Of course not.<press>
+<sound:0016>He only goes when he*
+sees a piece of paper*
+with an "<red>O<black>" on it.<press>
+<fchat:0001>
+<blue>(Right... I get it.)<black>
+
+-------------------------------
+
+[m03_6730][131F]
+
+<fchat:0009>
+Here come my escorts.<press>
+<fchat:0001>
+<blink><shake:0128>Uh-oh...*
+<blue>(I haven't found*
+my path yet!)<black><press>
+<fchat:0009>
+I see mine quite clearly...<press>
+<sound:0016>...the path to the*
+chair, that is.<press>
+<fchat:0001>
+<blink><shake:0128><blue>(What do I do?!)<black>
+
+-------------------------------
+
+[m03_6740][1320]
+
+<fchat:0001>
+Whew, you sure can*
+pack it away.<press>
+<fchat:0009>
+<sound:0015><blink>A detective should eat*
+until he reaches that*
+critical moment....<press>
+That's what I always say.<press>
+<fchat:0001>
+<blue>(And you have a young*
+pupil that follows that*
+advice to the letter...)<black><press>
+<fchat:0009>
+What are you going*
+to do now, Sissel?<press>
+As long as these iron*
+bars are here, escape*
+is impossible.<press>
+<sound:0016>Is it possible to stop the*
+execution from here?<press>
+<fchat:0001>
+Probably not...<press>
+<blue>(I'm looking for a <red>path <blue>now.)<black><press>
+<blue>(Maybe something here*
+will give me an idea...)<black>
+
+-------------------------------
+
+[m03_6750][1321]
+
+<fchat:0001>
+Is this newspaper article*
+about your case?<press>
+<fchat:0009>
+Yeah. I tacked it up*
+there as a memento.<press>
+<fchat:0001>
+I can't read, but it probably*
+says something like...<press>
+<blue>(..."Man Murders Wife"...)<black><press>
+<fchat:0009>
+.........
+
+-------------------------------
+
+[m03_6760][1322]
+
+<fchat:0001>
+There's nothing written*
+on your blackboard.<press>
+Your schedule for*
+tomorrow is blank.<press>
+<fchat:0009>
+That's because I don't*
+need a "schedule."<press>
+Or a "tomorrow"...*
+Or "memories"...<press>
+.........<press>
+<fchat:0001>
+<blue>(This man...)<black><press>
+<sound:0016><blue>(I can never tell what*
+he's thinking...)<black>
+
+-------------------------------
+
+[m03_6770][1323]
+
+<fchat:0001>
+Are you really supposed*
+to be flushing things like*
+that down the toilet?<press>
+<fchat:0009>
+Well, what could I do?*
+The wastebasket was full.<press>
+I told you. I hate cleaning up.<press>
+<fchat:0001>
+<blue>(Yeah, you said that, but...*
+come on, really?)<black>
+
+-------------------------------
+
+[m03_6780][1324]
+
+<fchat:0009>
+<sound:0016>Here come my escorts.<press>
+<fchat:0001>
+<blink><shake:0128>Uh-oh...*
+<blue>(I haven't found*
+my path yet!)<black><press>
+<fchat:0009>
+I think you missed*
+your <red>chance<black>.<press>
+<fchat:0001>
+<sound:0015><blink>What chance was that?<press>
+<fchat:0009>
+A chance at a path to the*
+place you wanted to go.<press>
+<sound:0016>You had one there*
+for a short time.<press>
+<fchat:0001>
+<sound:0018><blink><shake:0128>What was it?*
+<blue>(Look, why don't you just*
+spell it out for me?)<black><press>
+<fchat:0009>
+I can't tell you.<press>
+I've already chosen my path.*
+The path of execution...
+
+-------------------------------
+
+[m03_6810][1325]
+
+<fchat:0001>
+Did you see that? That*
+huge can just went*
+flying up into the air.<press>
+<fchat:0009>
+Yeah. That's my ketchup can.<press>
+<fchat:0001>
+Ketchup?<press>
+<fchat:0009>
+I just looove ketchup. Can't*
+get enough of the stuff.<press>
+I probably have ketchup*
+running through my veins.<press>
+<fchat:0001>
+Hmm. Just can't seem*
+to muster a laugh*
+over that one.<press>
+<blue>(But it did make kind of*
+a red "<red>O<blue>" mark...)<black>
+
+-------------------------------
+
+[m03_6790][1326]
+
+<fchat:0009>
+Sausage Head sure*
+looks happy.<press>
+<fchat:0001>
+<sound:0016>So now that he's seen*
+the "<red>O<black>" paper, he'll go*
+down to the tunnel to dig...<press>
+<sound:0015><blink><blue>(Maybe this is the <red>chance<blue>*
+I've been waiting for.)<black>
+
+-------------------------------
+
+[m03_6800][1327]
+
+<fchat:0001>
+I think...<press>
+<sound:0016><blink>...I just may have found the*
+<red>path <black>I've been looking for.<press>
+The one path...<press>
+<sound:0015><blink>...that will let me stop the*
+execution and save your*
+life.<press>
+<fchat:0009>
+Well, well.*
+I'm very impressed.<press>
+Because all I can see is*
+a pitch- black, dead-end*
+tunnel.<press>
+<fchat:0001>
+<blue>(Okay, time is running out.)<black><press>
+<sound:0017><blink><shake:0128><blue>(Now for the*
+finishing touches!)<black>
+
+-------------------------------
+
+[m03_6801][1328]
+
+<fchat:0001>
+Just now, for*
+a second there...<press>
+...I think there was a path...<press>
+<fchat:0009>
+I do believe you're right.*
+A "silver path," actually.<press>
+I think you made a*
+mistake with that*
+all-important timing.<press>
+<fchat:0001>
+<blue>(I think my answer*
+was on that path...)<black><press>
+<blue>(...the answer on how to*
+stop the execution and*
+save Detective Jowd.)<black>
+
+-------------------------------
+
+[m03_6470][132C]
+
+<face:002B>
+I didn't get very far this time.<press>
+<face:00AC>
+Yes, you clearly spent the*
+four minutes doing nothing.<press>
+<face:0036>
+<blue>(Ouch. It's no holds*
+barred with this guy.)<black><press>
+<change:0027>
+<end>
+Well, I know where*
+things'll be happening...*
+I should try to head there.
+
+-------------------------------
+
+[m03_6480][132D]
+
+<face:0029>
+Just stopping the explosion*
+won't solve anything...<press>
+<face:009C>
+As long as that chair exists,*
+the execution will most*
+likely be carried out.<press>
+<face:0029>
+Anyway...<press>
+<change:002B>
+<end>
+<blue>(I don't think I can change*
+anything from here...)<black>
+
+-------------------------------
+
+[m03_6490][132E]
+
+<face:002B>
+Once that switch is thrown, the*
+chair will <red>short out<black> and explode...<press>
+<blue>(So if I can short it out*
+when nobody's in the death*
+chamber, it should be fine.)<black><press>
+<face:0096>
+Good thinking. If the chair is*
+destroyed, they can't carry*
+out the execution... for now.<press>
+<face:002B>
+<blue>(Now all I need is a*
+<red>path <blue>to that switch...)<black>
+
+-------------------------------
+
+[m03_6500][132F]
+
+<face:002B>
+If I could get to the death*
+chamber from here...<press>
+<change:0029>
+<end>
+...I could <red>short out<black> that chair.<press>
+<face:00AC>
+But you'll probably need*
+the <red>cooperation <black>of our*
+curry-loving friend.<press>
+<face:0029>
+<blue>(What do I need to do to*
+make the big guy <red>move<blue>?)<black>
+
+-------------------------------
+
+[m03_6510][1330]
+
+<face:0029>
+Darn. I ran out of time!<press>
+But I don't think I'm*
+on the wrong track...<press>
+<face:0096>
+When you move, move as*
+if your life depends on it.*
+That's what I always say.<press>
+<face:0034>
+<blue>(...Said the dead man.)<black>
+
+-------------------------------
+
+[m03_4310][0E03]
+
+Go, go, GO!
+
+-------------------------------
+
+[m03_4320][0E09]
+
+<fchat:0001>
+Hmm... An*
+emergency button.<press>
+An emergency... in a*
+prison. That's gotta be*
+a pretty bad situation.<press>
+I'll just give it a little try...
+
+-------------------------------
+
+[m03_4070][0E11]
+
+<fchat:0001>
+I still can't read...<press>
+But I'd better go check out*
+Prisoner D99's cell anyway.<press>
+Maybe I can find some*
+kind of information that*
+might help Lynne out.<press>
+<blue>(Besides...)<black><press>
+<blue>(I want to see what*
+this prisoner Lynne is*
+investigating looks like...)<black>
+
+-------------------------------
+
+[m03_4390][0E13]
+
+<fchat:0001>
+It looks like the curry-*
+lover comes back when*
+he hears the bell.<press>
+I can't make heads or tails*
+out of his behavior once*
+he gets back, though...<press>
+<blue>(But this prisoner isn't*
+the one I'm looking for.)<black><press>
+<blue>(I'll just chalk this guy up*
+to "it takes all kinds"...)<black><press>
+I'd better try to find a*
+path to D99's cell.
+
+-------------------------------
+
+[m03_4400][0E14]
+
+<fchat:0001>
+What is this guy doing?<press>
+Maybe he misses curry*
+so much he's trying to*
+eat the dirt instead?<press>
+Yeah, that's probably it.*
+Or... I could be wrong.<press>
+In any case, I think there*
+was a phrase that describes*
+just this kind of situation...<press>
+<sound:0016>Oh, yeah. I know what it is:*
+"<red>Outlook not so good.<black>"<press>
+<blue>(This path doesn't lead*
+anywhere. I think I'd better*
+try to find another one.)<black>
+
+-------------------------------
+
+[m03_4130][0E1E]
+
+<fchat:0001>
+A newspaper article has*
+been cut out and framed.<press>
+Unfortunately,*
+I can't read it...<press>
+It's probably about D99's*
+case -- "<red>Man Murders Wife<black>,"*
+or something like that.<press>
+There's a picture of*
+the alleged <red>culprit*
+<black>in the article.<press>
+<sound:0016><blue>(Yup. It's this*
+prisoner all right.)<black>
+
+-------------------------------
+
+[m03_4350][0E1F]
+
+<face:002A>
+A newspaper article has*
+been cut out and framed.<press>
+I'll just give it a little read...<press>
+<change:002C>
+<end>
+<1EFF_7800>.........<press>
+<blue>(Tonight...)<black><press>
+<blue>(...I lost a lot of things --*
+my life, my memory...)<black><press>
+<sound:0016><blink><blue>(But there's a certain skill*
+I've apparently <red>lost<blue>, too...)<black><press>
+<change:002E>
+<end>
+<sound:0018><shake:0128><blink>{2EFF}?{17FF}I can't read!{17FF}<press>
+I can tell the article contains*
+some kind of "writing"...<press>
+But I have absolutely no*
+idea what it means!<press>
+<change:002C>
+<end>
+<blue>(If I can't read Prisoner D99's*
+<red>work schedule for tomorrow<blue>...)<black><press>
+<blue>(...What do I do now?!)<black><press>
+<change:002A>
+<end>
+<sound:0015><blink>In the article...<press>
+...there's a picture of*
+the alleged <red>culprit<black>.<press>
+<sound:0016><blue>(Yup. It's this*
+prisoner all right.)<black>
+
+-------------------------------
+
+[m03_4360][0E20]
+
+<fchat:0001>
+What am I supposed to*
+report back to Lynne now?<press>
+<sound:0015><blink>If I tell her "I couldn't*
+read it," she'll kill me!<press>
+<blue>(But, actually, I guess I*
+don't have to worry about*
+that one too much...)<black><press>
+Anyway...<press>
+I might as well take*
+a look around.<press>
+Hopefully, I'll at least be*
+able to find out something*
+while I'm here.<press>
+<sound:0015><blink>I can't go back to*
+Lynne empty-handed!<press>
+<blue>(But, of course, a ghost*
+doesn't actually have*
+hands...)<black>
+
+-------------------------------
+
+[m03_4371][0E24]
+
+<fchat:0001>
+Nope, nothing written*
+on this blackboard.<press>
+I wonder if that means*
+he'll spend the day*
+painting, like today?<press>
+.........<press>
+That must be what it means.*
+Yeah... That must be it.
+
+-------------------------------
+
+[m03_4420][0E30]
+
+<fchat:0001>
+It's no use...<press>
+No matter how many times*
+I try, I still can't read what*
+it says.<press>
+But this blackboard is*
+different from the one*
+in Prisoner D99's cell.<press>
+I can tell something is*
+written on this one.<press>
+<blue>(I'm glad my task wasn't*
+to find out what this*
+particular board says...)<black>
+
+-------------------------------
+
+[m03_4430][0E32]
+
+<fchat:0001>
+I'd better not set off the*
+emergency alarm right now.<press>
+The inside of my head*
+is already in a state of*
+emergency as it is...
+
+-------------------------------
+

@@ -1,0 +1,988 @@
+[m04_3000][1D00]
+
+The disastrous accident has*
+been completely "erased."<space>
+Once again, I've saved the*
+redheaded detective from death.<space>
+Saved Lynne -- the*
+"criminal" who stole my life.<press>
+One question in particular*
+hangs heavy on my mind.<space>
+Why did she shoot me?<space>
+Until I know the answer,*
+I'll never be satisfied.
+
+-------------------------------
+
+[m04_3010][1D01]
+
+Meanwhile, Lynne's appetite is*
+apparently foremost in her mind.<space>
+A golden-brown chicken sits*
+on the table in front of her.<space>
+Until she eats the whole thing,*
+she'll probably never be satisfied.
+
+-------------------------------
+
+[m04_3020][1D02]
+
+<fchat:0001>
+Is Lynne having a serious*
+talk with that detective?<press>
+Nah. She's just gobbling*
+down chicken.<press>
+How did the detectives know*
+to stake out this restaurant*
+tonight?<press>
+I'd better see if I can*
+get some information.<press>
+But, more importantly,*
+I have lots of questions*
+for that lady detective...
+
+-------------------------------
+
+[m04_3490][1D03]
+
+<fchat:0001>
+She's talking to the other*
+detective quietly while*
+she stuffs her face.<press>
+But I'm too far away to*
+hear what she's saying.<press>
+<blue>(I'd better get closer.)<black>
+
+-------------------------------
+
+[m04_3030][1D04]
+
+<face:00D1>
+<sound:0015><blink>Oh, I didn't know you were*
+here, Detective Rindge.<press>
+Come to see me, did you?<press>
+Aww, that's so sweet!<press>
+<face:00CD>
+Oh, hi, Memry. Don't mind us.*
+Just pretend we're not here.<press>
+<face:00D1>
+<sound:0015><blink>Why don't you try some*
+chicken while you're here?<press>
+<face:00CD>
+No, thanks. Just watching Lynne*
+eat is quite enough for me.<press>
+<face:00D1>
+<blink><shake:0128>So...? How did it turn out?*
+With my "<red>ladybug<black>?!"<press>
+<face:00CD>
+Oh, that <red>listening device<black>?*
+Well, let's see...<press>
+<sound:0016>I thought the gentleman had*
+a very nice singing voice.<press>
+Sorry, but we're in the*
+middle of an important talk.*
+Could you leave us to it?<press>
+<face:00D1>
+<sound:0017><blink><shake:0128>But you guys are the ones*
+who called me over! Hmph!
+
+-------------------------------
+
+[m04_3040][1D05]
+
+<face:00D1>
+<sound:0015><blink>Oh, I didn't know you were*
+here, Detective Rindge.<press>
+Come to see me, did you?<press>
+Aww, that's so sweet!<press>
+<face:00CD>
+Oh, hi, Memry. Don't mind us.*
+Just pretend we're not here.<press>
+<face:00D1>
+<sound:0015><blink>Why don't you try some*
+chicken while you're here?<press>
+<face:00CD>
+No, thanks. Just watching Lynne*
+eat is quite enough for me.<press>
+<face:00D1>
+<blink><shake:0128>So...? How did it turn out?*
+With my "<red>ladybug<black>?!"<press>
+<face:00CD>
+Oh, that <red>listening device<black>?*
+Well, let's see...<press>
+<sound:0016>I thought the gentleman had*
+a very nice singing voice.<press>
+Sorry, but we're in the*
+middle of an important talk.*
+Could you leave us to it?<press>
+<face:000B>
+<sound:0015><blink><shake:0128>No, stay right there!<press>
+<face:00D1>
+<blink>H-Huh?<press>
+<face:000D>
+I'm at the crucial moment*
+with this chicken here.<press>
+<face:000F>
+<sound:0017><blink><shake:0128>I'll need you to pour me*
+some water if it starts*
+going down wrong!<press>
+<face:00CE>
+Lynne, you don't have to risk your*
+life over chicken, you know...<press>
+<fchat:0001>
+He's right. Sheesh.<press>
+<blue>(Anyway, I'd better <red>move*
+<blue>now while I have the*
+chance.)<black>
+
+-------------------------------
+
+[m04_3050][1D06]
+
+<face:00CE>
+Odd girl.<press>
+<face:0003>
+I agree.<press>
+<fchat:0001>
+Me, too.
+
+-------------------------------
+
+[m04_3060][1D07]
+
+<face:00D1>
+Did you decide you want some*
+chicken -- or me -- after all?<press>
+<face:00CD>
+We didn't call you.
+
+-------------------------------
+
+[m04_3065][1D08]
+
+<face:0003>
+<sound:0016>{28FF}00<blink>Wait a minute...*
+Is that you, Sissel?<press>
+<fchat:0001>
+THERE'S a good detective!*
+She figured it out.<press>
+<face:0011>
+<sound:0016>If you're coming over here,*
+don't forget! You have to*
+ring the bell <red>three times<black>!<press>
+<face:00D1>
+Um... what are you talking about?<press>
+<face:0005>
+Never mind. It's not important.<press>
+<face:00CD>
+Yeah, pay no attention to us.*
+We're not even here.<press>
+<face:00D1>
+{28FF}<0001_7800><sound:0017><shake:0128><blink>I'll make you notice me someday,*
+Detective, you'll see!
+
+-------------------------------
+
+[m04_3070][1D09]
+
+<face:00D1>
+Did you decide you want some*
+chicken -- or me -- after all?<press>
+<face:00CD>
+We didn't call you... Sorry, but*
+could you give us some privacy?<press>
+<face:000B>
+<sound:0015><blink><shake:0128>No, stay right there!<press>
+<face:00D1>
+<blink>H-Huh?<press>
+<face:000D>
+I'm at the crucial moment*
+with this chicken here.<press>
+<face:000F>
+<sound:0017><blink><shake:0128>I'll need you to pour me*
+some water if it starts*
+going down wrong!<press>
+<face:00CE>
+Lynne, you don't have to risk your*
+life over chicken, you know...<press>
+<fchat:0001>
+He's right. Look at her*
+attacking that thing...<press>
+<blue>(Anyway, I'd better <red>move*
+<blue>now while I have the*
+chance.)<black>
+
+-------------------------------
+
+[m04_3080][1D0A]
+
+<fchat:0001>
+<sound:0015><blink>Hmm, that's funny...
+
+-------------------------------
+
+[m04_3085][1D0B]
+
+<fchat:0001>
+<sound:0016><blink>Even though I just saved*
+that detective, he doesn't*
+have a <red>core<black>.<press>
+Not like the one Lynne has,*
+or that valiant little doggie,*
+Missile.<press>
+I thought the ones I save are*
+supposed to develop a <red>core*
+<black>when they're alive again.<press>
+I guess I still have things*
+to learn about these*
+"powers of the dead."
+
+-------------------------------
+
+[m04_3088][1D0C]
+
+<face:00D1>
+<sound:0015>Well, I'm heading back. Lots*
+of things to do, you know!<press>
+<face:00CD>
+Yeah, like washing dishes,*
+and planting bugs...<press>
+<face:00D1>
+<sound:0017><blink><shake:0128>Someday, I'll plant a big*
+one on YOU, Detective!
+
+-------------------------------
+
+[m04_3090][1D0D]
+
+<face:00CE>
+Listen, Lynne...<press>
+You've explained your side,*
+and I understand. But there's*
+an APB out on you.<press>
+<1CFF_0800><sound:0016>Can't you at least hurry up*
+and get out of here...?*
+You know, slip away quietly?<press>
+<face:0013>
+No can do. <red>I'm meeting*
+somebody here.<black><press>
+<fchat:0001>
+<blue>("<red>Meeting somebody<blue>"...*
+Oh, yeah. That's right.)<black><press>
+<blue>(The little lady, <red>Kamila<blue>.)<black><press>
+<face:00CE>
+<sound:0018><blink><shake:0128>But why do you have to*
+meet somebody HERE?<press>
+The Special Investigation Unit is*
+watching this restaurant. Now,*
+how can that be a coincidence?<press>
+<face:0005>
+I dunno, but it IS a coincidence.<press>
+<face:00CE>
+.........<press>
+Hey, is it true what they say?<press>
+That you're...<press>
+<sound:0016>...still looking into Detective*
+Jowd's case on your own?
+
+-------------------------------
+
+[m04_3092][1D0E]
+
+.........
+
+-------------------------------
+
+[m04_3093][1D0F]
+
+<face:00CE>
+Inspector Cabanela is worried*
+about you, you know.<press>
+I understand how you feel, but...*
+Just don't do anything crazy, okay?
+
+-------------------------------
+
+[m04_3500][1D10]
+
+<fchat:0001>
+What did this sign*
+say again...?<press>
+Oh, yeah.<press>
+Something about "If*
+you want water, ring*
+the bell three times."<press>
+<blue>(I don't think I'll need to*
+ring it anymore, though.)<black>
+
+-------------------------------
+
+[m04_3095][1D11]
+
+<fchat:0001>
+I guess I'd better not bother*
+the waitress anymore.<press>
+I'll give Detective*
+Memry a break.<press>
+<blue>(Although, she doesn't*
+really seem like she*
+needs a break...)<black>
+
+-------------------------------
+
+[m04_3100][1D12]
+
+<face:00CE>
+<press>
+<face:000D>
+<press>
+<press>
+<fchat:0001>
+<press>
+<fchat:0003>
+<press>
+<fchat:0001>
+<press>
+<face:00CE>
+<press>
+<press>
+<face:0005>
+<press>
+<fchat:0001>
+<press>
+
+
+-------------------------------
+
+[m04_3110][1D13]
+
+<face:0027>
+So how's that chicken you've*
+been waiting so long for?<press>
+<face:0006>
+<sound:0017><blink>It's great!<press>
+<change:0004>
+<end>
+But, you know...<press>
+...with Detective Rindge -- that's*
+his name, by the way -- sitting*
+right across from me...<press>
+<change:000E>
+<end>
+I mean, he was just dead a few*
+moments ago, right? That's kind of*
+taking the edge off my appetite.<press>
+<face:0034>
+<blue>(Oh, brother...)<black><press>
+<face:0004>
+But he's a great guy. He*
+understands my situation,*
+he said.<press>
+<sound:0015><blink>He's going to give me*
+a pass, just for tonight.<press>
+<face:002B>
+Speaking of Detective Rindge,*
+I noticed something strange.<press>
+<sound:0016>He doesn't have a <red>core <black>now.<press>
+<face:0016>
+<blink>He doesn't?<press>
+<face:002B>
+I thought a core was supposed to*
+show up once I saved somebody.<press>
+<face:000E>
+Hmm... I wonder if...?
+
+-------------------------------
+
+[m04_3120][1D14]
+
+<face:0004>
+When you possessed his corpse,*
+he was <red>unconscious<black>, right?<press>
+<face:0036>
+<sound:0015><blink><red>Unconscious<black>? Yeah...*
+He was, wasn't he?<press>
+<change:002B>
+<end>
+Just like you. You were <red>unconscious*
+<black>the first time I saved you, too.<press>
+<sound:0016>And after I saved you,*
+you didn't have a <red>core<black> either.<press>
+<face:000E>
+So, for people who are*
+unconscious when you save*
+them, no <red>core <black>shows up.<press>
+<change:0004>
+<end>
+I think that's probably what it is.
+
+-------------------------------
+
+[m04_3130][1D15]
+
+<face:002B>
+You might be right. Okay, I'll*
+leave Rindge to you, then.<press>
+<change:0029>
+<end>
+But I've still got lots*
+of questions for you.<press>
+<face:0014>
+Yeah, I thought you would...<press>
+<face:0029>
+Let's get started, then.
+
+-------------------------------
+
+[m04_3140][1D16]
+
+Death-row inmate, Jowd
+
+-------------------------------
+
+[m04_3150][1D17]
+
+Point X
+
+-------------------------------
+
+[m04_3160][1D18]
+
+Kamila
+
+-------------------------------
+
+[m04_3170][1D19]
+
+Inspector Cabanela
+
+-------------------------------
+
+[m04_3190][1D1B]
+
+<face:0029>
+What is your connection to*
+Prisoner D99... <red>Detective Jowd<black>?<press>
+He seems like more*
+than just a co-worker.<press>
+<face:000E>
+Yes, I suppose you have*
+the right to know.<press>
+<change:0014>
+<end>
+<sound:0015><blink>Detective Jowd is my <red>hero<black>.<press>
+<face:002B>
+"Hero," huh? You don't hear*
+that word much anymore.<press>
+<face:000E>
+Well, it's an old-fashioned,*
+heroic kind of story. It*
+happened ten years ago.
+
+-------------------------------
+
+[m04_3200][1D1C]
+
+<face:010D>
+<sound:0017><blink><shake:0128>{2FFF}Now, just calm down!*
+{2FFF}And drop that weapon!
+
+-------------------------------
+
+[m04_3201][1D1D]
+
+<face:010D>
+<sound:0017><blink><shake:0128>S-Stay back!*
+If you come any closer...<press>
+<sound:0018><shake:0128><blink>...I'll shoot her!
+
+-------------------------------
+
+[m04_3210][1D1E]
+
+<face:001D>
+<sound:0000><NJ:003C>
+<center>On that day, ten years ago, I*
+<center>was playing in my favorite park.<press>
+<NJ:003C>
+<center>And then, suddenly, somebody*
+<center>grabbed my arm from behind.<press>
+<NJ:003C>
+<center>I was so scared... I thought*
+<center>I was going to die.<press>
+<NJ:003C>
+<center>And then...
+
+-------------------------------
+
+[m04_3215][1D1F]
+
+<face:001D>
+<sound:0000><NJ:003C>
+<center>...he appeared. Detective Jowd.
+
+-------------------------------
+
+[m04_3220][1D20]
+
+<face:001D>
+<center>And then that really loud sound...*
+<center>I think it was the sound of a gun.<press>
+<center>I passed out.<press>
+<center>When I came to...
+
+-------------------------------
+
+[m04_3230][1D21]
+
+<face:010D>
+<NJ:003C>
+You're all right now.*
+Are you hurt?<press>
+<face:010D>
+<NJ:003C>
+{2FFF}Y-You... saved me,*
+{2FFF}mister?<press>
+<face:010D>
+<NJ:003C>
+I was just doing my job.<press>
+<NJ:003C>
+The gods... They're the*
+ones who saved you.<press>
+<face:010D>
+<NJ:003C>
+{2FFF}What's your job,*
+{2FFF}mister?<press>
+<face:010D>
+<NJ:003C>
+Me? I'm a police detective.
+
+-------------------------------
+
+[m04_3240][1D22]
+
+<face:0029>
+So that's why you became*
+a detective, huh?<press>
+<face:0014>
+That's right. He was my ideal of*
+what a detective was all about.<press>
+<face:002B>
+<blue>(But an ideal detective doesn't*
+shoot and kill his own wife...)<black><press>
+<face:000E>
+Exactly.<press>
+<face:0029>
+<sound:0015><blink>...!<press>
+<face:0014>
+And that's why I want*
+to prove that he didn't.
+
+-------------------------------
+
+[m04_3250][1D23]
+
+<face:000E>
+Detective Rindge works for the*
+Special Investigation Unit.<press>
+He said an important deal*
+is set to go down here*
+tonight at this restaurant.<press>
+<change:0014>
+<end>
+<sound:0016><blink>A deal that could <red>affect*
+the future of our nation<black>.<press>
+<face:002B>
+<blue>(A nation isn't something that's*
+easily influenced, though...)<black><press>
+<face:000E>
+But that's what he said.*
+Anyway, it's that <red>couple <black>at*
+the table upstairs...
+
+-------------------------------
+
+[m04_3260][1D24]
+
+<face:001D>
+I hear they're<red> foreigners<black>. They're*
+waiting for the other party in*
+this deal to show up now.<press>
+<face:0044>
+<blue>(Those two, huh? They*
+certainly are an odd pair...)<black>
+
+-------------------------------
+
+[m04_3270][1D25]
+
+<face:002B>
+Is this "other party" they're*
+waiting for... "<red>me<black>?"<press>
+<face:000E>
+It's kind of hard to*
+imagine, isn't it?<press>
+Nobody really knows any*
+of the details of the deal,*
+except for one person...
+
+-------------------------------
+
+[m04_3280][1D26]
+
+<face:001D>
+<sound:0016>...Mr. Breezy Dancer*
+in a White Suit.<press>
+They say he's been watching*
+the movements of those*
+two for a long time.
+
+-------------------------------
+
+[m04_3290][1D27]
+
+<face:000E>
+I've never seen him*
+work so frantically on*
+an investigation before.<press>
+<face:002B>
+<red>Inspector Cabanela<black>, eh?<press>
+<change:0027>
+<end>
+Apparently, you're a*
+real favorite of his.<press>
+<face:000E>
+A favorite? Yes, well,*
+there's a <red>reason <black>for that.<press>
+<face:0029>
+<sound:0015><blink>And what's that?
+
+-------------------------------
+
+[m04_3300][1D28]
+
+<face:0004>
+Inspector Cabanela and Detective*
+Jowd were <red>good friends<black>.<press>
+<face:002B>
+Yeah, I think I remember*
+the prison guard saying*
+something about that.
+
+-------------------------------
+
+[m04_3310][1D29]
+
+<face:001D>
+They joined the detective*
+division the very same day.<press>
+They're two very different types,*
+but they were always in friendly*
+competition to be the best.
+
+-------------------------------
+
+[m04_3320][1D2A]
+
+<face:001D>
+Detective Jowd was always very*
+particular about thorough*
+investigation of the crime scene.
+
+-------------------------------
+
+[m04_3330][1D2B]
+
+<face:001D>
+And Inspector Cabanela...*
+Well...<press>
+I guess he just has a natural*
+genius for investigating.
+
+-------------------------------
+
+[m04_3335][1D2C]
+
+<face:001D>
+Anyway, those two lead the*
+detective division in those days.
+
+-------------------------------
+
+[m04_3340][1D2D]
+
+<face:000E>
+But Inspector Cabanela is different*
+now. He changed a little.<press>
+<face:002B>
+<sound:0015><blink>He changed?<press>
+<face:0014>
+Ever since the <red>Detective*
+Jowd incident<black>.<press>
+Now he distances himself*
+from fieldwork.<press>
+<change:001C>
+<end>
+<sound:0016><blink>And he's starting to focus on*
+nothing but moving up the ladder.<press>
+<face:002B>
+Hmm.<press>
+And so that's how he*
+became head of the Special*
+Investigation Unit, I take it.<press>
+<face:000E>
+Anyway, Inspector Cabanela*
+took me under his wing.<press>
+<face:002B>
+Because you were the little girl*
+his good friend had saved, huh?<press>
+<face:0004>
+He really looked out for me.*
+Helping me study for my*
+detective's exam...<press>
+<change:0006>
+<end>
+<sound:0015><blink>Fudging my exam scores for me...<press>
+<face:0036>
+Uh, that goes a little beyond the*
+scope of "looking out for you."<press>
+<change:002B>
+<end>
+<blue>(Inspector Cabanela, eh...?)<black><press>
+<blue>(I wonder what role he*
+plays in everything that's*
+happening tonight?)<black>
+
+-------------------------------
+
+[m04_3350][1D2E]
+
+<face:000E>
+It sure is taking Kamila*
+long enough...<press>
+She should've been here by now.*
+I'm getting really worried.<press>
+<face:0027>
+You two are like sisters, aren't*
+you? That's what Kamila said.<press>
+<face:0004>
+Yup. That just about sums it up.<press>
+<face:0034>
+It doesn't look like being*
+worried affected your*
+appetite much, though.<press>
+<face:000E>
+Hey, the bigger the crisis,*
+the more a girl's gotta eat.<press>
+.........<press>
+I have to make sure Kamila*
+stays safe, no matter what.<press>
+<change:0014>
+<end>
+<sound:0016><blink><1EFF_1E00>Kamila... and that <red>music box<black>, too.<press>
+<face:002B>
+"<red>Music box<black>"...? Oh, yeah.*
+That wooden box.
+
+-------------------------------
+
+[m04_3355][1D2F]
+
+<face:001D>
+<center>That box was a <red>present<black>*
+<center>from Detective Jowd.
+
+-------------------------------
+
+[m04_3360][1D30]
+
+<face:0029>
+From Detective Jowd?<press>
+<face:000E>
+Yes, it was five years ago.*
+That box arrived <red>three days*
+after<black> that murder incident.<press>
+He must've sent it just*
+before he was arrested.<press>
+<change:0014>
+<end>
+"Someday, when the case is*
+over and everything is settled..."<press>
+"I want you to give this to*
+a certain person," he said.<press>
+<face:0029>
+So what's inside?<press>
+<face:001C>
+I don't know. I can't open it.<press>
+<face:0029>
+Hmm. That's a shame.
+
+-------------------------------
+
+[m04_3370][1D31]
+
+<face:001C>
+<1EFF_7800>Sissel, I...<press>
+<change:001A>
+<end>
+<sound:0016><1CFF_0900><blink>Did I really shoot you?!<press>
+<face:0036>
+<sound:0015><blink><shake:0128>Where did that come*
+from, out of the blue?<press>
+<face:001C>
+I really don't remember. I've*
+tried and tried, but I just can't.<press>
+Now I finally understand*
+how you must feel.<press>
+And how hard it is to have your*
+memory gone, your story erased...<press>
+<face:0029>
+But who knows? Knowing the*
+truth might be even harder...<press>
+<face:0014>
+I'd rather believe*
+there's hope, myself.<press>
+<face:0029>
+.........
+
+-------------------------------
+
+[m04_3380][1D32]
+
+That was great!
+
+-------------------------------
+
+[m04_3390][1D33]
+
+<face:00CE>
+.........<press>
+<face:0015>
+<blink><shake:0128>Do I have chicken on*
+my face? You're staring.<press>
+<face:00CE>
+.........<press>
+<face:0011>
+<sound:0015><blink>I bet you're thinking about how*
+impressed you are with the way*
+I took care of that chicken!<press>
+<face:00CE>
+Just tell me one thing.<press>
+This case you say*
+you're looking into...<press>
+<sound:0016><blink>Is it Detective Jowd's?<press>
+<face:0013>
+.........<press>
+What if it was?<press>
+<face:00CE>
+I... I can't keep it from*
+you. It's too cruel...<press>
+<face:0015>
+<blink><shake:0128>Huh? Wh-What are*
+you talking about?<press>
+<face:00CE>
+I'm sorry, Lynne... It's...*
+It's tonight...<press>
+Detective Jowd's... you know.*
+It's tonight.<press>
+<sound:0016><blink>His <red>execution<black>.
+
+-------------------------------
+
+[m04_3410][1D34]
+
+<face:0013>
+...But there's still time.<press>
+I looked into it, and I found out all*
+the executions in this country...<press>
+<change:000D>
+<end>
+...are carried out at <red>dawn<black>.<press>
+<face:00CE>
+That may be the norm, but...<press>
+...not this time, I'm afraid.<press>
+<face:0013>
+<sound:0015><blink>What?!<press>
+<face:00CE>
+<sound:0016><blink>The execution is set for eleven pm.
+
+-------------------------------
+
+[m04_3420][1D35]
+
+<sound:0018>What did you say?!
+
+-------------------------------
+
+[m04_3430][1D36]
+
+<face:00CE>
+It's going to happen pretty soon.
+
+-------------------------------
+
+[m04_3440][1D37]
+
+<face:000F>
+<sound:0017><shake:0128><blink>Isn't there anything*
+we can do to stop it?!<press>
+<face:00CE>
+<blink><shake:0128>Of course not. It's too late now.<press>
+Not without a <red>stay of execution<black>*
+from the justice minister.<press>
+<face:0013>
+.........<press>
+<sound:0016>I'm going to go see him, then.<press>
+<face:00CE>
+<sound:0015><blink>What...? See who?!<press>
+<face:000B>
+<sound:0017><shake:0128><blink>Who else? The <red>justice minister<black>!<press>
+<face:00CE>
+<shake:0128><blink>Don't be ridiculous!*
+There's not enough time!<press>
+<face:000F>
+<sound:0018><shake:0128><blink>I'm going!<press>
+Sissel!<press>
+<fchat:0001>
+Me?<press>
+<face:000B>
+<sound:0017><blink><shake:0128>Get to the prison!*
+Stop that execution!<press>
+<fchat:0001>
+Easy enough for you to say.<press>
+<face:0013>
+Detective Rindge, I'll be going now.<press>
+<face:00CE>
+Okay, I'll let you go this time.*
+I'll tell 'em I was distracted*
+because I was eating chicken.<press>
+Is there anything else I can do?<press>
+<face:000F>
+<sound:0018><blink><shake:0128>Could you find Kamila? She's*
+supposed to be on her way here!<press>
+<face:00CE>
+<sound:0015><blink>Oh, your little Kamila? Okay,*
+you got it. I'll look for her.<press>
+<face:000B>
+<sound:0017><blink><shake:0128>Okay, you know what to do, Sissel!*
+You have to save Detective Jowd!
+
+-------------------------------
+
+[m04_3450][1D38]
+
+The life of yet another person*
+I'm connected to somehow is*
+about to end tonight.<space>
+Could it be a coincidence?<space>
+Or is there something*
+more behind it all?<press>
+Detective Jowd is destined*
+to be executed tonight.<space>
+I don't know if that fate is the*
+wrong one for him or the right one.<space>
+But I've decided to go*
+to the prison anyway.
+
+-------------------------------
+

@@ -1,0 +1,59 @@
+[m04_1061][1C09]
+
+<fchat:0001>
+I can't seem to raise this*
+switch. It won't budge.<press>
+But if the switch were*
+already raised, <red>I bet I*
+could manage to lower it<black>.
+
+-------------------------------
+
+[m04_1110][1C14]
+
+<face:00FD>
+<shake:0128>{FE00} La la la! Chiiiiicken!*
+Thou art so beautiful, Chiiiiicken!<press>
+<shake:0128>{FE00} I took a bite!*
+My heart swelled with pride!*
+And I got goose bumps!<press>
+<shake:0128>{FE00} I'm consumed with the love*
+of consuming you! La la la!<press>
+<fchat:0001>
+He has a good voice.<press>
+<fchat:0003>
+If you like that*
+kind of thing.
+
+-------------------------------
+
+[m04_1200][1C1C]
+
+Back in the new present,*
+the delicious aroma of*
+chicken fills the air.<space>
+But I'm still thinking about Lynne.<press>
+I wonder if she's still waiting*
+for her chicken to be served?<space>
+I decided to go see her...<space>
+See her and ask her the questions*
+that were still consuming me...
+
+-------------------------------
+
+[m04_1210][1C1D]
+
+<fchat:0001>
+Hmm...<press>
+Come to think of it, I don't*
+see that chicken waitress.<press>
+If her cart were here,*
+she could take me out*
+to the dining area...<press>
+Maybe using the <red>telephone<black>*
+would be faster...<press>
+<blue>(I'd better hurry up*
+and get to Lynne.)<black>
+
+-------------------------------
+

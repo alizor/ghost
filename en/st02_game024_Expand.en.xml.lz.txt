@@ -1,0 +1,214 @@
+[m02_1440][0534]
+
+<fchat:0003>
+These pictures are old.*
+What are they of? Little*
+fragments of rock?<press>
+And the fragments*
+are glowing... Do you*
+know what these are?<press>
+<fchat:0001>
+Sorry, but I've lost my*
+memory. Probably not*
+the best person to ask...<press>
+<fchat:0003>
+<sound:0015><blink>That's okay. I was only*
+being polite. I didn't*
+really think you'd know.<press>
+<fchat:0001>
+<blue>(Ouch. This lady's*
+tongue can be sharp.)<black><press>
+<fchat:0003>
+Uh, I can hear what you're*
+thinking, remember?<press>
+<fchat:0001>
+<sound:0016>I know.<press>
+<fchat:0003>
+Good one.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+What could this be? It looks*
+like a giant nail clipper.<press>
+<fchat:0003>
+You think so?<press>
+<fchat:0001>
+Do YOU know what it is?<press>
+<fchat:0003>
+#sigh#<press>
+<sound:0016>Why did you have to ask me?!*
+Couldn't you see I was*
+looking away evasively?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0003>
+It's... one of those science-y*
+things that scientists use.<press>
+<sound:0018><blink><shake:0128>Ordinary people like us don't*
+have to know what it is!<press>
+<fchat:0001>
+<blue>(I don't remember*
+what "science" is...)<black><press>
+<blue>(...but it's apparently*
+something Lynne*
+doesn't like very much.)<black>
+
+-------------------------------
+
+[m02_1690][054E]
+
+<fchat:0001>
+I can't hear from here.*
+Better get closer...
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+These photos*
+look pretty old.<press>
+Pictures of little*
+fragments of rock...<press>
+That old pigeon guy has*
+some pretty strange*
+taste in wall décor.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+I have no idea what this*
+instrument is for.<press>
+As a matter of fact, this*
+whole desk is filled with*
+things I've never seen.<press>
+I know I've lost my*
+memory, but still...<press>
+That old pigeon man seems*
+like a pretty strange guy.
+
+-------------------------------
+
+[m02_2490][063A]
+
+Lost memories of self...<space>
+A forgotten murder case...<space>
+A dead guy and a detective*
+joined forces to find out the*
+truth behind them both.<press>
+The detective assigned*
+the dead guy a task:<space>
+*
+To sneak into the prison and*
+find out a certain prisoner's*
+schedule for tomorrow.<press>
+What should I care? I don't have*
+a schedule for tomorrow...<space>
+*
+That's how I'm feeling*
+about it at the moment.
+
+-------------------------------
+
+[m02_2500][063B]
+
+<fchat:0001>
+I wonder how that detective*
+who keeps dying is doing?*
+Hope she's still alive.<press>
+I bet she's pretty pleased*
+with herself...<press>
+...keeping so much of*
+the Reaper's attention*
+focused on her.<press>
+That "little lady" is*
+waiting for her at*
+the <red>Chicken Kitchen<black>.<press>
+After I take care of this*
+assignment, I'd better*
+head there, too.
+
+-------------------------------
+
+[m02_2510][063C]
+
+<face:00C1>
+It's all over... It's all over for me...<press>
+Lynne -- sweet, cute Lynne,*
+who shines as bright as the*
+sun -- ran away on me...<press>
+And then those detectives --*
+matching bookends, blue*
+and green -- yelled at me...<press>
+<face:00D3>
+Hmph. Forget about all that.*
+Now you listen to me, kid.<press>
+<face:00BF>
+<sound:0015><blink>Yes, sir...?<press>
+<face:00D3>
+<sound:0016>Your "bright as the sun"*
+Lynne probably doesn't*
+even know you exist.<press>
+<sound:0016>And those detectives*
+will probably yell at*
+you your whole life.<press>
+Never mind fretting about*
+every little setback. Enjoy your*
+life! Get what you can out of it.<press>
+<face:00BF>
+Mister...<press>
+<change:00C1>
+<end>
+<blink><shake:0128>Would you mind just*
+leaving me alone?
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(So what exactly*
+is this thing?)<black><press>
+<blue>(It looks like a giant*
+nail clipper to me...)<black><press>
+<fchat:000C>
+<sound:0016>No, it most certainly*
+does not.<press>
+It's an instrument used in*
+analyzing radiation-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>O-Oh. Ahem. Yes, I see...<press>
+<fchat:000B>
+<sound:0015><blink>You're not alone, kid.<press>
+None of the rest of us*
+understand it, either, baby!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Yeah! You said it!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Old pictures... of what*
+look like little fragments*
+of rock.<press>
+<fchat:000C>
+Those are Temsik fragments.<press>
+That's an article from back*
+when it was big news.<press>
+<fchat:000B>
+Ten years ago, nobody*
+really understood it.<press>
+<fchat:000C>
+I guess that's*
+still true today.
+
+-------------------------------
+

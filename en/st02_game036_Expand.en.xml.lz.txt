@@ -1,0 +1,1386 @@
+[m02_4010][0800]
+
+After completing his revenge*
+on Inspector Cabanela, the*
+man in red left.<space>
+And now, a new story is about*
+to unfold, in a new "present."
+
+-------------------------------
+
+[m02_4020][0801]
+
+<face:00D3>
+How are you feeling, you*
+ol' crazy character?
+
+-------------------------------
+
+[m02_4030][0802]
+
+<face:008C>
+<sound:0015><blink>Hey, there, Prof!*
+We're both aliiive, I see.*
+Yeah, nothing like it, baby!<press>
+But I don't know if I'm gettin'*
+old, or what... I've got a few*
+aches and pains here and there.<press>
+<change:0089>
+<end>
+<sound:0016>Used to be, a liiittle*
+thing like an explosion*
+wouldn't bother me!<press>
+<face:00D3>
+Yeah, right. Like I'm*
+going to believe that.<press>
+So, what? The guy*
+in red is gone, eh?<press>
+<face:0090>
+Just in case, I posted Special*
+Investigation units all around*
+the building.<press>
+Let's just pray the boooys*
+came through for us...
+
+-------------------------------
+
+[m02_4035][0803]
+
+<face:008E>
+<sound:0018><blink><shake:0128>Dammit! You picked a*
+bad time not to listen*
+to me, body of miiine...
+
+-------------------------------
+
+[m02_4800][0804]
+
+<fchat:0001>
+Well, it looks like both of*
+their deaths were erased.<press>
+Unfortunately, in the case*
+of the inspector in white...<press>
+<sound:0016>...I can't call it a*
+complete success.<press>
+<blue>(But, in any case...)<black><press>
+<blue>(...these two have the*
+information I need to <red>start*
+tracking<blue> the manipulator.)<black><press>
+<blue>(I'd better talk to them.)<black>
+
+-------------------------------
+
+[m02_4810][0805]
+
+<face:0076>
+<sound:0033><blink><shake:0128>All right, Sissel! It's time to go!<press>
+<sound:0017><blink>Out into the big, wide world,*
+to rescue Miss Kamila!<press>
+<face:0036>
+<shake:0128>Hold on a minute, Missile.<press>
+<change:0029>
+<end>
+I have to talk to these two first.<press>
+<face:0076>
+Oh... Okay. I understand.<press>
+But just know one thing...<press>
+<sound:0033><blink><shake:0128>...I go where the wind takes me!<press>
+<face:0036>
+<blue>(Is this little doggie trying*
+to put pressure on me?)<black>
+
+-------------------------------
+
+[m02_4040][0806]
+
+<face:0091>
+If I knew things were going*
+to end up like this...<press>
+<sound:0018><blink><shake:0128>...I would've tried to die*
+in that explosion, baby!<press>
+<change:008A>
+<end>
+That way, I could've been*
+dancin' after "big red" by now!<press>
+<face:002B>
+<blue>(Hmm...)<black><press>
+<blue>(I might be able to erase*
+deaths, but it's true I can't*
+do much about injuries...)<black><press>
+<change:0034>
+<end>
+But, really, you shouldn't*
+talk that way.<press>
+<face:008A>
+<sound:0015><blink><shake:0128>Yes, sorry. I suppose*
+you're right. I just hate*
+feelin' so... helpless.<press>
+<change:0091>
+<end>
+He was right there*
+within my grasp...!<press>
+<sound:0018><blink><shake:0128>All our plans were resting on*
+tonight! And then... this... had*
+to happen!<press>
+<face:002B>
+<blue>(I guess he's thinking about*
+his "spotless record"...)<black><press>
+<change:0029>
+<end>
+It's not too late, Inspector.*
+We still have a chance.<press>
+<sound:0016>Maybe I can catch him.<press>
+<face:0095>
+<sound:0015><blink><shake:0128>Say... you're right. That's*
+not a bad idea...<press>
+I'll cooperate with you fully. Go*
+ahead and fire away with any*
+questions you like, Mr. Ghost.
+
+-------------------------------
+
+[m02_4050][0807]
+
+Revenge
+
+-------------------------------
+
+[m02_4060][0808]
+
+Manipulator
+
+-------------------------------
+
+[m02_4070][0809]
+
+Spotless record
+
+-------------------------------
+
+[m02_4090][080A]
+
+Cabanela's determination
+
+-------------------------------
+
+[m02_4100][080B]
+
+<face:002B>
+That guy mentioned "<red>revenge<black>"...<press>
+<sound:0016>Revenge against <red>the people who*
+stole his life away<black> ten years ago...<press>
+<face:00D3>
+<sound:0015><blink>Hmph. He's a fool!<press>
+He's the one who made the*
+decision to take that little girl*
+hostage, and he wound up dead.<press>
+He only has himself to blame.<press>
+<face:0029>
+But what about*
+when he said this?
+
+-------------------------------
+
+[m02_4110][080C]
+
+<face:0059>
+<center>I was murdered! By ALL OF YOU!<press>
+<center>Detective Jowd, who forced me*
+<center>into a corner... Lynne, the girl*
+<center>who was playing in the park...<press>
+<center>And, finally, you,*
+<center>Inspector Cabanela!<press>
+<sound:0016><blink><center><red>If you hadn't done what*
+<center>you did<black>, I never would've*
+<center>pointed a gun at that kid.
+
+-------------------------------
+
+[m02_4115][080D]
+
+<face:0095>
+<1EFF_7800><NJ:003C>
+.........<press>
+Yes... Ten years ago, on that day...<press>
+...the Special Investigation*
+Unit was working on a*
+certain big case...<press>
+We hauled in a young man,*
+an important witness to*
+our investigation.<press>
+<change:0091>
+<end>
+<sound:0015><blink>And then I did it... I made*
+two, <red>very stupid mistakes<black>.
+
+-------------------------------
+
+[m02_4120][080E]
+
+<face:0059>
+<sound:0018><blink><shake:0128><center>Detective, I'll telling ya! I don't*
+<center>know anything about it!<press>
+<face:008B>
+<center>Fine, fiiine. You're under no*
+<center>obligation to talk, of course.<press>
+<center>But if you don't, the Special*
+<center>Investigation Unit can make the*
+<center>reeest of your life a living hell...
+
+-------------------------------
+
+[m02_4125][080F]
+
+<face:0059>
+<NJ:003C>
+<center>B-But... I...
+
+-------------------------------
+
+[m02_4130][0810]
+
+<face:0095>
+I'd just been assigned to*
+the Special Investigation*
+Unit, you see.<press>
+They didn't share much info on big*
+cases with a newbie like me yet,*
+and I wanted to impress them.<press>
+It was only supposed to*
+be a simple matter of*
+taking his statement...!<press>
+<change:0091>
+<end>
+But I was too green...<press>
+I pushed him too hard. I drove*
+him into a corner and made*
+him lose all hope...<press>
+That was my first mistake.<press>
+<change:0095>
+<end>
+<sound:0016>And then I made another*
+mistake on top of that.<press>
+{07FF}<0CFF_3C00><show><wait>
+
+-------------------------------
+
+[m02_4140][0811]
+
+<face:00C3>
+<blink><shake:0128><center>Cabanela! Got a minute?<press>
+<face:00C3>
+<center>The chief wants to see*
+<center>you about your report.
+
+-------------------------------
+
+[m02_4143][0812]
+
+<face:008B>
+<center>Got it. I'll be right there.
+
+-------------------------------
+
+[m02_4141][0813]
+
+<face:008B>
+<center>...You stay right here and*
+<center>be a good boooy, now.
+
+-------------------------------
+
+[m02_4142][0814]
+
+<face:008B>
+<center><NJ:003C>
+And that's when I did it...<press>
+<NJ:003C>
+<center>I left it behind in the*
+<center>interrogation room...<press>
+<1DFF_2100><0001_6400><sound:0016><blink><center>My <red>gun<black>...
+
+-------------------------------
+
+[m02_4150][0815]
+
+<face:00D2>
+<sound:0015><blink><shake:0128>How could you...?!<press>
+<face:0091>
+He used my gun to escape.<press>
+What he said is true.<press>
+If I hadn't made that mistake...<press>
+<change:0095>
+<end>
+<sound:0016><blink>...he never would've*
+had a gun to point at*
+Lynne in the first place.
+
+-------------------------------
+
+[m02_4160][0816]
+
+<face:0095>
+We first found out about the*
+manipulator's existence during a*
+certain <red>overseas communication<black>.<press>
+<face:002B>
+<sound:0015><blink>Overseas communication?<press>
+<face:008A>
+For national security purposes,*
+this country keeps tabs on the*
+communications networks.<press>
+This particular communication*
+was about makin' a deal with a*
+certain foreign country.
+
+-------------------------------
+
+[m02_4170][0817]
+
+<face:0059>
+<sound:0000><blink><center>He said he wanted them*
+<center>to "buy" him -- him and*
+<center>his powers...
+
+-------------------------------
+
+[m02_4180][0818]
+
+<face:008B>
+<center>That's how we first heard about*
+<center>him. Of course, we didn't know*
+<center>what he looked like at the time.<press>
+<center>And in order to prove*
+<center>these powers of his...<press>
+<center>...he gave them two <red>predictions<black>.*
+<center>He foresaw two completely*
+<center>preposterous, impossible cases.<press>
+<NJ:003C>
+<center>The case of a man who would*
+<center>sing national secrets during a*
+<center>live rock concert broadcast.<press>
+<NJ:003C>
+<center>And the case of a man who would*
+<center>take the chief commissioner*
+<center>hostage in his own office.<press>
+<face:0044>
+<center><blue>(Hmm. Those two inmates at*
+<center>the Special Prison, eh...?)<black>
+
+-------------------------------
+
+[m02_4190][0819]
+
+<face:0095>
+We kept tabs on their*
+communications, and*
+launched an investigation.<press>
+And then, finally, we pinpointed*
+where they were going to meet*
+tonight, and staked it out.
+
+-------------------------------
+
+[m02_4200][081A]
+
+<face:0044>
+<center><blue>(That restaurant, the*
+<center><red>Chicken Kitchen<blue>...)<black>
+
+-------------------------------
+
+[m02_4730][081B]
+
+<face:008B>
+
+
+-------------------------------
+
+[m02_4740][081C]
+
+<face:008B>
+
+
+-------------------------------
+
+[m02_4210][081D]
+
+<face:0095>
+The manipulator plans on*
+leaving this country tonight.<press>
+<sound:0016><blink>On a <red>submarine <black>that belongs to*
+the other country in this deal.<press>
+<face:0036>
+<sound:0015><blink>S-Submarine?<press>
+<face:0091>
+But we haven't been*
+able to find out where*
+it's going to surface...<press>
+It's terrifying to think what would*
+happen if his powers were to fall*
+into their hands...<press>
+<face:00D2>
+Right. Highly unlikely they'd*
+use 'em for peaceful purposes.<press>
+<face:0091>
+And now they have <red>that*
+little girl <black>as a hostage...<press>
+<face:002B>
+<blue>(Kamila...)<black><press>
+<face:0095>
+<sound:0018><blink><shake:0128>We have to stop him, before*
+he leaves the country!
+
+-------------------------------
+
+[m02_4230][081F]
+
+<face:008B>
+<press>
+<press>
+<face:00D4>
+
+
+-------------------------------
+
+[m02_4250][0821]
+
+<face:008A>
+<press>
+<face:002B>
+<press>
+<face:0095>
+
+
+-------------------------------
+
+[m02_4270][0823]
+
+<face:002B>
+This "spotless record" of yours...<press>
+<change:0034>
+<end>
+...is it really that important to you?<press>
+<face:008A>
+Of course, baby.<press>
+In some ways, it's more*
+important to me than my life.<press>
+<face:0036>
+<sound:0015><blink><blue>(Than your life, eh?)<black><press>
+<face:008A>
+After all, it's because*
+of my record...<press>
+<sound:0016>...that I'm able to get my hands*
+on <red>all intel <black>-- as head of the*
+Special Investigation Unit.<press>
+And because of my position...<press>
+<change:0095>
+<end>
+<sound:0016><blink><1EFF_1E00>...I get to <red>direct all aspects<black>*
+of the investigation into*
+the manipulator case.<press>
+<face:0036>
+<sound:0015><blink>...!<press>
+<change:003A>
+<end>
+<sound:0018><blink><shake:0128>The manipulator case?!*
+That's why you cared about*
+your record so much?!<press>
+<face:0095>
+<NJ:003C>
+.........<press>
+<change:008A>
+<end>
+<blink><1CFF_1A00>Of cooourse. Why else, baby?
+
+-------------------------------
+
+[m02_4275][0824]
+
+<face:008B>
+<NJ:003C>
+<center>I just never could believe it,*
+<center>maaan. Jowd... shooting Alma...<press>
+<NJ:003C>
+<center>I didn't care that he "confessed."*
+<center>There was definitely something*
+<center>more to the story, some secret...
+
+-------------------------------
+
+[m02_4276][0825]
+
+<face:008A>
+I did everything I could to climb the*
+ladder -- everything in my power.<press>
+And then I finally found*
+the answer. It took fiiive*
+long years, though...<press>
+<shake:0128><blink><red>The manipulator<black>... He's going*
+to prove that Jowd is innocent!<press>
+<face:0036>
+.........*
+<blue>(What incredible determination...)<black>
+
+-------------------------------
+
+[m02_4290][0827]
+
+<face:002B>
+There's one thing*
+I just don't understand.<press>
+If you were so determined*
+to help Detective Jowd...
+
+-------------------------------
+
+[m02_4300][0828]
+
+<face:0029>
+...why didn't you help him*
+escape from prison?<press>
+<face:008A>
+That's an easy one, baby.<press>
+<sound:0016><blink>Escaping from prison is a <red>crime<black>.<press>
+<face:0029>
+<sound:0015><blink>...!
+
+-------------------------------
+
+[m02_4310][0829]
+
+<face:008B>
+<center>I wasn't about to help him commit*
+<center>a crime after spending five years*
+<center>trying to prove him innocent.<press>
+<center>And he himself asked to*
+<center>be executed, you know.<press>
+<center>As a man of the law, I had*
+<center>to make sure the execution*
+<center>was stopped <red>legally<black>.
+
+-------------------------------
+
+[m02_4320][082A]
+
+<face:008B>
+<center>And that's why I brought him*
+<center>before the justice minister, too.<press>
+<center>I needed to <red>buy as much time*
+<center><black>as I possibly could, baby!<press>
+<face:0044>
+<center><blue>(So that's it, eh...?)<black>
+
+-------------------------------
+
+[m02_4325][082B]
+
+<face:0029>
+But there's one little unfortunate*
+result of all this...<press>
+<change:0034>
+<end>
+<sound:0016>Lynne completely misunderstood*
+your intentions.<press>
+<face:008D>
+<sound:0015><blink>Ha! What's a liiittle*
+misunderstanding? My baby*
+will come around. Give it time.<press>
+<change:008A>
+<end>
+<sound:0017><blink><shake:0128>But there are more*
+important things to do*
+with our time tonight.
+
+-------------------------------
+
+[m02_4330][082C]
+
+<face:002B>
+Mr. Superintendent...<press>
+<change:0027>
+<end>
+Do you mind if I talk*
+to you for a minute?<press>
+<face:00D3>
+I haven't always been a junkyard*
+superintendent, you know.<press>
+<sound:0016>I used to be part of the <red>police<black>.<press>
+<face:0036>
+<sound:0015><blink>The police, huh?<press>
+<face:00D3>
+Not as a detective... but as a*
+medical examiner. I investigated*
+victims' cause of death.
+
+-------------------------------
+
+[m02_4340][082D]
+
+<face:00D4>
+<NJ:003C>
+<center>Ten years ago, I was asked to*
+<center>autopsy a strange corpse.<press>
+<center><green>"Hit by a meteorite fragment*
+<center>and died instantly."<black> That's*
+<center>what the police report said.
+
+-------------------------------
+
+[m02_4350][082E]
+
+<face:00D4>
+<NJ:003C>
+<center>There were no signs of life.*
+<center>He was definitely dead.<press>
+<center>But I never filed*
+<center>an autopsy report.
+
+-------------------------------
+
+[m02_4360][082F]
+
+<face:00D4>
+<sound:0016><blink><center>That's because the corpse*
+<center>suddenly <red>vanished<black>...<press>
+<center>...leaving behind only one clue.
+
+-------------------------------
+
+[m02_4365][0830]
+
+<face:0044>
+<NJ:003C>
+<center><blue>(An <red>unusual corpse<blue>...)<black><press>
+<NJ:003C>
+<center><blue>(I bet that's what I've been*
+<center>chasing all night...)<black>
+
+-------------------------------
+
+[m02_4367][0831]
+
+<face:0029>
+Could you tell me more?<press>
+<face:00D3>
+Yeah, sure.<press>
+I have an interest in you*
+recovering your memory and*
+finding your true identity, too.
+
+-------------------------------
+
+[m02_4750][0832]
+
+Unusual corpse
+
+-------------------------------
+
+[m02_4760][0833]
+
+Clue left behind
+
+-------------------------------
+
+[m02_4770][0834]
+
+Cabanela's arrival
+
+-------------------------------
+
+[m02_4370][0835]
+
+<face:00D3>
+That's the only way I can describe*
+it, too. It was an "<red>unusual corpse<black>."<press>
+He was dead all right.*
+No question about that.<press>
+<sound:0016><blink>But there <red>wasn't a scratch on him<black>.<press>
+<face:0036>
+<sound:0015><blink>Not a scratch...? But I thought he*
+was hit by a meteorite fragment?<press>
+<face:00D3>
+I don't understand it*
+any more than you do.
+
+-------------------------------
+
+[m02_4380][0836]
+
+<face:00D4>
+<1DFF_1C00><0001_6400><center>I was completely bewildered.*
+<center>But when I tried to autopsy*
+<center>him, I was even more puzzled.<press>
+<sound:0015><blink><center><red>I couldn't perform the autopsy.<black><press>
+<face:0036>
+You "couldn't"...?*
+What do you mean?<press>
+<face:00D3>
+The scalpel went in,*
+but I couldn't cut.<press>
+<face:00D4>
+<center>As soon as I tried to make*
+<center>an incision, it would <red>heal*
+<center>up<black> in the very next instant.<press>
+<center>And that's how it went. And*
+<center>no scarring or blood, either.
+
+-------------------------------
+
+[m02_4385][0837]
+
+<face:00D3>
+And I never had the chance*
+to solve the mystery.<press>
+<face:0089>
+That's because the corpse*
+up and <red>vanished<black> on us.<press>
+<face:00D3>
+The morgue is well-guarded.*
+Nobody could've stolen that body.<press>
+But there is one way the corpse*
+could've disappeared...<press>
+<face:002B>
+What's that?
+
+-------------------------------
+
+[m02_4390][0838]
+
+<face:00D4>
+<sound:0016><1CFF_1F00>It got up, opened the door,*
+and walked out <red>on its own<black>.
+
+-------------------------------
+
+[m02_4400][0839]
+
+<face:002D>
+<sound:0018><blink><shake:0128>What?!<press>
+<face:00D3>
+He was dead, but...*
+he wasn't dead.<press>
+<face:0091>
+We saw it with our own*
+eyes tonight. Not even that*
+explosion could kill him.<press>
+<face:002D>
+<blue>(And he didn't even feel it when*
+he slammed his fist on that stove...)<black>
+
+-------------------------------
+
+[m02_4410][083A]
+
+<face:00D3>
+The corpse left behind some*
+data from some testing I did.<press>
+<sound:0016>I got some readings for*
+some kind of <red>radiation<black>*
+coming off that body.<press>
+<face:002B>
+<sound:0015><blink>Radiation...?<press>
+<face:00D3>
+I used all kinds of instruments,*
+but I couldn't determine exactly*
+what kind of radiation it was.<press>
+Some undiscovered type,*
+from a world unknown...<press>
+<face:0036>
+<sound:0015><blink><shake:0128>...!*
+Wait a minute... Could it be...?<press>
+<face:00D3>
+That's right. It was coming from*
+that <red>meteorite fragment<black>.
+
+-------------------------------
+
+[m02_4420][083B]
+
+<face:00D4>
+<center>I went to that park and*
+<center>tested the spot where*
+<center>the meteorite fell.<press>
+<center>And, just as I expected,*
+<center>I detected radiation*
+<center>coming from that crater.<press>
+<blink><center>It was <red>the exact same*
+<center>pattern<black> of radiation as*
+<center>that of the corpse.
+
+-------------------------------
+
+[m02_4430][083C]
+
+<face:00D4>
+<center>At the time, I thought he was*
+<center>some kind of <red>immortal being<black>.<press>
+<center>He would die, only to*
+<center>come back to life.<press>
+<NJ:003C>
+<center>I wanted to research it all in*
+<center>depth, so I quit my job as*
+<center>a police medical examiner.
+
+-------------------------------
+
+[m02_4440][083D]
+
+<face:00D3>
+Several years later...<press>
+...I came to learn the connection*
+between my research and the*
+"manipulator" case.<press>
+Thanks to the arrival of*
+this crazy character here.<press>
+<face:0089>
+<sound:0015><shake:0128><blink>Oh, stooop, now, Professor!*
+Do you want to see me blush?
+
+-------------------------------
+
+[m02_4450][083E]
+
+<face:00D3>
+It was... about a year ago, I'd say.
+
+-------------------------------
+
+[m02_4451][083F]
+
+<face:00D3>
+This man in white came dancing*
+into my "research lab" here.
+
+-------------------------------
+
+[m02_4452][0840]
+
+<face:0089>
+<sound:0017><blink><shake:0128>I heard there was an oddball*
+here who's researching Temsik.*
+Is that youuu, baby?
+
+-------------------------------
+
+[m02_4453][0841]
+
+<face:00D3>
+Who are you to be calling*
+anybody an "oddball"?
+
+-------------------------------
+
+[m02_4460][0842]
+
+<face:0089>
+I was investigating the*
+manipulator case then.<press>
+And then I heard there was*
+a man who'd quit the police*
+force to study the meteorite.<press>
+<sound:0015><blink>When I heard that, it was*
+like a meteorite had*
+struck me on the head.
+
+-------------------------------
+
+[m02_4470][0843]
+
+<face:008B>
+<NJ:003C>
+<center>At the time, we were*
+<center>just starting to get leads*
+<center>on this "manipulator."<press>
+<NJ:003C>
+<center>We didn't know*
+<center>who he was yet...<press>
+<NJ:003C>
+<center>...but we knew he was*
+<center>communicating with a*
+<center>certain foreign country.<press>
+<NJ:003C>
+<center>In one of those*
+<center>communications, we heard*
+<center>the manipulator say this:
+
+-------------------------------
+
+[m02_4471][0844]
+
+<face:0059>
+<sound:0016><center>The source of my power*
+<center>is not of this world.
+
+-------------------------------
+
+[m02_4472][0845]
+
+<face:0089>
+And that's when I put two*
+and two together, baby.<press>
+<sound:0016>The <red>manipulator <black>case and <red>Temsik*
+<black>were somehow connected.<press>
+<face:00D3>
+Which also explained how five*
+years ago, he used his powers...<press>
+<sound:0017><blink><shake:0128>...to manipulate a birthday surprise*
+a little girl made for her mother!<press>
+<face:0089>
+He added that gun to the*
+contraption, most likely*
+by controlling Kamila.
+
+-------------------------------
+
+[m02_4580][0846]
+
+<fchat:0001>
+So that <red>contraption <black>in*
+the basement here...<press>
+...you built that to try and*
+help Detective Jowd?<press>
+<face:00D3>
+That's right.<press>
+Jowd and I worked together*
+back when I was with the force.<press>
+I used the reports of his case to*
+try and recreate the device.<press>
+But there was just one part of it...<press>
+<sound:0016><blink>...that I <red>couldn't reproduce<black>,*
+no matter how hard I tried.<press>
+<fchat:0001>
+<blue>(Kamila told Jowd it did*
+something it shouldn't have,*
+made <red>an impossible move<blue>.)<black><press>
+<face:00D3>
+I added that part to the*
+device I recreated.<press>
+I put in a <red>part <black>that would allow*
+Cupid to <red>rotate<black>. Otherwise,*
+the gun wouldn't fire.<press>
+<fchat:0001>
+<blue>(So that must mean*
+somebody <red>manipulated<blue>*
+Kamila's contraption!)<black><press>
+<face:008A>
+As a result...<press>
+<sound:0015><blink>...we <red>proved <black>to ourselves*
+that the manipulator*
+actually existed.
+
+-------------------------------
+
+[m02_4590][0847]
+
+<center>Inspector*
+<center>Cabanela!
+
+-------------------------------
+
+[m02_4600][0848]
+
+<face:008A>
+Hey, baby.
+
+-------------------------------
+
+[m02_4605][0849]
+
+<face:0095>
+Sorry 'bout that phone*
+call. I must've sounded*
+like a real villain.<press>
+I hated to spoil*
+your image of me...<press>
+<change:0091>
+<end>
+...of that cool-cat inspector*
+you always looked up to...<press>
+<fchat:0001>
+<sound:0015><blink><blue>(Is that really the image*
+she had of him?)<black>
+
+-------------------------------
+
+[m02_4610][084A]
+
+<face:001C>
+Inspector Cabanela, I'm sorry...*
+I just heard...<press>
+You were chasing after that*
+man all this time to try and*
+help Detective Jowd.<press>
+<face:0089>
+This "<red>manipulator<black>" is such*
+a dangerous character...<press>
+I was hoping you didn't*
+have to be involved.<press>
+<face:001C>
+So that's why you had me*
+arrested tonight, isn't it?<press>
+<face:008C>
+<sound:0015><blink>Like I aaalways say, if*
+somebody's in the way,*
+<red>throw 'em in the slammer<black>!<press>
+<fchat:0001>
+<blue>(Yikes.)<black><press>
+<face:0089>
+Tonight...
+
+-------------------------------
+
+[m02_4620][084B]
+
+<face:0094>
+...I really thought we finally*
+had him...<press>
+<change:0090>
+<end>
+...but my body gave out on me*
+right at the critical moment.<press>
+<sound:0016><blink>It's like a cruel joke.
+
+-------------------------------
+
+[m02_4625][084C]
+
+<sound:0018>Ha ha ha!
+
+-------------------------------
+
+[m02_4630][084D]
+
+<face:009A>
+<sound:0017><blink><shake:0128>But a joke is a joke.*
+You might as well laugh!<press>
+<face:0093>
+<sound:0015><blink><shake:0128>Jowd!<press>
+<face:0006>
+<sound:0017><blink><shake:0128>The minister called off*
+the execution order!<press>
+<change:0012>
+<end>
+<sound:0015><blink>And while he was at it, he let*
+Detective Jowd go free until*
+tomorrow morning, too!<press>
+<face:00D3>
+That's a pretty extreme*
+"while he was at it"...
+
+-------------------------------
+
+[m02_4640][084E]
+
+<face:0097>
+Sorry I took so long to get here.<press>
+You can leave the rest to me.<press>
+<face:0094>
+There you go again. You've*
+always been like that...<press>
+<change:0089>
+<end>
+You make everybody else*
+run around, and then you*
+swoop in at the last second.
+
+-------------------------------
+
+[m02_4650][084F]
+
+Jowd.
+
+-------------------------------
+
+[m02_4660][0850]
+
+<face:00D3>
+Five years ago...<press>
+...you left this coat with*
+me, just before you*
+turned yourself in.<press>
+<sound:0016><blink>I promised to give it*
+back to you one day...
+
+-------------------------------
+
+[m02_4680][0851]
+
+<face:000A>
+I've been waiting so long,*
+Detective Jowd...
+
+-------------------------------
+
+[m02_4683][0852]
+
+<face:0004>
+<sound:0017><blink><shake:0128>...waiting for this day to come!
+
+-------------------------------
+
+[m02_4685][0853]
+
+<face:00AA>
+Thanks for not giving*
+up on me, Lynne.
+
+-------------------------------
+
+[m02_4690][0854]
+
+<face:00A7>
+Okay, I'm off, then.<press>
+<face:0089>
+Good luuuck, my old friend.
+
+-------------------------------
+
+[m02_4700][0855]
+
+<face:00BA>
+<sound:0016><blink>This "<red>present<black>" you gave me...*
+It's just what I needed. Thank you!<press>
+<face:008A>
+Glaaad you like it.
+
+-------------------------------
+
+[m02_4705][0856]
+
+<face:0014>
+Sissel, are you there?<press>
+<fchat:0001>
+Yeah, I'm here.<press>
+<face:0014>
+You and I have to*
+go find that man.<press>
+I need your help.*
+Will you do this with me?<press>
+<fchat:0001>
+Sure, but how...?<press>
+We <red>don't know where<black> the*
+submarine is, and the*
+phone line doesn't work...<press>
+<face:000E>
+They use communication*
+cables to make their calls...<press>
+<change:0014>
+<end>
+<sound:0016><blink>We'll get you <red>hooked up<black>*
+somehow -- you'll see!<press>
+Could you wait here*
+until we do? Please?<press>
+<fchat:0001>
+Okay... fine.*
+I'm counting on you.<press>
+<face:0004>
+This "<red>true self<black>" you're*
+looking for...<press>
+<change:0012>
+<end>
+<sound:0017><blink><shake:0128>...I bet you'll find it soon!
+
+-------------------------------
+
+[m02_4707][0857]
+
+<face:0014>
+All right, I'm leaving,*
+Inspector Cabanela!
+
+-------------------------------
+
+[m02_4710][0858]
+
+It's almost dawn.<space>
+I'm not who I thought I was...*
+I'm actually further from*
+knowing who I am than ever.<space>
+But, now, I don't feel so alone.<press>
+Each one of us, for his or her own*
+reasons, is looking for the truth.<space>
+Together, I think we can*
+shed light on these mysteries*
+and drive away the darkness...<space>
+But it's almost dawn...
+
+-------------------------------
+
+[m02_3760][0721]
+
+<fchat:0001>
+The top of this bookshelf is*
+lined with books.<press>
+This one on top is balanced*
+so precariously, it's a*
+wonder it doesn't fall off.<press>
+How did the old pigeon*
+guy even reach up here?<press>
+<blue>(And I wonder if he makes*
+his pigeon fetch it for him?)<black>
+
+-------------------------------
+
+[m02_3762][0778]
+
+<fchat:0001>
+The top of this bookshelf is*
+lined with books.<press>
+How does the old pigeon*
+guy even reach up here?<press>
+<blue>(And I wonder if he makes*
+his pigeon fetch these books*
+for him?)<black><press>
+<fchat:000C>
+<sound:0016>I ain't telling.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Hmm. So many mysteries*
+surrounding this old man!<press>
+<fchat:0001>
+<blue>(But never mind those...)<black>
+
+-------------------------------
+
+[m02_3765][0779]
+
+<fchat:0001>
+This is a really thick book.<press>
+I can't read, so I don't*
+know what it's about...<press>
+<blue>(Will I ever get my*
+memory back...?)<black>
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(So what exactly*
+is this thing?)<black><press>
+<blue>(It looks like a giant*
+nail clipper to me...)<black><press>
+<fchat:000C>
+<sound:0016>No, it most certainly*
+does not.<press>
+It's an instrument used in*
+analyzing radiation-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>O-Oh. Ahem. Yes, I see...<press>
+<fchat:000B>
+<sound:0015><blink>You're not alone, kid.<press>
+None of the rest of us*
+understand it, either, baby!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Yeah! You said it!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Old pictures... of what*
+look like little fragments*
+of rock.<press>
+<fchat:000C>
+Those are Temsik fragments.<press>
+That's an article from back*
+when it was big news.<press>
+<fchat:000B>
+Ten years ago, nobody*
+really understood it.<press>
+<fchat:000C>
+I guess that's*
+still true today.
+
+-------------------------------
+
+[m02_1440][0534]
+
+<fchat:0003>
+These pictures are old.*
+What are they of? Little*
+fragments of rock?<press>
+And the fragments*
+are glowing... Do you*
+know what these are?<press>
+<fchat:0001>
+Sorry, but I've lost my*
+memory. Probably not*
+the best person to ask...<press>
+<fchat:0003>
+<sound:0015><blink>That's okay. I was only*
+being polite. I didn't*
+really think you'd know.<press>
+<fchat:0001>
+<blue>(Ouch. This lady's*
+tongue can be sharp.)<black><press>
+<fchat:0003>
+Uh, I can hear what you're*
+thinking, remember?<press>
+<fchat:0001>
+<sound:0016>I know.<press>
+<fchat:0003>
+Good one.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+What could this be? It looks*
+like a giant nail clipper.<press>
+<fchat:0003>
+You think so?<press>
+<fchat:0001>
+Do YOU know what it is?<press>
+<fchat:0003>
+#sigh#<press>
+<sound:0016>Why did you have to ask me?!*
+Couldn't you see I was*
+looking away evasively?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0003>
+It's... one of those science-y*
+things that scientists use.<press>
+<sound:0018><blink><shake:0128>Ordinary people like us don't*
+have to know what it is!<press>
+<fchat:0001>
+<blue>(I don't remember*
+what "science" is...)<black><press>
+<blue>(...but it's apparently*
+something Lynne*
+doesn't like very much.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+These photos*
+look pretty old.<press>
+Pictures of little*
+fragments of rock...<press>
+That old pigeon guy has*
+some pretty strange*
+taste in wall décor.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+I have no idea what this*
+instrument is for.<press>
+As a matter of fact, this*
+whole desk is filled with*
+things I've never seen.<press>
+I know I've lost my*
+memory, but still...<press>
+That old pigeon man seems*
+like a pretty strange guy.
+
+-------------------------------
+

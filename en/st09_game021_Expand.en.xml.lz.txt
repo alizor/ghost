@@ -1,0 +1,892 @@
+[m09_3500][2D3C]
+
+<face:0012>
+We found the "music box,"*
+Detective Jowd!<press>
+<face:009C>
+Good job, Lynne.*
+I knew you would.<press>
+<change:0096>
+<end>
+<NJ:003C>
+.........<press>
+<sound:0016>Once everything had been*
+"resolved," I had wanted you*
+to give this to him.<press>
+<face:0014>
+<sound:0015><blink>"Him"? You mean Inspector*
+Cabanela, right?<press>
+<face:00AC>
+I don't suppose he'll ever*
+forgive me.<press>
+<face:001C>
+Detective Jowd...<press>
+<face:009C>
+Now then, let's get this thing*
+open. There's a certain knack*
+to doing it, you know.
+
+-------------------------------
+
+[m09_3505][2D3D]
+
+Hrrrnhhh!
+
+-------------------------------
+
+[m09_3507][2D3E]
+
+<sound:0017><center>Haaah!
+
+-------------------------------
+
+[m09_3508][2D3F]
+
+See?
+
+-------------------------------
+
+[m09_3510][2D40]
+
+<fchat:0001>
+<blue>(He calls that a "knack"...?*
+Looks more like brute*
+strength to me...)<black>
+
+-------------------------------
+
+[m09_3515][2D41]
+
+Here you are.
+
+-------------------------------
+
+[m09_3520][2D42]
+
+<face:0099>
+You should find <red>scorch*
+marks<black> on the grip.<press>
+<face:0016>
+<sound:0015><blink>Scorch marks...?<press>
+<face:0097>
+When Kamila built her*
+contraption, she used a*
+special kind of <red>string<black>.<press>
+<sound:0016>It's a kind magicians use.*
+It burns up in an instant*
+and <red>disappears<black>.<press>
+<face:0016>
+Why would little Kamila use*
+something like that?<press>
+<face:0097>
+I don't know. Maybe because*
+she's a detective's daughter.<press>
+<change:00AD>
+<end>
+<red>Not leaving any evidence*
+behind<black> and all that. Ha ha!<press>
+<face:00E3>
+In the case report,*
+there was mention of*
+some <red>scorch marks<black>.
+
+-------------------------------
+
+[m09_3530][2D43]
+
+<face:00BC>
+<center>When it happened,*
+<center>Kamila was watching*
+<center>from her hiding place.<press>
+<sound:0016><blink><center>She saw <red>the flame run to the*
+<center>gun<black>, something she naturally*
+<center>didn't include in her design.
+
+-------------------------------
+
+[m09_3535][2D44]
+
+<face:00BC>
+<center>I took the gun out of the frame*
+<center>and replaced it with a picture.<press>
+<center>If you remove the picture, you*
+<center>should find <red>scorch marks*
+<center><black>behind it on the frame, too.<press>
+<sound:0015><blink><center>And those marks should <red>match*
+<center>up <black>with the ones on the gun.<press>
+<face:000E>
+In other words...<press>
+<face:0098>
+<sound:0016><1EFF_1400><blink>...it proves <red>the contraption*
+existed<black> there in that room*
+that day.
+
+-------------------------------
+
+[m09_3540][2D45]
+
+<face:00E3>
+And it didn't work the*
+way your little girl*
+intended, is that right?<press>
+<face:0097>
+Exactly. Some cowardly*
+culprit modified the design.<press>
+<face:00E3>
+But that angle was never*
+brought up in court.<press>
+And so, as justice minister...<press>
+<sound:0015><1EFF_1E00><blink>...I must <red>call off<black> the*
+execution at this point.
+
+-------------------------------
+
+[m09_3550][2D46]
+
+<face:001C>
+I knew I was right.
+
+-------------------------------
+
+[m09_3555][2D47]
+
+<face:0014>
+<sound:0016><blink>It wasn't Detective Jowd.*
+Now we can finally prove that.
+
+-------------------------------
+
+[m09_3557][2D48]
+
+<face:000A>
+<NJ:003C>
+Thank goodness...
+
+-------------------------------
+
+[m09_3560][2D49]
+
+<face:00AF>
+Thank you, Lynne.<press>
+<change:009D>
+<end>
+In those eyes of yours,*
+I see the eyes of that*
+little girl from ten years ago...
+
+-------------------------------
+
+[m09_3570][2D4A]
+
+<face:00E3>
+<shake:0128>Hmm...<press>
+<face:002A>
+What's the matter?<press>
+<face:00E3>
+I just don't know...<press>
+<sound:0016><blink>What should I have*
+done five years ago?<press>
+<face:0097>
+Back then...<press>
+...nobody had any way of*
+knowing the true nature*
+of the manipulator.<press>
+<change:009D>
+<end>
+It wasn't anybody's fault that*
+we didn't know the truth.<press>
+<face:00E3>
+Do you really think so...?<press>
+<face:0004>
+<sound:0015><blink>Of course! Besides, what's*
+important right now is...<press>
+<change:0012>
+<end>
+<sound:0017><blink><shake:0128>...deciding <red>what to do<black>*
+<red>next<black>. Am I right?<press>
+<face:009D>
+She's right, Mr. Minister.<press>
+<face:00E3>
+<sound:0015><blink><shake:0128>Y-Yes. Yes, of course.*
+I do believe she is!<press>
+.........<press>
+<shake:0128>Hmm...<press>
+<face:0037>
+What is it now?<press>
+<face:00E3>
+I just don't know...<press>
+<sound:0016><blink>What should I do next?<press>
+<face:0004>
+You'll figure it out.*
+We believe in you!
+
+-------------------------------
+
+[m09_3580][2D4B]
+
+<face:000E>
+<blue>(I can't seem to reach her...)<black>
+
+-------------------------------
+
+[m09_3590][2D4C]
+
+<face:0097>
+Sissel...<press>
+If you hadn't come*
+to my cell tonight...<press>
+<change:00AF>
+<end>
+...I would be gone by now,*
+without ever having*
+known any of this.<press>
+"This is what I deserve."<press>
+That's what I told myself*
+these past five years.<press>
+<change:009D>
+<end>
+<sound:0016><blink>But things are different now.<press>
+Thanks to you, my eyes have*
+finally been opened.<press>
+<face:0038>
+Tonight...<press>
+...I've come into contact with*
+a lot of people's lives, and*
+got involved in their fates.<press>
+And the only reason I was*
+doing it was to regain my*
+own lost memory.<press>
+<change:0029>
+<end>
+<sound:0016><1EFF_7800><blink>But things are different now.<press>
+We're <red>connected to each other*
+<black>somehow. I just know it.<press>
+And that's why I need to ask*
+you a few more questions...<press>
+<sound:0015><blink><1CFF_2100>...in order to find*
+<red>the truth about us<black>.<press>
+<face:0097>
+Fair enough. Fire away.
+
+-------------------------------
+
+[m09_3900][2D4D]
+
+Manipulator
+
+-------------------------------
+
+[m09_3910][2D4E]
+
+<face:001C>
+Sissel told me all about*
+it, Detective Jowd.<press>
+<change:0014>
+<end>
+About the <red>manipulator<black>.<press>
+<face:0096>
+<sound:0015><blink>Yes... And it looks like this*
+manipulator really did a*
+number on the minister, too.<press>
+<face:00E6>
+<sound:0018><blink><shake:0128>Aaaaargh!<press>
+<face:0034>
+Please don't pick on the*
+minister. If he dies again, I'm*
+the one who has to save him.<press>
+<face:00E4>
+<blink><shake:0128>Ooooogh...<press>
+<face:001C>
+Sissel, do you think...?<press>
+<change:001A>
+<end>
+<sound:0016>Do you think that's what*
+happened to me, too...?<press>
+<face:0096>
+<blink>Hmm? What are you*
+talking about, Lynne?<press>
+Don't tell me...<press>
+<change:009E>
+<end>
+<sound:0018><blink><shake:0128>...you were <red>manipulated<black>, too?!
+
+-------------------------------
+
+[m09_3920][2D4F]
+
+<face:0044>
+<NJ:003C>
+<center>There was always a part of me*
+<center>that just couldn't believe it...<press>
+<NJ:003C>
+<center>That image of*
+<center>the one who shot me...<press>
+<sound:0016><blink><center>But now I see the possibility*
+<center>of <red>a new explanation<black>.
+
+-------------------------------
+
+[m09_3930][2D50]
+
+<face:001C>
+But...<press>
+<change:0008>
+<end>
+...who is it? And*
+why did they do it...?
+
+-------------------------------
+
+[m09_3600][2D51]
+
+Kamila's Contraption
+
+-------------------------------
+
+[m09_3610][2D52]
+
+<face:0014>
+That contraption was a*
+birthday surprise for*
+Kamila's mother, wasn't it?<press>
+<face:0096>
+That's right.<press>
+<face:000E>
+Something's been bothering*
+me about it...<press>
+<change:0014>
+<end>
+I feel like I <red>know <black>that*
+device from somewhere...<press>
+<face:0029>
+No surprise there.<press>
+<change:0034>
+<end>
+<sound:0016>You <red>lost your life<black> once tonight*
+because of that machine.<press>
+<face:0012>
+<sound:0015><blink><shake:0128>Right? I knew it!*
+See, Detective Jowd?!<press>
+<face:0096>
+No, I'm afraid I don't "see"...
+
+-------------------------------
+
+[m09_3620][2D53]
+
+<face:0044>
+<NJ:003C>
+<center>I told Detective Jowd about it.
+
+-------------------------------
+
+[m09_3625][2D54]
+
+<face:0044>
+<NJ:003C>
+<center>Told him about seeing the exact*
+<center>same contraption tonight in a*
+<center>completely different place.
+
+-------------------------------
+
+[m09_3630][2D55]
+
+<face:0096>
+That's very strange indeed.<press>
+A junkyard on the edge*
+of town? I've never*
+even heard of the place.<press>
+<change:00AE>
+<end>
+And what's more, I've*
+never told a single soul*
+about that contraption.<press>
+<face:0016>
+<sound:0015><blink>You haven't?<press>
+<face:002B>
+<blue>(Hmm. That old pigeon guy...)<black><press>
+<NJ:003C>
+<blue>(Who in the world is he...?)<black>
+
+-------------------------------
+
+[m09_3650][2D56]
+
+Temsik
+
+-------------------------------
+
+[m09_3660][2D57]
+
+<face:0039>
+Detective Jowd, you must've*
+heard this name before...<press>
+..."Temsik."<press>
+<change:002A>
+<end>
+The meteorite that fell*
+in the park ten years ago.*
+You were there.<press>
+<face:0096>
+<NJ:003C>
+.........<press>
+<change:00AE>
+<end>
+<sound:0015><blink><1EFF_3C00>So you found out*
+about that, did you?<press>
+<face:002A>
+I hear that meteorite*
+saved little Lynne's life.<press>
+<face:00AE>
+That's right.<press>
+I couldn't do anything to*
+help Lynne that day.<press>
+<face:002C>
+But in that case, I don't get it.<press>
+<change:002A>
+<end>
+<sound:0016>If it's true, doesn't it*
+mean you <red>didn't "steal"*
+somebody's life away<black>?<press>
+<face:0016>
+<blink><shake:0128>What are you talking about?<press>
+<face:0039>
+Detective Jowd, you told*
+me that, ten years ago...<press>
+...the person who killed*
+the perpetrator in the park...<press>
+<change:002A>
+<end>
+<sound:0015><blink>...was <red>you<black>.<press>
+<face:0008>
+<sound:0018><blink><shake:0128>What?! But it was*
+the meteorite...!<press>
+<face:00AE>
+<NJ:003C>
+.........<press>
+I wasn't lying.<press>
+<change:0098>
+<end>
+<sound:0016><blink><1CFF_1900>I stole that man's life away.*
+No question about it.*
+It was entirely my fault.
+
+-------------------------------
+
+[m09_3670][2D58]
+
+<face:00BC>
+<NJ:003C>
+<center>I was just about to shoot him.<press>
+<NJ:003C>
+<center>I would have shot him in*
+<center>the next instant, if the*
+<center>meteorite hadn't come.<press>
+<NJ:003C>
+<center>At that point...<press>
+<NJ:003C>
+<blink><center>...I was already a <red>murderer<black>.
+
+-------------------------------
+
+[m09_3680][2D59]
+
+<face:0010>
+<sound:0018><shake:0128><blink>That's not true!<press>
+<change:001C>
+<end>
+You were trying to save me!<press>
+<face:0096>
+Lynne, I'm sorry, but...<press>
+<change:00AE>
+<end>
+<sound:0016><blink>...I don't think that's really it.<press>
+<face:0016>
+<sound:0015><blink><shake:0128>Huh?
+
+-------------------------------
+
+[m09_3700][2D5A]
+
+The truth about 10 years ago
+
+-------------------------------
+
+[m09_3710][2D5B]
+
+<face:0096>
+On that day ten years ago, a*
+different incident happened*
+in another place.<press>
+<face:0016>
+Another place?<press>
+<face:00AE>
+Yes, in the police headquarters*
+<red>interrogation room<black>.<press>
+The worst sort of incident...*
+A suspect who was being*
+questioned escaped...<press>
+<face:0008>
+<shake:0128><blink>Wow. I didn't know about that!<press>
+<face:00AE>
+I happened to be there*
+in the detective division,*
+so I joined the chase.<press>
+Fortunately... or I*
+guess, unfortunately...<press>
+<change:0096>
+<end>
+<sound:0015><blink>...I was able to track him*
+down alone in the park.
+
+-------------------------------
+
+[m09_3720][2D5C]
+
+<face:00BC>
+<sound:0017><shake:0128><blink><center>Hold it right there!
+
+-------------------------------
+
+[m09_3730][2D5D]
+
+<face:00BC>
+<NJ:003C>
+<center>I fired a <red>warning shot<black>.*
+<center>I wanted to catch him, bad.<press>
+<NJ:003C>
+<center>That warning shot*
+<center>made him panic.
+
+-------------------------------
+
+[m09_3740][2D5E]
+
+<face:00AE>
+At the time...<press>
+...I was a young and green*
+detective, brandishing my*
+"sense of justice" like a sword.<press>
+<change:0098>
+<end>
+I made him panic, and*
+got you involved, Lynne.*
+It was all my fault.
+
+-------------------------------
+
+[m09_3750][2D5F]
+
+<face:001C>
+Detective Jowd...<press>
+<face:0098>
+All I could see was my target.*
+I couldn't even see you.<press>
+<change:00AE>
+<end>
+I'm so sorry, Lynne...
+
+-------------------------------
+
+[m09_3800][2D60]
+
+<face:001C>
+<1DFF_1C00>{8000}{7800}So the man who grabbed*
+me died that day...<press>
+<face:00AE>
+These last ten years...<press>
+I've never forgotten his face.<press>
+And then a few years after that...<press>
+...when my wife Alma died*
+in such a mysterious way...<press>
+<change:0098>
+<end>
+<sound:0016>...I thought it was <red>fate<black>, my*
+punishment for what I'd done.
+
+-------------------------------
+
+[m09_3810][2D61]
+
+<face:00BC>
+<NJ:003C>
+<center>I painted pictures in my*
+<center>cell. Nothing but portraits*
+<center>of people's faces.<press>
+<NJ:003C>
+<center>All the faces of the many*
+<center>people I'd met in my life*
+<center>and didn't want to forget...
+
+-------------------------------
+
+[m09_3815][2D62]
+
+<face:00BC>
+<NJ:003C>
+<center>And tonight...<press>
+<NJ:003C>
+<center>...I finished my last*
+<center>portrait... the <red>final face<black>*
+<center>I wanted to remember.
+
+-------------------------------
+
+[m09_3820][2D63]
+
+<face:00BC>
+<NJ:003C>
+<center>The <red>final face<black>...<press>
+<blink><1EFF_0100><center>The <red>face of the man*
+<center>in the park<black> that day.<press>
+<face:002E>
+<sound:0015><blink>W-Wait just one minute!<press>
+<blink><shake:0128>That can't be!*
+I saw that painting!<press>
+I saw the face you*
+painted tonight!
+
+-------------------------------
+
+[m09_3825][2D64]
+
+<face:0044>
+<sound:0017><1CFF_1D00><blink><shake:0128><center>It was my face!<press>
+<sound:0018><blink><shake:0128>Are you telling me <red>I<black> was <red>the*
+man in the park<black> that time?!
+
+-------------------------------
+
+[m09_3830][2D65]
+
+<face:0096>
+That's right.<press>
+<red>That face of yours<black> is the*
+face I saw ten years ago.<press>
+<change:0098>
+<end>
+The face of the man whose life*
+I stole, of the man who was*
+pronounced <red>dead <black>at the scene.<press>
+<face:0008>
+<sound:0017><blink><shake:0128>B-But hold on, Detective Jowd!<press>
+<blink><shake:0128>That can't be true! I just met*
+Sissel for the first time tonight!<press>
+<change:001A>
+<end>
+<sound:0018><blink><shake:0128>And he died right in front of me!<press>
+<face:0096>
+By the way, the name*
+that I know the man in*
+the park that day by...<press>
+<sound:0016><blink>...isn't "Sissel."<press>
+<fchat:0001>
+<blink><shake:0128>What...?<press>
+<face:0096>
+From the first minute I*
+laid eyes on you tonight...<press>
+...I've been wondering...<press>
+<change:0098>
+<end>
+<sound:0016><blink>"Who in the world is this guy...?"<press>
+<fchat:0001>
+<blink><shake:0128>I... I...
+
+-------------------------------
+
+[m09_3840][2D66]
+
+<face:0095>
+Mr. Minister...<press>
+<face:00E3>
+<sound:0018><blink><shake:0128>Inspector Cabanela!*
+Where are you?!<press>
+<face:0095>
+Just be quiet and listen.*
+This is our demand.<press>
+<face:00E3>
+<sound:0015><blink><shake:0128>Wh-What...?<press>
+<sound:0016><blink><NJ:003C>
+{28FF}<0001_5000><red>Demand<black>...?<press>
+<face:0095>
+Our demand hasn't changed.*
+The <red>execution <black>must be <red>tonight<black>.<press>
+Once we've confirmed*
+it's been carried out, we'll*
+release the hostage.<press>
+<face:00E3>
+<sound:0018><blink><shake:0128>What are you talking about,*
+Inspector Cabanela?!<press>
+And you know it wasn't my*
+daughter who was abducted!<press>
+<face:0091>
+Does it really matter who the*
+hostage is? A life is a life...<press>
+<change:0095>
+<end>
+<sound:0016><blink>...even if it's <red>the daughter*
+of a death-row prisoner<black>.<press>
+<face:00E3>
+<sound:0015><blink><shake:0128>...!<press>
+<face:0095>
+Once the criminal gets the*
+punishment he deserves,*
+the hostage will go free.<press>
+Carry out the execution*
+immediately and wait*
+for our call.
+
+-------------------------------
+
+[m09_3850][2D67]
+
+<face:0016>
+<sound:0015><blink><shake:0128>What is it, Mr. Minister? You*
+look paler than ever...<press>
+<face:00E3>
+Wh-What in the world...?<press>
+<face:00E5>
+<sound:0018><blink><shake:0128>What's going on?!*
+Inspector Cabanela...!
+
+-------------------------------
+
+[m09_3860][2D68]
+
+The "rock of the gods" that fell*
+from the sky ten years ago...<space>
+...twisted the fates of*
+many people, and started*
+a chain of tragic events.<press>
+And, even now, the chain*
+continues to grow ever longer.<space>
+Inspector Cabanela's call*
+proved that to us.
+
+-------------------------------
+
+[m09_3865][2D69]
+
+And the greatest mystery of*
+all has risen to the surface.<space>
+Who is this "me" I've*
+been chasing all night?<press>
+Who<space>
+am<space>
+I?<space>
+I'm even further from*
+knowing than when I started.
+
+-------------------------------
+
+[m09_1090][2B11]
+
+<sound:0018>Why doesn't*
+she answer?!
+
+-------------------------------
+
+[m09_1730][2B12]
+
+.........
+
+-------------------------------
+
+[m09_1740][2B13]
+
+
+
+-------------------------------
+
+[m09_1750][2B14]
+
+
+
+-------------------------------
+
+[m09_1760][2B15]
+
+This is terrible!
+
+-------------------------------
+
+[m09_1770][2B16]
+
+<sound:0017><center>Unhhh!
+
+-------------------------------
+
+[m09_1780][2B17]
+
+
+
+-------------------------------
+
+[m09_1790][2B18]
+
+
+
+-------------------------------
+
+[m09_1800][2B19]
+
+<sound:0018><center>Nnnghhh!
+
+-------------------------------
+
+[m09_1810][2B1A]
+
+
+
+-------------------------------
+
+[m09_1820][2B1B]
+
+
+
+-------------------------------
+
+[m09_1830][2B1C]
+
+<sound:0015><center>Ngh...?
+
+-------------------------------
+
+[m09_1840][2B1D]
+
+<sound:0018><center>Nnngaaaaah!
+
+-------------------------------
+
+[m09_1850][2B1E]
+
+<sound:0017><center>Gaaaaagh!
+
+-------------------------------
+
+[m09_1860][2B1F]
+
+<sound:0018><center>Graaaaagh!
+
+-------------------------------
+
+[m09_1100][2B20]
+
+M-Medicine...!
+
+-------------------------------
+
+[m09_1110][2B21]
+
+W-Water...!
+
+-------------------------------
+
+[m09_kari][0000]
+
+<face:010D>
+{0501}{A200}{9600}{9C00}{A300}{0501}{0501}{0501}{0501}{0501}{0501}{0501}
+
+-------------------------------
+

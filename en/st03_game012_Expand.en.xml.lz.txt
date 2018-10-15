@@ -1,0 +1,902 @@
+[m03_9080][1909]
+
+<fchat:0001>
+<blue>(There's a pad of note papers*
+hanging on the wall.)<black><press>
+<blue>(There's a red "O"*
+drawn on each one.)<black><press>
+<blue>(I think it's some kind of*
+letter or symbol, but I don't*
+recall what it means.)<black>
+
+-------------------------------
+
+[m03_9090][190A]
+
+<fchat:0001>
+<blue>(There's a pad of note papers*
+hanging on the wall.)<black><press>
+<blue>(There's a red "X"*
+drawn on each one.)<black><press>
+<blue>(I think it's some kind of*
+letter or symbol, but I don't*
+recall what it means.)<black>
+
+-------------------------------
+
+[m03_7500][1600]
+
+<fchat:0001>
+The detective told me to*
+head for the spoon when*
+I got back to the present...<press>
+...so here I am.
+
+-------------------------------
+
+[m03_7510][1601]
+
+The bell!*
+Better go back.
+
+-------------------------------
+
+[m03_7520][1602]
+
+<fchat:0001>
+<sound:0016><blink>Whew! I'm back.<press>
+<blue>(Thank goodness someone*
+flushed his toilet. That was*
+good timing.)<black><press>
+Now to use the cover*
+of darkness to help*
+the detective escape!<press>
+<sound:0016>But first I have to find him...
+
+-------------------------------
+
+[m03_7521][1603]
+
+<face:00EF>
+<sound:0018><blink><shake:0128>It's Prisoner C74!*
+Secure the prisoner!
+
+-------------------------------
+
+[m03_7530][1604]
+
+<face:002C>
+Hmm. It looks like there are*
+<red>hunters <black>in this darkness.<press>
+<sound:0016><blue>(I hope they haven't found*
+Detective Jowd...)<black>
+
+-------------------------------
+
+[m03_7531][1605]
+
+<fchat:0001>
+This is some true darkness...<press>
+But, luckily, darkness*
+doesn't exist in the*
+Ghost World.<press>
+I can make use of*
+that fact to help me*
+find the detective.
+
+-------------------------------
+
+[m03_7540][1606]
+
+<face:009C>
+Ah, there you are! I was wondering*
+what I was going to do.<press>
+<face:002C>
+Are you the one who made*
+that toilet bell ring?<press>
+<face:009C>
+That's right. I still had another*
+napkin lying around.<press>
+<face:002A>
+Thanks to that, I managed*
+to make it here. But how*
+did you know to do that?<press>
+<face:009C>
+I learned a few things*
+about your ghost tricks*
+during our time together.<press>
+They certainly can be*
+very useful powers, but,*
+at times, not so much...<press>
+<change:00AC>
+<end>
+I knew that if the internal phones*
+weren't working, you'd be trapped*
+in the death chamber area.<press>
+So I quickly came up with*
+an alternative route.<press>
+<sound:0016>A route that made use of Sausage*
+Head's spoon and my napkin.<press>
+<face:0037>
+<blue>(Wow. This detective is good.)<black><press>
+<face:00AC>
+Next time you praise me, go*
+ahead and say it out loud.<press>
+<face:0028>
+...Anyway, it looks like it's*
+time for a strategy meeting.<press>
+<face:009C>
+An escape strategy, huh? This*
+could be interesting. Let's do it!
+
+-------------------------------
+
+[m03_7550][1607]
+
+Escape strategy
+
+-------------------------------
+
+[m03_7551][1608]
+
+Prison security
+
+-------------------------------
+
+[m03_7560][1609]
+
+<face:0096>
+So, let's make sure we're both*
+clear. The key to my escape is*
+this darkness.<press>
+<sound:0016>Once the basement*
+power supply is restored,*
+escape will be <red>impossible<black>.<press>
+<face:002C>
+So, we move under cover of*
+darkness, huh? I know I won't*
+have much trouble with that...<press>
+<face:009C>
+But I'm afraid I won't be able to*
+see, so you'll have to lead the way.<press>
+<face:0037>
+<sound:0015><blink>Lead the way?<press>
+<face:009C>
+Once you find a safe spot*
+for me to move to, I want*
+you to give me a <red>signal<black>.<press>
+<face:002C>
+Okay, fine, but how?<press>
+The dead don't have voices. Even*
+if they did, we have to be quiet.<press>
+<face:009C>
+Don't you worry about*
+that. I have an idea.<press>
+<change:00AC>
+<end>
+Let's just try it and you'll*
+see how it works.<press>
+<face:0028>
+<blue>(This detective likes to just*
+dive right into things, even*
+more than Lynne does.)<black><press>
+<face:009C>
+If they find me, I imagine they'll*
+shoot first and ask questions later.<press>
+<change:00AC>
+<end>
+<sound:0015><blink>But if I die again, we can*
+just start over, right?<press>
+<face:002C>
+<blue>(...He says cheerfully.)<black>
+
+-------------------------------
+
+[m03_7561][160A]
+
+<face:0096>
+So, let's make sure we're both*
+clear. The key to my escape is*
+this darkness.<press>
+<sound:0016>Once the basement*
+power supply is restored,*
+escape will be <red>impossible<black>.<press>
+<face:002C>
+So, we move under cover of*
+darkness, huh? I know I won't*
+have much trouble with that...<press>
+<face:009C>
+But I'm afraid I won't be able to*
+see, so you'll have to lead the way.<press>
+<face:0037>
+<sound:0015><blink>Lead the way?<press>
+<face:009C>
+Once you find a safe spot*
+for me to move to, I want*
+you to give me a <red>signal<black>.<press>
+Just touch the <JOWD> icon, and*
+I'll move to where you are.<press>
+<change:00AC>
+<end>
+Don't make it a spot too far*
+away, though, or I'll get caught.<press>
+All you have to do is keep me out*
+of the guards' field of vision.<press>
+<change:009C>
+<end>
+Let's just try it and you'll*
+see how it works.<press>
+<face:0028>
+<blue>(This detective likes to just*
+dive right into things, even*
+more than Lynne does.)<black><press>
+<face:009C>
+If they find me, I imagine they'll*
+shoot first and ask questions later.<press>
+<face:00AC>
+<sound:0015><blink>But if I die again, we can*
+just start over, right?<press>
+<face:002C>
+<blue>(...He says cheerfully.)<black>
+
+-------------------------------
+
+[m03_7570][160C]
+
+<face:009C>
+I don't know if you know it or not,*
+but this is a "special prison"...<press>
+There aren't any dangerous*
+criminals here... except for*
+me, that is.<press>
+<face:002A>
+Yes, I did hear something about*
+it being a "special" place...<press>
+<face:009C>
+Yes, and because of the "special"*
+status, they're not prepared at*
+all for emergencies.<press>
+They have four timid security*
+guards, at most.<press>
+<face:002C>
+I think I saw some hunters lurking*
+in the darkness, though...<press>
+<face:0096>
+<sound:0016>Those are the guards. They're*
+wearing <red>night vision goggles<black>.<press>
+<face:0037>
+"Night vision goggles"?<press>
+<face:009C>
+They're special glasses that let you*
+see in the dark. Very handy things.<press>
+If I enter their field*
+of vision, it's all over.<press>
+<face:002C>
+<blue>(So it's all about staying out of*
+the guards' line of sight, eh?)<black><press>
+<face:009C>
+Make sure you guide*
+me to <red>safe spots<black>!
+
+-------------------------------
+
+[m03_7580][160D]
+
+<face:0096>
+Now, about that <red>signal<black>*
+I want you to give me.<press>
+<face:002C>
+<sound:0015><blink>Oh, yeah. How am*
+I supposed to do it?<press>
+<face:0096>
+I've already been dead once.*
+I don't know if it's because*
+of that or what, but...<press>
+<sound:0016><blink>...I can <red>sense <black>your powers now.<press>
+<face:0037>
+<shake:0128><blink>Y-You what?
+
+-------------------------------
+
+[m03_7581][160E]
+
+<face:009C>
+For example, you're in the*
+bunk right now, aren't you?
+
+-------------------------------
+
+[m03_7582][160F]
+
+<face:009C>
+For example, you're in the*
+guard's bulletproof vest*
+right now, aren't you?
+
+-------------------------------
+
+[m03_7590][1610]
+
+<face:002C>
+<sound:0015><blink>Wow, I'm impressed. I guess*
+you have a <red>sixth sense<black>.<press>
+<face:00AC>
+I think it's more like*
+a "<red>detective's sense<black>."<press>
+<face:0037>
+<blue>(Uh, that doesn't sound*
+right, somehow...)<black><press>
+<face:009C>
+Anyway, the details don't matter.*
+Do you see this <JOWD> icon here?
+
+-------------------------------
+
+[m03_7595][1611]
+
+<face:0037>
+<sound:0015><shake:0128><blink>Yeah. Where did that come from?<press>
+<face:009C>
+Let's use it as our <red>signal<black>.<press>
+<face:002C>
+How will that work?<press>
+<face:00AC>
+If you <red>touch <black>the <JOWD> icon,*
+I'll sense it.<press>
+<sound:0016>Then I'll <red>move <black>to where you are.<press>
+So, for example...
+
+-------------------------------
+
+[m03_7600][1612]
+
+<face:009C>
+...if you move to that spoon*
+and <red>touch <black>the <JOWD> icon...<press>
+...I'll run to the spoon.*
+Simple, right?
+
+-------------------------------
+
+[m03_7610][1613]
+
+<face:0028>
+All right, fine. Let's start*
+our escape plan!<press>
+<face:009A>
+<sound:0015><blink><shake:0128>Just make sure you guide*
+me to <red>safe spots<black>, Sissel!
+
+-------------------------------
+
+[m03_7613][1614]
+
+<fchat:0001>
+So, that <red>red light<black>...<press>
+<fchat:0009>
+That's the light of the*
+<red>night vision goggles*
+<black>on one of the guards.<press>
+<fchat:0001>
+I can use the light to let me*
+know where the guard is.<press>
+<fchat:0009>
+And if you watch the light*
+closely, you can tell how*
+the guard is moving, too.<press>
+Very informative in*
+this darkness. Keep a*
+sharp eye out for it.
+
+-------------------------------
+
+[m03_7790][1615]
+
+<fchat:0001>
+<sound:0016>Huh? What's that red light?
+
+-------------------------------
+
+[m03_7800][1616]
+
+<fchat:0001>
+Hmm. It looks like the*
+hunters' <red>eyes <black>glow red.
+
+-------------------------------
+
+[m03_7810][1617]
+
+<fchat:0001>
+It doesn't look like escape*
+is going to be easy...
+
+-------------------------------
+
+[m03_7820][1618]
+
+<fchat:0001>
+Whether it's dark or*
+light, the fact remains...<press>
+<sound:0018><blink><shake:0128>{2EFF}?{17FF}I can't read!{17FF}
+
+-------------------------------
+
+[m03_7611][1619]
+
+<fchat:0001>
+<sound:0016>The guards are on the*
+move. Now what?<press>
+<fchat:0009>
+You can get a sense of*
+how the guards are moving*
+by watching the <red>red lights<black>.<press>
+And I think you already*
+know this, but, just in case...<press>
+<sound:0015><blink>...if you want to take a*
+look around, you can*
+<red>slide <black>the screen.<press>
+<fchat:0001>
+<blue>(And if I recall correctly,*
+I can also use <DPAD> to do*
+the same thing.)<black>
+
+-------------------------------
+
+[m03_7612][161A]
+
+<fchat:0001>
+Hmm. This area under*
+the stairs is a blind*
+spot for the guards.<press>
+<sound:0015><blink>They won't find him here.*
+This spot is safe.
+
+-------------------------------
+
+[m03_7780][161B]
+
+Aaagh!
+
+-------------------------------
+
+[m03_7830][161C]
+
+What's this hole?
+
+-------------------------------
+
+[m03_7831][161D]
+
+I'll check it out*
+tomorrow.
+
+-------------------------------
+
+[m03_7660][161E]
+
+<face:0096>
+That's a little far. I can't*
+really tell where you are.<press>
+<change:009C>
+<end>
+How about somewhere*
+a little closer?
+
+-------------------------------
+
+[m03_7670][161F]
+
+<face:00AC>
+<sound:0015><blink>What, you want me to*
+climb up <red>into the ceiling<black>?<press>
+I think I could manage that...<press>
+<change:009C>
+<end>
+<sound:0016>But, as things stand, I don't*
+have access right now.<press>
+Could you open that hatch and*
+create an <red>entry point<black> for me?
+
+-------------------------------
+
+[m03_7680][1620]
+
+<face:009C>
+Backtracking seems kind of*
+pointless, now that we've come*
+this far.<press>
+Besides, real men keep their*
+eyes forward and proceed with*
+confidence... and safety.
+
+-------------------------------
+
+[m03_7690][1621]
+
+<face:00AC>
+Hmm, that's a tough one.<press>
+But, anyway, I think you'd better*
+open the hatch and create an*
+<red>exit point<black> for me first.<press>
+I can't get out, the*
+way things are now.
+
+-------------------------------
+
+[m03_7700][1622]
+
+<face:009C>
+If I move now, I'm going*
+to fall. Could you close*
+the floor hatch for me?
+
+-------------------------------
+
+[m03_7710][1623]
+
+<face:0028>
+I can't close this right now.*
+Somebody's falling through it.
+
+-------------------------------
+
+[m03_7870][1624]
+
+<face:0096>
+<sound:0015><blink>Wait a minute...<press>
+<change:00AC>
+<end>
+<sound:0016>Are you inviting me*
+to come get shot?<press>
+I'm not that crazy.
+
+-------------------------------
+
+[m03_7850][1625]
+
+<face:0096>
+This guard certainly isn't a pro.<press>
+But even he will shoot*
+if he sees me.<press>
+<face:002C>
+So I have to time it so you<red> don't*
+enter his field of vision<black>, huh?<press>
+<face:00AC>
+Exactly. I'm counting*
+on you, Sissel.<press>
+<face:002C>
+<blue>(If I <red>touch <blue>the <JOWD> icon, the*
+detective will come to*
+wherever I am at that time.)<black><press>
+<blue>(I have to lead him to <red>safe*
+spots<blue> so he can escape*
+without being discovered.)<black>
+
+-------------------------------
+
+[m03_7851][1626]
+
+<face:009C>
+Good. This is a safe spot.*
+You did well, Sissel.<press>
+<face:002C>
+But, unfortunately, there*
+aren't any more bunks.<press>
+<face:00AC>
+I guess you'll have to find*
+another safe spot, then.<press>
+And could you do it as*
+quickly as possible? This*
+position is killing my back...<press>
+<face:002C>
+<blue>(This could be difficult...)<black>
+
+-------------------------------
+
+[m03_7852][1627]
+
+<face:0096>
+Okay, next is the stairs.<press>
+<sound:0016>I'll have to avoid those*
+guards somehow...<press>
+<face:002A>
+<blink><shake:0128>But where should I lead*
+you to? There isn't a safe*
+spot anywhere.<press>
+<face:00AC>
+<sound:0015><blink>We'll just have to wait*
+till the guards go past,*
+<red>somewhere on the stairs<black>.<press>
+Even the craziest spot will do.*
+If it's strength you're worried*
+about, I have plenty of that.<press>
+<face:0035>
+Can you use that strength to*
+knock the guards out for me?<press>
+<face:009C>
+Well, they do say my punches are*
+"faster than a speeding bullet."<press>
+<change:00AC>
+<end>
+<sound:0016>I have my doubts*
+about that, though.<press>
+<face:002C>
+<blue>(Yeah, I guess a punch*
+is no match for a bullet...)<black>
+
+-------------------------------
+
+[m03_7853][1628]
+
+<face:009A>
+<sound:0015><blink>I bet you didn't think I could*
+get up in here, did you?<press>
+<face:0035>
+I have to admit, I'm*
+a little surprised.<press>
+<face:009C>
+Anyway, this is a safe spot.*
+It's not much further now!<press>
+<face:0037>
+<shake:0128>#sigh#<press>
+<face:00AC>
+Come on, now, don't worry!*
+We're almost there.<press>
+Now, we have the choice of*
+either trying to sneak out,*
+or making a dash for it.<press>
+I'll leave the route up to you.
+
+-------------------------------
+
+[m03_7854][1629]
+
+<face:0096>
+Uh, I feel a little uncomfortable,*
+out in the open like this.<press>
+<face:0028>
+I bet you do. You're wide open.<press>
+<face:0096>
+Well, could you lead me to*
+somewhere safe, then?<press>
+The guards can't help but*
+notice me where I am now.
+
+-------------------------------
+
+[m03_7855][162A]
+
+<fchat:0001>
+<blue>(If I opened this hatch now...)<black><press>
+<blue>(...Detective Jowd would fall*
+right back into his cell.)<black><press>
+<fchat:0009>
+If, after all this, I ended up*
+back in my cell...<press>
+...I'd probably refuse to*
+leave again from the shock.<press>
+<fchat:0001>
+...Guess I shouldn't*
+open it, huh?
+
+-------------------------------
+
+[m03_7856][162B]
+
+<fchat:0001>
+<blue>(If I opened this hatch now...)<black><press>
+<blue>(...Detective Jowd would fall*
+onto the stairs and roll*
+right down to the bottom.)<black><press>
+<fchat:0009>
+If, after all this, I ended up*
+falling down there and*
+rolling down the stairs...<press>
+...I wouldn't stop rolling until*
+I ended up back in my cell*
+from the shock.<press>
+<fchat:0001>
+Can't say I wouldn't want to*
+see that... but I guess I*
+shouldn't open it, huh?
+
+-------------------------------
+
+[m03_7860][162C]
+
+<sound:0017><blink><shake:0128>There he is!
+
+-------------------------------
+
+[m03_7720][162D]
+
+<face:002B>
+If he enters a guard's field of*
+vision, it's over. I have to watch*
+the movement of the <red>red lights<black>.<press>
+<blue>(The first thing to do is take a*
+good look around and check out*
+what the "enemy" is doing.)<black><press>
+<face:009D>
+For now, how about just aiming*
+for the neighboring cell?<press>
+<change:00AD>
+<end>
+We can't hurry too much in this*
+darkness. Let's take it slow.
+
+-------------------------------
+
+[m03_7730][162E]
+
+<face:002D>
+<sound:0016><blink>Wh-What just happened...?<press>
+<face:0099>
+Apparently, there was a "<red>hunter<black>"*
+lurking in the ceiling.<press>
+<change:00AD>
+<end>
+<sound:0015><blink>Could you do something*
+about him? It's so dark, I can't*
+even see the bullet coming.<press>
+<face:002B>
+<blue>(So, what...? He'd dodge the*
+bullet if it wasn't dark...?)<black>
+
+-------------------------------
+
+[m03_7740][162F]
+
+<face:002D>
+<sound:0018><blink><shake:0128>It's no use! Their eyes are*
+everywhere. I can't catch a*
+break!<press>
+<face:0097>
+Then you'll just have to <red>make*
+<black>one. Try to find a way.<press>
+<change:009D>
+<end>
+<sound:0016>Maybe you can find something*
+to <red>distract <black>them with.<press>
+<face:002B>
+<blue>(Hmm, he's right. Just calling*
+the detective to me isn't the*
+only thing I can do here...)<black>
+
+-------------------------------
+
+[m03_7750][1630]
+
+<face:002D>
+<sound:0018><blink><shake:0128>I just can't seem to find*
+the break I need!<press>
+<face:009D>
+Then you'll just have to <red>make*
+<black>one. Try to find a way.<press>
+<sound:0016><blink>Maybe you can try calling me*
+to <red>all kinds of different places<black>.<press>
+<change:00AD>
+<end>
+I'm agreeable. I can go*
+pretty much anywhere.
+
+-------------------------------
+
+[m03_7760][1631]
+
+<face:002B>
+Hmm. I don't know if just dashing*
+up the stairs is gonna work...<press>
+<face:00AD>
+Yes, the stairs ARE a*
+pretty crowded place...<press>
+<face:002B>
+<blue>(But we need to use the stairs*
+if we want <red>to get any further<blue>.)<black><press>
+<face:009D>
+Oh, I don't know...<press>
+<change:00AD>
+<end>
+<sound:0016>Are you sure that*
+<red>assumption <black>is correct?
+
+-------------------------------
+
+[m03_7770][1632]
+
+<face:002B>
+We came all that way...*
+We were so close!<press>
+<face:0097>
+Right. Once we get to this*
+point, we can either sneak*
+out, or make a dash for it.<press>
+I'll leave the route up to you. I*
+might've mentioned this before,*
+but...<press>
+<change:00AD>
+<end>
+I can go pretty much anywhere!
+
+-------------------------------
+
+[m03_7621][1633]
+
+<fchat:0001>
+<sound:0017><blink><shake:0128>So, what do you think?!<press>
+<fchat:0009>
+<sound:0015><blink>I'd say, if we've come this*
+far, we did it! Great job,*
+Sissel!
+
+-------------------------------
+
+[m03_7622][1634]
+
+<face:00EC>
+<sound:0017><blink><center>The basement generator has*
+<center>been repaired! Restoring*
+<center>power to all areas!
+
+-------------------------------
+
+[m03_7620][1635]
+
+<face:009A>
+Whew! We just made it.<press>
+<face:002C>
+But the question is, what now?<press>
+<face:009C>
+<sound:0016>I don't have anywhere to go, do I?*
+Maybe I'll go back to my cell...<press>
+<face:003B>
+<sound:0018><blink><shake:0128>Y-You'd better be kidding!<press>
+<face:0096>
+But I'm still a condemned*
+criminal, you know.<press>
+I doubt anybody'd welcome*
+me with open arms.<press>
+<face:002C>
+Why don't you try*
+contacting Lynne?<press>
+She went to see some*
+"justice minister" guy...<press>
+<face:0096>
+So an escaped death-row convict*
+is supposed to just report in to the*
+justice minister, is that it?<press>
+<change:00AC>
+<end>
+<sound:0015><blink>Hmm. I kind of like that...<press>
+Anyway, after all the trouble you*
+went through, I guess I'd better run.<press>
+<face:0035>
+That would be nice, yes.<press>
+<face:009C>
+<sound:0017><blink><shake:0128>All right, Sissel.*
+Until we meet again!
+
+-------------------------------
+
+[m03_7630][1636]
+
+So now I've saved a*
+condemned criminal's life*
+and helped him escape...<space>
+Was that really the right thing to do?<space>
+I guess all I can do is believe*
+in Lynne at this point.
+
+-------------------------------
+
+[m03_7020][1502]
+
+<fchat:0001>
+It's no use. The internal*
+phone doesn't work.<press>
+I guess I'd better find*
+another route.
+
+-------------------------------
+

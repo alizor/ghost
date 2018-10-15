@@ -1,0 +1,387 @@
+[m05_9900][2100]
+
+<fchat:0001>
+I'd better not put out*
+the lamp right now.<press>
+<sound:0016><blue>(It will only pour oil on*
+the flames of anger in*
+this lady's heart.)<black><press>
+If I want to give Amelie*
+a chance to use the*
+telephone...<press>
+<sound:0015><blink>...I have to think of <red>a*
+way to keep her mother*
+out of the way<black>.
+
+-------------------------------
+
+[m05_9901][2101]
+
+<fchat:0001>
+If I recall, the novelist said*
+she didn't like the dark.<press>
+I don't want her thrashing*
+around any more than*
+she is already...<press>
+<blue>(I'd better not put out*
+this lamp right now.)<black>
+
+-------------------------------
+
+[m05_9902][2102]
+
+<fchat:0001>
+<sound:0015><blink>Hmm. The lady's dictionary...<press>
+Wasn't this on*
+her desk before?<press>
+The poor thing. Destined*
+to never be returned to*
+the bookshelves...
+
+-------------------------------
+
+[m05_2000][2000]
+
+<fchat:0001>
+Still typing away*
+passionately, I see.<press>
+She'd type her fingers to*
+the bone to complete her*
+tale of love, I imagine.
+
+-------------------------------
+
+[m05_2010][2001]
+
+<fchat:0001>
+The little girl with the fever*
+seems to be sleeping now.<press>
+I hope she's having*
+sweet dreams.
+
+-------------------------------
+
+[m05_2020][2002]
+
+Oh...
+
+-------------------------------
+
+[m05_2030][2003]
+
+Mr. Prime Minister...
+
+-------------------------------
+
+[m05_2040][2004]
+
+<fchat:0001>
+<sound:0016><blink>Hmm, I guess not.
+
+-------------------------------
+
+[m05_2050][2005]
+
+<fchat:0001>
+It looks like the novelist*
+is still taken up with her*
+prime minister.<press>
+The "atmosphere" is so thick*
+in this room, it's enough*
+to make your eyes smart.<press>
+I think I'd better leave,*
+before this air*
+suffocates me...
+
+-------------------------------
+
+[m05_2060][2006]
+
+<fchat:0001>
+The passionate typing*
+continues on.<press>
+She wears her fingers away*
+as she spins her tale of love.
+
+-------------------------------
+
+[m05_2070][2007]
+
+Good luck, Mama.
+
+-------------------------------
+
+[m05_2080][2008]
+
+<fchat:0001>
+She's a sharp-tongued little*
+girl, but she still supports*
+her mother's dreams...
+
+-------------------------------
+
+[m05_2090][2009]
+
+...And please get out*
+of that business as*
+quickly as possible.
+
+-------------------------------
+
+[m05_2110][200A]
+
+<fchat:0001>
+Is it just my imagination,*
+or is the typing even*
+more ardent than before?<press>
+It sounds like the tale of*
+love is reaching its climax.
+
+-------------------------------
+
+[m05_2120][200B]
+
+<fchat:0001>
+The little girl appears*
+to be asleep.<press>
+She's probably having*
+some pleasant dream*
+or another...
+
+-------------------------------
+
+[m05_2130][200C]
+
+Papa, help!
+
+-------------------------------
+
+[m05_2140][200D]
+
+I'm gonna be killed!
+
+-------------------------------
+
+[m05_2160][200E]
+
+<fchat:0001>
+It doesn't look like the*
+novelist intends to*
+sleep tonight.<press>
+She'll complete her tale of*
+love, even if she has to type*
+her fingers to the bone.
+
+-------------------------------
+
+[m05_2170][200F]
+
+<fchat:0001>
+<sound:0016><blink>Something seems to be*
+missing from this bed...<press>
+I don't see the bag of ice*
+the little girl had on her*
+feverish forehead.
+
+-------------------------------
+
+[m05_2171][2010]
+
+<fchat:0001>
+<sound:0015><blink><blue>(Hmm... She's not here.)<black><press>
+Did she go to the powder*
+room? Is she out having a*
+good time on the town?
+
+-------------------------------
+
+[m05_2172][2011]
+
+<fchat:0001>
+<blue>(I'd better be going myself.)<black>
+
+-------------------------------
+
+[m05_2180][2012]
+
+<fchat:0001>
+Just like before...<press>
+<sound:0016><blink>...I don't see the little*
+girl here anywhere.<press>
+<blue>(So does this mean she*
+was really <red>kidnapped<blue>...?)<black>
+
+-------------------------------
+
+[m05_2190][2013]
+
+<fchat:0001>
+In spite of the fact that*
+her husband and daughter*
+are in trouble...<press>
+...the novelist types*
+passionately on.<press>
+But I don't get it...<press>
+<sound:0016><blink>How did the kidnappers get*
+a hold of the little girl...?
+
+-------------------------------
+
+[m05_2200][2014]
+
+<fchat:0001>
+Huh? What's going on?<press>
+Kamila is the one*
+who was kidnapped...<press>
+<blue>(...but this little girl's*
+bed is empty, too.)<black><press>
+<blue>(Where could she*
+have gone?)<black>
+
+-------------------------------
+
+[m05_2210][2015]
+
+<fchat:0001>
+While her husband and*
+daughter's situation*
+changes from hour to hour...<press>
+...only the lady's outpouring*
+of words of love continues*
+on without change.<press>
+.........<press>
+<sound:0016>I have to admit I admire*
+her dedication.<press>
+<blue>(But I'm worried about*
+her daughter.)<black><press>
+<blue>(I'll stop by again later to*
+see what's happening.)<black>
+
+-------------------------------
+
+[m05_2220][2016]
+
+<fchat:0001>
+The novelist's story*
+of love, and the story*
+of my memory...<press>
+Which will come to*
+its conclusion first?
+
+-------------------------------
+
+[m05_2230][2017]
+
+<fchat:0001>
+<sound:0016>It looks like the little*
+girl is <red>still out<black>.<press>
+<sound:0015><blink>Like mother, like daughter,*
+I guess. They both have*
+their own ways.<press>
+<blue>(But where could the girl*
+have gone to with such a*
+high fever?)<black><press>
+<blue>(And how could the mother*
+not notice her darling*
+angel is missing?)<black>
+
+-------------------------------
+
+[m05_2240][2018]
+
+<fchat:0001>
+<sound:0016>It looks like the little girl*
+is having sweet dreams.
+
+-------------------------------
+
+[m05_2250][2019]
+
+<fchat:0001>
+<sound:0015><blink>Meanwhile, it looks like*
+"Mama" is still in the*
+middle of a nightmare.<press>
+<face:005E>
+.........<press>
+<shake:0128><blue>"Oh, Mr. Prime Minister!*
+Squeeze me tight enough*
+to take my breath away!"<black><press>
+<shake:0128><blue>"My darling lady! Let us be free,*
+spread our wings and fly!"<black><press>
+<sound:0016>I think I'll edit those lines*
+out once I'm back down*
+on the ground...<press>
+<sound:0018><blink><shake:0128>Being squeezed tight enough*
+to take one's breath away is*
+not as much fun as I thought!<press>
+<fchat:0001>
+<blue>(I guess the novelist is*
+getting a lesson in reality...)<black>
+
+-------------------------------
+
+[m05_2260][201A]
+
+<fchat:0001>
+<sound:0015><blink>Hmm... A <red>miracle <black>seems to*
+have occurred in this room.<press>
+Looks like the lady has*
+somehow managed to *
+escape the chandelier.<press>
+With her family's harmony*
+restored, her fingers move*
+more lightly than ever.
+
+-------------------------------
+
+[m05_2280][201B]
+
+<fchat:0001>
+The little girl appears*
+to be asleep.<press>
+I hope she's having*
+pleasant dreams at last.
+
+-------------------------------
+
+[m05_2290][201C]
+
+#groan#
+
+-------------------------------
+
+[m05_2300][201D]
+
+Your face is so*
+wrinkled, Papa...
+
+-------------------------------
+
+[m05_2310][201E]
+
+<fchat:0001>
+<sound:0016><blink>Hmm, I guess not.
+
+-------------------------------
+
+[m05_1330][1F27]
+
+<fchat:0001>
+I can't move the chandelier*
+right now with her thrashing*
+around like that...<press>
+I hear ominous creaking*
+coming from the ceiling,*
+too...<press>
+<blue>(This is a dangerous*
+situation...)<black>
+
+-------------------------------
+
+[m05_1460][1F3D]
+
+<sound:0018><shake:0128>Don't you dare,*
+Amelie!
+
+-------------------------------
+

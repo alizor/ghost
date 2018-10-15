@@ -1,0 +1,308 @@
+[mono_mes][2600]
+
+<fchat:0001>
+And now a new*
+"present" is born.<press>
+The little lady is still*
+curled up in a ball and*
+shaking with fear.<press>
+And the little doggie is*
+wagging his tail happily.<press>
+So what am I going to*
+do now?<press>
+I think I'll watch for a while*
+and see what happens.
+
+-------------------------------
+
+[killerB_00][2601]
+
+What?!
+
+-------------------------------
+
+[killerB_01][2602]
+
+Still at the junkyard?
+
+-------------------------------
+
+[killerB_02][2603]
+
+All right, got it.
+
+-------------------------------
+
+[killerB_03][2604]
+
+I'm on my way.
+
+-------------------------------
+
+[killerB_out_mes][2605]
+
+<face:007F>
+Hmph. I guess my prey likes*
+to play hide-and-seek.<press>
+She hasn't had enough of that*
+junkyard yet, apparently.<press>
+I can't let Nearsighted Jeego*
+beat me out on this one.<press>
+I'd better hurry.
+
+-------------------------------
+
+[girl_01_mes][2606]
+
+<face:006E>
+What was that all about?
+
+-------------------------------
+
+[girl_02_mes][2607]
+
+<face:006B>
+You saved me, didn't you,*
+Missile? I just know you did!
+
+-------------------------------
+
+[girl_minimes00][2608]
+
+Maybe I shouldn't*
+answer it...
+
+-------------------------------
+
+[girl_00][2609]
+
+Lynne!
+
+-------------------------------
+
+[cicel_mes00][260A]
+
+<fchat:0001>
+A call from <red>Lynne<black>, eh?<press>
+It sounds serious. I wonder*
+what they're saying?<press>
+I'd better go <red>possess<black> that*
+phone and listen in.
+
+-------------------------------
+
+[tree_mes][260B]
+
+<fchat:0001>
+Oops. How rude of me*
+when the little lady is*
+<red>on the phone<black>.<press>
+It's not really the right*
+time for this kind of*
+cheerful melody anyway.<press>
+Besides...
+
+-------------------------------
+
+[madam_mes][260C]
+
+I'll knock this*
+wall down!
+
+-------------------------------
+
+[tree_mes2][260D]
+
+<fchat:0001>
+...there's always THAT*
+to worry about. I'd*
+better turn it off...
+
+-------------------------------
+
+[coredemo][260E]
+
+<fchat:0001>
+There's that little doggie,*
+all curled up on the floor...<press>
+Dreaming away the life*
+we worked so hard to*
+get back for him...<press>
+That's fine, but what's*
+up with that <red>core<black>?<press>
+The dead can't possess*
+living creatures.<press>
+That's one of the rules*
+Mr. Desk Lamp taught me.<press>
+So what would a living*
+and breathing doggie*
+be doing with a <red>core<black>?<press>
+I'd better try <red>possessing<black>*
+him and see.<show><wait>
+
+-------------------------------
+
+[dog_talk][260F]
+
+<face:0075>
+<sound:0018><shake:021E>Oh, it's you! It's you!<press>
+It's -- Hmm...<press>
+Come to think of it, I never*
+did ask you your name.<press>
+<face:0037>
+I guess it's good we ran into*
+each other again, then.<press>
+<change:0028>
+<end>
+This is a good chance*
+for us to reintroduce*
+ourselves to each other.<press>
+<face:0075>
+<sound:0018><shake:021E>You mean you forgot*
+my name already?!<press>
+After everything we shared*
+together?! The drama?! That*
+tearful goodbye?!<press>
+<sound:0033><blink><shake:021E>{2EFF}v{17FF}I'm Missile!{17FF}<press>
+<face:002C>
+But, you know, it's strange...<press>
+I wonder why <red>you remember me<black>,*
+now that you're alive again?<press>
+<change:0037>
+<end>
+<sound:0016>Do you <red>remember <black>your*
+time <red>being dead<black>?<press>
+<face:0075>
+<sound:0015><blink>Of course! All of it!<press>
+<face:002C>
+<blue>(Okay, let me get this straight.)<black><press>
+<blue>(The memory of being*
+dead doesn't disappear.)<black><press>
+<blue>(And the dead I meet in the Ghost*
+World develop a <red>core <blue>when they*
+return to the land of the living.)<black><press>
+<change:002A>
+<end>
+<blue>(And if I then possess that core,*
+I can<red> talk<blue> to that person!)<black><press>
+<face:0075>
+It looks that way, yes.
+
+-------------------------------
+
+[dog_talk2][2610]
+
+<face:0075>
+<sound:0033><blink><shake:021E>Hmph. That Kamila! It never fails!<press>
+<face:0037>
+What "never fails"?<press>
+<face:0075>
+Every time she gets on that*
+black "<red>Hello?<black>" she talks and*
+talks and forgets all about me!<press>
+No matter how much I run*
+around and show off, she*
+never even glances at me!<press>
+<face:002C>
+<blue>(So that was you showing off, eh?)<black><press>
+<change:002A>
+<end>
+Well, I would like to hear*
+what the ladies are talking*
+about.<press>
+<face:0075>
+<sound:0015><blink>Oh! So would I!
+
+-------------------------------
+
+[st06_m0000][2300]
+
+<face:000B>
+<sound:0018><shake:011E><blink>Kamila! Oh, thank*
+goodness you're okay!
+
+-------------------------------
+
+[st06_m0010][2301]
+
+<face:0066>
+Well, I don't know if I'm*
+"okay," exactly. You won't*
+believe what just ha--<press>
+<face:000B>
+<sound:0018><shake:011E><blink>Listen to me! You've got to*
+get out of there, right now!<press>
+<face:0064>
+But what about dinner? I was*
+thinking about spaghetti tonight...<press>
+<face:0013>
+I won't be going back there for*
+a while. And you might be in*
+danger if you stay there, too!<press>
+<face:0066>
+But I already WAS in danger.*
+Just a little while ago --
+
+-------------------------------
+
+[st06_m0011][2302]
+
+<face:000D>
+Meet me at that restaurant,*
+the<red> Chicken Kitchen<black>, on*
+Dead End Drive!<press>
+<face:0066>
+Dead End Drive? I dunno...*
+That's pretty far.<press>
+<face:0013>
+Just hurry, okay?! Oh,*
+and one more thing...<press>
+<sound:0016>Bring the <red>music box<black>*
+with you, okay?
+
+-------------------------------
+
+[st06_m0012][2303]
+
+<face:0066>
+Music box...?<press>
+<change:0068>
+<end>
+<sound:0015><blink>I love music boxes! Is*
+it a present for me?<press>
+<face:000D>
+I'm sorry, but it doesn't play.*
+I can't even get the lid open.<press>
+<face:0068>
+Then you can't very well call it*
+a "music box," then, can you?*
+More like just "box."<press>
+<face:000B>
+<sound:0017><blink><shake:0128>Just bring it, okay?! It's kind of*
+big, and it's made out of wood.<press>
+<face:0064>
+Okay, I will. Where is it?<press>
+<face:000D>
+I kinda hid it in that room*
+you're in...
+
+-------------------------------
+
+[st06_m0050][2305]
+
+Excuse me.
+
+-------------------------------
+
+[st06_m0030][2306]
+
+Eeeeek!
+
+-------------------------------
+
+[st06_m0040][2307]
+
+Lynne!
+
+-------------------------------
+

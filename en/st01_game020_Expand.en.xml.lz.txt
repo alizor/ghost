@@ -1,0 +1,616 @@
+[m01_2000][0300]
+
+<center>Not much time has passed*
+<center>since I was here last.<space>
+<center>But the situation has changed...
+
+-------------------------------
+
+[m01_2010][0301]
+
+<center>Looks like they're*
+<center>examining my body.<space>
+<center>I wonder who they are?
+
+-------------------------------
+
+[m01_2011][0302]
+
+<center>And beside them, a certain*
+<center>somebody else wriggles*
+<center>and bounces happily.<space>
+<center>I wonder who that person*
+<center>really is, too...
+
+-------------------------------
+
+[m01_2020][0303]
+
+<face:0083>
+Welcome back. You*
+weren't gone very long.<press>
+<face:0029>
+What's going on here?<press>
+<face:0083>
+The police are here to start*
+the criminal investigation.*
+You know, into your <red>murder<black>.<press>
+<face:002B>
+<blue>(My murder case, eh?)<black><press>
+<change:0029>
+<end>
+Where is Lynne?*
+Is she all right?<press>
+<face:0083>
+<sound:0015><blink>So you found out her*
+name already, did you?<press>
+I'm impressed.
+
+-------------------------------
+
+[m01_2030][0304]
+
+<face:0029>
+It sounded like she was in some*
+kind of immediate danger...<press>
+<blue>(Not to mention the fact a*
+hitman is after her again...)<black>
+
+-------------------------------
+
+[m01_2035][0305]
+
+<face:0083>
+Well, you don't have to worry*
+about that kind of thing.<press>
+<sound:0016><1EFF_0500>She was just <red>taken into*
+custody<black> a few minutes ago.<press>
+<face:002F>
+<sound:0015><shake:0128><blink>Custody...? You mean she*
+was arrested?! But why?<press>
+<face:0083>
+I don't know. I'm*
+just a desk lamp.<press>
+<face:002B>
+<blue>(Hmm. I'd better see*
+what I can find out.)<black>
+
+-------------------------------
+
+[m01_2040][0306]
+
+<face:00CA>
+...Quite a thing, huh, this case?<press>
+<face:00C6>
+Yeah. One of our own...*
+a <red>murderer<black>...? Heads*
+will roll over this.<press>
+<face:00CA>
+And she's a rookie, too.*
+I heard she was carrying out*
+some crazy investigation?<press>
+<face:00C6>
+Rookies aren't given crazy*
+assignments like that. Not*
+even rookies like <red>Lynne<black>.<press>
+<face:00CA>
+Yeah, but I heard*
+she was "special."<press>
+She's got strong ties to*
+Inspector Cabanela of the*
+Special Investigation Unit.<press>
+Hmph. I plan on moving*
+up the ladder on my*
+own merits, myself.<press>
+<face:00C6>
+Well, we detectives shouldn't be*
+standing around gossiping. Never*
+know who might be listening.<press>
+<fchat:0001>
+Like me.
+
+-------------------------------
+
+[m01_2050][0307]
+
+<face:00CC>
+Like me.
+
+-------------------------------
+
+[m01_2060][0308]
+
+<face:00CC>
+Think we can safely assume*
+the cause of death was... the*
+bullet he took in the chest.
+
+-------------------------------
+
+[m01_2061][0309]
+
+<face:00CC>
+Bring the stretcher.*
+I'll look into the rest*
+back at the lab.
+
+-------------------------------
+
+[m01_2070][030A]
+
+<face:00C6>
+<sound:0015><blink>Would you mind waiting*
+here for a bit, doctor?<press>
+Inspector Cabanela, head*
+of the Special Investigation*
+Unit, is on his way now.<press>
+<face:00CC>
+Special Investigation*
+Unit? What do they want*
+with a case like this?<press>
+<face:00C6>
+I don't know, but Cabanela's*
+our top investigator...<press>
+We don't want to get him*
+all bent out of shape, or*
+there'll be hell to pay.<press>
+<face:00CC>
+Hmph. Don't see what*
+that has to do with me.
+
+-------------------------------
+
+[m01_2075][030B]
+
+<face:00CA>
+I don't really get what Cabanela*
+wants to come for, either.<press>
+It's probably just a big lark*
+for him, but it makes*
+things tougher on us.<press>
+<face:00C6>
+Hey, watch what you say*
+behind his back. Never know*
+who might be listening.<press>
+<fchat:0001>
+Like me.
+
+-------------------------------
+
+[m01_2076][030C]
+
+<face:00CC>
+Like me.
+
+-------------------------------
+
+[m01_2120][030D]
+
+<face:008A>
+Ah, the teeension of*
+a crime scene!
+
+-------------------------------
+
+[m01_2121][030E]
+
+<face:008A>
+<sound:0016>Yeeeah, nothing like it, baby!
+
+-------------------------------
+
+[m01_2129][030F]
+
+<face:0027>
+<blue>(So this is the head of the*
+Special Investigation Unit?*
+He seems, uh... unique.)<black>
+
+-------------------------------
+
+[m01_2130][0310]
+
+<face:008C>
+Evening, boooys.*
+How's it lookin'?<press>
+<face:00CA>
+<shake:0128><blink>Inspector Cabanela!*
+Thank you for coming!<press>
+<shake:0128><blink>Allow me to report, sir!<press>
+<face:0089>
+Fine, fiiine. You just hold*
+that thought. I'm gonna*
+make a liiitle phone call first.
+
+-------------------------------
+
+[m01_2140][0311]
+
+<face:00C6>
+Well, here he is, for his "big lark."<press>
+Aren't you going to*
+confront him about it?
+
+-------------------------------
+
+[m01_2145][0312]
+
+<face:00CA>
+I'm going to make my report!<press>
+<face:00C6>
+Yeah, that's about what I figured.
+
+-------------------------------
+
+[m01_2150][0313]
+
+<face:0089>
+Deal me the deal. How's it*
+goin' over there, baby?<press>
+<face:00F9>
+Going? How is it going,*
+you ask? You'd like to*
+know how it's going?<press>
+I would say it's going well enough,*
+about fair to average, if I had to*
+say. Yes, it's going all right.<press>
+<face:0089>
+.........<press>
+Nooot the man I was hoping*
+to talk to there, baby.<press>
+Do me a favor and put that other*
+nice man on the horn, now, would*
+you? Thaaat's a nice fellow.<press>
+<face:00F9>
+If it has anything to do with this*
+park, I'm the one to talk to. I'm*
+the guardian of this park! Yes!
+
+-------------------------------
+
+[m01_2160][0314]
+
+<face:00CE>
+<sound:0015><blink>Argh, sorry 'bout that,*
+Inspector! I just got here.<press>
+<face:008C>
+Well, glaaad to hear you made*
+it. That other fellow just about*
+threw me for a loop.<press>
+Started blathering something*
+about being "guardian of the*
+park" or some such.<press>
+<face:00CE>
+Yes, him... #sigh#*
+Sorry 'bout that.<press>
+<face:0089>
+Well, start doing your "staking*
+out" thing, baby. And buzz me*
+if anything comes up.<press>
+<face:00CE>
+<blink><shake:0128>Yes, sir!
+
+-------------------------------
+
+[m01_2170][0315]
+
+<face:00CA>
+<1CFF_1100><blink><shake:0128>Now, then, sir! If I may*
+make my report, sir--<press>
+<face:0089>
+<sound:0015><blink>Doc! Yoo-hoooo!*
+Oh, Doooc!
+
+-------------------------------
+
+[m01_2171][0316]
+
+<face:00CC>
+Talking to me?<press>
+<face:0089>
+I need you to handle this case with*
+your finest care and attention.*
+Would you do that for me, Doc?<press>
+<face:00CC>
+Don't need you to tell*
+me how to do my job.
+
+-------------------------------
+
+[m01_2175][0317]
+
+<face:0089>
+Anyhoot... I'd like to see*
+the suspect now, if I may.
+
+-------------------------------
+
+[m01_2176][0318]
+
+<face:00CA>
+<sound:0015><blink>Lynne, sir? I asked her to*
+let herself be taken into*
+custody voluntarily, sir!<press>
+<face:00C7>
+She's being detained in the*
+junkyard superintendent's*
+office right now!<press>
+<face:0089>
+Super's office, eh? Suuuper!*
+And where's that?
+
+-------------------------------
+
+[m01_2180][0319]
+
+<face:00C8>
+Just beyond where you parked*
+your bicycle, Inspector.<show>
+
+-------------------------------
+
+[m01_2190][031A]
+
+<face:0089>
+I'll go interview the suspect, then.*
+Yeeeah, nothing like it, baby!
+
+-------------------------------
+
+[m01_2196][031B]
+
+<face:0089>
+Carry on, boooys.
+
+-------------------------------
+
+[m01_2197][031C]
+
+<face:00CA>
+<sound:0015><blink>Good luck, sir!
+
+-------------------------------
+
+[m01_2250][031D]
+
+<face:00CA>
+Whew. That Inspector*
+Cabanela... He sure has a*
+strange "air" about him...<press>
+<face:00C6>
+You can say that again. And*
+I've never seen anybody use*
+stairs the way he does...<press>
+I hear he's dancing his way*
+up the stairs of promotion*
+that same airy way.<press>
+<face:00CA>
+And I hear Lynne is his*
+personal favorite...<press>
+What's the deal*
+between those two?<press>
+<face:00C6>
+Hey, how should I know?
+
+-------------------------------
+
+[m01_2260][031E]
+
+<face:00CC>
+Think we can pretty safely assume*
+this was the <red>murder weapon<black>.
+
+-------------------------------
+
+[m01_2270][031F]
+
+<face:00C9>
+<sound:0015><blink>Oh, no... That pistol...
+
+-------------------------------
+
+[m01_2271][0320]
+
+<face:00CC>
+<sound:0016>{28FF}0KYup. Same model as the pistols*
+you <red>detectives <black>carry around.<press>
+<face:00C9>
+You don't think... it's*
+Lynne's, do you...?<press>
+<face:00C6>
+This is not good. If it is*
+hers, it's all over.<press>
+<fchat:0001>
+<blue>(So Lynne is a <red>detective<blue>,*
+and the murder weapon*
+might be her pistol...)<black><press>
+<blue>(What could it all mean?)<black>
+
+-------------------------------
+
+[m01_2279][0322]
+
+<fchat:0001>
+So this is the weapon*
+that took my life...<press>
+A "pistol," eh? My memory*
+seems to be hazy on pistols...<press>
+But I have seen them before,*
+that's for sure. Let's see.*
+This part right here is--
+
+-------------------------------
+
+[m01_2280][0323]
+
+<face:00CC>
+<sound:0018><shake:0128><blink>Fool! If you want to*
+fire the thing, aim it*
+in your own direction!<press>
+<face:00C9>
+<shake:0128><blink>I-I didn't fire it!*
+I'm the victim here!<press>
+This is the act of somebody*
+who's jealous of my*
+abilities as a detective!<press>
+<face:00C6>
+Well, what are you glaring at me*
+for? I'm hardly jealous of you.<press>
+<fchat:0001>
+<blue>(Well, guess that proves*
+it's a real gun...)<black>
+
+-------------------------------
+
+[m01_2290][0325]
+
+<face:010D>
+<sound:0000><center>Bang!
+
+-------------------------------
+
+[m01_2300][0326]
+
+<face:00C6>
+Wh-What was that?<press>
+<face:00C9>
+Is that what I think it was?<press>
+<face:00CC>
+The sound of a gun.
+
+-------------------------------
+
+[m01_2310][0327]
+
+<fchat:0001>
+I've got a bad feeling*
+about this.<press>
+Every time that phone*
+rings, it's bad news.<press>
+<fchat:0004>
+It's like that old riddle...<press>
+<sound:0016>"Which came first, the*
+ringing of the phone,*
+or the crime case?"<press>
+<fchat:0001>
+Um, if you say so.
+
+-------------------------------
+
+[m01_2320][0328]
+
+<face:008A>
+Ah, theeere you are. Do me a*
+favor and have the Doc come to*
+the super's office, would you?<press>
+<face:00C6>
+Uh, he seems pretty busy*
+at the moment, sir...<press>
+<face:008A>
+Which one are you, the green*
+one or the blue one?<press>
+<face:00C6>
+Huh?! Oh, uh... I'm the...*
+"green one." Sir.<press>
+<face:008A>
+Listen, greeny. Get the good*
+Doc over here this instant...<press>
+<face:0093>
+<sound:0017><shake:0128><blink>...or I'll see to it you never*
+wear a green suit again!<press>
+<face:00C6>
+<sound:0018><shake:0128><blink>Yes, sir! I'll send him right up, sir!
+
+-------------------------------
+
+[m01_2325][0329]
+
+<fchat:0001>
+Firing this gun is one thing,*
+but killing a poor detective*
+in the process is another.<press>
+<fchat:0004>
+That's all right. If you kill*
+one, you can just save him.<press>
+<fchat:0001>
+I don't think I need to*
+increase my workload*
+right now.<press>
+<blue>(Better not fire it...)<black>
+
+-------------------------------
+
+[m01_2330][032A]
+
+<face:00C6>
+<sound:0018><shake:0128><blink>Please, Doctor! Go*
+to the superintendent's*
+office immediately!<press>
+<face:00CC>
+#sigh# If I must...
+
+-------------------------------
+
+[m01_2340][032B]
+
+<face:00CA>
+Wh-What's going on?<press>
+<face:00C6>
+Don't ask me. But something*
+seems really, really wrong...<press>
+<face:00CA>
+That shot sounded like it was*
+coming from somewhere around*
+the <red>maintenance building<black>...
+
+-------------------------------
+
+[m01_2345][032C]
+
+<fchat:0001>
+That telephone call was*
+from the super's office in*
+the maintenance building.<press>
+<blue>(And didn't the blue*
+detective say...)<black><press>
+<blue>(...that Lynne was being*
+held in the "junkyard*
+<red>superintendent's office<blue>"...?)<black><press>
+<fchat:0004>
+Hurry, then! You'd better*
+get up there quickly!<press>
+<sound:0017><shake:0128><blink>No time to be standing*
+around here talking to*
+a desk lamp!<press>
+<fchat:0001>
+<blue>(Says the one who's only*
+capable of standing around.)<black>
+
+-------------------------------
+
+[m01_2540][033C]
+
+<face:002B>
+Hmm. He's saying something,*
+but I <red>can't hear<black> him from here.
+
+-------------------------------
+
+[st06_m0050][2305]
+
+Excuse me.
+
+-------------------------------
+
+[st06_m0030][2306]
+
+Eeeeek!
+
+-------------------------------
+
+[st06_m0040][2307]
+
+Lynne!
+
+-------------------------------
+

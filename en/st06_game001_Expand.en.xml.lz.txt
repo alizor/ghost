@@ -1,0 +1,921 @@
+[rimocom_mes][2500]
+
+Yippee! Found*
+the remote!
+
+-------------------------------
+
+[cicel_08][2501]
+
+<fchat:0001>
+Well, can't really change*
+the little lady's fate by just*
+"standing" around watching.<press>
+That intruder in black*
+will be entering this room*
+in just four short minutes.<press>
+And my <red>ghost tricks<black>*
+can only get me so far.<press>
+If I want to save the little*
+lady, I'm going to have to*
+get her <red>cooperation<black>.<press>
+And the first step is to*
+get rid of anything that*
+might get in the way.
+
+-------------------------------
+
+[tel_nouse_mes][2502]
+
+<fchat:0001>
+<sound:0016>That's funny...<press>
+<fchat:0002>
+What's wrong?<press>
+<fchat:0001>
+This telephone <red>doesn't seem*
+to be working<black> right now.<press>
+<blue>(Usually, the telephone*
+line glows red, but it's*
+dark right now.)<black><press>
+Hmm...<press>
+Looks like I <red>can't use the*
+telephone lines<black> in the "four*
+minutes before death" world.
+
+-------------------------------
+
+[cicel_01][2503]
+
+<fchat:0002>
+<sound:0033><blink><shake:021E>Oh, so close!<press>
+You almost knocked*
+those <red>red things<black> down!<press>
+<fchat:0001>
+<blue>(Hey, I think you're onto*
+something there...)<black><press>
+<blue>(If we drop them in the*
+fish tank, Kamila won't be*
+able to use them anymore...)<black><press>
+<fchat:0002>
+But if we drop them in the*
+fish tank, Miss Kamila'll get*
+a scolding from Miss Lynne!<press>
+<fchat:0001>
+All you have to do is*
+pretend it was your fault.<press>
+That's the way of the*
+honorable warrior.<press>
+<fchat:0002>
+Okay... But you've obviously*
+never seen Miss Lynne*
+when she gets mad...
+
+-------------------------------
+
+[madam_mes][2504]
+
+Shut that*
+mutt up!
+
+-------------------------------
+
+[opdemo3][2505]
+
+<face:0065>
+No, Missile! You're not*
+supposed to bark!<press>
+The lady next door is*
+crabbier than ever tonight.
+
+-------------------------------
+
+[opdemo2][2506]
+
+<face:0063>
+You don't want her to knock*
+the wall down, do you, boy?<press>
+<change:0065>
+<end>
+#sigh# Why do you like to*
+bark so much, anyway?<press>
+You sure are cute, but just*
+don't get us killed, okay?<press>
+Darn. I really wanted*
+to watch TV, too.<press>
+<change:0067>
+<end>
+Hey, I know! I'll*
+listen to music!
+
+-------------------------------
+
+[cicel_00][2507]
+
+<fchat:0001>
+Uh-oh... This isn't good...<press>
+<fchat:0002>
+<sound:0018><blink><shake:021E>Miss Kamila is going to put*
+those <red>red things<black> on her head!<press>
+<fchat:0001>
+Yeah, I know. And once she*
+gets them on, it's all over.<press>
+She won't be able*
+to hear a thing.<press>
+<blue>(What can I do...?)<black>
+
+-------------------------------
+
+[headphone_lost_mes][2508]
+
+<sound:0015>Oops! Oops!
+
+-------------------------------
+
+[headphone_catch_mes][2509]
+
+Whew!*
+That was close!
+
+-------------------------------
+
+[st06_001p01][250A]
+
+<fchat:0002>
+<sound:0033><shake:0128><blink>Oh, no! Miss Kamila put those*
+<red>red things<black> on her head!<press>
+<fchat:0001>
+This is bad. Now she's really*
+off in her own world.<press>
+<blue>(Hmm...)<black><press>
+<blue>(I think <red>I missed a really*
+critical chance<blue> to stop her!)<black><press>
+The <TIME> <red>panel<black>... I think*
+I need to use it and*
+re-think my strategy here.
+
+-------------------------------
+
+[madam_mes2][250B]
+
+I'll knock this*
+wall down!
+
+-------------------------------
+
+[cicel_03][250C]
+
+<fchat:0001>
+Man! She <red>can't even<black>*
+<red>hear <black>all that racket?<press>
+How far up does she*
+have those headphones*
+turned, anyway?<press>
+<fchat:0002>
+Actually, I have to confess...<press>
+I've always wanted to try*
+those <red>red things<black> on...<press>
+<sound:0033><blink><shake:021E>I wonder what they're*
+like? I bet they're all*
+soft and cuddly...<press>
+<fchat:0001>
+<blue>(Yeah, okay... Well, I guess*
+we have to do something*
+about those headphones...)<black>
+
+-------------------------------
+
+[cicel_07][250D]
+
+<fchat:0002>
+Wow! You sent*
+that thing flying!<press>
+<fchat:0001>
+I like to keep things*
+tidy. Heh heh.<press>
+<fchat:0002>
+And I like to bark at*
+things that move!<press>
+<fchat:0001>
+<blue>(I guess everything looks*
+like a toy to a little doggie.)<black><press>
+<blue>(And now I bet our little*
+lady will come over to*
+quiet you down.)<black>
+
+-------------------------------
+
+[cicel_09][250E]
+
+<fchat:0001>
+Huh?*
+<blue>(I <red>can't make another*
+donut fall<blue>.)<black><press>
+<fchat:0002>
+Hmm. What do we do now?<press>
+Without that donut, the*
+squeaky guy won't come,*
+and I won't bark!<press>
+<fchat:0001>
+Yeah, and the barking part*
+is your favorite, right?<press>
+<blue>(Hmm... It looks like*
+<red>only one<blue> donut will fall.)<black><press>
+<blue>(We only get one chance...)<black>
+
+-------------------------------
+
+[tree_demo_mes][250F]
+
+<fchat:0001>
+Unbelievable...<press>
+She can't even hear any*
+of this commotion.<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>It's all because of those*
+<red>red things<black> on her head!<press>
+<fchat:0001>
+<blue>(I guess we'll have to*
+do something about*
+those <red>headphones<blue>...)<black><press>
+<blue>(Changing a little lady's fate*
+is no easy task, apparently.)<black><press>
+I guess I'd better turn*
+off this star ornament.<press>
+We don't want the lady next*
+door pounding the whole*
+apartment building down.
+
+-------------------------------
+
+[cicel_02][2510]
+
+<fchat:0001>
+Darn. Our little lady is*
+off in her own world.<press>
+<fchat:0002>
+<sound:0015><blink>It's those <red>red things<black>!*
+Look at them!<press>
+I wonder what they're*
+whispering in her ears?
+
+-------------------------------
+
+[cicel_10][2511]
+
+<fchat:0002>
+Look how Miss Kamila keeps*
+nodding to what they're*
+saying, over and over!<press>
+<fchat:0001>
+<blue>(One thing's clear.*
+Those <red>headphones*
+<blue>are holding us back.)<black>
+
+-------------------------------
+
+[cicel_12][2512]
+
+<fchat:0002>
+Something just fell! And*
+quite dramatically, too!<press>
+<fchat:0001>
+It was a wooden box,*
+kind of heavy. I wonder*
+what it was doing there?<press>
+<fchat:0002>
+I'm just glad it didn't fall*
+on Miss Kamila's head!<press>
+<fchat:0001>
+Me, too.<press>
+We don't need to add*
+to the number of*
+ghosts around here.
+
+-------------------------------
+
+[suibotu_mes][2513]
+
+Oh, no!*
+Darn.
+
+-------------------------------
+
+[headphone_lost_mes2][2514]
+
+<face:0065>
+How did I manage to do that?<press>
+Lynne just bought those*
+headphones, too...
+
+-------------------------------
+
+[headphone_lost_mes3][2515]
+
+<face:0063>
+How about if we tell*
+her you did it, Missile?
+
+-------------------------------
+
+[headphone_lost_mes4][2516]
+
+<face:0065>
+Darn. Now I can't even*
+listen to music, either.<press>
+I think the gods are playing*
+tricks on me tonight.<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>Forgive me, Miss Kamila!*
+I'm only doing it to save*
+you!<press>
+<fchat:0001>
+<blue>(So, what? Now you think*
+you're one of the gods, eh?)<black><press>
+<fchat:0002>
+<sound:0015><blink>Huh...? No...! Never mind that!<press>
+The important thing is,*
+we managed to change*
+the situation!<press>
+<fchat:0001>
+That's true.<press>
+At least now we can use the*
+little lady's <red>ears <black>to help us.
+
+-------------------------------
+
+[wagon_mes][2517]
+
+I'm in the mood*
+for donuts tonight.
+
+-------------------------------
+
+[cicel_04][2518]
+
+<fchat:0001>
+The question is,*
+what do we do now?<press>
+Unless we do something*
+more, the outcome will*
+still be the same.<press>
+<fchat:0002>
+Oh, if only I had big,*
+strong teeth and an*
+aggressive spirit!<press>
+<fchat:0001>
+<blue>(Hmm. Doesn't seem like we*
+can stop the hitman from*
+coming in. So, in that case...)<black><press>
+<fchat:0002>
+<sound:0015><blink>Oh! I have an idea!<press>
+Why don't we*
+hide Miss Kamila?!<press>
+<fchat:0001>
+<sound:0015><blink>...!<blue>*
+("<red>Hide<blue>," huh...?)<black><press>
+That sounds like just the*
+kind of idea a little doggie*
+would come up with.<press>
+<fchat:0002>
+Are you making fun of me?<press>
+<fchat:0001>
+<blue>(But <red>where <blue>could a little*
+lady hide in this room...?)<black><press>
+<blue>(Hmm. I think I might*
+have just the place.)<black><press>
+But there's just*
+one little problem.<press>
+<fchat:0002>
+How to get Miss Kamila*
+in there, right?<press>
+<fchat:0001>
+Exactly.<press>
+If I could possess*
+Kamila herself, the*
+answer would be easy.<press>
+But I can't do that, so I*
+guess the only way to*
+do it is to <red>lead <black>her there.<press>
+<blue>(Now, what can I do, using*
+the objects in this room...?)<black><press>
+<blue>(I think I'll try out various*
+things and see what I*
+can come up with.)<black><press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>And I'll be here watching,*
+cheering you on!
+
+-------------------------------
+
+[okashisearch_mes][2519]
+
+Where'd the*
+donuts go?
+
+-------------------------------
+
+[cicel_11][251A]
+
+<fchat:0001>
+If you bark like that,*
+how can anybody enjoy*
+the pretty melody?<press>
+And your poor mistress*
+has to get up and quiet*
+you down every time.<press>
+<fchat:0002>
+Yes, I'm truly embarrassed*
+by my own behavior...<press>
+<fchat:0001>
+<blue>(Hey, look at that.)<black><press>
+<blue>(One of the ornaments*
+fell off the tree.)<black><press>
+<fchat:0002>
+I'm not interested*
+in things like that.<press>
+I graduated from playing*
+with balls a long time ago.<press>
+<fchat:0001>
+You should try graduating*
+from needless barking, too.<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>Sorry. That's one thing I*
+could just never give up!
+
+-------------------------------
+
+[cicel_05][251B]
+
+<fchat:0001>
+What exactly are you*
+barking about, anyway?<press>
+<fchat:0002>
+Well, just look at it! It's all*
+sparkly and glittery and it*
+turns around and around!<press>
+Besides, it plays that*
+exciting music!<press>
+<sound:0033><blink><shake:021E>What else can I do but bark?<press>
+<fchat:0001>
+Tell me this, then. Exactly*
+what are you thinking*
+when you bark like that?<press>
+<fchat:0002>
+Well, let's see...<press>
+That time there, if I had*
+to put my feelings into*
+words, I'd say they were...<press>
+<sound:0017><blink><shake:021E>{2EFF}l{17FF}"Welcome!"{17FF}<press>
+I guess that about sums it up.<press>
+<fchat:0001>
+<blue>(I guess it's the kind*
+of feeling I'll never*
+quite understand.)<black>
+
+-------------------------------
+
+[cicel_06][251C]
+
+<fchat:0002>
+<sound:0033><shake:0128><blink>Wow! You sent*
+that thing flying!<press>
+<fchat:0001>
+I like to tidy up by shoving*
+eyesores under the sofa.*
+Heh heh.<press>
+<fchat:0002>
+Hey, how come you're*
+looking at me when*
+you say that?<press>
+<fchat:0001>
+<sound:0016><blink>{28FF}0U<blue>(Hey, wait a minute.*
+"<red>Under the sofa<blue>," eh...?)<black><press>
+<sound:0015><blink><blue>(That might be a spot the*
+hitman wouldn't look...)<black><press>
+<fchat:0002>
+<sound:0015><shake:0128><blink>Come to think of it!<press>
+Miss Kamila climbs under*
+the sofa all the time...!<press>
+...Trying to catch me!<press>
+<fchat:0001>
+You're a naughty little*
+doggie, aren't you?<press>
+<blue>(So my new plan is to*
+<red>hide <blue>the little lady under*
+the sofa.)<black><press>
+{28FF}<0001_8C00><blue>(The only problem now is,*
+"How do I <red>lead her<blue> under*
+there?")<black>
+
+-------------------------------
+
+[dog_mes1][251D]
+
+<face:0063>
+Missile, if you bark like*
+that, you'll make the lady*
+next door start howling!<press>
+<change:0065>
+<end>
+If you keep this up, that wall*
+is going to come down on our*
+heads before we know it!<press>
+<change:0063>
+<end>
+But you'll protect me if anything*
+bad happens, right, Missile?<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>Of course I will!<press>
+<fchat:0001>
+That's quite a big promise*
+for a little fellow!<press>
+<blue>(The poor little guy's up*
+against some formidable*
+opponents...)<black><press>
+<blue>(The man in black, and*
+the woman in purple!)<black>
+
+-------------------------------
+
+[dogstopdemo][251E]
+
+<fchat:0001>
+Why do you always give your*
+mistress so much trouble?<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>Yes, I'm truly embarrassed*
+by my own behavior...<press>
+But when that little guy*
+starts squeaking, it gets*
+me all in an uproar!<press>
+And when I bark...<press>
+...Miss Kamila always*
+comes over and gives*
+me a nice hug.<press>
+<fchat:0001>
+<sound:0016><blue>(Hmm. We might be able*
+to <red>take advantage <blue>of that*
+piece of information...)<black><press>
+<fchat:0002>
+Huh? How?<press>
+<fchat:0001>
+Wherever the donut*
+falls, the rat shows*
+up to check it out.<press>
+And then you go*
+to bark at the rat.<press>
+And then our little*
+lady comes to you*
+to quiet you down.<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>Yes. That's just <red>the way*
+things work<black>, I'm afraid.<press>
+<fchat:0001>
+<blue>(So, in other words...)<black><press>
+<blue>(...the donut can be the*
+<red>bait <blue>that will lead the little*
+lady to where we want her.)<black>
+
+-------------------------------
+
+[st06_001p02][251F]
+
+<fchat:0001>
+Huh?*
+<blue>(I <red>can't make another*
+donut fall<blue>.)<black><press>
+<fchat:0002>
+Hmm. What do we do now?<press>
+Without that donut, the*
+squeaky guy won't come,*
+and I won't bark!<press>
+<fchat:0001>
+<blue>(Hmm... It looks like*
+<red>only one<blue> donut will fall.)<black><press>
+<blue>(But the donut's the only*
+<red>bait <blue>that will lead the little*
+lady to where we want her.)<black><press>
+<blue>(Maybe I should re-think*
+my plan of attack...)<black>
+
+-------------------------------
+
+[death_mes][2520]
+
+<fchat:0001>
+Darn. It looks like I'm down*
+to only a few more seconds.<press>
+<fchat:0002>
+<sound:0018><shake:021E>Miss Kamilaaaaa! We*
+have to do something!<press>
+<sound:0018><blink><shake:021E>{2EFF}s{17FF}We just have to!{17FF}<press>
+<fchat:0001>
+Now, now. Getting worked*
+up isn't going to help. We're*
+down to the wire, here.<press>
+Do we have enough*
+time to do something*
+to change her fate?<press>
+Or is it time to use another*
+one of my <red>ghost tricks<black>?<press>
+<fchat:0002>
+Another ghost trick?*
+What is it?<press>
+<fchat:0001>
+We could "<red>rewind time<black>,"*
+and start all over again*
+from four minutes ago.<press>
+Whatever we do,*
+we'd better hurry!
+
+-------------------------------
+
+[killer_mes][2521]
+
+<face:007E>
+Hmm. I don't really like*
+it when jobs outside the*
+original scope crop up...<press>
+I have to put it down as a*
+separate charge, and*
+accounting never likes that.<press>
+But I guess it can't be*
+helped... Sorry, kid.
+
+-------------------------------
+
+[killer_mes2][2522]
+
+<face:007E>
+Listen up, little girl.*
+I'll make you a deal.<press>
+If you promise to keep quiet, I'll*
+let you live. For now, anyway...<press>
+<face:006E>
+.........
+
+-------------------------------
+
+[killer_mes3][2523]
+
+<face:007E>
+What a shame.<press>
+<sound:0016>But I guess this brave little*
+fellow refuses to accept our deal.<press>
+<face:0070>
+<sound:0017><blink><shake:0128>Missiiiiile! Nooooo!
+
+-------------------------------
+
+[gameovermes][2524]
+
+<face:002B>
+Looks like the poor little*
+lady is completely unaware*
+of the danger she's in.<press>
+I have to find a way to open*
+either her eyes or her ears.<press>
+<change:0027>
+<end>
+<sound:0016>Once I get her to <red>notice what's*
+happening<black>, then maybe I can do*
+something.
+
+-------------------------------
+
+[gameovermes2][2525]
+
+<face:002B>
+Hmm... It doesn't seem like I can*
+stop the intruder from coming in...<press>
+And I guess this little*
+doggie <red>doesn't have*
+much fighting power<black>...<press>
+<face:0075>
+<sound:0033><blink><shake:0128>People often tell me my*
+name doesn't suit me!<press>
+<face:002B>
+<blue>(I guess the only thing to do is*
+<red>hide <blue>our little lady someplace*
+where the hitman can't see her.)<black><press>
+<change:0027>
+<end>
+Hmm... I'd better rewind time*
+and think about this one...
+
+-------------------------------
+
+[stop_demo_mes][2526]
+
+Missile, no!
+
+-------------------------------
+
+[dog_mes2][2527]
+
+<face:0065>
+What are you doing under*
+here, you silly boy?<press>
+<change:0067>
+<end>
+Aw, my little "Missile"! You're*
+always doing the cutest things!
+
+-------------------------------
+
+[killer_in_mes][2528]
+
+.........
+
+-------------------------------
+
+[killer_in_mes2][2529]
+
+Nobody's here, eh?
+
+-------------------------------
+
+[clear_killer_mes][252A]
+
+<face:007E>
+My prey is bound to*
+come home sometime.<press>
+Might as well make myself*
+comfortable in the meanwhile.
+
+-------------------------------
+
+[ending_mes][252B]
+
+<face:0027>
+There! Our little lady's*
+fate has been averted.<press>
+<face:0076>
+<sound:0016>It has...?<press>
+The poor thing is still curled up*
+in a ball and shaking with fear.<press>
+<face:0034>
+Well, yeah, that's true...<press>
+<change:0027>
+<end>
+But that's not so bad.*
+In the scheme of things,*
+I'd say she's just fine.<press>
+And, look. You're not dead.<press>
+<face:0076>
+Oh, you're right. We did*
+it. We did it, didn't we?!<press>
+<shake:021E><sound:0018>{2EFF}o{17FF}We did it!{17FF}<press>
+<face:0027>
+Well, to be precise, you're*
+the one who did it.<press>
+<face:0076>
+<sound:0015><blink>Huh?<press>
+Me...? I... saved Miss Kamila...?<press>
+<face:0027>
+Yup.<press>
+<change:0034>
+<end>
+You're the one who lead*
+her under the sofa, right?<press>
+<face:0076>
+.........<press>
+<face:0027>
+You protected your mistress.*
+I can attest to that!<press>
+<face:0076>
+Oh...<press>
+<sound:0033><blink><shake:021E>Oh, thank you!
+
+-------------------------------
+
+[ending_mes3][252C]
+
+<face:0076>
+Can I ask a question?<press>
+<face:0027>
+Sure. What is it?<press>
+<face:0076>
+What exactly are those*
+strange powers of yours?<press>
+<face:002B>
+Oh, you mean my <red>ghost tricks<black>?*
+Apparently, they're the power to*
+manipulate inanimate objects.<press>
+<face:0076>
+If they're "<red>ghost<black>" tricks,*
+then can I do them, too?*
+I'm dead, too, after all.<press>
+<face:0036>
+I-I guess...?*
+<blue>(That's how it goes, right?)<black><press>
+<face:0076>
+I've been staring at those*
+donuts as hard as I could*
+for a long time now...<press>
+<sound:0033><blink><shake:021E>...but they won't budge for me!<press>
+<sound:0033><blink><shake:021E>Why do you suppose that is?<press>
+<face:0034>
+I don't really know.<press>
+<change:002B>
+<end>
+I guess you just don't*
+have that power.<press>
+<face:0076>
+Well, I have one thing*
+to say to that...<press>
+<sound:0033><blink><shake:021E>{2EFF}t{17FF}That's not fair!{17FF}<press>
+<face:002B>
+<blue>(Sorry, but I guess not*
+everybody who dies gets*
+the <red>powers of the dead<blue>...)<black>
+
+-------------------------------
+
+[ending_mes2][252D]
+
+<face:0076>
+So what's going to*
+happen to me now?<press>
+<face:0034>
+Nothing, really. Your*
+death has been erased.<press>
+You'll just go back to being*
+a happy little doggie, living*
+your everyday life.<press>
+<change:0027>
+<end>
+I guess this means goodbye.<press>
+<face:0076>
+But...<press>
+...we'll meet again*
+sometime, right?<press>
+<face:0027>
+Yeah, maybe. If you die again.<press>
+<face:0076>
+What you did for me tonight...<press>
+<sound:0033><blink><shake:021E>{2EFF}q{17FF}I'll never forget it!{17FF}<press>
+<face:0029>
+Heh heh. Well, I guess we'd better*
+be getting back to the "present."<press>
+Time to see what happens*
+next in our "story"!
+
+-------------------------------
+
+[tel_mes][252E]
+
+<face:0065>
+Oww! Why is it acting up all of*
+a sudden?<press>
+I don't really like getting smacked*
+by doors -- especially in my own*
+house.<press>
+<change:0063>
+<end>
+It's like the door is a bad dog, biting*
+the hand that feeds it.<press>
+<change:0065>
+<end>
+Although, with Missile, it's more*
+"nibbling at the tip of my nose"*
+than my hand...
+
+-------------------------------
+
+[caster_mes][252F]
+
+<face:0065>
+Hey, wait a minute. That*
+cart just moved, didn't it?<press>
+I've always thought so, but*
+that just proves it! This*
+apartment building is...<press>
+.........<press>
+<change:0063>
+<end>
+<sound:0016>...leaning to one side.<press>
+<fchat:0001>
+Whew! This little lady*
+knows how to keep me*
+on the edge of my seat!<press>
+<fchat:0002>
+Hey! Miss Kamila isn't scary!*
+How can you think she's*
+anything but harmless?!
+
+-------------------------------
+
+[caster_mes2][2531]
+
+<face:0065>
+The cart moved just now, didn't it?<press>
+I'm telling you, this building*
+leans to one side!<press>
+<change:0063>
+<end>
+Ever since that lady*
+moved in next door...
+
+-------------------------------
+

@@ -1,0 +1,395 @@
+[m02_3000][0700]
+
+Ten years ago, a*
+man named "Sissel"...<space>
+...took a little girl*
+named Lynne hostage...<space>
+...and then was killed*
+by a meteorite fragment.<press>
+Tonight, a man named "Sissel"...<space>
+...met a detective named*
+Lynne at a junkyard on*
+the edge of town...<space>
+...and then was killed by a bullet.
+
+-------------------------------
+
+[m02_3010][0701]
+
+But the scene I find waiting*
+for me on the other end of*
+the phone line...<space>
+...feels like the final nail in the*
+coffin of my lost memory.
+
+-------------------------------
+
+[m02_3015][0702]
+
+<space>
+*
+I see...<space>
+*
+..."myself."
+
+-------------------------------
+
+[m02_3020][0703]
+
+<face:0054>
+<sound:0016>There you are, Commander Sith.*
+Finally.<press>
+<face:0072>
+Sissel! Where have you been,*
+my good man? We've been*
+looking everywhere for you!<press>
+<face:0054>
+Had a little unfinished business*
+to take care of. Didn't think it*
+would take this long...<press>
+What about your people?*
+They sure went out of*
+their way to mess me up.<press>
+<face:0072>
+I say! I believe we fulfilled*
+every one of your conditions*
+in our little deal.<press>
+What right do you have to*
+complain about anything*
+outside our bargain?!<press>
+<face:0048>
+We can talk about that*
+when we get together.<press>
+<face:0072>
+This will be our last communication*
+by telephone.<press>
+We'll arrive in one hour. I look*
+forward to seeing you, Sissel.
+
+-------------------------------
+
+[m02_3025][0704]
+
+<20FF_0500>Dawn is approaching.<space>
+The darkness surrounding*
+my own mystery is deep.<space>
+But I know it's always*
+darkest before the dawn.
+
+-------------------------------
+
+[m02_3030][0705]
+
+<face:0072>
+Hmm, yes... We're nearing*
+the final stages of our*
+little deal, my good man.<press>
+<face:0088>
+Yes, sir. All preparations*
+are complete, sir.<press>
+And we just had a report, sir.*
+Lights have been spotted, sir.<press>
+<face:0072>
+<sound:0015><blink><shake:0128>Have they, now?! By all*
+means, let me have a look!
+
+-------------------------------
+
+[m02_3040][0706]
+
+<face:0072>
+Hmm, yes... We're very close!<press>
+<face:0088>
+We will now disconnect from the*
+communication cable, and have*
+no service until we arrive, sir.<press>
+<face:0072>
+Very well.
+
+-------------------------------
+
+[m02_3045][0707]
+
+<face:0054>
+Nice try, Inspector Cabanela.<press>
+<change:0058>
+<end>
+<sound:0016><blink>But you could never stop me!
+
+-------------------------------
+
+[m02_3046][0708]
+
+<face:0046>
+See ya, sucker.
+
+-------------------------------
+
+[m02_3630][0709]
+
+<fchat:0001>
+So...<press>
+<sound:0015><blink>...that submarine guy and*
+his people have a <red>deal*
+<black>going with me, do they?<press>
+If that's the case...<press>
+<sound:0016>...<red>they probably aren't <black>the*
+ones who killed me... right?<press>
+Anyway...<press>
+...there's definitely*
+something behind the*
+inspector's death.<press>
+I think I'd better talk to him.
+
+-------------------------------
+
+[m02_3700][070A]
+
+<fchat:0001>
+What an oddly hard hat.*
+I'd never be able to wear*
+anything like that.<press>
+<blue>(Come to think of it...)<black><press>
+<blue>(...I don't remember seeing*
+it here earlier.)<black><press>
+It made a loud "clunk"*
+on the floor. It must be*
+pretty solid.
+
+-------------------------------
+
+[m02_3705][070B]
+
+<fchat:0001>
+This is a pretty soft hat.*
+I bet even I could wear*
+a hat like this.<press>
+<blue>(Come to think of it...)<black><press>
+<blue>(...I don't remember seeing*
+it here earlier.)<black><press>
+.........*
+Hey, I wonder...<press>
+<sound:0016>Does that old pigeon guy*
+think of his pigeon as a hat?
+
+-------------------------------
+
+[m02_3490][070C]
+
+<fchat:0001>
+<sound:0016>It won't move. It seems to*
+be stuck on something.<press>
+<blue>(Just like how my mind is*
+stuck on thinking about*
+the inspector's <red>death<blue>...)<black><press>
+<blue>(It's kind of hard to*
+forget, with him*
+sitting right there...)<black>
+
+-------------------------------
+
+[m02_3050][070D]
+
+<face:010C>
+<sound:0000><NJ:003C>
+.........<press>
+<face:0029>
+Hey, do you think you*
+could wake up for me?<press>
+<face:010C>
+<sound:0000><NJ:003C>
+.........<press>
+<face:002B>
+Oh, boy. Still unconscious, eh?<press>
+<sound:0016><blue>(I guess he hasn't been*
+dead for very long, then.)<black><press>
+<change:0027>
+<end>
+I'll just go ahead and go*
+back to four minutes*
+before his death.<press>
+<blue>(I'm a little nervous about what*
+I might see there, though...)<black><press>
+But if that's where I'm*
+gonna find my answers,*
+I can't run away from it.
+
+-------------------------------
+
+[m02_3760][0721]
+
+<fchat:0001>
+The top of this bookshelf is*
+lined with books.<press>
+This one on top is balanced*
+so precariously, it's a*
+wonder it doesn't fall off.<press>
+How did the old pigeon*
+guy even reach up here?<press>
+<blue>(And I wonder if he makes*
+his pigeon fetch it for him?)<black>
+
+-------------------------------
+
+[m02_3762][0778]
+
+<fchat:0001>
+The top of this bookshelf is*
+lined with books.<press>
+How does the old pigeon*
+guy even reach up here?<press>
+<blue>(And I wonder if he makes*
+his pigeon fetch these books*
+for him?)<black><press>
+<fchat:000C>
+<sound:0016>I ain't telling.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Hmm. So many mysteries*
+surrounding this old man!<press>
+<fchat:0001>
+<blue>(But never mind those...)<black>
+
+-------------------------------
+
+[m02_3765][0779]
+
+<fchat:0001>
+This is a really thick book.<press>
+I can't read, so I don't*
+know what it's about...<press>
+<blue>(Will I ever get my*
+memory back...?)<black>
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(So what exactly*
+is this thing?)<black><press>
+<blue>(It looks like a giant*
+nail clipper to me...)<black><press>
+<fchat:000C>
+<sound:0016>No, it most certainly*
+does not.<press>
+It's an instrument used in*
+analyzing radiation-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>O-Oh. Ahem. Yes, I see...<press>
+<fchat:000B>
+<sound:0015><blink>You're not alone, kid.<press>
+None of the rest of us*
+understand it, either, baby!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Yeah! You said it!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Old pictures... of what*
+look like little fragments*
+of rock.<press>
+<fchat:000C>
+Those are Temsik fragments.<press>
+That's an article from back*
+when it was big news.<press>
+<fchat:000B>
+Ten years ago, nobody*
+really understood it.<press>
+<fchat:000C>
+I guess that's*
+still true today.
+
+-------------------------------
+
+[m02_1440][0534]
+
+<fchat:0003>
+These pictures are old.*
+What are they of? Little*
+fragments of rock?<press>
+And the fragments*
+are glowing... Do you*
+know what these are?<press>
+<fchat:0001>
+Sorry, but I've lost my*
+memory. Probably not*
+the best person to ask...<press>
+<fchat:0003>
+<sound:0015><blink>That's okay. I was only*
+being polite. I didn't*
+really think you'd know.<press>
+<fchat:0001>
+<blue>(Ouch. This lady's*
+tongue can be sharp.)<black><press>
+<fchat:0003>
+Uh, I can hear what you're*
+thinking, remember?<press>
+<fchat:0001>
+<sound:0016>I know.<press>
+<fchat:0003>
+Good one.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+What could this be? It looks*
+like a giant nail clipper.<press>
+<fchat:0003>
+You think so?<press>
+<fchat:0001>
+Do YOU know what it is?<press>
+<fchat:0003>
+#sigh#<press>
+<sound:0016>Why did you have to ask me?!*
+Couldn't you see I was*
+looking away evasively?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0003>
+It's... one of those science-y*
+things that scientists use.<press>
+<sound:0018><blink><shake:0128>Ordinary people like us don't*
+have to know what it is!<press>
+<fchat:0001>
+<blue>(I don't remember*
+what "science" is...)<black><press>
+<blue>(...but it's apparently*
+something Lynne*
+doesn't like very much.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+These photos*
+look pretty old.<press>
+Pictures of little*
+fragments of rock...<press>
+That old pigeon guy has*
+some pretty strange*
+taste in wall décor.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+I have no idea what this*
+instrument is for.<press>
+As a matter of fact, this*
+whole desk is filled with*
+things I've never seen.<press>
+I know I've lost my*
+memory, but still...<press>
+That old pigeon man seems*
+like a pretty strange guy.
+
+-------------------------------
+

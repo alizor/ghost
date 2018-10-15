@@ -1,0 +1,97 @@
+[m03_4340][0E16]
+
+<fchat:0001>
+Same thing here...<press>
+It looks like this is just*
+an internal phone, too.*
+It <red>doesn't call outside<black>.<press>
+So the only places I can go*
+with this telephone are...<press>
+...other phones within*
+the building that I've*
+<red>already possessed<black>.
+
+-------------------------------
+
+[m03_4500][0F00]
+
+<face:00F1>
+Is everything all set?
+
+-------------------------------
+
+[m03_4501][0F01]
+
+<face:00F2>
+They said they're*
+still getting ready.<press>
+<face:00F1>
+We haven't had one of these*
+things in a long time...<press>
+<face:00F2>
+Yeah. They said they had*
+to clear away the dust and*
+do some maintenance.<press>
+<face:00F1>
+Hey... What do you*
+think about it?<press>
+<face:00F2>
+I don't think we should*
+talk about it now.<press>
+<face:00F1>
+.........<press>
+I just hope nothing goes wrong.
+
+-------------------------------
+
+[m03_4510][0F02]
+
+<fchat:0001>
+It looks like some kind*
+of control panel. I think*
+I can manipulate it...<press>
+I think it must already be*
+on.... and I can't turn it off.<press>
+<blue>(I guess there's no need*
+to fool around with it.)<black>
+
+-------------------------------
+
+[m03_4520][0F03]
+
+<fchat:0001>
+Whenever I see a lever,*
+I just feel like I HAVE to*
+try it out, for some reason.<press>
+But when nothing happens,*
+it just REALLY makes me*
+mad, for some reason...<press>
+<blue>(Looks like I got all*
+excited over nothing.)<black>
+
+-------------------------------
+
+[m03_9020][1902]
+
+Guard room
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+

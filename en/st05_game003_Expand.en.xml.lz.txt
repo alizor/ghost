@@ -1,0 +1,105 @@
+[m05_1340][1F00]
+
+<fchat:0001>
+<sound:0016><blink>Just as I thought...
+
+-------------------------------
+
+[m05_1345][1F01]
+
+<fchat:0001>
+<sound:0015><blink>This little girl is*
+<red>safe <black>in her bed.
+
+-------------------------------
+
+[m05_1510][1F02]
+
+Murder... execution... jailbreak...*
+betrayal... and now kidnapping...<space>
+This last link in the long chain of a*
+sad fate lit a fire in Jowd's heart...<space>
+And the chance to turn it all*
+around is right here in this room.
+
+-------------------------------
+
+[m05_1515][1F03]
+
+I'm getting a strange premonition.<space>
+Everything that happened*
+so far tonight has related*
+back to me in some way...<space>
+And I bet this mistaken-ridden*
+abduction does, too...
+
+-------------------------------
+
+[m05_1350][1F15]
+
+#cough, cough!#
+
+-------------------------------
+
+[m05_1330][1F27]
+
+<fchat:0001>
+I can't move the chandelier*
+right now with her thrashing*
+around like that...<press>
+I hear ominous creaking*
+coming from the ceiling,*
+too...<press>
+<blue>(This is a dangerous*
+situation...)<black>
+
+-------------------------------
+
+[m05_1480][1F2A]
+
+Too weak...
+
+-------------------------------
+
+[m05_9900][2100]
+
+<fchat:0001>
+I'd better not put out*
+the lamp right now.<press>
+<sound:0016><blue>(It will only pour oil on*
+the flames of anger in*
+this lady's heart.)<black><press>
+If I want to give Amelie*
+a chance to use the*
+telephone...<press>
+<sound:0015><blink>...I have to think of <red>a*
+way to keep her mother*
+out of the way<black>.
+
+-------------------------------
+
+[m05_9901][2101]
+
+<fchat:0001>
+If I recall, the novelist said*
+she didn't like the dark.<press>
+I don't want her thrashing*
+around any more than*
+she is already...<press>
+<blue>(I'd better not put out*
+this lamp right now.)<black>
+
+-------------------------------
+
+[m05_9902][2102]
+
+<fchat:0001>
+<sound:0015><blink>Hmm. The lady's dictionary...<press>
+Wasn't this on*
+her desk before?<press>
+The poor thing. Destined*
+to never be returned to*
+the bookshelves...
+
+-------------------------------
+

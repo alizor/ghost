@@ -1,0 +1,293 @@
+[m01_1010][0201]
+
+<20FF_4B00><center>When I came back to the*
+<center>present, it was raining.
+
+-------------------------------
+
+[m01_1015][0202]
+
+<center>I had saved the life of this*
+<center>stranger, now sitting*
+<center>forlornly in the rain.<space>
+<center>Even as the story of my life on*
+<center>this planet comes to an end...
+
+-------------------------------
+
+[m01_1020][0203]
+
+Achoo!
+
+-------------------------------
+
+[m01_1030][0204]
+
+<22FF_0200><center>A "stranger"...<space>
+<center>That word strikes a chord.<space>
+<center>And a terrible truth*
+<center>begins to dawn on me...
+
+-------------------------------
+
+[m01_1040][0205]
+
+<22FF_0300><20FF_2300><center>I can't recall a thing.<press>
+<center>Who am I?<space>
+<center>What is this place?<space>
+*
+<center>And, most important of all...
+
+-------------------------------
+
+[m01_1060][0206]
+
+<22FF_0300><20FF_4B00><center>Why was I killed?
+
+-------------------------------
+
+[m01_1070][0207]
+
+<face:0083>
+Your <red>story <black>isn't over yet.<press>
+<face:0036>
+<sound:0015><blink>Who exactly are you, anyway?<press>
+<face:0083>
+Just call me "Ray."<press>
+As in, "ray of light in the*
+darkness." Heh heh.<press>
+<face:0027>
+"Ray," huh? So you aren't going to*
+tell me your real name, I take it.<press>
+<face:0083>
+You haven't told me your*
+name yet, either, actually.<press>
+<face:0034>
+<sound:0016>I... I can't remember.<press>
+<face:0083>
+Yes, I guess the memories of the*
+newly departed tend to get a bit*
+confused.<press>
+Some of us get our memories*
+back. Others never do.<press>
+But, if you ask me,*
+does it really matter?<press>
+After all, there's only one*
+path left to the dead...<press>
+<sound:0016>...and that is, to <red>disappear<black>.<press>
+<face:002F>
+<sound:0015><blink>Disappear...?<press>
+<face:0083>
+When the sun rises in the*
+morning... I'm afraid you're*
+going to cease to exist.<press>
+<face:002D>
+<blink><shake:0128>Wh-What?!*
+<blue>(Tomorrow morning...?!)<black><press>
+<change:002B>
+<end>
+.........<press>
+But wait a minute... These*
+"<red>powers of the dead<black>"...<press>
+<face:0083>
+Yes?<press>
+<face:0029>
+I'd like to use them to save*
+somebody else's life.<press>
+<face:0083>
+And whose life might that be?<press>
+<face:0027>
+Do you even have to*
+ask? <red>Mine<black>, of course.<press>
+<face:0083>
+Ah, I see.<press>
+But think about it this way.<press>
+If we could use ghost tricks*
+to save ourselves...<press>
+<sound:0016>...wouldn't I have tried to save*
+myself as well? I mean, look*
+at me. I'm a desk lamp.<press>
+<face:0027>
+.........<press>
+<change:002B>
+<end>
+Why a desk lamp, anyway?<press>
+<face:0083>
+I'm not really sure, myself,*
+to be honest.<press>
+But in any case, it seems<red> we are*
+unable to use our powers <black>on our*
+own corpses.<press>
+<face:002D>
+<sound:0018><shake:0128><blink>You're kidding!<press>
+<face:0083>
+You'll only exist in this world*
+until tomorrow morning.<press>
+I'm afraid that fact*
+can't be changed.<press>
+<face:002D>
+<blue>(So there's really no*
+escaping my own death...?!)<black>
+
+-------------------------------
+
+[m01_1160][0208]
+
+<22FF_0200><20FF_0F00><center>In the morning, I'm going*
+<center>to cease to exist.<space>
+<center>Apparently, there's nothing*
+<center>I can do to change that.<space>
+<center>But, just the same,*
+<center>I still want to know...<press>
+<center>I want to know my story. The*
+<center>lost story of my fate, right up*
+<center>until the time of my death.<space>
+*
+<center>And until I learn that...
+
+-------------------------------
+
+[m01_1180][0209]
+
+<face:0081>
+...You won't be able to*
+rest in peace, right?
+
+-------------------------------
+
+[m01_1190][020A]
+
+<face:0083>
+Very well. I understand*
+how you feel.<press>
+You want to go and learn the*
+truth about your death, as well*
+you should.<press>
+<face:002B>
+I will. But let's see...*
+How should I go about*
+doing that, I wonder?<press>
+<blue>(I can't even imagine what*
+the first step would be.)<black><press>
+<face:0083>
+The first step? That's easy.*
+You start with her.
+
+-------------------------------
+
+[m01_1200][020B]
+
+<face:0083>
+The person who <red>witnessed your*
+death<black>. She should have some*
+important clues, don't you think?<press>
+<face:0029>
+<sound:0015><blink><blue>(Hey! You're right!*
+And not only that...)<black><press>
+<change:002B>
+<end>
+She might even know who I am!<press>
+<face:0083>
+Yes, I'd say there's a very*
+good possibility of that.<press>
+<face:002B>
+<blue>(What was I doing here*
+tonight, in a place like this?)<black><press>
+<blue>(That woman probably*
+knows the answer.)<black><press>
+<face:0083>
+That's right. Never forget that.<press>
+<sound:0016><1EFF_0400>She's the <red>key <black>to*
+everything tonight.<press>
+<face:0029>
+The key to everything?*
+What do you mean?<press>
+<face:0083>
+<1CFF_0B00>You'll know soon enough, when*
+you regain your memory.<press>
+<face:002B>
+<blue>(Yeah. I'm like a blank sheet*
+of paper right now.)<black><press>
+<blue>(I should probably keep some*
+kind of <red>record <blue>of everything*
+I learn tonight...)<black><press>
+<face:0083>
+That's a very good idea.<press>
+Touch <MENU> to view a <red>record <black>of*
+what you've learned. And be sure*
+to check it out now and again.<show><press>
+Memories aren't always the*
+most reliable things, after all.<show>
+
+-------------------------------
+
+[m01_1209][020C]
+
+<face:0083>
+All right, then.*
+I wish you good luck!
+
+-------------------------------
+
+[m01_1210][020D]
+
+<face:002B>
+I'd better not let her*
+out of my sight.<press>
+And, besides...<press>
+<change:0027>
+<end>
+...I'm not the kind of guy who can*
+just let a woman sit sneezing in*
+the cold rain.<press>
+I think I'll try to move closer.
+
+-------------------------------
+
+[m01_1220][020E]
+
+<face:002B>
+Hmm... It looks like she's <red>saying*
+something<black> to herself.<press>
+<blue>(But, unfortunately, I can't*
+hear it from here.)<black><press>
+<face:0083>
+That's no problem for ghosts like*
+us, as long as your target's not too*
+far away.<press>
+Just like you do with your*
+own <red>thought bubbles<black>...<press>
+...if you touch the thought*
+bubbles of the living, you can*
+listen in on what they're saying.<press>
+<face:0027>
+<blue>(Maybe I'll just take a*
+little listen, then...)<black><press>
+<face:0083>
+Always watch for the thought*
+bubbles of the living. They might*
+give you some important clues.
+
+-------------------------------
+
+[m01_1230][020F]
+
+<face:001A>
+What in the world*
+just happened...?<press>
+The crane moved all by itself,*
+and then that big iron ball fell*
+all by itself...<press>
+It started raining all by itself,*
+and then an umbrella came down*
+all by itself...<press>
+<change:0016>
+<end>
+<sound:0015><blink>#gasp# Oh, my goodness!<press>
+<change:000E>
+<end>
+<sound:0016>Don't tell me I have*
+<red>psychokinetic powers<black>!
+
+-------------------------------
+

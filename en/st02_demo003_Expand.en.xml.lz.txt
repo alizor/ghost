@@ -1,0 +1,398 @@
+[m02_1000][0500]
+
+<center>Lynne's second death...<space>
+<center>I'm heading back in time*
+<center>now to rewrite her fate.<press>
+<center>Faced with those circumstances,*
+<center>she could've just lied and*
+<center>promised to help me.<space>
+<center>But she didn't.<space>
+<center>That's when I knew*
+<center>I could trust her.
+
+-------------------------------
+
+[m02_1010][0501]
+
+<face:0014>
+I have a bad feeling about this...
+
+-------------------------------
+
+[m02_1020][0502]
+
+Yes, sir!
+
+-------------------------------
+
+[m02_1030][0503]
+
+<face:00BD>
+<blink><shake:0128>Detective! Is everything okay?
+
+-------------------------------
+
+[m02_1035][0504]
+
+<face:0008>
+<sound:0015><blink>Oh...! Uh...<press>
+<change:0006>
+<end>
+<shake:0128>...I was hungry! So I was trying*
+to get something delivered...!<press>
+<face:00BD>
+<sound:0018><shake:0128>What?! Don't do that!
+
+-------------------------------
+
+[m02_1040][0505]
+
+Oh, I'm sorry...
+
+-------------------------------
+
+[m02_1050][0507]
+
+<face:00BD>
+<sound:0015><blink>You should leave jobs like*
+that to me! Is chicken all right?
+
+-------------------------------
+
+[m02_1060][0508]
+
+<face:0006>
+<blink><shake:0128>Oh, that's okay! Ha ha! I'm not*
+feeling very hungry anymore!
+
+-------------------------------
+
+[m02_1070][0509]
+
+<face:0004>
+I would like to go back to the*
+station for a minute, though.<press>
+<face:00BD>
+<sound:0016>You would? Oh, uh... I'm afraid*
+I can't let you do that.
+
+-------------------------------
+
+[m02_1080][050A]
+
+<face:00BD>
+<blink><shake:0128>Inspector Cabanela is on his*
+way. He'll be here any minute.
+
+-------------------------------
+
+[m02_1085][050B]
+
+<face:0089>
+Evening, patrolmaaan.
+
+-------------------------------
+
+[m02_1090][050C]
+
+<face:00BE>
+<sound:0017><blink><shake:0128>Good evening, Inspector*
+Cabanela, sir!<press>
+<face:0089>
+Nice work. Now, do me a*
+favor and take a little patrol*
+around outside, would you?<press>
+Thaaat's a nice fellow.<press>
+<face:00BE>
+<blink><shake:0128>Yes, sir!
+
+-------------------------------
+
+[m02_1100][050D]
+
+<face:0089>
+Yo. How's it goin', baby?<press>
+<face:0016>
+Inspector Cabanela! What*
+are you doing here...?<press>
+<change:0004>
+<end>
+I thought the Special Investigation*
+Unit had an important top-secret*
+assignment tonight?<press>
+<face:0089>
+What does that matter*
+at a time like this, when*
+my Lynne's in crisis?<press>
+<face:0004>
+I appreciate it, sir!
+
+-------------------------------
+
+[m02_1115][050F]
+
+<face:0016>
+<sound:0015><blink>Wait a minute... Did you*
+just say "<red>crisis<black>"?<press>
+<change:0008>
+<end>
+<sound:0016>Don't tell me I'm*
+being <red>suspected<black>...?!<press>
+Suspected of shooting*
+that pointy-haired*
+man in the red suit?<press>
+<face:000C>
+<sound:0018><blink><shake:0128>I mean, I've never even*
+met the guy before!<press>
+<face:0089>
+Hmm... "Never," baby?<press>
+<face:0008>
+<sound:0015><blink>Oh! Well, uh...<press>
+<change:000E>
+<end>
+Before tonight, I mean. He*
+asked me to meet him here.<press>
+He said he had important*
+information about the big*
+case I'm working on.<press>
+<change:000C>
+<end>
+<sound:0018><blink><shake:0128>He's the one who*
+contacted ME!<press>
+<face:008C>
+<blink>I see, I seeee... But*
+it's funny, isn't it?<press>
+I took a look at the list*
+of cases your station is*
+handling right now...<press>
+<change:0089>
+<end>
+<sound:0016><blink>...and I didn't see you listed*
+as "involved" on any "big cases."<press>
+<face:0008>
+<sound:0015><blink><shake:0128>...!
+
+-------------------------------
+
+[m02_1125][0511]
+
+<face:0089>
+You know I don't suspect*
+ya, baby. Just tryin' to*
+clear things up.<press>
+You're not the type to*
+ever shoot anybody.<press>
+Heeey, who knows ya*
+better than me, baby?<press>
+You know, if anything ever*
+happened to you...
+
+-------------------------------
+
+[m02_1130][0512]
+
+<face:008C>
+<blink>...I'd never be able to look*
+HIM in the eye again...
+
+-------------------------------
+
+[m02_1135][0513]
+
+<face:001C>
+Inspector Cabanela, I'm going*
+to ask you a question.
+
+-------------------------------
+
+[m02_1140][0514]
+
+<face:0089>
+<blink>Yeah? And what's that?<press>
+<face:001C>
+And I want you to*
+answer honestly.<press>
+<change:0008>
+<end>
+<sound:0016><blink>Is it <red>tonight<black>? Is that*
+when it's happening?
+
+-------------------------------
+
+[m02_1150][0515]
+
+<face:0089>
+I have nooo idea what*
+you're talkin' about, baby.
+
+-------------------------------
+
+[m02_1170][051D]
+
+Get down!
+
+-------------------------------
+
+[m02_1180][051E]
+
+<face:0027>
+It seems to me that "baby"*
+IS INDEED under suspicion.<press>
+<face:0008>
+<sound:0018><blink><shake:0128>By Inspector Cabanela?!*
+No! He's not like that!<press>
+<face:0029>
+Just for the record...*
+Did you shoot me?<press>
+<face:0008>
+<sound:0018><blink><shake:0128>Me?! I would never*
+do anything like that!<press>
+<face:002B>
+<blue>(Anyway, it looks like the*
+hitman fired from <red>outside<blue>.)<black><press>
+<sound:0016><blue>(It'd be hard to prevent the*
+bullet from coming in, though...)<black><press>
+<change:0027>
+<end>
+In any case, let's just give it*
+a try. Our "four-minute game"!
+
+-------------------------------
+
+[m02_1495][0529]
+
+One chicken dinner.
+
+-------------------------------
+
+[m02_1440][0534]
+
+<fchat:0003>
+These pictures are old.*
+What are they of? Little*
+fragments of rock?<press>
+And the fragments*
+are glowing... Do you*
+know what these are?<press>
+<fchat:0001>
+Sorry, but I've lost my*
+memory. Probably not*
+the best person to ask...<press>
+<fchat:0003>
+<sound:0015><blink>That's okay. I was only*
+being polite. I didn't*
+really think you'd know.<press>
+<fchat:0001>
+<blue>(Ouch. This lady's*
+tongue can be sharp.)<black><press>
+<fchat:0003>
+Uh, I can hear what you're*
+thinking, remember?<press>
+<fchat:0001>
+<sound:0016>I know.<press>
+<fchat:0003>
+Good one.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+What could this be? It looks*
+like a giant nail clipper.<press>
+<fchat:0003>
+You think so?<press>
+<fchat:0001>
+Do YOU know what it is?<press>
+<fchat:0003>
+#sigh#<press>
+<sound:0016>Why did you have to ask me?!*
+Couldn't you see I was*
+looking away evasively?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0003>
+It's... one of those science-y*
+things that scientists use.<press>
+<sound:0018><blink><shake:0128>Ordinary people like us don't*
+have to know what it is!<press>
+<fchat:0001>
+<blue>(I don't remember*
+what "science" is...)<black><press>
+<blue>(...but it's apparently*
+something Lynne*
+doesn't like very much.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+These photos*
+look pretty old.<press>
+Pictures of little*
+fragments of rock...<press>
+That old pigeon guy has*
+some pretty strange*
+taste in wall décor.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+I have no idea what this*
+instrument is for.<press>
+As a matter of fact, this*
+whole desk is filled with*
+things I've never seen.<press>
+I know I've lost my*
+memory, but still...<press>
+That old pigeon man seems*
+like a pretty strange guy.
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(So what exactly*
+is this thing?)<black><press>
+<blue>(It looks like a giant*
+nail clipper to me...)<black><press>
+<fchat:000C>
+<sound:0016>No, it most certainly*
+does not.<press>
+It's an instrument used in*
+analyzing radiation-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>O-Oh. Ahem. Yes, I see...<press>
+<fchat:000B>
+<sound:0015><blink>You're not alone, kid.<press>
+None of the rest of us*
+understand it, either, baby!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Yeah! You said it!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Old pictures... of what*
+look like little fragments*
+of rock.<press>
+<fchat:000C>
+Those are Temsik fragments.<press>
+That's an article from back*
+when it was big news.<press>
+<fchat:000B>
+Ten years ago, nobody*
+really understood it.<press>
+<fchat:000C>
+I guess that's*
+still true today.
+
+-------------------------------
+

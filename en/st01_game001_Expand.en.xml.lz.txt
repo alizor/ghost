@@ -1,0 +1,380 @@
+[m01_0340][0124]
+
+It's done.
+
+-------------------------------
+
+[m01_0350][0125]
+
+I'm on my way.
+
+-------------------------------
+
+[m01_0290][0126]
+
+<center>In the end, it looks like her*
+<center>fate remains unchanged.<space>
+<center>So what good are these*
+<center>"ghost tricks" of mine?<space>
+<center>But just as I was thinking this...
+
+-------------------------------
+
+[m01_0360][0127]
+
+<face:0081>
+Hello, there.*
+How are you feeling?<press>
+Not very well, I imagine.*
+A terrible tragedy, what*
+happened tonight...<press>
+<face:0029>
+.........<press>
+<face:0081>
+<sound:0015><blink>Ah, ignoring me, are you? It's*
+a little too early for you to be*
+so stiff and cold, I'd say.<press>
+<face:0027>
+Ah, so it was you. You were*
+that voice in my head, right?<press>
+<face:0081>
+Well, I wouldn't say "voice,"*
+exactly. The dead don't have*
+voices, you see.<press>
+It's more like my thoughts were*
+being beamed directly into your*
+mind.<press>
+That's another little*
+"trick" ghosts can do.<press>
+<face:0034>
+It looks like my ghost tricks*
+didn't do much good...
+
+-------------------------------
+
+[m01_0370][0128]
+
+<face:002B>
+<blue>(She still ended up just*
+as dead as before.)<black><press>
+<face:0083>
+That's true. For now.<press>
+<face:002B>
+<sound:0016>"For now"?
+
+-------------------------------
+
+[m01_0381][0129]
+
+<face:0081>
+I still have more to teach*
+you about the powers of*
+the dead -- your "ghost tricks."<press>
+<face:0029>
+Who exactly are you, anyway?<press>
+<face:0081>
+Before I answer that, I think we*
+should save this young lady.
+
+-------------------------------
+
+[m01_0410][012B]
+
+<face:0080>
+Isn't it a shame to see such a*
+pretty young woman lying here*
+like a discarded piece of trash?<press>
+<face:0034>
+But what can I do?*
+She's already dead.
+
+-------------------------------
+
+[m01_0420][012C]
+
+<face:0083>
+Time for more ghost lessons*
+for you, my friend.<press>
+<sound:0016>First of all, I'll have*
+you possess <red>me<black>.<press>
+<face:002B>
+Possess you, eh?<press>
+<face:0083>
+Once you've done that, I'll tell you*
+about another one of your powers.
+
+-------------------------------
+
+[m01_0430][012D]
+
+<20FF_0F00><center>Why am I so determined to*
+<center>save this woman? After all,*
+<center>it's not like I know her.<space>
+<center>But I guess I'll take the desk*
+<center>lamp up on his invitation anyway.<press>
+<center>My reason is twofold.<space>
+<center>Number one, I'm not the type*
+<center>to leave women lying around,*
+<center>discarded like trash.<space>
+<center>And number two, I don't have*
+<center>anything else to lose at this point.
+
+-------------------------------
+
+[m01_0450][012E]
+
+<fchat:0004>
+That <red>thought bubble<black>*
+you just touched...<press>
+<sound:0016>Those are your <red>thoughts<black>,*
+what you're saying to*
+yourself in your head.<press>
+<fchat:0001>
+My thoughts, eh?<press>
+<blue>(So, the dead don't*
+have voices...)<black><press>
+<blue>(...and what we think is*
+communicated directly*
+to one another...)<black><press>
+<blue>(So these <red>thought bubbles*
+<blue>are sort of a stand-in. I*
+think I'm starting to get it.)<black><press>
+<fchat:0004>
+I think so, too.<press>
+Just remember to*
+always keep an eye*
+out for <red>thought bubbles<black>.<press>
+<fchat:0001>
+Okay, good idea.<press>
+<blue>(I just might get some*
+important clues from them...)<black><press>
+<fchat:0004>
+Now, then.<press>
+In order to possess me,*
+you first have to enter*
+the <red>Ghost World<black>.<press>
+And the <GHOST> button*
+is your ticket in.<show><press>
+The best thing to do is try it.<show><press>
+<fchat:0001>
+<blue>(The <GHOST> button, eh?*
+Guess I'll give it a little*
+<red>touch<blue>.)<black>
+
+-------------------------------
+
+[m01_0460][012F]
+
+<fchat:0004>
+<sound:0015><blink>By the way, have you taken*
+a look at the <red>top screen<black>?<press>
+<fchat:0001>
+What about it?<press>
+<fchat:0004>
+It tells you what "<red>trick<black>" you*
+can perform with the object*
+you're currently possessing.<press>
+The information is there*
+for you to check out*
+whenever you need it.<press>
+<fchat:0001>
+<blue>(So, in the case of this*
+folding cot, it looks like*
+I can "<red>unfold<blue>" it.)<black><press>
+<fchat:0004>
+And to perform a "trick"*
+on the object you're*
+possessing...<press>
+...you first have to return*
+to the <red>land of the living<black>.<press>
+<fchat:0001>
+Oh, okay.<press>
+<fchat:0004>
+This time, the <BACK> button*
+is your ticket out of the*
+Ghost World.<show><press>
+Well, good luck!*
+We're counting on you.<show><press>
+<fchat:0001>
+<blue>(Huh? Who's this "we"?)<black>
+
+-------------------------------
+
+[m01_0470][0130]
+
+<face:002B>
+<sound:0016><blink>Huh. That's funny...<press>
+<face:0083>
+What is?
+
+-------------------------------
+
+[m01_0480][0131]
+
+<face:0044>
+My corpse and her corpse...<press>
+There's definitely something*
+<red>different<black> about the two.<press>
+<blue>(There's something emanating*
+from my corpse...)<black><press>
+<face:0083>
+That's because...<press>
+...you're special.<press>
+<face:0036>
+What's that supposed to mean?<press>
+<face:0083>
+Not everybody who dies gets*
+special <red>powers<black>, you know.<press>
+<face:002B>
+<blue>(So those waves are because*
+of my "<red>powers of the dead<blue>," eh?)<black><press>
+<face:0083>
+Anyway...
+
+-------------------------------
+
+[m01_0500][0132]
+
+<face:0083>
+Congratulations, you passed.<press>
+<face:0027>
+Well, what do you know.*
+What prize do I get?<press>
+<face:0083>
+<sound:0016>A <red>new power<black>. What else?<press>
+<face:0036>
+Another one?<press>
+<face:0083>
+Now, let's review. You can possess*
+objects and manipulate them, right?
+
+-------------------------------
+
+[m01_0510][0133]
+
+<face:0086>
+Now what do you suppose will*
+happen if you possess a <red>corpse<black>?<press>
+<face:0034>
+Nothing, because I already tried*
+that, remember? And nothing*
+happened at all.<press>
+<face:0086>
+True. You don't have the ability to*
+"manipulate" a corpse.
+
+-------------------------------
+
+[m01_0511][0134]
+
+<face:0086>
+However...<press>
+<sound:0015><blink>There is <red>something else<black> you can do.<press>
+<face:002B>
+Oh, yeah? What's that?
+
+-------------------------------
+
+[m01_0515][0135]
+
+<face:0086>
+Why don't you try it and see?
+
+-------------------------------
+
+[m01_0520][0136]
+
+<change:010C>
+U<15FF_7800><face:0036>
+What's this?<press>
+<face:010C>
+<sound:0000>.........<press>
+<face:0029>
+Can you hear me?<press>
+<face:010C>
+<sound:0000>.........<press>
+<face:003A>
+<blink><shake:0128>Wait a minute.*
+What's going on here?<press>
+<face:0083>
+Hmm...<press>
+It looks like she's*
+unconscious, poor thing.<press>
+<face:002F>
+Unconscious? But she's dead.<press>
+<face:0083>
+Yes, but think back.*
+Remember when you died?<press>
+When you came to your senses,*
+you'd been unconscious, too.<press>
+<face:002B>
+<blue>(Unconscious, eh?)<black>
+
+-------------------------------
+
+[m01_0530][0137]
+
+<face:0044>
+<blue>(Come to think of it,*
+the desk lamp is right.)<black>
+
+-------------------------------
+
+[m01_0531][0138]
+
+<face:0044>
+<blue>(When I "came to,"*
+I was already dead.)<black>
+
+-------------------------------
+
+[m01_0535][0139]
+
+{07FF}<change:0085>
+y<0CFF_7800>{06FF}Let's leave her like this for now.<press>
+<face:0083>
+And while she's resting,*
+we can save her life.<press>
+<face:002B>
+Oh, sure. You make it*
+sound so easy.<press>
+<face:0083>
+And it IS easy.<press>
+When you use your*
+powers on a corpse...<press>
+<sound:0016><blink>...you can go back to the past,*
+to a time <red>four minutes before<black>*
+that person's death.<press>
+<face:002F>
+<sound:0015><blink>Are you serious?!*
+Back through time?!<press>
+<face:0083>
+That's right. But there's a catch.<press>
+It only works on "new corpses,"*
+corpses that have been dead*
+for <red>less than one day<black>.<press>
+And she's still well*
+within that limit.<press>
+You might want to give it*
+a try, before it's too late.<press>
+<face:002D>
+<blink><shake:0128>But this is crazy!*
+None of it makes any sense!<press>
+<face:0083>
+We're talking about the*
+powers of the dead, here.*
+It doesn't have to make sense.<press>
+Now, then. Let's go, shall we?<press>
+<sound:0017><blink><shake:0128>To the time four minutes before*
+this woman was murdered!<press>
+<face:0036>
+<sound:0015><blink><shake:0128>H-Hey! Wait a second!*
+I still don't know what*
+you're talking about!<press>
+<face:0083>
+<NJ:003C>
+Heh heh.<press>
+<sound:0016>You'll see. You'll see.
+
+-------------------------------
+

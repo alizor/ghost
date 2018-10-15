@@ -1,0 +1,466 @@
+[m11_0000][2E00]
+
+<face:0100>
+Preparations seem to be going*
+smoothly over at the prison,*
+eh, Inspector Cabanela?<press>
+<face:0091>
+.........<press>
+<face:0100>
+We were just a little too late...*
+So close, eh, Inspector?<press>
+<face:0091>
+We still have a little time*
+left, Chief. Not much, but*
+some.<press>
+We've had Point X*
+surrounded all night.<press>
+<change:008A>
+<end>
+If he shows up, we nab him,*
+and we can still make it.<press>
+<face:0100>
+By the way...<press>
+What's going on with that other*
+case? The junkyard <red>murder<black>?<press>
+She did it, eh? No*
+question about it?<press>
+<face:008A>
+.........<press>
+She's a bad little baby...<press>
+<change:0091>
+<end>
+Disappearing from the*
+scene like that. Wonder*
+where she ran off to play?<press>
+<fchat:0001>
+<sound:0015><blink>What did he just say...?<press>
+<sound:0016><red>"She did it."*
+<black>Did I hear that right?<press>
+<blue>(I think they were talking*
+about the <red>culprit <blue>who*
+killed me...)<black><press>
+.........<press>
+<shake:0128><blue>(N-No way...)<black>
+
+-------------------------------
+
+[m11_0010][2E01]
+
+<face:0100>
+I just don't believe it. Why*
+would she do a thing like that?<press>
+<face:008A>
+'Fraid I don't have the answers*
+for you, Chief. I don't want to*
+believe it any more than you do.<press>
+And yet...
+
+-------------------------------
+
+[m11_0011][2E02]
+
+<face:008A>
+<sound:0016><blink>After seeing this, maybe*
+we don't have any other*
+choice but to believe, baby...<press>
+<face:0100>
+Is that the security camera tape the*
+investigation unit just delivered?<press>
+I can't deny...<press>
+<sound:0015><blink>...it's some pretty <red>solid*
+evidence<black> against her...<press>
+<face:008A>
+Evidence...
+
+-------------------------------
+
+[m11_0011a][2E03]
+
+<face:008A>
+<sound:0015><blink>Nothing like it, baby...
+
+-------------------------------
+
+[m11_0012][2E04]
+
+<face:0100>
+<sound:0018><blink><shake:0128>Hmph! Why a murder*
+case now, on such an*
+important night?!
+
+-------------------------------
+
+[m11_0013][2E05]
+
+<face:008A>
+Tsk, tsk. I think you*
+have that wrong, Chief.
+
+-------------------------------
+
+[m11_0014][2E06]
+
+<face:008A>
+<sound:0016><1DFF_1100><0001_0A00>A murder case now, for*
+the very reason that it IS*
+such an important night.
+
+-------------------------------
+
+[m11_0020][2E07]
+
+<fchat:0001>
+Before I go find Lynne at*
+the Chicken Kitchen...<press>
+...it sounds like there's an*
+important piece of info*
+here I shouldn't miss.<press>
+<sound:0015><blink><blue>("Pretty <red>solid evidence<blue>,"*
+he says... This, I have to see.)<black><press>
+But it's funny...<press>
+<sound:0016>Why do I have this*
+bad feeling about*
+what's on this tape?
+
+-------------------------------
+
+[m11_0030][2E08]
+
+<center>The junkyard where I died*
+<center>had a security camera.<space>
+<center>And it captured the moment*
+<center>of my death perfectly.<press>
+<center>And what the tape*
+<center>showed me...<space>
+<center>...was the cruelest*
+<center>truth imaginable.
+
+-------------------------------
+
+[m11_0040][2E09]
+
+<face:0100>
+The truth is the truth, no*
+matter how many times you*
+watch it, Inspector Cabanela.<press>
+<face:008A>
+It wasn't me who played*
+the tape just now, baby.
+
+-------------------------------
+
+[m11_0190][2E0A]
+
+<face:0100>
+Oh, by the way,*
+Inspector Cabanela.<press>
+<sound:0016>There's something on that*
+tape that <red>troubles <black>me.<press>
+<face:008A>
+And what's that,*
+Chief? I'm all ears.<press>
+<face:0100>
+I had a look at all the photos of*
+the crime scene as well, but...
+
+-------------------------------
+
+[m11_0200][2E0B]
+
+<face:0102>
+<sound:0016>...the place <red>where the victim*
+was shot<black> and <red>where the body*
+was found<black> is clearly different.<press>
+<fchat:0001>
+<blue>(Hey, he's right.*
+That is strange.)<black><press>
+<blue>(The <red>hitman <blue>in black*
+is the one who kicked*
+me downstairs.)<black><press>
+<blue>(But I changed his fate,*
+so he should've been*
+out of the picture...)<black><press>
+<blue>(But there I am, down*
+on the lower level...)<black>
+
+-------------------------------
+
+[m11_0210][2E0C]
+
+<face:008A>
+I have the answer to your mystery*
+riiight here, a few minutes after*
+the murder took place.
+
+-------------------------------
+
+[m11_0220][2E0D]
+
+<face:0100>
+<sound:0015><blink><shake:0128>Is that... a black <red>cat<black>?<press>
+<face:008A>
+You got it, baby. A furry feline*
+messed up our crime scene...<press>
+And then the little cat culprit*
+vanished into the night.<press>
+<fchat:0001>
+<blue>(Hmm...)<black><press>
+<blue>(It looks like my destiny of*
+being knocked downstairs...)<black><press>
+<blue>(...is very hard to alter.)<black>
+
+-------------------------------
+
+[m11_0050][2E0E]
+
+<face:00CF>
+<sound:0018><shake:0128><center><green>This is Point X! Come in, Chief!<black>
+
+-------------------------------
+
+[m11_0055][2E0F]
+
+<face:0100>
+<sound:0015><blink>The Chief here!*
+Did he show up?!<press>
+<face:00CF>
+<center><shake:0128><green>Uh, no, sir. Not yet. But--<black><press>
+<face:0100>
+<sound:0018><blink><shake:0128>Idiot! I told you to stay*
+off the radio unless it*
+was important!<press>
+<face:00CF>
+<center><shake:0128><green>B-But this IS important, sir!*
+<center>Somebody else showed up...<black><press>
+<sound:0016><center><green>...Our rookie detective, <red>Lynne<green>.{0EFF}{8600}<1CFF_0A00><black>
+
+-------------------------------
+
+[m11_0058][2E10]
+
+<face:0095>
+<blink><shake:0128>Whaaat? You see my*
+baby over there, do you?
+
+-------------------------------
+
+[m11_0060][2E11]
+
+<face:00CF>
+<center><shake:0128><green>I heard she was <red>on*
+<center>the lam<green>... What do you*
+<center>want me to do, Chief?<black><press>
+<face:0100>
+What do you say, Inspector?
+
+-------------------------------
+
+[m11_0070][2E12]
+
+<face:0095>
+Detective!<press>
+<face:0093>
+<sound:0017><blink><shake:0128>Get my baby away from Point X!<press>
+<change:0095>
+<end>
+Do it now, man! And*
+then hold on to her!<press>
+<face:00CF>
+<sound:0017><blink><shake:0128><center><green>Yes, sir! I'll go get her now, sir!<black>
+
+-------------------------------
+
+[m11_0080][2E13]
+
+<face:0100>
+<sound:0018><shake:0128>What's the meaning*
+of this? Why would Lynne*
+show up at Point X?<press>
+It took the Special Investigation*
+Unit six months to pinpoint that*
+location!<press>
+<face:0091>
+Don't know, Chief, but I'd say*
+it wasn't a coincidence...
+
+-------------------------------
+
+[m11_0085][2E14]
+
+<face:0095>
+Perhaps--
+
+-------------------------------
+
+[m11_0090][2E15]
+
+<face:0100>
+<sound:0018><shake:0128>Wh-What happened?!*
+Detective, come in!<press>
+<face:010D>
+<NJ:003C>
+<center><green>.........<black><press>
+<face:0100>
+Now what?! What*
+happened this time?!<press>
+<face:008F>
+<blink><shake:0128>Dammit!
+
+-------------------------------
+
+[m11_0095][2E16]
+
+<face:0095>
+This calls for a telephone*
+call to Point X! Allow me!
+
+-------------------------------
+
+[m11_0160][2E17]
+
+<fchat:0001>
+Apparently, something*
+terrible is happening...<press>
+But, for me, nothing*
+could be worse than*
+the images on this tape.<press>
+<blue>(I need to see it*
+one more time.)<black>
+
+-------------------------------
+
+[m11_0170][2E18]
+
+<fchat:0001>
+So Lynne has shown*
+up at some "Point X"?<press>
+But I thought...<press>
+...she was on her way to*
+the Chicken Kitchen...?<press>
+What's going on?<press>
+But one thing is clear...*
+Something big just happened!
+
+-------------------------------
+
+[m11_0100][2E19]
+
+<face:00FD>
+<sound:0017><shake:0128>What are you doing? Get*
+your buns over here!<press>
+<face:008F>
+<blink><shake:0128>Wh-What did you say?!<press>
+<face:00FD>
+Now I finally understand!*
+I finally know what it's like...<press>
+<sound:0017><blink><shake:0128>...for our poor hungry*
+customers who have their*
+food deliveries delayed!<press>
+<face:0091>
+Excuse me...<press>
+<change:008A>
+<end>
+...but this IS the Chicken*
+Kitchen, is it not?<press>
+<face:00FD>
+<sound:0015><blink>What?!<press>
+<sound:0016>Aren't I talking to the police?<press>
+<face:008A>
+The police...? Did something*
+happen there you need*
+assistance with?<press>
+<face:00FD>
+"Something happen here," you ask!<press>
+<sound:0017><blink><shake:0128>More like, "there's nothing left*
+here!" I gotta go!<1EFF_0500><press>
+<face:0093>
+<sound:0015><blink><shake:0128>Wait! Waaaaait!
+
+-------------------------------
+
+[m11_0120][2E1A]
+
+<face:0100>
+What's going on?!<press>
+<face:0091>
+Something, that's what.*
+Something is definitely going on...<press>
+<change:0095>
+<end>
+<sound:0016><1CFF_1100>And that "something" is far from*
+"nothing," that's for certain!
+
+-------------------------------
+
+[m11_0125][2E1B]
+
+<face:008A>
+Thanks for the tea, Chief.*
+I'll be on my way.<press>
+<face:0100>
+You going to Point X?<press>
+<face:008A>
+Point X, eh?*
+I'll leave that to the boys.<press>
+<change:0091>
+<end>
+There's someplace else I gotta be...<press>
+<face:0100>
+Inspector...<press>
+Your being there isn't going*
+to change anything. Why*
+put yourself through it?<press>
+<face:0091>
+.........<press>
+<change:008A>
+<end>
+I have a responsibility,*
+and I'm gonna see it*
+through to the end.<press>
+Besides...<press>
+<change:008D>
+<end>
+<sound:0015><blink><shake:0128>It's not quiiite over yet.<press>
+<face:0100>
+<shake:0128><blink>Right. That's true.*
+Do what you must, then.
+
+-------------------------------
+
+[m11_0150][2E1E]
+
+I saw myself shot, right*
+before my own eyes.<space>
+By Lynne.<space>
+There goes my only lead. I feel*
+like I've died all over again...<press>
+One thing sticks with me, though.<space>
+Lynne looked so surprised*
+on that tape.<space>
+What in the world did I tell her?
+
+-------------------------------
+
+[m11_0180][2E1F]
+
+Prisoner D99's schedule*
+for tomorrow was blank.<space>
+It seems like forever ago*
+that I found that out.<space>
+And now my mind is even blanker*
+than that blackboard was...<press>
+Lynne -- my only lead,*
+and my partner -- shot me.<space>
+What did it all mean?<space>
+I knew where I had to*
+go to get my answers.<press>
+The Chicken Kitchen... The "Point*
+X" the police have surrounded...<space>
+And the place where something*
+big just happened.<space>
+What will Lynne be involved in*
+this time when I find her there?
+
+-------------------------------
+

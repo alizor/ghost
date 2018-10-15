@@ -1,0 +1,474 @@
+[m01_0000][0100]
+
+<0CFF_BE00><20FF_1900><center>Must've been unconscious for a while...<space>
+<0CFF_6000><center>My head feels "fuzzy," kind of like I'm*
+<0CFF_6000><center>swimming through darkness...<15FF_1A00>
+
+-------------------------------
+
+[m01_0010][0101]
+
+<20FF_1900><center>When I came to, there was a woman*
+<center>standing there. A woman I don't know.<space>
+<center>At least... I don't think I know her.<15FF_5000>
+
+-------------------------------
+
+[m01_0020][0102]
+
+<20FF_1900><center>And then there was a man with a gun.<space>
+<center>I don't know him, either...*
+<center>Well, probably not, anyway.<15FF_6600>
+
+-------------------------------
+
+[m01_0030][0103]
+
+<20FF_0F00><center>Now, I'm not the kind of guy who*
+<center>can just stand back and watch a*
+<center>poor woman get shot...<space>
+<center>But I have just one little problem...<15FF_9E00>
+
+-------------------------------
+
+[m01_0040][0104]
+
+<22FF_0300><20FF_2300><center>I'm already dead myself.<15FF_8C00>
+
+-------------------------------
+
+[m01_0041][0105]
+
+<20FF_1900><center>This has gotta be me.*
+<center>No question about that.<space>
+<center>After all, do you see any other*
+<center>dead bodies lying around here?<15FF_C300>
+
+-------------------------------
+
+[m01_0050][0106]
+
+So long, sister.
+
+-------------------------------
+
+[m01_0060][0107]
+
+<22FF_0200><20FF_0F00><center>I feel bad for her, sure.*
+<center>But what can I do?<space>
+<center>I'm dead.<space>
+<center>But just as I was thinking this...<15FF_A500>
+
+-------------------------------
+
+[m01_0070][0108]
+
+<22FF_0300><20FF_4B00><center>This is no time to be*
+<center>lolling around dead!<15FF_A000>
+
+-------------------------------
+
+[m01_0071][0109]
+
+<22FF_0100><20FF_4B00><center>You're the only one who can save her!<15FF_7800>
+
+-------------------------------
+
+[m01_0090][010A]
+
+<face:002D>
+Wh-What the...?!*
+<blue>(The whole world*
+just changed on me!)<black><press>
+<fchat:0006>
+<NJ:003C>
+Welcome to the Ghost*
+World, the land of the*
+dead.<press>
+<face:002D>
+<blue>(A voice in my head?!)<black>*
+Who are you?!<press>
+<fchat:0006>
+<NJ:003C>
+No time for introductions*
+now. You have to save her!<press>
+<NJ:003C>
+I know you can do it!*
+All you have to do is*
+use your powers.<press>
+<face:0029>
+Huh?*
+<blue>(Me? Save her? Uh, how?)<black><press>
+<fchat:0006>
+<NJ:003C>
+Take a look at your corpse.
+
+-------------------------------
+
+[m01_0099][010B]
+
+<fchat:0006>
+<NJ:003C>
+Do you see that blue flame?*
+That's your <red>soul<black>.
+
+-------------------------------
+
+[m01_0100][010C]
+
+<fchat:0006>
+<NJ:003C>
+And do you see that*
+bright white spot*
+nearby? That's a <red>core<black>.
+
+-------------------------------
+
+[m01_0110][010D]
+
+<face:002B>
+A core...?*
+<blue>(Hmm. Just looks like a*
+railway crossing gate to me.)<black><press>
+<fchat:0006>
+<NJ:003C>
+Look, the best way to*
+understand is to just try it.<press>
+<NJ:003C>
+{04FF}0First of all, try*
+touching your soul.<show><15FF_0000>{04FF}0Next, <red>with your finger still*
+on it<black>, slide your soul across*
+to connect it with the core.<show><wait>
+
+-------------------------------
+
+[m01_0130][010E]
+
+<fchat:0006>
+<NJ:003C>
+Congratulations!<press>
+<NJ:003C>
+Your soul has now possessed*
+the crossing gate.<press>
+<face:0036>
+So... what?*
+Now I'm a crossing gate...?<press>
+<fchat:0006>
+<NJ:003C>
+Ahem. Now, then.*
+Use the crossing gate*
+to save the woman!<press>
+<face:0029>
+<sound:0015><blink>What? But how?<press>
+<fchat:0006>
+<NJ:003C>
+In a moment, time will start*
+to flow normally again.*
+That will be your chance.<press>
+<NJ:003C>
+Listen, when the man pulls*
+the trigger, the woman dies,*
+right?<press>
+<NJ:003C>
+So before that happens,*
+you have to use your*
+powers to stop it!<press>
+<face:0036>
+<blink><shake:0128>H-Hey! Wait a second!*
+I still don't know what*
+you're talking about!<press>
+<fchat:0006>
+<NJ:003C>
+Heh heh.<press>
+<NJ:003C>
+You'll see. You'll see.<press>
+<NJ:003C>
+Now, then. Time will*
+start to flow again...
+
+-------------------------------
+
+[m01_0150][010F]
+
+<fchat:0006>
+Now is your chance!*
+Touch the <TRICK> button!<show><wait>
+
+-------------------------------
+
+[m01_0160][0110]
+
+<center>Oof!
+
+-------------------------------
+
+[m01_0170][0111]
+
+<center>Hold it!
+
+-------------------------------
+
+[m01_0180][0112]
+
+<fchat:0006>
+<NJ:003C>
+Well played.<press>
+<face:0036>
+Uh, what just happened?<press>
+<fchat:0006>
+<NJ:003C>
+That was one of your*
+<red>powers <black>at work,*
+a "<red>ghost trick<black>."<press>
+<face:002B>
+You mean, I made that*
+crossing gate move?<press>
+<fchat:0006>
+<NJ:003C>
+That's right. You <red>manipulated*
+<black>that object with a <red>power of*
+the dead<black>, a <red>ghost trick<black>.<press>
+<NJ:003C>
+And all you have to do to*
+perform a trick like that is*
+touch the <TRICK> button.<press>
+<NJ:003C>
+Now the woman's*
+fate has changed!*
+Albeit, just a little...<press>
+<face:0034>
+Yeah. She still kind of has*
+a gun pointed at her...<press>
+<fchat:0006>
+<NJ:003C>
+Yes. Hmm... That's*
+not good, is it?<press>
+<NJ:003C>
+But at least now you're*
+starting to figure out<red> how*
+to use<black> your powers.<press>
+<face:002B>
+So I enter the Ghost World with*
+"<red>Ghost<black>," possess an object, and*
+then perform a "<red>Trick<black>" with it, eh?
+
+-------------------------------
+
+[m01_0190][0113]
+
+<fchat:0006>
+<NJ:003C>
+Now you're getting it!*
+Let's move on to the*
+next step.<press>
+<NJ:003C>
+Try possessing a*
+different core.<show><wait>
+
+-------------------------------
+
+[m01_0191][0114]
+
+<fchat:0006>
+<NJ:003C>
+I see... A guitar, then, is it?*
+Ahem.<press>
+<face:0034>
+Hey, what do you want from me?<press>
+I would've preferred that giant*
+wrecking ball -- that would solve*
+the problem real quick, I bet!<press>
+<change:002B>
+<end>
+But I guess I can't reach cores*
+that are too far away.<press>
+<fchat:0006>
+<NJ:003C>
+Well, I guess we'll see what*
+you can do with that guitar.<press>
+<NJ:003C>
+Let's set time in motion*
+again and find out.
+
+-------------------------------
+
+[m01_0200][0115]
+
+Lemme try that again.
+
+-------------------------------
+
+[m01_0210][0116]
+
+So long, sister.
+
+-------------------------------
+
+[m01_0220][0117]
+
+<fchat:0006>
+All right, touch the*
+<TRICK> button!<show><wait>
+
+-------------------------------
+
+[m01_0230][0118]
+
+<center>Who's there?!
+
+-------------------------------
+
+[m01_0240][0119]
+
+<face:0034>
+Uh, that's gotta be some of*
+the slowest "running away"*
+I've ever seen...<press>
+<change:002B>
+<end>
+Hmm. Looks like I'm gonna have*
+to come up with something more.
+
+-------------------------------
+
+[m01_0241][011A]
+
+<face:0029>
+Let's see. What core is close*
+enough to possess from here?<press>
+<change:0027>
+<end>
+<sound:0016>I guess all there is... is <red>me<black>.<press>
+No time to be picky.*
+I've got a woman to save!<press>
+<fchat:0006>
+<NJ:003C>
+I like your attitude.*
+It's admirable, truly. But...<press>
+<face:0029>
+<sound:0015><blink>But what?<press>
+If I can manipulate objects...<press>
+<change:0027>
+<end>
+...then I oughta be able to*
+manipulate my own corpse, right?<press>
+<fchat:0006>
+<NJ:003C>
+Well... Tell you what.*
+Why don't you just try it*
+and see?<press>
+<NJ:003C>
+Go ahead and <red>possess*
+<black>your corpse.<show><wait>
+
+-------------------------------
+
+[m01_0250][011B]
+
+<fchat:0006>
+<NJ:003C>
+All right. Now we'll*
+set time in motion.
+
+-------------------------------
+
+[m01_0251][011C]
+
+<fchat:0006>
+<NJ:003C>
+Okay, go ahead and*
+try the <TRICK> button.<show><wait>
+
+-------------------------------
+
+[m01_0260][011D]
+
+<face:0036>
+<sound:0015><blink>Huh? Nothing's happening.<press>
+<fchat:0006>
+<NJ:003C>
+Exactly. Sad but true,*
+I'm afraid...<press>
+<NJ:003C>
+You can only manipulate*
+non-living <red>things<black>.<press>
+<sound:0016>Corpses, even if they aren't*
+alive anymore, aren't really*
+just ordinary "things."<0CFF_5A00><1CFF_0A00><press>
+<face:002F>
+<sound:0015><blink>You've gotta be kidding!<press>
+<change:003A>
+<end>
+<sound:0018><shake:0128>Wait, what about the woman?!*
+What's happening to her?!<press>
+<fchat:0006>
+<NJ:003C>
+Let's take a look, shall we?<press>
+<NJ:003C>
+If you want to take a*
+look around, you can*
+slide the screen.<press>
+<face:002B>
+Slide the screen?<press>
+<fchat:0006>
+<NJ:003C>
+It's easy. Here, give it a try.
+
+-------------------------------
+
+[m01_0262][011F]
+
+<fchat:0006>
+<NJ:003C>
+<red>Touch<black> the screen and <red>slide*
+<black>it in any direction you want.<show><wait>
+
+-------------------------------
+
+[m01_0264][0120]
+
+<fchat:0006>
+<NJ:003C>
+How was that?<press>
+<NJ:003C>
+Whenever you want to see*
+what's going on somewhere*
+else, just <red>slide <black>the screen.<press>
+<face:0027>
+Okay. I got it.<press>
+<change:002B>
+<end>
+<blue>(Right now, I want to see what's*
+happening to that woman!)<black><press>
+<fchat:0006>
+<NJ:003C>
+Of course. Well, you*
+know what to do, then!<press>
+<NJ:003C>
+Slide the screen and see*
+if you can find her.<show><wait>
+
+-------------------------------
+
+[m01_0279][0121]
+
+<face:0001>
+Well, sister. This is it.<press>
+Two things are looking*
+pretty dim right now...
+
+-------------------------------
+
+[m01_0280][0122]
+
+<center>My eyesight...*
+<center>and your future!
+
+-------------------------------
+
+[m01_0281][0123]
+
+Outta my way!
+
+-------------------------------
+

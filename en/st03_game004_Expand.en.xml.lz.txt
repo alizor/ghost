@@ -1,0 +1,163 @@
+[m03_7900][1700]
+
+But Detective Jowd's "until*
+we meet again" came around*
+quicker than I expected.<space>
+When I got back to the*
+guard room, the next*
+fateful call came in.
+
+-------------------------------
+
+[m03_7930][1701]
+
+Hello. This is--
+
+-------------------------------
+
+[m03_7910][1702]
+
+<face:0096>
+<sound:0016><blink>Sissel, are you there?<press>
+<face:00EE>
+<sound:0015><blink><shake:0128>Hello? Who's this?<press>
+<face:00AC>
+Oh, I'm not talking to you, officer.<press>
+<change:0096>
+<end>
+Anyway, if you're there, Sissel,*
+come here immediately.<press>
+I'll be waiting for you... if*
+you make it in time, that is.
+
+-------------------------------
+
+[m03_7920][1703]
+
+<face:00EE>
+<sound:0015><blink><shake:0128>Hey, wait a minute!
+
+-------------------------------
+
+[m03_7940][1704]
+
+<face:00EB>
+<sound:0018><blink><shake:0128>That call! Who was it from?!<press>
+<face:00ED>
+I dunno. Some weird call.<press>
+<face:00EB>
+Ah, but who...?!<press>
+<sound:0018><blink><shake:0128>...will call an end*
+to my dancing?!
+
+-------------------------------
+
+[m03_7950][1705]
+
+<face:00ED>
+Yeah, well, once you*
+get goin' like that...<press>
+<sound:0016>...I'm not gonna stop ya.<press>
+<face:00EB>
+<sound:0017><blink><shake:0128>It's a contest, then!<press>
+<sound:0018><blink><shake:0128>Which will stop first?! My dancing!*
+Or the turning of the planet?!
+
+-------------------------------
+
+[m03_79460][1706]
+
+<face:00ED>
+Yeah. Good luck with that.
+
+-------------------------------
+
+[m03_79470][1707]
+
+<fchat:0001>
+Hmm...<press>
+I bet I could do that*
+dance by now...<press>
+<blue>(But I'm more concerned*
+with the detective's*
+<red>message<blue>.)<black><press>
+<blue>(I'd better get over*
+there... fast!)<black>
+
+-------------------------------
+
+[m03_9000][1900]
+
+Internal extension
+
+-------------------------------
+
+[m03_9010][1901]
+
+External line
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9050][1905]
+
+Special Detention
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+
+[m03_9070][1908]
+
+<face:0044>
+The screen shows*
+rows of tiny rooms.<press>
+The rooms are really, really*
+small. And you can see right*
+into them from the outside.<press>
+I suppose the open bars keep*
+the rooms airy, but I wouldn't*
+wanna live in one, myself...<press>
+I wonder where these*
+little rooms are?
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+

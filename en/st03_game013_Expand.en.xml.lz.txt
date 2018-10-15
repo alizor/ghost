@@ -1,0 +1,357 @@
+[m03_4320][0E09]
+
+<fchat:0001>
+Hmm... An*
+emergency button.<press>
+An emergency... in a*
+prison. That's gotta be*
+a pretty bad situation.<press>
+I'll just give it a little try...
+
+-------------------------------
+
+[m03_4070][0E11]
+
+<fchat:0001>
+I still can't read...<press>
+But I'd better go check out*
+Prisoner D99's cell anyway.<press>
+Maybe I can find some*
+kind of information that*
+might help Lynne out.<press>
+<blue>(Besides...)<black><press>
+<blue>(I want to see what*
+this prisoner Lynne is*
+investigating looks like...)<black>
+
+-------------------------------
+
+[m03_4130][0E1E]
+
+<fchat:0001>
+A newspaper article has*
+been cut out and framed.<press>
+Unfortunately,*
+I can't read it...<press>
+It's probably about D99's*
+case -- "<red>Man Murders Wife<black>,"*
+or something like that.<press>
+There's a picture of*
+the alleged <red>culprit*
+<black>in the article.<press>
+<sound:0016><blue>(Yup. It's this*
+prisoner all right.)<black>
+
+-------------------------------
+
+[m03_4350][0E1F]
+
+<face:002A>
+A newspaper article has*
+been cut out and framed.<press>
+I'll just give it a little read...<press>
+<change:002C>
+<end>
+<1EFF_7800>.........<press>
+<blue>(Tonight...)<black><press>
+<blue>(...I lost a lot of things --*
+my life, my memory...)<black><press>
+<sound:0016><blink><blue>(But there's a certain skill*
+I've apparently <red>lost<blue>, too...)<black><press>
+<change:002E>
+<end>
+<sound:0018><shake:0128><blink>{2EFF}?{17FF}I can't read!{17FF}<press>
+I can tell the article contains*
+some kind of "writing"...<press>
+But I have absolutely no*
+idea what it means!<press>
+<change:002C>
+<end>
+<blue>(If I can't read Prisoner D99's*
+<red>work schedule for tomorrow<blue>...)<black><press>
+<blue>(...What do I do now?!)<black><press>
+<change:002A>
+<end>
+<sound:0015><blink>In the article...<press>
+...there's a picture of*
+the alleged <red>culprit<black>.<press>
+<sound:0016><blue>(Yup. It's this*
+prisoner all right.)<black>
+
+-------------------------------
+
+[m03_4360][0E20]
+
+<fchat:0001>
+What am I supposed to*
+report back to Lynne now?<press>
+<sound:0015><blink>If I tell her "I couldn't*
+read it," she'll kill me!<press>
+<blue>(But, actually, I guess I*
+don't have to worry about*
+that one too much...)<black><press>
+Anyway...<press>
+I might as well take*
+a look around.<press>
+Hopefully, I'll at least be*
+able to find out something*
+while I'm here.<press>
+<sound:0015><blink>I can't go back to*
+Lynne empty-handed!<press>
+<blue>(But, of course, a ghost*
+doesn't actually have*
+hands...)<black>
+
+-------------------------------
+
+[m03_4371][0E24]
+
+<fchat:0001>
+Nope, nothing written*
+on this blackboard.<press>
+I wonder if that means*
+he'll spend the day*
+painting, like today?<press>
+.........<press>
+That must be what it means.*
+Yeah... That must be it.
+
+-------------------------------
+
+[m03_4420][0E30]
+
+<fchat:0001>
+It's no use...<press>
+No matter how many times*
+I try, I still can't read what*
+it says.<press>
+But this blackboard is*
+different from the one*
+in Prisoner D99's cell.<press>
+I can tell something is*
+written on this one.<press>
+<blue>(I'm glad my task wasn't*
+to find out what this*
+particular board says...)<black>
+
+-------------------------------
+
+[m03_4430][0E32]
+
+<fchat:0001>
+I'd better not set off the*
+emergency alarm right now.<press>
+The inside of my head*
+is already in a state of*
+emergency as it is...
+
+-------------------------------
+
+[m03_4444][0E38]
+
+<fchat:0001>
+My time will soon be locked*
+away from me as well.<press>
+I can't waste what I have*
+left. I'd better get going.
+
+-------------------------------
+
+[m03_4490][0E3C]
+
+<fchat:0001>
+Time here still appears to*
+be like a caged animal.
+
+-------------------------------
+
+[m03_4491][0E3D]
+
+<fchat:0001>
+<sound:0016>The only difference is,*
+I don't see any of the*
+inmates.
+
+-------------------------------
+
+[m03_4492][0E3E]
+
+<fchat:0001>
+And, of course, our*
+death-row inmate*
+isn't here, either.
+
+-------------------------------
+
+[m03_4493][0E3F]
+
+<fchat:0001>
+Did the curry-lover*
+ever find his curry?
+
+-------------------------------
+
+[m03_9020][1902]
+
+Guard room
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9050][1905]
+
+Special Detention
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+
+[m03_9080][1909]
+
+<fchat:0001>
+<blue>(There's a pad of note papers*
+hanging on the wall.)<black><press>
+<blue>(There's a red "O"*
+drawn on each one.)<black><press>
+<blue>(I think it's some kind of*
+letter or symbol, but I don't*
+recall what it means.)<black>
+
+-------------------------------
+
+[m03_9090][190A]
+
+<fchat:0001>
+<blue>(There's a pad of note papers*
+hanging on the wall.)<black><press>
+<blue>(There's a red "X"*
+drawn on each one.)<black><press>
+<blue>(I think it's some kind of*
+letter or symbol, but I don't*
+recall what it means.)<black>
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+
+[m03_5400][1100]
+
+<fchat:0001>
+Wow. I wonder what in the*
+world happened here?<press>
+I have to look for*
+Detective Jowd...<press>
+But should I try to do*
+something about this*
+situation first?
+
+-------------------------------
+
+[m03_5410][1101]
+
+<fchat:0001>
+The big guy seems to*
+be taking a nap here.<press>
+I doubt my paltry powers*
+are enough to wake him.<press>
+<sound:0016>Rest in peace, curry-lover.<press>
+<blue>(Hmm. It's kind of spooky*
+when a ghost says it...)<black>
+
+-------------------------------
+
+[m03_6680][1316]
+
+<fchat:0001>
+This is the blackboard that*
+has this prisoner's schedule*
+for tomorrow written on it.<press>
+I can't read it, but that's*
+okay. I don't need to.<press>
+<fchat:0009>
+<sound:0015><blink>What a surprise. You've*
+forgotten how to read,*
+too?<press>
+<fchat:0001>
+Apparently. Can you read it?<press>
+<fchat:0009>
+<sound:0016>I can, but, like you said,*
+there's no need to.<press>
+<fchat:0001>
+<blue>(Oh, boy...)<black>
+
+-------------------------------
+
+[m03_6750][1321]
+
+<fchat:0001>
+Is this newspaper article*
+about your case?<press>
+<fchat:0009>
+Yeah. I tacked it up*
+there as a memento.<press>
+<fchat:0001>
+I can't read, but it probably*
+says something like...<press>
+<blue>(..."Man Murders Wife"...)<black><press>
+<fchat:0009>
+.........
+
+-------------------------------
+
+[m03_6760][1322]
+
+<fchat:0001>
+There's nothing written*
+on your blackboard.<press>
+Your schedule for*
+tomorrow is blank.<press>
+<fchat:0009>
+That's because I don't*
+need a "schedule."<press>
+Or a "tomorrow"...*
+Or "memories"...<press>
+.........<press>
+<fchat:0001>
+<blue>(This man...)<black><press>
+<sound:0016><blue>(I can never tell what*
+he's thinking...)<black>
+
+-------------------------------
+

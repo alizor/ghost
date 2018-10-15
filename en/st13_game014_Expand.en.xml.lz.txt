@@ -1,0 +1,574 @@
+[m13_1340][3066]
+
+And so Kamila ended up in*
+the hands of the kidnappers.<space>
+We weren't able*
+to change that part.<space>
+Lynne listened to my story*
+without saying anything.
+
+-------------------------------
+
+[m13_1350][3067]
+
+<fchat:0001>
+I'm sorry. I wish there*
+was something else*
+I could've done.<press>
+<face:001B>
+No, you did the best you could.<press>
+I'm sure she's all*
+right. After all--<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128><1EFF_0500>After all, she has me!
+
+-------------------------------
+
+[m13_1360][3068]
+
+<face:0015>
+<sound:0015><blink><shake:0128>Missile... are you <red>in there<black>?
+
+-------------------------------
+
+[m13_1365][3069]
+
+<fchat:0002>
+<sound:0033><blink><shake:0128>Miss Lynne! Leave*
+Miss Kamila to me!<press>
+I know I don't look*
+like much right now...<press>
+<sound:0033><blink><shake:0128>...but I'm sure I can help her!
+
+-------------------------------
+
+[m13_1366][306A]
+
+Missile...
+
+-------------------------------
+
+[m13_1367][306B]
+
+<sound:0015>Eeek!
+
+-------------------------------
+
+[m13_1370][306C]
+
+Miss Lynne...!
+
+-------------------------------
+
+[m13_1380][306D]
+
+<face:0014>
+I'm going to leave*
+it up to Missile.<press>
+<fchat:0001>
+It kind of looks like Missile is*
+being left up to the wind...
+
+-------------------------------
+
+[m13_1390][306E]
+
+<center>Oooooh!
+
+-------------------------------
+
+[m13_1396][3070]
+
+.........
+
+-------------------------------
+
+[m13_1398][3071]
+
+<face:00F8>
+I have something to give you!
+
+-------------------------------
+
+[m13_1400][3072]
+
+<face:00FA>
+<sound:0017><1CFF_0800><blink><shake:0128>Stop the park from being turned*
+into a housing site! Protect the*
+park, the rock of the gods!<press>
+<fchat:0001>
+<sound:0016><blink>Aren't you forgetting*
+your promise?
+
+-------------------------------
+
+[m13_1405][3073]
+
+<face:00F8>
+Oh, pardon me. Pardon me.
+
+-------------------------------
+
+[m13_1410][3074]
+
+<face:00F8>
+<sound:0017><1CFF_0800><blink><shake:0128>My apologies. This is for you!
+
+-------------------------------
+
+[m13_1411][3075]
+
+<face:0016>
+<sound:0015><blink>Oh!
+
+-------------------------------
+
+[m13_1412][3076]
+
+<face:0006>
+You kept the music box safe,*
+didn't you? Thank you.
+
+-------------------------------
+
+[m13_1413][3077]
+
+<face:00F8>
+Not at all. I was only doing*
+what the rock of the gods...
+
+-------------------------------
+
+[m13_1414][3078]
+
+<face:00F8>
+<1EFF_C800>...would... have... wanted...
+
+-------------------------------
+
+[m13_1415][3079]
+
+<face:00F8>
+<sound:0000>...........................*
+...........................<press>
+<fchat:0001>
+What's the matter?*
+Cat got your tongue?<press>
+<face:0012>
+<sound:0015><blink><shake:0128>He's mesmerized by my beauty.<press>
+<fchat:0001>
+<sound:0000>...........................*
+...........................<press>
+<face:0010>
+<sound:0018><blink><shake:0128>Hey! The cat's not allowed*
+to get YOUR tongue!
+
+-------------------------------
+
+[m13_1417][307A]
+
+<face:00F8>
+Excuse me, but are you...?<press>
+<sound:0018><blink><shake:0128>No, it couldn't be!<press>
+<face:0016>
+<sound:0015><blink>Have we met before?<press>
+<face:00F8>
+Aren't you...?<press>
+<sound:0016><blink>Aren't you that little*
+girl, from <red>that time<black>...?<press>
+<sound:0017><blink><shake:0128>I'll never forget it! It was*
+<red>ten years ago<black>, in this park.<press>
+<face:0016>
+Ten years ago...?
+
+-------------------------------
+
+[m13_1420][307B]
+
+<face:001A>
+<1CFF_2100><blink><shake:0128>Are you talking about...?
+
+-------------------------------
+
+[m13_1430][307C]
+
+<face:0034>
+Have you met this strange*
+young man before, Lynne?<press>
+<face:001C>
+I don't remember. But he said*
+"ten years ago," and "this park"...<press>
+<change:001A>
+<end>
+<sound:0016><blink><shake:0128>It could only be <red>one thing<black>*
+that I can think of...<press>
+<face:002B>
+<blue>(Hmm...)<black><press>
+<blue>(It looks like I'd better*
+talk to Mr. Leaflet here.)<black>
+
+-------------------------------
+
+[m13_1440][307D]
+
+<face:00F9>
+Here in this park, the*
+gods surely control <red>fate<black>.<press>
+Today, ten years from that day...<press>
+...we meet once again.<press>
+<change:00FB>
+<end>
+<sound:0017><blink><shake:0128>If that isn't the power of the*
+gods, then what else is it?!<press>
+<face:002B>
+<blue>(It could just be coincidence.)<black><press>
+<change:0029>
+<end>
+But, apparently, you know*
+our lady detective here.<press>
+<change:0034>
+<end>
+Could you tell us about*
+it? About what happened*
+<red>ten years ago<black>?<press>
+<face:00FB>
+<sound:0017><blink><shake:0128>Yes! Yes, of course! I was*
+actually about to do just that!
+
+-------------------------------
+
+[m13_1500][307E]
+
+Rock of the gods
+
+-------------------------------
+
+[m13_1510][307F]
+
+<face:0034>
+What's this "<red>rock of the*
+gods<black>" you keep mentioning?<press>
+<face:00F9>
+<sound:0015><blink><shake:0128>Don't you know? It's <red>right*
+there<black> in front of us!
+
+-------------------------------
+
+[m13_1520][3080]
+
+<face:00F9>
+The rock is buried in the*
+ground right there. It's been*
+there these ten years.<press>
+<change:00FB>
+<end>
+Ever since that day it flew*
+down from the heavens*
+and showed us a <red>miracle<black>!<press>
+<face:002B>
+<blue>(A miracle?)<black>
+
+-------------------------------
+
+[m13_1530][3081]
+
+<face:001B>
+Missile...
+
+-------------------------------
+
+[m13_1540][3082]
+
+<face:000D>
+Wait a minute... You*
+say "g-o-d-s," but do*
+you mean "d-o-g-s"?<press>
+<face:00F9>
+Of course not. Don't be*
+silly. This is no time for*
+ridiculous word games.<press>
+<change:00FB>
+<end>
+<sound:0018><blink><shake:0128>You are standing just <red>above<black>*
+the rock of the gods now.<press>
+<sound:0017><blink><shake:0128>Take a good look*
+at that <red>monument<black>!<press>
+<face:0015>
+Monument...?
+
+-------------------------------
+
+[m13_1550][3083]
+
+<face:010D>
+<sound:0000><NJ:003C>
+<center><green>Rock of the Gods -- Temsik Park<black><press>
+<face:0016>
+The "<red>rock of the gods<black>"...
+
+-------------------------------
+
+[m13_1560][3084]
+
+<face:000D>
+So this "<red>rock<black>" you've*
+been talking about...<press>
+<change:0015>
+<end>
+<sound:0016><blink>...is a <red>meteorite<black>?<press>
+<face:00FB>
+<blink><shake:0128>Precisely!<press>
+It dropped from the sky on*
+that day ten years ago.<press>
+Yes, of course!<press>
+<change:00F9>
+<end>
+<sound:0017>{28FF}0K<blink><shake:0128>Surely you know all about it!<press>
+<face:0007>
+<sound:0015><blink><shake:0128>M-Me...?<press>
+{28FF}<0001_5000><wait>
+
+-------------------------------
+
+[m13_1600][3085]
+
+Ten years ago
+
+-------------------------------
+
+[m13_1610][3086]
+
+<face:00F9>
+That day, I just happened to be*
+passing through this park.<press>
+I had no idea that day would*
+<red>change my destiny<black>.<press>
+The sun was going down,*
+and, through the gloom...<press>
+<change:00FB>
+<end>
+...I heard the <red>scream<black>*
+of a little girl.
+
+-------------------------------
+
+[m13_1620][3087]
+
+<face:010D>
+<sound:0000><1EFF_1400><center>Eeeeeeek!
+
+-------------------------------
+
+[m13_1630][3088]
+
+<face:010D>
+<sound:0018><blink><shake:0128>{2FFF}Now, just calm down!*
+{2FFF}And drop that weapon!<press>
+<face:010D>
+<blink><shake:0128>S-Stay back!*
+If you come any closer...<press>
+<sound:0018><blink><shake:0128>...I'll shoot her!
+
+-------------------------------
+
+[m13_1635][3089]
+
+<face:00FC>
+<center>I peeked out fearfully*
+<center>from the bushes, and saw*
+<center>some shadowy figures.<press>
+<center>I didn't see the face*
+<center>of the criminal clearly.<press>
+<center>I knew I should do something*
+<center>to help, but I couldn't move.<press>
+<center>The tension was so thick, it*
+<center>was painful. Just when I*
+<center>couldn't stand it any longer...
+
+-------------------------------
+
+[m13_1636][308A]
+
+<face:00FC>
+<sound:0000><center>...that's when it happened.*
+<center>The sky suddenly burned*
+<center>bluish-white!
+
+-------------------------------
+
+[m13_1640][308B]
+
+<face:00FC>
+<center>When it crashed*
+<center>into the ground...<press>
+<center>...the meteorite gave off a*
+<center>shower of beautiful fragments.
+
+-------------------------------
+
+[m13_1650][308C]
+
+<face:00FC>
+<center>And then I saw it.<press>
+<center>One of those beautiful*
+<center>fragments...
+
+-------------------------------
+
+[m13_1660][308D]
+
+<face:00FC>
+<sound:0000><center>...pierced into the*
+<center>criminal's back.
+
+-------------------------------
+
+[m13_1670][308E]
+
+<face:00FC>
+<center>The judgment of the*
+<center>gods was brought down*
+<center>on the park that day.
+
+-------------------------------
+
+[m13_1680][308F]
+
+<face:00FB>
+Ten years ago...<press>
+...the little girl that was*
+you, was saved by the*
+<red>rock of the gods<black>.<press>
+<face:0019>
+<sound:0018><blink><shake:0128>Oh, my... I can't believe it...!<press>
+.........<press>
+<face:00F9>
+The rock of the gods was*
+given the name "<red>Temsik<black>."<press>
+And still today...<press>
+<change:00FB>
+<end>
+...it lies sleeping, deep*
+in the park's earth.
+
+-------------------------------
+
+[m13_1700][3090]
+
+Temsik
+
+-------------------------------
+
+[m13_1710][3091]
+
+<face:0019>
+I... I never knew about*
+this "Temsik"...<press>
+<change:001B>
+<end>
+I always thought Detective*
+Jowd was the one who*
+saved me...<press>
+<face:00F9>
+You were very young then.<press>
+And you passed out from the*
+shock of being taken hostage. Of*
+course you wouldn't remember.<press>
+<face:002B>
+<sound:0016><blink>But that's funny.<press>
+A <red>huge incident<black> like that should*
+have caused quite a stir.<press>
+<change:0034>
+<end>
+It's strange you <red>never heard*
+of it<black>, Lynne.<press>
+<face:001B>
+It is, isn't it? But now*
+that I think about it...<press>
+...I remember I didn't want to*
+think about what happened.<press>
+I avoided the news, and I never*
+came back to this park again.<press>
+That's why I didn't know*
+anything about it.<press>
+<face:00F9>
+The meteorite was named*
+"Temsik" after the name of*
+this park that it fell in.<press>
+And then the "rock of the*
+gods" was forgotten.<press>
+<change:00FB>
+<end>
+<sound:0018><blink><shake:0128>Now, an awful thing is happening!*
+They're talking about turning*
+the park into a housing site!<press>
+I'll never forget the <red>miracle<black>*
+I witnessed that day.<press>
+And so I've taken up residence*
+in this park, and am trying to*
+appeal to the people.<press>
+<sound:0017><blink><shake:0128>Protect the park, <red>the rock of*
+the gods<black>! That is my mission!<press>
+<face:001B>
+I see...
+
+-------------------------------
+
+[m13_1720][3092]
+
+<face:0014>
+I'm taking you with me, Missile.<press>
+<face:0044>
+<NJ:003C>
+<center><blue>(So, ten years ago, the little*
+<center>girl that was Lynne wasn't*
+<center>aware of the meteorite.)<black><press>
+<NJ:003C>
+<center><blue>(I get that.*
+<center>But Detective Jowd,*
+<center>on the other hand...)<black><press>
+<NJ:003C>
+<center><blue>(There's no way he didn't know*
+<center>about this "Temsik" thing...)<black><press>
+<NJ:003C>
+<center><blue>(And if he knew...)<black>
+
+-------------------------------
+
+[m13_1730][3093]
+
+<face:00BC>
+<sound:0000><center>"And the man died. I took his life."<press>
+<face:0044>
+<NJ:003C>
+<center><blue>(...What was that "<red>confession<blue>"*
+<center>of his all about...?)<black>
+
+-------------------------------
+
+[m13_1740][3094]
+
+The "rocks of the gods" that fell*
+from the sky ten years ago...<space>
+...changed the destinies*
+of many people's lives.<space>
+Like the ripples on a pond when*
+a pebble is dropped in...<press>
+With every answer I get, I*
+learn about a new mystery.<space>
+Will I be able to break the chain*
+of mysteries before dawn...?
+
+-------------------------------
+
+[m13_1745][3095]
+
+Anyway, now that we have*
+the evidence we need...<space>
+...we decided to meet up again*
+at the minister's office.<space>
+Besides, there are a few things*
+I want to ask Detective Jowd...
+
+-------------------------------
+

@@ -1,0 +1,137 @@
+[m11_0100][2E19]
+
+<face:00FD>
+<sound:0017><shake:0128>What are you doing? Get*
+your buns over here!<press>
+<face:008F>
+<blink><shake:0128>Wh-What did you say?!<press>
+<face:00FD>
+Now I finally understand!*
+I finally know what it's like...<press>
+<sound:0017><blink><shake:0128>...for our poor hungry*
+customers who have their*
+food deliveries delayed!<press>
+<face:0091>
+Excuse me...<press>
+<change:008A>
+<end>
+...but this IS the Chicken*
+Kitchen, is it not?<press>
+<face:00FD>
+<sound:0015><blink>What?!<press>
+<sound:0016>Aren't I talking to the police?<press>
+<face:008A>
+The police...? Did something*
+happen there you need*
+assistance with?<press>
+<face:00FD>
+"Something happen here," you ask!<press>
+<sound:0017><blink><shake:0128>More like, "there's nothing left*
+here!" I gotta go!<1EFF_0500><press>
+<face:0093>
+<sound:0015><blink><shake:0128>Wait! Waaaaait!
+
+-------------------------------
+
+[m11_0300][2E20]
+
+<fchat:0001>
+Looking troubled, the Chief*
+is wiggling his itchy toes.
+
+-------------------------------
+
+[m11_0310][2E21]
+
+<face:0100>
+The Chief here.<press>
+It looks like I won't be able to get*
+home tonight. You go ahead and*
+get some sleep without me.<press>
+Yeah, I love you too, honey.
+
+-------------------------------
+
+[m11_0320][2E22]
+
+<fchat:0001>
+Hmm. I guess he was*
+radioing his wife.<press>
+<sound:0016><blue>(If he had called her on the*
+phone, I could have gone and*
+seen what she looked like.)<black>
+
+-------------------------------
+
+[m11_0350][2E23]
+
+<fchat:0001>
+<sound:0015><blink>I guess The Chief went out.<press>
+<sound:0016>He didn't even put*
+on his shoes.<press>
+<blue>(Did something happen...?)<black>
+
+-------------------------------
+
+[m11_0400][2E24]
+
+<fchat:0001>
+The Chief is wiggling his*
+itchy toes with a troubled*
+look on his face.
+
+-------------------------------
+
+[m11_0410][2E25]
+
+<face:0100>
+The Chief here.<press>
+<sound:0015><blink>Of course I'm working. I'm*
+right here at headquarters.<press>
+<sound:0018><shake:0128>You've got it all wrong!*
+You're just being silly now.<press>
+<shake:0128>Yeah, I love you, too, honey.
+
+-------------------------------
+
+[m11_0420][2E26]
+
+<fchat:0001>
+Hmm. I guess he was*
+radioing his wife.<press>
+<sound:0016><blue>(It sounds like a complicated*
+relationship...)<black>
+
+-------------------------------
+
+[m11_0450][2E27]
+
+<fchat:0001>
+Looking troubled, the Chief*
+is wiggling his itchy toes.
+
+-------------------------------
+
+[m11_0460][2E28]
+
+<face:0100>
+The Chief here.<press>
+<sound:0015><blink>Of course I'm working.*
+There's an execution tonight.<press>
+<sound:0018><shake:0128>No, not MY execution!*
+What are you talking about?!<press>
+<sound:0017><blink><shake:0128>Honey! Wait!
+
+-------------------------------
+
+[m11_0470][2E29]
+
+<fchat:0001>
+Hmm. I guess his wife*
+was radioing him.<press>
+<sound:0016><blue>(If she had called him on the*
+phone, I could have gone and*
+seen what she looked like.)<black>
+
+-------------------------------
+

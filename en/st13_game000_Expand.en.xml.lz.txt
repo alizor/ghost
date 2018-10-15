@@ -1,0 +1,382 @@
+[m13_0030][2F00]
+
+What the...?
+
+-------------------------------
+
+[m13_0045][2F02]
+
+What's the*
+matter?
+
+-------------------------------
+
+[m13_0050][2F03]
+
+All right, fine.
+
+-------------------------------
+
+[m13_0055][2F04]
+
+This is Point X!
+
+-------------------------------
+
+[m13_0060][2F05]
+
+Yes, sir!*
+I'll go get her!
+
+-------------------------------
+
+[m13_0240][2F0B]
+
+<fchat:0001>
+<blue>(Hey, this place...)<black><press>
+<blue>(This is the place that*
+white-suited inspector*
+phoned tonight.)<black><press>
+<fchat:0003>
+This is the parking lot of*
+the park on the east side*
+of town... It's been years...<press>
+<fchat:0001>
+You know this park?<press>
+<fchat:0003>
+Yeah, I used to play here*
+a lot when I was little.<press>
+But then, one day...<press>
+<sound:0016><blink><1EFF_0400>...I swore I'd never set foot*
+in this park ever again.<press>
+<fchat:0001>
+<blue>(Whoa. Those are some really*
+deep, dark feelings there... I*
+wonder what happened?)<black><press>
+<fchat:0003>
+<sound:0015><blink>Hold it!<press>
+<sound:0018><shake:0128>Don't give me that*
+"a ghost doesn't have*
+a foot to set" bit!<press>
+It's just a figure of speech!<press>
+<fchat:0001>
+<blue>(What kind of nitpicker*
+do you think I am?)<black><press>
+<fchat:0003>
+Anyway, whatever.*
+Let's get started!<press>
+<fchat:0001>
+<1DFF_0200><0001_5A00>Okay, let's do that.*
+<blue>(I won't press her about that*
+other thing right now...)<black>
+
+-------------------------------
+
+[m13_0090][2F0C]
+
+<face:00CD>
+<sound:0015><blink>That's Lynne, our*
+rookie detective...<press>
+What's she doing at Point X?*
+Could it be... just a coincidence...?<press>
+And we just got an APB*
+on her a little while ago.*
+Something about...<press>
+<sound:0016>"...an EXTREMELY important case's*
+EXTREMELY important witness,*
+currently EXTREMELY on the run..."<press>
+Now what? Should I report*
+this to Inspector Cabanela...?
+
+-------------------------------
+
+[m13_0100][2F0D]
+
+<fchat:0003>
+Wow... They put out*
+an APB on me...<press>
+<fchat:0001>
+Apparently, they're*
+calling you a <red>fugitive<black>.<press>
+<fchat:0003>
+<shake:0128>#groan#<press>
+<fchat:0001>
+You naughty girl, you.<press>
+<fchat:0003>
+.........<press>
+<sound:0016><shake:0128>#sniffle#<press>
+<fchat:0001>
+<sound:0015><blink><shake:0128>I'm sorry. I didn't mean*
+to make you upset...<press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>A girl's heart is a very*
+delicate thing, you know!<press>
+<fchat:0001>
+<blue>(This from the girl a giant*
+chicken couldn't even kill...)<black><press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>It DID kill me!
+
+-------------------------------
+
+[m13_0250][2F0E]
+
+<fchat:0001>
+It doesn't look like the*
+detective is going to*
+come...<press>
+<fchat:0003>
+Might as well turn it*
+off. It's pretty loud.
+
+-------------------------------
+
+[m13_0310][2F0F]
+
+What are these*
+doing here?
+
+-------------------------------
+
+[m13_0110][2F10]
+
+<face:00CE>
+They told us to stay off the radio*
+unless it was an emergency...*
+but I think I'd better call this in.<press>
+Poor Lynne... I wonder*
+what she did this time?<press>
+<fchat:0001>
+Uh, what does he*
+mean, "this time"?<press>
+<fchat:0003>
+Mind your own business! I like*
+to do things my way, okay?!<press>
+<face:00CE>
+Inspector Cabanela is pretty*
+protective when it comes to*
+Lynne... He'd want to know.
+
+-------------------------------
+
+[m13_0120][2F12]
+
+<face:00D0>
+<sound:0017><blink><shake:0128>Detective Rindge?! This is Memry!<press>
+<face:00CE>
+What's the matter? It's not*
+time for your regular report.<press>
+<face:00D0>
+<blink><shake:0128>Listen to this! There's a suspicious*
+couple in the bar upstairs!<press>
+<sound:0016>I'm going to put a*
+"<red>ladybug<black>" on them.<press>
+<face:00CE>
+<sound:0015><blink>A "ladybug"...? You mean*
+a <red>listening device<black>?<press>
+Don't do anything to blow our*
+cover. Inspector Cabanela will be*
+furious.<press>
+<face:00D0>
+<shake:0128>But they're doing all kinds of*
+suspicious whispering! We have*
+to find out what they're saying!<press>
+You can pick up the*
+signal from your van.<press>
+Check out their conversation*
+for me, would you?<press>
+<face:00CE>
+All right, fine. Once you get*
+going on something, I know*
+there's no stopping you...<press>
+<face:00D0>
+Thanks. Later, then!<press>
+<face:00CE>
+<sound:0015><blink>Hold on.<press>
+Did you see a customer come*
+in just now? A young woman*
+with red hair and red boots?<press>
+<face:00D0>
+<sound:0016>Oh, yeah. That restless,*
+suspicious chick. Sure.<press>
+<face:00CE>
+"Suspicious"...?<press>
+<face:00D0>
+I mean, c'mon. As soon as she*
+sat down, she ordered three*
+glasses of water in a row.<press>
+And she spilled the second*
+glass on the table.<press>
+<face:00CE>
+Okay, fine. Keep your eye*
+on her, too, if you would.<press>
+<face:00D0>
+<sound:0017><blink><shake:0128>You got it!
+
+-------------------------------
+
+[m13_0130][2F13]
+
+<fchat:0003>
+Oh, wow. That waitress...*
+was an <red>undercover agent<black>!<press>
+<fchat:0001>
+And she apparently*
+thought you were*
+pretty suspicious, too.<press>
+<fchat:0003>
+<sound:0015><blink>Oh, yeah. Sorry! I was really*
+thirsty, so... you know.*
+Ha ha.<press>
+<fchat:0001>
+<blue>(Um, no, I don't know.)<black><press>
+<fchat:0003>
+<sound:0015><blink>Anyway, did you hear*
+what I heard? About the*
+"<red>listening device<black>?"<press>
+We have to do something*
+about that bug!<press>
+<fchat:0001>
+<blue>(So should we stay here, or*
+follow up on the waitress...?)<black><press>
+Looks like it's time*
+to make a decision.
+
+-------------------------------
+
+[m13_0140][2F14]
+
+<face:00CE>
+I'm worried about that*
+Detective Memry...<press>
+<sound:0016>After all, they call her "<red>the Lynne*
+of the Special Investigation Unit<black>."<press>
+<fchat:0001>
+Well, well. Did you*
+hear that, Detective?<press>
+<fchat:0003>
+<sound:0015><blink>At least it's better than me*
+being called "<red>the Memry*
+of the detective division<black>!"<press>
+<face:00CE>
+At any rate, I'd better report to*
+Inspector Cabanela before I*
+worry about that listening device.
+
+-------------------------------
+
+[m13_0150][2F15]
+
+<face:00CE>
+This is Point X! Come in, Chief!<press>
+<face:0102>
+<sound:0015><blink><shake:0128><center><green>The Chief here!<black>*
+<center><green>Did he show up?!<black><press>
+<face:00CE>
+Uh, no, sir. Not yet. But--
+
+-------------------------------
+
+[m13_0151][2F16]
+
+<center>Idiot!
+
+-------------------------------
+
+[m13_0152][2F17]
+
+<face:0102>
+<sound:0018><blink><shake:0128><center><green>I told you to stay off the radio*
+<center>unless it was important!<black>
+
+-------------------------------
+
+[m13_0153][2F18]
+
+<face:00CE>
+B-But this IS important, sir!*
+Somebody else showed up...<press>
+<sound:0016><1EFF_0400>...Our rookie detective, Lynne.<press>
+<face:008B>
+<blink><shake:0128><center><green>Whaaat? You see my*
+<center>baby over there, do you?<black><press>
+<face:00CE>
+I heard she was on the lam...*
+What do you want me to do, Chief?<press>
+<face:008B>
+<shake:0128><center><green>Detective!<black><press>
+<sound:0017><blink><shake:0128><1CFF_0300><center><green>Get my baby away from Point X!<black><press>
+<shake:0128><center><green>Do it now, maaan! And*
+<center>then hold on to her!<black><press>
+<face:00CE>
+<sound:0017><blink>Yes, sir! I'll go get her now, sir!
+
+-------------------------------
+
+[m13_0210][2F1F]
+
+The static is awful...
+
+-------------------------------
+
+[m13_0220][2F20]
+
+What the heck*
+is this?
+
+-------------------------------
+
+[m13_0230][2F21]
+
+I can't hear*
+very well...
+
+-------------------------------
+
+[m13_0190][2F24]
+
+<fchat:0001>
+I guess we can't use*
+the telephone now.<press>
+In the past, we can only use*
+the lines while the phone*
+is being used to make a call.<press>
+<fchat:0003>
+Hmm. That's not very*
+convenient...<press>
+<fchat:0001>
+We'll have to look for*
+something else to try.
+
+-------------------------------
+
+[m13_0260][2F25]
+
+<fchat:0003>
+<sound:0018><blink><shake:0128>Who is the detective*
+talking to?!<press>
+<fchat:0001>
+Don't keep yelling at me*
+about these things!<press>
+<fchat:0003>
+<sound:0017><blink><shake:0128>But they might be talking*
+about something*
+ridiculously important!<press>
+<fchat:0001>
+That's true, but, still...<press>
+<fchat:0003>
+<sound:0017><blink><shake:0128>It might be the person*
+who really shot you!<press>
+<fchat:0001>
+.........*
+Now you're just throwing*
+things out there.<press>
+<blue>(But, in any case, it looks*
+like it's too late to get to*
+the phone now.)<black><press>
+<fchat:0003>
+Darn. I think we*
+missed our chance.
+
+-------------------------------
+

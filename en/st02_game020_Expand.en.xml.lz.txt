@@ -1,0 +1,291 @@
+[m02_1440][0534]
+
+<fchat:0003>
+These pictures are old.*
+What are they of? Little*
+fragments of rock?<press>
+And the fragments*
+are glowing... Do you*
+know what these are?<press>
+<fchat:0001>
+Sorry, but I've lost my*
+memory. Probably not*
+the best person to ask...<press>
+<fchat:0003>
+<sound:0015><blink>That's okay. I was only*
+being polite. I didn't*
+really think you'd know.<press>
+<fchat:0001>
+<blue>(Ouch. This lady's*
+tongue can be sharp.)<black><press>
+<fchat:0003>
+Uh, I can hear what you're*
+thinking, remember?<press>
+<fchat:0001>
+<sound:0016>I know.<press>
+<fchat:0003>
+Good one.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+What could this be? It looks*
+like a giant nail clipper.<press>
+<fchat:0003>
+You think so?<press>
+<fchat:0001>
+Do YOU know what it is?<press>
+<fchat:0003>
+#sigh#<press>
+<sound:0016>Why did you have to ask me?!*
+Couldn't you see I was*
+looking away evasively?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0003>
+It's... one of those science-y*
+things that scientists use.<press>
+<sound:0018><blink><shake:0128>Ordinary people like us don't*
+have to know what it is!<press>
+<fchat:0001>
+<blue>(I don't remember*
+what "science" is...)<black><press>
+<blue>(...but it's apparently*
+something Lynne*
+doesn't like very much.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+These photos*
+look pretty old.<press>
+Pictures of little*
+fragments of rock...<press>
+That old pigeon guy has*
+some pretty strange*
+taste in wall décor.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+I have no idea what this*
+instrument is for.<press>
+As a matter of fact, this*
+whole desk is filled with*
+things I've never seen.<press>
+I know I've lost my*
+memory, but still...<press>
+That old pigeon man seems*
+like a pretty strange guy.
+
+-------------------------------
+
+[m02_2000][0600]
+
+<face:00BE>
+<sound:0018><blink><shake:0128>Lynne! Lyyyyynne!<press>
+Oh, why couldn't it have*
+been me instead?!<press>
+<sound:0018><blink><shake:0128>I'm no use as a police officer!*
+It should have been me!
+
+-------------------------------
+
+[m02_2005][0601]
+
+<face:00D2>
+It looks like she's dead.*
+We'd better not touch her.<press>
+<face:00BE>
+<sound:0018><blink><shake:0128>Who did this?! Who shot Lynne?!
+
+-------------------------------
+
+[m02_2010][0602]
+
+<face:00BE>
+<sound:0015><blink>Hey... Excuse me, mister.
+
+-------------------------------
+
+[m02_2011][0603]
+
+<face:00D2>
+You talking to me?
+
+-------------------------------
+
+[m02_2012][0604]
+
+<face:00BE>
+This room... There aren't*
+any other exits besides*
+this one, are there?<press>
+<face:00D2>
+Do you see one?
+
+-------------------------------
+
+[m02_2015][0605]
+
+<face:00BE>
+Huh...? Then how did...?<press>
+<sound:0017><blink><shake:0128>We must have one of those*
+<red>mysterious "locked room"*
+murder cases <black>on our hands!<press>
+<sound:0018><blink><shake:0128>One of those cases where*
+the murderer vanishes into*
+thin air in a vacuum!<press>
+<face:00D2>
+Just go find a real detective.<press>
+I'll keep watch here.
+
+-------------------------------
+
+[m02_2018][0606]
+
+Yes, sir!
+
+-------------------------------
+
+[m02_2020][0607]
+
+<face:00D2>
+#sigh# What a terrible*
+turn of events...
+
+-------------------------------
+
+[m02_2030][0608]
+
+So now a "locked room"*
+murder, eh? Things never*
+get dull for our redhead...<space>
+I know of a certain inspector*
+who might dance around at*
+the thought of a mystery.<press>
+But no mysteries for me.<space>
+Not when I can rewind time*
+and talk to the victim herself.<space>
+Guess it's time to go back*
+and see the truth behind this*
+murder with my own eyes.
+
+-------------------------------
+
+[m02_2040][0609]
+
+<face:00D2>
+What's taking him so long?<press>
+I guess the simple act of getting*
+a detective is just too much for*
+the young people of today.<press>
+Well... I'm in no hurry. I'll just*
+clear my mind and wait.<press>
+<fchat:0001>
+<blue>(Well, I'M in a hurry. And*
+I'd better get going...)<black>
+
+-------------------------------
+
+[m02_2050][060A]
+
+<face:0006>
+<sound:0015><blink>Ha ha! I died again!<press>
+<face:002F>
+.........<press>
+<change:0029>
+<end>
+I thought you'd be a little more*
+grave, under the circumstances.<press>
+<face:000E>
+Yeah, well, this is the third time,*
+after all... It's scary what a girl can*
+get used to, don't you think?<press>
+<face:002B>
+<blue>(Frankly, the way her*
+mind works is a whole heck*
+of a lot scarier to me...)<black><press>
+<change:0029>
+<end>
+So what happened this*
+time? Who shot you?<press>
+<face:000E>
+<sound:0016>I don't know.<press>
+<face:0029>
+<blink>What?<press>
+<face:000E>
+I'd like to know, myself.*
+Who could've done it...?<press>
+<change:0010>
+<end>
+<sound:0018><blink><shake:0128>{2EFF}À{17FF}Who shot me?!{17FF}<press>
+<face:003A>
+<sound:0018><blink><shake:0128>What are you asking me for?!<press>
+<change:002B>
+<end>
+<blue>(Oh, boy... Guess I'll just have*
+to go find out for myself.)<black><press>
+<face:0004>
+<blink>Okay, you just go do*
+that. Hurry along, now!<press>
+<face:0029>
+<blue>(I get the distinct impression*
+I'm being used here...)<black><press>
+<change:0027>
+<end>
+Okay. Looks like it's time to*
+go back... back to four*
+minutes before your death!
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(So what exactly*
+is this thing?)<black><press>
+<blue>(It looks like a giant*
+nail clipper to me...)<black><press>
+<fchat:000C>
+<sound:0016>No, it most certainly*
+does not.<press>
+It's an instrument used in*
+analyzing radiation-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>O-Oh. Ahem. Yes, I see...<press>
+<fchat:000B>
+<sound:0015><blink>You're not alone, kid.<press>
+None of the rest of us*
+understand it, either, baby!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Yeah! You said it!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Old pictures... of what*
+look like little fragments*
+of rock.<press>
+<fchat:000C>
+Those are Temsik fragments.<press>
+That's an article from back*
+when it was big news.<press>
+<fchat:000B>
+Ten years ago, nobody*
+really understood it.<press>
+<fchat:000C>
+I guess that's*
+still true today.
+
+-------------------------------
+

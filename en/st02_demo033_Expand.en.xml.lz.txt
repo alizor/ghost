@@ -1,0 +1,275 @@
+[m02_3195][0733]
+
+<face:0095>
+How many times do I have*
+to tell you, Professor?*
+This place is dangerous.
+
+-------------------------------
+
+[m02_3197][0734]
+
+<face:00D2>
+Don't be daft. I can't leave now.
+
+-------------------------------
+
+[m02_3200][0735]
+
+<face:00D2>
+He's completely dead,*
+but, just as I thought,*
+I'm getting a <red>reading<black>.
+
+-------------------------------
+
+[m02_3210][0736]
+
+<face:00D2>
+<sound:0016>This is the <red>source <black>of his*
+<red>powers<black>. If I remove it...
+
+-------------------------------
+
+[m02_3220][0737]
+
+<face:0093>
+<sound:0018><blink><shake:0128>He's not "dead"!*
+He's just "<red>not there<black>"!<press>
+<sound:0017><blink><shake:0128>The true form of the*
+manipulator isn't something*
+you can "detect." It's a <red>spirit<black>!
+
+-------------------------------
+
+[m02_3222][0738]
+
+Hmph. Ridiculous.
+
+-------------------------------
+
+[m02_3225][0739]
+
+<face:0059>
+<sound:0000><NJ:003C>
+<center>Heh heh heh...<press>
+<NJ:003C>
+<center>So you figured it all out, huh?
+
+-------------------------------
+
+[m02_3230][073A]
+
+<face:0059>
+<sound:0016><blink><center>You're a clever man,*
+<center>Inspector Cabanela.
+
+-------------------------------
+
+[m02_3231][073B]
+
+<face:008F>
+<sound:0017><blink><shake:0128>So it's really true...! Y-You're...!<press>
+<face:0045>
+I wasted a lot of time tonight*
+because of you, Inspector.
+
+-------------------------------
+
+[m02_3235][073C]
+
+<face:0045>
+But it's all just like you said.<press>
+I died ten years ago. This*
+body is just a vessel, a <red>shell<black>.<press>
+<change:004F>
+<end>
+I <red>control <black>everything --*
+this shell, people...<press>
+<change:0057>
+<end>
+<sound:0016>Just like I controlled the*
+justice minister and Lynne.
+
+-------------------------------
+
+[m02_3237][073D]
+
+<face:008F>
+So it's true. You were*
+<red>manipulating <black>my baby*
+that time...?<press>
+You made her shoot*
+your "shell"...<press>
+<face:0093>
+<sound:0018><blink><shake:0128>But why?! Why would*
+you do a thing like that?!<press>
+<face:0057>
+To create <red>conclusive*
+evidence<black> -- you know,*
+on that security tape...<press>
+Now she's a <red>murderer<black>, too.*
+She'll suffer just like Jowd did.
+
+-------------------------------
+
+[m02_3240][073E]
+
+<face:0059>
+Now, then, Professor.<press>
+<face:0050>
+<sound:0016>I'm afraid it's time for you to die.
+
+-------------------------------
+
+[m02_3250][073F]
+
+<face:0046>
+I don't have any grudge against*
+you. I'm even grateful to you...<press>
+<face:00D2>
+Oh, yeah? So why don't*
+you let me live, then?<press>
+<face:004A>
+I'll be leaving this country*
+forever tonight.*
+But before I do...<press>
+<change:0046>
+<end>
+...I need to erase all*
+evidence that these*
+powers of mine exist.
+
+-------------------------------
+
+[m02_3260][0740]
+
+<face:0058>
+<sound:0016><blink>Along with the "contraption"*
+in this room.
+
+-------------------------------
+
+[m02_3270][0741]
+
+<face:0050>
+<sound:0016>This time, the thing will*
+work the way it was meant*
+to, and it'll all be over.<press>
+<change:0046>
+<end>
+Cupid won't turn this time. He'll*
+shoot his little arrow this way.
+
+-------------------------------
+
+[m02_3290][0742]
+
+<face:0093>
+<sound:0017><shake:0128><blink>Professor! LOOK OUT!
+
+-------------------------------
+
+[m02_3300][0743]
+
+<face:00D2>
+<sound:0016><blink>Dynamite, eh? When the*
+devil did he put that there?!<press>
+<face:0091>
+He planned it all out tonight.<press>
+Having my baby shoot him,*
+having his corpse disappear...<press>
+<face:0036>
+<sound:0015><blink>His corpse... <red>disappeared<black>...?
+
+-------------------------------
+
+[m02_3310][0744]
+
+<face:008B>
+<center>That medical examiner.*
+<center>Remember hiiim?<press>
+<center>He was a complete*
+<center>and utter imposter.
+
+-------------------------------
+
+[m02_3320][0745]
+
+<face:008B>
+<center>He said he was going to take*
+<center>the corpse back to the lab...<press>
+<center>...but he'd already made a deal*
+<center>with the manipulator to meet*
+<center>him and give him the body back.
+
+-------------------------------
+
+[m02_3330][0746]
+
+<face:008A>
+<sound:0016><blink>But I wasn't going to*
+let that happen, baby!<press>
+<face:00D2>
+<sound:0015><blink>You saw through their plan, eh?<press>
+<face:008D>
+I noticed right away the medical*
+"examiner" didn't know the first*
+thing about examining a body.<press>
+<change:008A>
+<end>
+<sound:0016>I knew he was a fake,*
+so I tracked him down*
+and bought him off.<press>
+<face:0036>
+<sound:0015><blink>Bought him off...?<press>
+<face:008A>
+I had him smuggle the*
+corpse to <red>this room<black>.
+
+-------------------------------
+
+[m02_3340][0747]
+
+<face:008B>
+<center>I thought we could find*
+<center>the <red>source <black>of his <red>powers<black>...<press>
+<center>Of course, never in my wildest*
+<center>dreams did I think his abilities*
+<center>were "powers of the dead."
+
+-------------------------------
+
+[m02_3350][0748]
+
+<face:00D3>
+Anyway, there isn't much time.<press>
+He's leaving the*
+country before dawn.<press>
+<face:0027>
+And I'm gonna follow him, of*
+course, after I save you two.<press>
+<change:002B>
+<end>
+<blue>(But something's been nagging*
+at the back of my mind...)<black><press>
+<blue>(I remember what Ray*
+said to me tonight.)<black><press>
+<sound:0016><blink><blue>(He said that spirits <red>cease to*
+exist when the day breaks<blue>.)<black><press>
+<blue>(But if that's true...)<black><press>
+<change:0029>
+<end>
+<sound:0016><blink><blue>(...how could a spirit from ten*
+years ago <red>still be here<blue>...?)<black><press>
+<face:008D>
+<sound:0015><blink>No time for thinkin' now, baby.*
+Action is the name of the gaaame!<press>
+<change:008A>
+<end>
+<sound:0017><blink><shake:0128>Work your magic and*
+take us back... even*
+further into the past!
+
+-------------------------------
+

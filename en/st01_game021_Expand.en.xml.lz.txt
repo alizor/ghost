@@ -1,0 +1,726 @@
+[m01_2196][031B]
+
+<face:0089>
+Carry on, boooys.
+
+-------------------------------
+
+[m01_2260][031E]
+
+<face:00CC>
+Think we can pretty safely assume*
+this was the <red>murder weapon<black>.
+
+-------------------------------
+
+[m01_2270][031F]
+
+<face:00C9>
+<sound:0015><blink>Oh, no... That pistol...
+
+-------------------------------
+
+[m01_2275][0321]
+
+<face:00CC>
+<sound:0016>{28FF}0KYup. Same model as the pistols*
+you <red>detectives <black>carry around.<press>
+<face:00C9>
+You don't think... it's*
+Lynne's, do you...?<press>
+<face:00C6>
+This is not good. If it is*
+hers, it's all over.
+
+-------------------------------
+
+[m01_2285][0324]
+
+<face:00CC>
+<sound:0018><blink><shake:0128>Fool! If you want to*
+fire the thing, aim it*
+in your own direction!<press>
+<face:00C9>
+<blink><shake:0128>I-I didn't fire it!*
+I'm the victim here!<press>
+This is the act of somebody*
+who's jealous of my*
+abilities as a detective!<press>
+<face:00C6>
+Well, what are you glaring at me*
+for? I'm hardly jealous of you.
+
+-------------------------------
+
+[m01_2360][0331]
+
+<face:0083>
+I've been waiting for you.<press>
+<face:0015>
+<sound:0015><blink><shake:0128>Eek! Wh-What are you?!<press>
+<sound:0016><blink>A desk lamp... that sounds*
+like an old grandpa...?<press>
+<face:0083>
+Just call me "Ray."<press>
+<face:000D>
+"Grandpa Ray"...?<press>
+<face:002B>
+<blue>(You just have to get the*
+"grandpa" part in there*
+somewhere, don't you?)<black><press>
+<face:0083>
+We're souls. We can choose*
+<red>any appearance<black> we like.<press>
+<face:0027>
+Which means you have no*
+intention of showing us what*
+you really look like, right?<press>
+<face:0083>
+.........<press>
+Now, then. About that*
+gunshot that took your life...<press>
+<face:0013>
+<sound:0015><blink>...!<press>
+<face:0083>
+I heard it way up on the upper*
+level, a scant few minutes from*
+now.
+
+-------------------------------
+
+[m01_2370][0332]
+
+<face:0086>
+The hitman is probably getting*
+his rifle ready right now.<show>
+
+-------------------------------
+
+[m01_2380][0333]
+
+<face:0011>
+<blink><shake:0128>All right, I'm going in! I'll get him*
+with those "ghost trick" thingies!<press>
+<face:0083>
+I'm very sorry, young lady...<press>
+<sound:0016>...but you <red>don't have<black>*
+those powers.<press>
+<face:0015>
+<sound:0015><blink>What?! Why not?!<press>
+<face:0083>
+I'm afraid I don't know the reason.<press>
+But only a special few have*
+the powers of the dead.<press>
+<face:000F>
+<sound:0018><shake:0128><blink>What?! Are you saying I'm*
+not special?! That's not fair!<press>
+<face:0083>
+Anyway, we don't have much time.
+
+-------------------------------
+
+[m01_2385][0334]
+
+<face:0083>
+Come on and hop in.
+
+-------------------------------
+
+[m01_2386][0335]
+
+<fchat:0001>
+<sound:0016>It's no use.<press>
+<fchat:0003>
+What's the matter?<press>
+<fchat:0001>
+This telephone doesn't seem*
+to be working right now.<press>
+In the "four minutes before*
+death" world, we can't use*
+the phone anytime we want.<press>
+<fchat:0003>
+I think it's a message*
+from the gods.<press>
+<fchat:0001>
+Message from the gods?<press>
+<fchat:0003>
+<sound:0017><shake:0128><blink>That's right. They're telling*
+us to stay right here and*
+find that horrible hitman!<press>
+<fchat:0001>
+That's a very personalized*
+and specific message*
+from the gods, isn't it?
+
+-------------------------------
+
+[m01_2600][0336]
+
+<fchat:0003>
+That horrible hitman that's*
+after me is upstairs, isn't he?<press>
+<fchat:0001>
+Yes, apparently.<press>
+<blue>(In other words...)<black><press>
+<blue>(...we <red>can't stop him<blue> if*
+we stay down here!)<black><press>
+<fchat:0003>
+<blink><shake:0128>Let's go, then!<press>
+I'm not really big on the*
+idea of getting shot again.
+
+-------------------------------
+
+[m01_2601][0337]
+
+<fchat:0003>
+There he goes.<press>
+<fchat:0001>
+Yeah. We should*
+get going ourselves.<press>
+<fchat:0003>
+It feels like we lost,*
+you know?<press>
+And if there's one thing*
+I hate, it's losing a race.<press>
+<fchat:0001>
+I wasn't aware we were in*
+a race with the inspector.<press>
+<fchat:0003>
+<sound:0015><blink>Think barber pole stripes{0C01}*
+you're red, and he's white,*
+and it's a race to the top!<press>
+<fchat:0001>
+<blue>(#sigh# Maybe I should just*
+indulge her and try again?)<black>
+
+-------------------------------
+
+[m01_2620][0338]
+
+<fchat:0003>
+Well, we made it! Now*
+it's time to hunt down*
+that horrible hitman!<press>
+<fchat:0001>
+He must be around here*
+somewhere, preparing*
+to take his shot.<press>
+There isn't a lot of time.*
+Let's try to find him, fast.<press>
+<fchat:0003>
+I'm going to make good and*
+sure he understands...<press>
+<sound:0017><blink><shake:0128>...what happens to people*
+who point guns at others!<press>
+<fchat:0001>
+<blue>(There's a gleam in her eye*
+that's absolutely blinding...)<black>
+
+-------------------------------
+
+[m01_2630][0339]
+
+<fchat:0003>
+Look! There he is, way up*
+there! The horrible hitman!<press>
+<fchat:0001>
+<blue>(I think his name is actually*
+"Tengo," but I guess that*
+doesn't matter.)<black><press>
+<fchat:0003>
+<sound:0017><shake:0128><blink>C'mon! Let's go grind*
+him into pieces!<press>
+<fchat:0001>
+I wish you wouldn't*
+use such violent*
+expressions. Besides...<press>
+<sound:0018><shake:0128><blue>(I don't see any cores*
+that'll get us over there.)<black><press>
+<blue>(I think we might've <red>missed*
+our chance<blue> already.)<black><press>
+<blue>(<red>Timing <blue>is everything.)<black>
+
+-------------------------------
+
+[m01_2670][033A]
+
+<face:007E>
+I see my target.*
+Time to go to work.<press>
+I'll be head of the*
+hitman division by next*
+month now for sure.
+
+-------------------------------
+
+[m01_2675][033B]
+
+<face:000B>
+<sound:0015><blink><shake:0128>There he is! The horrible hitman!<press>
+<face:002C>
+<blue>(I think his name is actually*
+"Tengo," but that doesn't*
+matter now.)<black><press>
+<change:0028>
+<end>
+We have to stop him*
+from shooting... fast!
+
+-------------------------------
+
+[m01_2540][033C]
+
+<face:002B>
+Hmm. He's saying something,*
+but I <red>can't hear<black> him from here.
+
+-------------------------------
+
+[m01_2700][033D]
+
+<face:0027>
+There. We put a stop*
+to that shot at least.<press>
+<face:0006>
+<sound:0015><blink><shake:0128>We did it! So I'm safe now, right?<press>
+<face:0034>
+Well, that changed your fate a*
+little, but it didn't avert it*
+completely. We're not done yet.<press>
+The hitman is a professional. And*
+he really, really wants to be head*
+of the division, apparently.<press>
+<change:002B>
+<end>
+<sound:0016><blue>(I doubt blocking a shot here and*
+there is really gonna stop him.)<black><press>
+<face:0012>
+<blink>If you want to rough him*
+up a little bit, I promise I*
+won't put it in my report.<press>
+<face:0027>
+Let's think of <red>something else<black>*
+before he gets a shot in!
+
+-------------------------------
+
+[m01_2680][033E]
+
+<face:007E>
+"If I want that position,*
+I have to be careful of*
+even the least bit of light."<press>
+Division head is my ambition*
+for this year. Next year,*
+my motto will be...<press>
+..."If I want to be director,*
+I have to be careful of even*
+the least bit of scandal."<press>
+<face:002C>
+So it sounds like he <red>won't show*
+up<black> in spots where a <red>light is on<black>.<press>
+<face:0012>
+<sound:0015><blink>And, next year, I'm going to*
+spread some nasty, scandalous*
+rumors about him!
+
+-------------------------------
+
+[m01_2660][033F]
+
+<face:00BF>
+Hey, did you turn that*
+flashing light on?<press>
+<face:00C5>
+Wasn't me. It went off*
+all by itself. Scared the*
+heck out of me.<press>
+<face:00BF>
+<sound:0016>Well, just make sure you*
+lay off it. Don't wanna*
+waste any electricity.<press>
+<face:00C5>
+Have things gotten that*
+tight? That's pretty sad.<press>
+<face:00BF>
+They're really puttin' the*
+squeeze on us lately about*
+using too much power at sites.<press>
+They won't even let us use*
+all of our searchlights at once.<press>
+<face:00C5>
+Oh, boy...<press>
+We oughta be free to do*
+at least that much, especially*
+on a dark night like tonight.
+
+-------------------------------
+
+[m01_2665][0340]
+
+<face:00BF>
+<sound:0018><shake:0128><blink>Hey, I told you to*
+lay off that thing!<press>
+<face:00C5>
+<sound:0018><shake:0128><blink>And I told you, it wasn't me!<press>
+<face:00BF>
+Uh-oh... I think I might know*
+what's going on here...<press>
+<sound:0016>This is the work of... you know.<press>
+<face:00C5>
+<sound:0015><blink><shake:0128>What? Hey, shut up!*
+You're creeping me out!<press>
+<face:00BF>
+But you know as well as I*
+do, the only explanation*
+for mischief like this is...<press>
+<sound:0016>...Inspector Cabanela!<press>
+<fchat:0001>
+So they tell tales about him*
+as though he's a ghost, eh?<press>
+<fchat:0003>
+<shake:0128><blink>But Inspector Cabanela is*
+really a very nice person!
+
+-------------------------------
+
+[m01_2609][0341]
+
+<fchat:0001>
+Huh. Nothing happens.<press>
+That's funny.<press>
+I thought this lever was*
+for swinging the crane*
+arm around?<press>
+<fchat:0003>
+I'd like to swing that*
+horrible hitman around!<press>
+<fchat:0001>
+<blue>(Hmm. This crane...)<black><press>
+<blue>(I wonder if there's some*
+other way we can use it?)<black>
+
+-------------------------------
+
+[m01_2610][0342]
+
+<fchat:0001>
+Uh-oh. The umbrella got*
+knocked way over here...<press>
+<blue>(Now we can't go anywhere.)<black><press>
+<fchat:0003>
+Guess that's what you*
+get for touching Inspector*
+Cabanela's umbrella.<press>
+He's always setting*
+up traps for people.<press>
+<fchat:0001>
+Darn. Now what?<press>
+<blue>(Probably should've saved*
+this umbrella for when*
+we really needed it...)<black><press>
+<blue>(Maybe we should*
+start over?)<black>
+
+-------------------------------
+
+[m01_2690][0343]
+
+<face:007E>
+Hmm. This is quite a*
+distance from the target...<press>
+But I can't work under*
+a spotlight after all.<press>
+Never mind. A shot like this is*
+nothing for a man of my skill.<press>
+<face:000E>
+"Mr. Division Head" seems to*
+like dark, gloomy places.<press>
+I'd be happy to throw him*
+in a dark, gloomy cell!<press>
+<change:0012>
+<end>
+<sound:0017><blink><shake:0128>C'mon, Sissel. Get him!<press>
+<face:0030>
+<blue>(Hold up! When did I*
+become HER assistant?!)<black>
+
+-------------------------------
+
+[m01_2650][0344]
+
+<fchat:0003>
+<sound:0015><blink>Oh! Look at that! One of*
+the lights went out.<press>
+<fchat:0001>
+There are three lights*
+here all together.<press>
+Apparently, we <red>can't have*
+all three of them on at*
+once<black>.<press>
+<fchat:0003>
+Our station is crazy*
+cheap when it comes*
+to electricity.<press>
+Just so another detective*
+could see what he was doing*
+the other day...<press>
+...I had to pedal my bicycle in*
+place to work the headlamp.<press>
+<fchat:0001>
+A very sad tale indeed.*
+<blue>(Sounds like they're taking*
+things way too far.)<black>
+
+-------------------------------
+
+[m01_2655][0345]
+
+<fchat:0003>
+<sound:0015><blink>Look! One of the*
+lights went out!<press>
+<fchat:0001>
+There are three lights*
+here all together.<press>
+Apparently, we <red>can't have*
+all three of them on at*
+once<black>.
+
+-------------------------------
+
+[m01_2640][0346]
+
+<fchat:0003>
+.........<press>
+Wow. Such power...*
+and speed.<press>
+I bet that would put a nice*
+stop to my horrible hitman.<press>
+<fchat:0001>
+If it just stopped him,*
+that would be fine.<press>
+<sound:0016>But if it killed him, would*
+I be obligated to save him?<press>
+<fchat:0003>
+.........<press>
+Anyway... let's just focus*
+on the "stopping" part.<press>
+<fchat:0001>
+<blue>(Apparently, thinking about*
+things too deeply isn't*
+something you like to do.)<black><press>
+<fchat:0003>
+Just the right amount.*
+That's the way detectives*
+think about things!<press>
+<sound:0017><shake:0128><blink>Now, c'mon!*
+Let's do this thing!<press>
+Ooh, I just love stamping*
+out evil! It makes me*
+feel so <red>alive<black>!<press>
+<fchat:0001>
+<blue>(Except for the fact*
+that you're <red>dead<blue>.)<black>
+
+-------------------------------
+
+[m01_2710][0347]
+
+<face:007E>
+Musings of a Hitman, Part 1.*
+When I fire a bullet, I put*
+my heart and soul into it.<press>
+The bullet is my soul. The shot*
+is the expression of my soul.<press>
+That's why I never*
+waste bullets. Besides...<press>
+...I'd have to put the extra bullets*
+down as an extra expense, and*
+accounting never likes that.<press>
+<face:0010>
+<sound:0018><shake:0128><blink>What the heck is that*
+idiot blathering about?!<press>
+<face:0034>
+Hey, don't get mad at me!*
+<blue>(We have to stop this guy.)<black>
+
+-------------------------------
+
+[m01_2720][0348]
+
+<face:007E>
+Musings of a Hitman, Part 2.*
+To fire a bullet, I need a stable*
+location and a stable income.<press>
+When I aim my rifle, the*
+location I choose has to*
+be stable and unwavering.<press>
+Otherwise, any small*
+external influence could*
+cause me to miss the target.<press>
+Likewise, worries over an*
+unstable income could*
+also cause me to miss.<press>
+<face:0010>
+<sound:0018><shake:0128><blink>What the heck is that*
+idiot blathering about?!<press>
+<face:0034>
+Hey, don't get mad at me!*
+<blue>(We have to do*
+something... fast.)<black>
+
+-------------------------------
+
+[m01_2730][0349]
+
+<face:007E>
+Musings of a Hitman, Part 3.*
+When I fire a bullet, I should*
+always draw in my chin.<press>
+"A rifle is impartial when it metes*
+out damage. It can hurt the*
+hunter as well as the hunted."<press>
+That's a quote from a hitman*
+who bit his tongue due to the*
+shock of the kickback...<press>
+I have no intention of biting*
+my tongue. I only want my*
+bullet to bite my prey.<press>
+<face:0010>
+<sound:0018><shake:0128><blink>What the heck is that*
+idiot blathering about?!<press>
+<face:0034>
+Hey, don't get mad at me!*
+<blue>(Uh-oh. We're running*
+out of time...)<black>
+
+-------------------------------
+
+[m01_2740][034A]
+
+<face:00BF>
+Did you hear a scream just now?<press>
+<face:00C5>
+<sound:0018><shake:0128><blink>I'm telling you, it wasn't me!<press>
+<face:00BF>
+Nobody said it was.
+
+-------------------------------
+
+[m01_2750][034B]
+
+<face:002B>
+There.<press>
+<change:0027>
+<end>
+We found a nice dark spot for*
+our gloom-loving hitman.<press>
+I think your death has*
+just been erased. Again.
+
+-------------------------------
+
+[m01_2760][034C]
+
+<face:0014>
+Why not, I wonder...?<press>
+<face:0029>
+<sound:0015><blink>Huh?<press>
+<face:0014>
+Why don't I have*
+<red>powers<black> like yours?<press>
+If I could do things like*
+you do, it could really*
+help me pursue my case...<press>
+<change:001C>
+<end>
+<sound:0016>Why only the "<red>special few<black>," huh?*
+It's not fair!<press>
+<face:002B>
+<blue>(That's the same thing*
+the little doggie said, too.)<black><press>
+<change:0027>
+<end>
+Well, I'm jealous of YOU, actually.<press>
+<face:0016>
+<blink><shake:0128>You are? Why?<press>
+<face:0027>
+Because your life can be saved.*
+Even if you die again tonight.<press>
+I can save you, with*
+my ghost tricks.<press>
+<change:0034>
+<end>
+<sound:0016>Nobody can save my life, though.<press>
+<face:0016>
+<sound:0015><blink>Oh...<press>
+<face:0027>
+<blue>(These powers of the dead...*
+why have they <red>chosen me<blue>?)<black><press>
+<change:002B>
+<end>
+<blue>(Will I find the answer to*
+that question tonight?)<black><press>
+<face:001C>
+Sissel... I'm so sorry.<press>
+<face:0027>
+Well, you're free to do*
+as you please now.<press>
+I guess this is*
+goodbye, Detective.<press>
+<face:001C>
+Will we ever see*
+each other again?<press>
+<face:0027>
+If you ever want to see me*
+again, all you have to do is die.<press>
+<face:0006>
+<sound:0015><blink><shake:0128>Okay, got it!<press>
+<face:002F>
+<blue>(I was kidding.)<black><press>
+<change:0027>
+<end>
+Well, guess we'd better be*
+getting back... to the present!
+
+-------------------------------
+
+[m01_2530][034D]
+
+<face:002B>
+The gunshot came from*
+somewhere way <red>overhead<black>.<press>
+<change:0027>
+<end>
+If we want to stop him, we*
+have to go to where he is.<press>
+But we'll have to find him first...<press>
+<change:002B>
+<end>
+<blue>(We have to look for the right*
+<red>timing <blue>that will open up a <red>path<blue>*
+to where the hitman is.)<black>
+
+-------------------------------
+
+[m01_2535][034E]
+
+<face:002B>
+Even if we block his shot,*
+that'd only buy us a little*
+more time.<press>
+<change:0029>
+<end>
+It doesn't look like we can*
+discourage him from shooting*
+completely.<press>
+<face:0011>
+<sound:0015><blink>The only way to deal with evil*
+is to crush it completely!<press>
+<face:002B>
+<blue>(This lady detective is*
+just a little excessive...)<black>
+
+-------------------------------
+

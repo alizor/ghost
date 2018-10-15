@@ -1,0 +1,244 @@
+[m03_5710][1205]
+
+<fchat:0001>
+This appears to be some kind*
+of control panel. I might be*
+able to operate it...<press>
+Hmm, but it doesn't seem*
+to be responding. It's too*
+dark to really tell, though.<press>
+<blue>(I guess the first thing*
+I need to do is restore*
+that generator.)<black>
+
+-------------------------------
+
+[m03_6030][1303]
+
+<face:00F2>
+<sound:0017><blink><shake:0128>Prisoner D99! It's time! L-Let's go!
+
+-------------------------------
+
+[m03_6035][1304]
+
+<face:0096>
+All right, men. I'm ready.<press>
+<change:009C>
+<end>
+Sorry you have to go through*
+this unpleasant experience.<press>
+<face:00F2>
+<blink><shake:0128>Wh-What?! No, we, uh...<press>
+<face:009C>
+Oh, well. I guess it's all*
+about collecting experiences...*
+for you and for me.
+
+-------------------------------
+
+[m03_6040][1305]
+
+Prepare to test!
+
+-------------------------------
+
+[m03_6050][1306]
+
+Throw the switch!
+
+-------------------------------
+
+[m03_6060][1307]
+
+<face:002B>
+So this is an execution, huh?<press>
+It seems to me there's gotta*
+be a safer way to do it...<press>
+<face:009B>
+<sound:0018><blink><shake:0128>Ha ha ha! It must be nice to*
+have no memory like that.<press>
+<change:00AD>
+<end>
+It makes things more interesting.*
+I envy you. I really do.<press>
+<face:0036>
+<blue>(It's no laughing matter to me.)<black><press>
+<face:009D>
+<sound:0016>That was an example of a*
+<red>failed execution<black>... although*
+the outcome was the same.<press>
+<face:002F>
+Failed...?<press>
+<face:0097>
+They haven't carried out an*
+execution in a long time.<press>
+<sound:0015><blink>They dragged that old chair out*
+from under some mothballs, and*
+I guess it had a <red>short<black>.<press>
+<face:002B>
+<blue>(So I guess that means that*
+if I can <red>stop the explosion<blue>...)<black><press>
+<face:009D>
+<sound:0016><blink>Hmm, I don't know about that.<press>
+<change:00AD>
+<end>
+Then I'd just be executed*
+as planned, and I'd still*
+wind up <red>just as dead<black>.<press>
+<face:002B>
+.........<press>
+<change:0029>
+<end>
+So what should I do?<press>
+<face:00AD>
+<sound:0015><blink>Beats me.<press>
+<change:009D>
+<end>
+You're the one who came to*
+save me. You figure it out.<press>
+<face:002B>
+<blue>(He's not making this easy.)<black>
+
+-------------------------------
+
+[m03_6320][1329]
+
+<fchat:0001>
+This appears to be some kind*
+of control panel. I might be*
+able to operate it...<press>
+Nope, it's already on, and*
+the buttons are locked.<press>
+<blue>(I guess I can't operate*
+it right now.)<black>
+
+-------------------------------
+
+[m03_6510][1330]
+
+<face:0029>
+Darn. I ran out of time!<press>
+But I don't think I'm*
+on the wrong track...<press>
+<face:0096>
+When you move, move as*
+if your life depends on it.*
+That's what I always say.<press>
+<face:0034>
+<blue>(...Said the dead man.)<black>
+
+-------------------------------
+
+[m03_6300][1331]
+
+<face:00F3>
+<sound:0018>{27FF}1e<center>Wh-What just happened?!<blink><0CFF_0A00><blink><0CFF_0A00><blink><press>
+<face:00F3>
+<sound:0017>{27FF}1e<center><red>The power's down<black> throughout*
+<center>the whole facility!<blink><0CFF_0A00><blink><0CFF_0A00><blink><press>
+<face:00F3>
+<sound:0018>{27FF}1e<center>N-No way! I-If the power's*
+<center>down, that means...!<blink><0CFF_0A00><blink><0CFF_0A00><blink><press>
+<sound:0017>{27FF}1e<center>All <red>the cell bars*
+<center>open<black> automatically!<blink><0CFF_0A00><blink><0CFF_0A00><blink><press>
+<face:00F3>
+<sound:0018>{27FF}1e<center>Dammit! The internal phones*
+<center>aren't working, either! State*
+<center>of emergency!<blink><0CFF_0A00><blink><0CFF_0A00><blink><press>
+<face:0027>
+<sound:0016><blink>Now the execution*
+can't be carried out,*
+and your life is saved.
+
+-------------------------------
+
+[m03_6310][1332]
+
+<face:009B>
+<1CFF_1900>You're a pretty daring guy!<press>
+<change:009D>
+<end>
+I really enjoyed myself.*
+And I think I learned a*
+thing or two, as well!<press>
+<face:0036>
+<blue>(About what?)<black><press>
+<change:002B>
+<end>
+By the way, is it true*
+what the guard said?<press>
+<sound:0016><blink><red>The cell bars open<black> automatically?<press>
+<face:0097>
+Yup, it's true. It's a little*
+drawback to the system...<press>
+If the entire facility blacks*
+out, the locks are released,*
+for the prisoners' safety.<press>
+<change:009D>
+<end>
+But nobody thought it would*
+actually ever happen...<press>
+<face:0029>
+<sound:0015><blink><blue>(So, in other words, <red>now's the*
+time to escape<blue> if you're gonna...)<black><press>
+Anyway, we managed to*
+stop the execution.<press>
+Let's get back to the present.<press>
+<face:0034>
+You're still not out*
+of the woods yet.<press>
+<face:0097>
+<sound:0015><blink>Oh, let me give you*
+one piece of advice.<press>
+<face:0029>
+What's that?<press>
+<face:00AD>
+<sound:0016>When we get back to the*
+present, head for the <red>spoon<black>.<press>
+<face:0036>
+Spoon? Huh?<press>
+<face:009D>
+You'll see when we*
+get back, Sissel.
+
+-------------------------------
+
+[m03_6340][1333]
+
+Now the execution can't be*
+carried out, and Detective*
+Jowd is safe for the moment.<space>
+A new "present" has been born.<space>
+However...<press>
+...Jowd still isn't safe from*
+execution, of course.<space>
+I guess I still have a job to do:<space>
+Help a death-row inmate*
+escape from prison...
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+

@@ -1,0 +1,128 @@
+[m03_4510][0F02]
+
+<fchat:0001>
+It looks like some kind*
+of control panel. I think*
+I can manipulate it...<press>
+I think it must already be*
+on.... and I can't turn it off.<press>
+<blue>(I guess there's no need*
+to fool around with it.)<black>
+
+-------------------------------
+
+[m03_4530][0F04]
+
+<face:00F1>
+Did you hear? He escaped.<press>
+<face:00F2>
+Yeah. We're supposed to*
+repair this thing by the time*
+they catch him again. #sigh#<press>
+<face:00F1>
+But I wonder why he escaped?<press>
+I heard Detective Jowd*
+wanted the death penalty...<press>
+<face:00F2>
+Right. And it's not like*
+him to change his mind...<press>
+Maybe on this final night*
+of his, he just got a voice in*
+his head or something...<press>
+<sound:0015><blink>Maybe it told him to run.<press>
+<fchat:0001>
+<sound:0016>Are they talking about me?<press>
+<face:00F1>
+What kind of voice do*
+you think it was?<press>
+<face:00F2>
+You know... something evil.<press>
+Like a devil or a*
+demon or something.<press>
+<sound:0015><blink>I picture something with a pointy*
+head, wearing sunglasses...*
+something like that.<press>
+<fchat:0001>
+<sound:0016>They ARE talking about me...!*
+<blue>(Can they see me?)<black>
+
+-------------------------------
+
+[m03_4540][0F05]
+
+<fchat:0001>
+The men who were fixing*
+the chair are gone.<press>
+<blue>(I bet it's because*
+the execution has*
+been called off...)<black><press>
+.........<press>
+<sound:0016><blink>They should've cleaned*
+up a little better before*
+they left.<press>
+<blue>(But there's nothing I can*
+do about it from here...)<black>
+
+-------------------------------
+
+[m03_6320][1329]
+
+<fchat:0001>
+This appears to be some kind*
+of control panel. I might be*
+able to operate it...<press>
+Nope, it's already on, and*
+the buttons are locked.<press>
+<blue>(I guess I can't operate*
+it right now.)<black>
+
+-------------------------------
+
+[m03_6410][1335]
+
+<fchat:0001>
+The darkness is thick, but*
+it can also be our friend.<press>
+Right now, it's what*
+Detective Jowd is*
+hiding himself in.<press>
+<blue>(I hope the detective is*
+all right in this blackness...)<black><press>
+<blue>(I'd better find him... fast.)<black><press>
+<sound:0015><blink>Come to think of it, he*
+gave me some advice.<press>
+<sound:0016>Head for the spoon,*
+he said. I wonder what*
+that was all about?
+
+-------------------------------
+
+[m03_6420][1336]
+
+<fchat:0001>
+It's no use. This internal*
+phone isn't working.<press>
+I might be able to use*
+another phone, but for now*
+I'd better find another path.
+
+-------------------------------
+
+[m03_9020][1902]
+
+Guard room
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+

@@ -1,0 +1,98 @@
+[m01_2325][0329]
+
+<fchat:0001>
+Firing this gun is one thing,*
+but killing a poor detective*
+in the process is another.<press>
+<fchat:0004>
+That's all right. If you kill*
+one, you can just save him.<press>
+<fchat:0001>
+I don't think I need to*
+increase my workload*
+right now.<press>
+<blue>(Better not fire it...)<black>
+
+-------------------------------
+
+[m01_2900][032E]
+
+<face:00CA>
+I want to be a legendary*
+detective someday.<press>
+<face:00C6>
+Oh, yeah? In that case, you*
+oughta start doing whatever*
+you can now to prepare.<press>
+<face:00CA>
+To be honest, I already have.<press>
+<sound:0016>I've started practicing some*
+awesome dance moves to do*
+while I'm investigating.<press>
+<face:00C6>
+<sound:0015><blink>Say what?<press>
+<face:00CA>
+Inspector Cabanela already*
+nabbed the title of "Legendary*
+Stair-Stepping Detective"...
+
+-------------------------------
+
+[m01_2910][032F]
+
+<face:00CA>
+So I'm gonna be the "Legendary*
+Investigating Detective"!<press>
+<face:00C6>
+I'm starting to feel*
+a little worried...<press>
+Worried for the future of this*
+nation's police organization,*
+that is...
+
+-------------------------------
+
+[m01_2390][034F]
+
+<face:0027>
+Lynne has escaped death*
+for a second time.<press>
+But that doesn't mean she's*
+out of the water yet.<press>
+<change:002B>
+<end>
+I'd better go see how she's doing.
+
+-------------------------------
+
+[m01_2400][0350]
+
+<face:0083>
+<sound:0016><blink>Well...<press>
+...it looks like "congratulations"*
+are in order.<press>
+You erased yet another death.<press>
+<face:0034>
+But I haven't gotten any*
+further in solving my*
+own mystery, though.<press>
+<face:0083>
+But that woman holds the*
+key. Don't forget that.<press>
+<face:002B>
+Lynne, huh?<press>
+Now that she's alive again,*
+she's probably still being*
+detained in the super's office.<press>
+She won't be able to pursue*
+her case without the*
+freedom to move around.<press>
+<change:0027>
+<end>
+<blue>(I'd better go back to the*
+super's office and see her.)<black><press>
+<face:0083>
+That sounds like a good idea.
+
+-------------------------------
+

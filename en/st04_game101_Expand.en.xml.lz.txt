@@ -1,0 +1,97 @@
+[m02_1230][0523]
+
+<face:00FD>
+Hello...? Where would*
+you like that delivered...?<press>
+.........*
+They hung up.
+
+-------------------------------
+
+[m02_1235][0524]
+
+<face:00FD>
+<sound:0000><shake:0128>{FE00} La la la! What does it matter,*
+a chicken order or two lost?
+
+-------------------------------
+
+[m02_1238][0525]
+
+<face:00FD>
+<sound:0000><shake:0128>{FE00} If it were three orders,*
+that would be a different*
+story, though! La la la!
+
+-------------------------------
+
+[m02_1240][0526]
+
+<fchat:0003>
+We just popped over here*
+while we had the chance,*
+without much thought.<press>
+But this isn't where*
+the hitman who's*
+trying to kill me is.<press>
+<fchat:0001>
+Clearly.<press>
+<fchat:0001>
+<blue>(We probably oughta*
+hurry back.)<black>
+
+-------------------------------
+
+[m02_1245][0527]
+
+<fchat:0001>
+<sound:0016>Hmm... That's funny.<press>
+<fchat:0003>
+What's the matter?<press>
+<fchat:0001>
+This telephone <red>doesn't seem*
+to be working<black> right now.<press>
+<blue>(Usually, the telephone*
+line glows red, but I*
+don't see it now.)<black><press>
+<fchat:0003>
+<sound:0015><blink>But we came here*
+by telephone line!<press>
+<fchat:0001>
+Apparently, in this*
+"four minutes*
+before death" world...<press>
+<sound:0016>...we can only use the lines*
+while the telephone is*
+<red>being used<black> to make a call.<press>
+<fchat:0003>
+<sound:0018><blink>You're kidding, right?!<press>
+<fchat:0001>
+<blue>(As long as the lines are*
+"<red>closed<blue>" like this, it looks*
+like we can't go anywhere.)<black><press>
+<blue>(I guess we'll have*
+to start over...)<black>
+
+-------------------------------
+
+[m02_1340][0537]
+
+<face:0029>
+In the past, I can't just*
+use the telephone lines*
+whenever I want.<press>
+But that doesn't mean I*
+should use one whenever I*
+get the chance to, either.<press>
+<change:002B>
+<end>
+<blue>(I need to get to where*
+the hitman is somehow.)<black><press>
+<change:0027>
+<end>
+Let me try this again.*
+Maybe I'll find my <red>chance<black>...
+
+-------------------------------
+

@@ -1,0 +1,343 @@
+[m04_1000][1C00]
+
+<face:00D0>
+<press>
+<face:00CE>
+<press>
+<face:00D0>
+<press>
+<press>
+<face:00CE>
+<press>
+<press>
+<face:00D0>
+<press>
+<press>
+<press>
+<face:00CE>
+<press>
+<face:00D0>
+<press>
+<face:00CE>
+<press>
+<press>
+<face:00D0>
+<press>
+<face:00CE>
+<press>
+<face:00D0>
+<press>
+<press>
+<face:00CE>
+<press>
+<face:00D0>
+
+
+-------------------------------
+
+[m04_1010][1C01]
+
+<fchat:0003>
+Hey, look where we are!<press>
+<fchat:0001>
+The heart of the Chicken*
+Kitchen, eh?<press>
+<fchat:0003>
+Yup. Or, as most people*
+say, the kitchen.<press>
+<fchat:0001>
+I hope the key to*
+preventing that accident*
+is here somewhere.<press>
+<fchat:0003>
+Oh, I bet it will be! You*
+know what they say...<press>
+<sound:0015><blink>"Where there's smoke and*
+chicken, there's fire!"<press>
+<fchat:0001>
+<blue>(Hmm. Now that you*
+mention it, it IS pretty*
+<red>smoky <blue>in here...)<black>
+
+-------------------------------
+
+[m04_1050][1C05]
+
+<fchat:0003>
+<sound:0015><blink>Hey, look what she's doing!*
+Do you think that could*
+be...?
+
+-------------------------------
+
+[m04_1051][1C06]
+
+<fchat:0001>
+<sound:0016><blink><1EFF_0400>Yeah, she's probably*
+planting the "<red>ladybug<black>."<press>
+<blue>(Now that I think about it...)<black><press>
+<blue>(...it's this waitress's meddling*
+that starts the whole chain*
+of events.)<black><press>
+<fchat:0003>
+The detective wouldn't have*
+gotten his ears blown out,*
+and <red>wouldn't have crashed<black>.<press>
+<fchat:0001>
+In other words, we're*
+witnessing it with*
+our own eyes...<press>
+<sound:0016>...<red>the cause of a huge*
+disaster<black>, slowly being*
+planted in a chicken.<press>
+<fchat:0003>
+<sound:0015><blink>Hey, I just had a good idea!<press>
+<fchat:0001>
+About what to do*
+about the "ladybug?"<press>
+<fchat:0003>
+<sound:0017><blink><shake:0128>No, I was thinking we could*
+let her get crushed under*
+the chicken instead of me!<press>
+<fchat:0001>
+I can't tell if you're kidding.<press>
+<blue>(At any rate, now we've*
+seen the <red>root cause*
+<blue>of the accident.)<black><press>
+<fchat:0003>
+<sound:0015><blink><shake:0128>And all we have to do*
+now is think of a way*
+to take care of it!
+
+-------------------------------
+
+[m04_1220][1C07]
+
+<fchat:0001>
+As I'm sure you know...<press>
+...in the "4 minutes before"*
+world, we can't use the*
+phone whenever we want.<press>
+<fchat:0003>
+Right. We can only use*
+the phone when it's*
+<red>being used to make a call<black>.<press>
+<fchat:0001>
+<blue>(We'll just have to*
+stop that accident*
+from here somehow!)<black>
+
+-------------------------------
+
+[m04_1060][1C08]
+
+<fchat:0003>
+What's wrong?<press>
+<fchat:0001>
+<sound:0015><blink><red>I can't seem to raise this*
+switch.<black> It won't budge.<press>
+<fchat:0003>
+Yeah, well, not surprising,*
+considering this whole*
+place is sticky with grease.<press>
+I bet it must be stuck.<press>
+<fchat:0001>
+Yeah, it does feel*
+pretty sticky.<press>
+<sound:0016><blink>But if the switch were*
+already raised, <red>I bet I*
+could manage to lower it<black>.
+
+-------------------------------
+
+[m04_1061][1C09]
+
+<fchat:0001>
+I can't seem to raise this*
+switch. It won't budge.<press>
+But if the switch were*
+already raised, <red>I bet I*
+could manage to lower it<black>.
+
+-------------------------------
+
+[m04_1070][1C0A]
+
+It's smoky in here.
+
+-------------------------------
+
+[m04_1090][1C0C]
+
+<fchat:0003>
+What are you doing?<press>
+<fchat:0001>
+Can't you tell? I thought*
+I'd give it a little spin.<press>
+<fchat:0003>
+<sound:0015><blink>Oh, I get it!<press>
+<sound:0017><blink><shake:0128>You're going to make her*
+take <red>the one that DOESN'T*
+have the "ladybug" on it<black>!<press>
+<fchat:0001>
+Right. And then that*
+suspicious woman*
+won't burn it up.<press>
+<fchat:0003>
+<sound:0015><blink>Good thinking...! But*
+wait a minute. I don't*
+know if that'll work.<press>
+<fchat:0001>
+<blink><shake:0128>Huh?<press>
+<fchat:0003>
+After all, even a girl like*
+her is still bound to notice.<press>
+<sound:0016><blink>I mean, platters suddenly*
+spinning around, right*
+before her eyes?<press>
+<fchat:0001>
+Yeah, that's the rub.<press>
+<fchat:0003>
+If only we could <red>distract*
+her<black> for a minute...
+
+-------------------------------
+
+[m04_1095][1C0D]
+
+<fchat:0003>
+What are you doing?<press>
+<fchat:0001>
+Can't you tell? I thought*
+I'd give it a little spin.<press>
+<fchat:0003>
+<sound:0015><blink>Oh, I get it!<press>
+<sound:0017><blink><shake:0128>You're trying to get in*
+the way of her planting*
+that "ladybug!"
+
+-------------------------------
+
+[m04_1096][1C0E]
+
+Get in there!
+
+-------------------------------
+
+[m04_1097][1C0F]
+
+<fchat:0003>
+But it just seems to*
+be making her all the*
+more determined.<press>
+<fchat:0001>
+<blue>(I guess this isn't*
+going to work...)<black>
+
+-------------------------------
+
+[m04_1180][1C10]
+
+<face:00D0>
+<sound:0015><blink><shake:0128>Hey, what's up with this lazy*
+Susan? It's acting up today.<press>
+Maybe it's out of sorts*
+'cause I was spinning*
+around on it yesterday...<press>
+<fchat:0001>
+Interesting thing to*
+do for a lady her age...<press>
+<fchat:0003>
+"Maybe it's out of sorts"?*
+How about thinking maybe*
+it might be BROKEN...?<press>
+<fchat:0001>
+<blue>(But it really isn't broken.*
+It's just us ghosts.)<black>
+
+-------------------------------
+
+[m04_1230][1C12]
+
+There! All set!
+
+-------------------------------
+
+[m04_1100][1C13]
+
+<fchat:0003>
+There she goes...<press>
+<fchat:0001>
+Yup. There she went...<press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>Now what?!<press>
+<sound:0018><blink><shake:0128>That "ladybug" is going*
+to get burned up!<press>
+<fchat:0001>
+I wonder if there's any*
+way to stop it now?<press>
+<fchat:0003>
+<shake:0128>If I knew this was*
+going to happen...<press>
+<sound:0017><blink><shake:0128>...I would've let her*
+get crushed under the*
+chicken instead of me!<press>
+<fchat:0001>
+I can't tell if you're kidding.*
+<blue>(Oh, boy...)<black>
+
+-------------------------------
+
+[m04_1110][1C14]
+
+<face:00FD>
+<shake:0128>{FE00} La la la! Chiiiiicken!*
+Thou art so beautiful, Chiiiiicken!<press>
+<shake:0128>{FE00} I took a bite!*
+My heart swelled with pride!*
+And I got goose bumps!<press>
+<shake:0128>{FE00} I'm consumed with the love*
+of consuming you! La la la!<press>
+<fchat:0001>
+He has a good voice.<press>
+<fchat:0003>
+If you like that*
+kind of thing.
+
+-------------------------------
+
+[m04_1120][1C15]
+
+<fchat:0001>
+<sound:0017><blink><shake:0128><1EFF_0400>There! How about that!<press>
+<fchat:0003>
+<sound:0015><1CFF_1200><blink>The "ladybug" is still sitting*
+on the table! We did it!
+
+-------------------------------
+
+[m04_1121][1C16]
+
+<face:00FD>
+<shake:0128>{FE00} La la la! Chiiiiicken!*
+<shake:0128>Thou art so beautiful, Chiiiiicken!
+
+-------------------------------
+
+[m04_1170][1C1B]
+
+<face:0034>
+If the waitress carries out*
+that "ladybug," it's all over.<press>
+<face:000D>
+Can't we do something*
+about that girl...?<press>
+<change:0003>
+<end>
+Or maybe about the chef...?<press>
+<face:002B>
+<blue>(Or, better yet, how about doing*
+something about the chicken...?)<black>
+
+-------------------------------
+

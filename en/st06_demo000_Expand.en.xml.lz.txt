@@ -1,0 +1,216 @@
+[m000][2200]
+
+<face:0027>
+Let's see. First of all, I'd*
+better see what I can find out*
+about your death, little guy.<press>
+<face:0076>
+<sound:0016>Excuse me, but...<press>
+<sound:0018><shake:021E>...where exactly are we?<press>
+<face:0036>
+Huh? You followed me?<press>
+<face:0076>
+<sound:0033><shake:0128><blink>I followed you. You brought me*
+with you. One or the other.<press>
+<face:002B>
+<blue>(Hmm... It looks like the*
+dead can <red>move around*
+together<blue>.)<black><press>
+<change:0029>
+<end>
+This is... the land of four*
+minutes before your death.<press>
+<face:0076>
+<sound:0018><shake:021E>Really?! We're really here?!<press>
+So that means you're going to*
+save Miss Kamila, doesn't it!<press>
+<face:0036>
+Aren't you even surprised?*
+I mean, we just traveled*
+through time, and --<press>
+<face:0076>
+<sound:0015><blink>Not especially!<press>
+I mean, Miss Kamila can walk*
+around on two legs, but I can't*
+do that.<press>
+So if she can do that...<press>
+<sound:0033><blink><shake:021E>...then it's not so strange*
+that you can walk*
+backwards through time!<press>
+<face:002B>
+So that's the way your mind*
+works, eh? I guess that's*
+reasonable enough.<press>
+<face:0076>
+<sound:0033><blink><shake:021E>Come on! Come on!*
+Let's get started!<press>
+<face:0029>
+Okay. First, we watch your last*
+four minutes unfold. Then we use*
+what we learned to save Kamila.<press>
+<blue>(Just like when I saved*
+Lynne at the junkyard!)<black><press>
+If we watch closely, we*
+oughta be able to get a few*
+<red>leads<black>. Keep your eyes open!<press>
+<face:0076>
+<sound:0017><blink><shake:0128>Of course!<press>
+<sound:0033><blink><shake:021E>Leave it to me to*
+sniff out a few clues!
+
+-------------------------------
+
+[girl_m1][2201]
+
+Yippee! Found*
+the remote!
+
+-------------------------------
+
+[woman_m1][2202]
+
+Shut that*
+mutt up!
+
+-------------------------------
+
+[woman_m2][2203]
+
+If it barks again...
+
+-------------------------------
+
+[woman_m3][2204]
+
+...I'll knock this*
+wall down!
+
+-------------------------------
+
+[m001][2205]
+
+<face:0065>
+No, Missile! You're not*
+supposed to bark!<press>
+The lady next door is*
+crabbier than ever tonight.
+
+-------------------------------
+
+[m002][2206]
+
+<face:0063>
+You don't want her to knock*
+the wall down, do you, boy?<press>
+<change:0065>
+<end>
+#sigh# Why do you like to*
+bark so much, anyway?<press>
+You sure are cute, but just*
+don't get us killed, okay?<press>
+Darn. I really wanted*
+to watch TV, too.<press>
+<change:0067>
+<end>
+<sound:0015><blink>Hey, I know! I'll*
+listen to music!
+
+-------------------------------
+
+[girl_m2][2207]
+
+<sound:0015>Oops! Oops!
+
+-------------------------------
+
+[girl_m3][2208]
+
+Whew!*
+That was close!
+
+-------------------------------
+
+[girl_m4][2209]
+
+I'm in the mood*
+for donuts tonight.
+
+-------------------------------
+
+[m004][220A]
+
+<face:007E>
+Hmm. I don't really like*
+it when jobs outside the*
+original scope crop up...<press>
+I have to put it down as a*
+separate charge, and*
+accounting never likes that.<press>
+But I guess it can't be*
+helped... Sorry, kid.
+
+-------------------------------
+
+[m005][220B]
+
+<face:002B>
+So that's the whole dramatic*
+story of what happened four*
+minutes before you died.<press>
+<face:0076>
+<shake:0128>Wow, look at that. I'm dead. I'm*
+kind of shocked, to tell the truth.<press>
+<sound:0033><blink><shake:021E>Okay, let's get started*
+on saving her!<press>
+<face:0029>
+But, let's see... How are*
+we going to do this?<press>
+It seems to me the easiest*
+way would be for you to take*
+a big bite out of that man's leg.<press>
+<face:0076>
+<sound:0015><blink>Oh, I don't think I could do that!<press>
+Whenever somebody I*
+don't know comes around,*
+all I want to say to them is...<press>
+<sound:0033><blink><shake:021E>{2EFF}l{17FF}"Welcome!"{17FF}<press>
+I can't help it!<press>
+<face:002B>
+Okay, then I guess the only*
+thing we can do is get the little*
+lady to help herself somehow.<press>
+<face:0076>
+<sound:0015><blink>Oh, I don't think she could do that!<press>
+Did you notice her putting*
+those <red>red things<black> on her head?<press>
+<face:0029>
+Red things...? Oh, you*
+mean the <red>headphones<black>?<press>
+<face:0076>
+Whenever she puts those*
+red things on, that's it!<press>
+I can call her name until*
+my throat is sore...<press>
+...but she never hears me!<press>
+To be perfectly honest...<press>
+<sound:0033><blink><shake:021E>{2EFF}m{17FF}I hate those <red>red things<black>!{17FF}<press>
+<face:002B>
+Hmm, you're right.<press>
+With those headphones on, our*
+little lady doesn't even hear the*
+sound of the intruder's gun.<press>
+<change:0029>
+<end>
+<blue>(So maybe that's our first "<red>lead<blue>."*
+Now we know we have to do*
+something about that.)<black>
+
+-------------------------------
+
+[woman_m4][220C]
+
+I'll knock this*
+wall down!
+
+-------------------------------
+

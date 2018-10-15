@@ -1,0 +1,229 @@
+[m13_1755][3001]
+
+Temsik Park, the site of*
+the little lady Kamila's*
+abduction tonight...<space>
+...and the place where an*
+important piece of evidence,*
+the music box, was hidden.
+
+-------------------------------
+
+[m13_1756][3002]
+
+I wonder why our lady*
+detective is looking*
+so dejected?<space>
+At least she isn't dead...<space>
+But what did she find...?
+
+-------------------------------
+
+[m13_1770][3003]
+
+<fchat:0001>
+<sound:0015><blink>Huh?<press>
+What's he doing here?
+
+-------------------------------
+
+[m13_1780][3004]
+
+<face:00FE>
+<sound:0000>{FE00} La la la! Let me spend*
+a moment's time with you,*
+my love!<show><wait>
+
+-------------------------------
+
+[m13_1782][3005]
+
+<face:00FE>
+<sound:0000>{FE00} The world will not end*
+if the food delivery*
+is a little late! La la la!<show><wait>
+
+-------------------------------
+
+[m13_1790][3006]
+
+<fchat:0001>
+<blue>(A little late? It's*
+already ice cold...)<black>
+
+-------------------------------
+
+[m13_1800][3007]
+
+<face:00FE>
+<sound:0016>What just happened? I wasn't*
+even pumping my feet...<press>
+.........<press>
+<sound:0015><blink>Hmm... The swing swings me,*
+and I sling the chicken.<press>
+<sound:0015><blink>The swing is swung, and*
+the chicken is slung.<press>
+<sound:0016>Everything always comes*
+back to chicken in the end.<press>
+<fchat:0001>
+<blue>(I'm not even gonna try*
+to figure that one out.*
+Moving on...)<black>
+
+-------------------------------
+
+[m13_1805][3008]
+
+<fchat:0001>
+I can't hear very well*
+from this far away.
+
+-------------------------------
+
+[m13_1760][3009]
+
+<fchat:0001>
+<sound:0016><blink>Whew. I got this thing*
+spinning pretty fast.<press>
+<blue>(I didn't even put*
+much effort into it...)<black><press>
+This is quite a bit of power*
+and speed for a piece of*
+playground equipment.<press>
+<sound:0015><blink><blue>(I can just imagine all the*
+poor kids who get sent*
+flying all over the park...)<black>
+
+-------------------------------
+
+[m13_1000][300A]
+
+<face:001C>
+Oh, there you are, Sissel...<press>
+<face:002B>
+From your dejected*
+expression, I gather...<press>
+<change:0029>
+<end>
+...you didn't find <red>what*
+you were looking for<black>?<press>
+<face:001C>
+Right. I can't find the*
+<red>music box<black> anywhere.<press>
+<change:000E>
+<end>
+<sound:0016>But I found something else*
+instead, <red>something horrible<black>.<press>
+<face:0036>
+<sound:0015><blink>Horrible? What is it?
+
+-------------------------------
+
+[m13_1010][300B]
+
+<face:000E>
+<sound:0016>There. In the <red>grass<black>. You'd*
+better see for yourself.
+
+-------------------------------
+
+[m13_1020][300C]
+
+<fchat:0001>
+<sound:0016><blink>It looks like a <red>dead body<black>.<press>
+<fchat:0003>
+<sound:0015><blink>I nearly died when I saw it.<press>
+<1DFF_0800><0001_6400>And I suppose now that*
+we've found it, we can't*
+just leave it there, can we?<press>
+<fchat:0001>
+Nope, I suppose not.
+
+-------------------------------
+
+[m13_1810][300D]
+
+<face:0027>
+Heh heh. It's so like you...<press>
+...to come looking for*
+a music box, and find*
+a dead body instead.<press>
+<face:0012>
+<sound:0018><blink><shake:0128>What can I say?!*
+I'm a detective!<press>
+<face:0036>
+Meaning...?<press>
+<face:0006>
+<sound:0015><blink>Well, a detective goes over*
+everything with a fine-toothed*
+comb, right? So there you go!<press>
+<face:002B>
+<blue>(Fine-toothed comb or none,*
+you were bound to run across*
+it. I mean, it IS pretty obvious.)<black><press>
+<face:0012>
+<shake:0128><blink>Anyway, go on,*
+Sissel! Get to it!<press>
+<face:0034>
+What am I, your bloodhound?
+
+-------------------------------
+
+[m13_1030][300E]
+
+<face:00F9>
+<sound:0017><shake:0128>Stop the park from being turned*
+into a housing site! Protect the*
+park, the rock of the gods!<press>
+<sound:0018><blink><shake:0128>You, there!<press>
+<face:0036>
+You're talking to*
+me... aren't you?<press>
+<face:00F9>
+<sound:0017><blink><shake:0128>I have some leaflets for you!*
+Leaflets I KNOW you'll be very*
+interested in!<press>
+<change:00FB>
+<end>
+<sound:0017><blink><shake:0128>I urge you to peruse it thoroughly!*
+Examine it in detail!<press>
+<face:0029>
+Never mind that right now. Do*
+you remember your <red>name<black>?<press>
+<face:00F9>
+<sound:0015><blink>My name... My name...<press>
+.........<press>
+<change:00FB>
+<end>
+<sound:0016><blink>What does my name matter,*
+when there are more important*
+things to worry about?<press>
+<face:0036>
+<sound:0015><blink>Okaaay...<press>
+<face:00F9>
+<sound:0017><shake:0128><blink>Come now, and study these*
+tracts with me, my brother!<press>
+<sound:0018><blink><shake:0128>Come and learn about the*
+"<red>rock of the gods<black>" with me!<press>
+<change:00FB>
+<end>
+<sound:0017><blink><shake:0128>The night is no longer young!*
+As a matter of fact, daybreak is*
+approaching! But we are young!<press>
+<face:0036>
+.........<press>
+<change:002B>
+<end>
+Look, I don't have time to get*
+involved in your <red>way of life<black>.<press>
+<change:0034>
+<end>
+<sound:0016><blink>But I AM interested in*
+your <red>way of death<black>.<press>
+<change:0027>
+<end>
+So let's go back, back to four*
+minutes before your death!
+
+-------------------------------
+

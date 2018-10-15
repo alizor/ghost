@@ -1,0 +1,455 @@
+[m03_0050][0A00]
+
+<face:00EE>
+What was that call all about?*
+I heard you say "Lynne."
+
+-------------------------------
+
+[m03_0051][0A01]
+
+<face:00EA>
+I don't really know. If I had*
+to take a guess, though,*
+I would probably say...<press>
+<sound:0016>...<red>something's going on<black> with her.<press>
+<face:00EE>
+<sound:0018><shake:0128><blink>Ha ha ha!<press>
+The only place in the world*
+where <red>nothing is going on<black> is*
+inside your brain, Bailey!
+
+-------------------------------
+
+[m03_0150][0A02]
+
+Aaaaargh!
+
+-------------------------------
+
+[m03_0060][0A03]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>What is that supposed*
+to mean?!<press>
+.........<press>
+<sound:0015><shake:0128><blink>I mean, I know what*
+the words mean... That's*
+not what I'm asking.<press>
+That was my way of*
+expressing indignation, putting*
+it in the form of a question...
+
+-------------------------------
+
+[m03_0070][0A04]
+
+<face:00EE>
+I just hope Lynne's not*
+doing anything crazy. I'm*
+a fan of hers, ya know?<press>
+<face:00EA>
+According to my log...<press>
+Lynne has been calling here*
+nearly every night as of late.
+
+-------------------------------
+
+[m03_0091][0A07]
+
+<fchat:0001>
+So, let's see...<press>
+This is the place Lynne took*
+all that risk to call, eh?<press>
+<blue>(But what exactly*
+IS this place?)<black>
+
+-------------------------------
+
+[m03_0000][0A08]
+
+<face:00EE>
+Hey, what's this?
+
+-------------------------------
+
+[m03_0010][0A09]
+
+<face:00EA>
+Oh, that? I wrote down my*
+duties for the night, so I*
+wouldn't forget any of them.<press>
+<face:00EE>
+You can't keep 'em in your*
+head? It's not like you have*
+a ton of "duties," after all.<press>
+Use a little brain power.
+
+-------------------------------
+
+[m03_0020][0A0A]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>What are you talking about?!<press>
+<sound:0017><shake:0128><blink>Weren't you the one who*
+just said nothing was going*
+on inside my brain?!<press>
+<face:00EE>
+.........<press>
+Hmm, didn't think you'd take*
+it in quite that direction...
+
+-------------------------------
+
+[m03_0030][0A0B]
+
+<face:00EE>
+So, let's see this important "to do"*
+list of yours... "9:00: Take Prisoner*
+C38 to the telephone room."<press>
+<face:00EA>
+Yes, he just made a*
+request to use the phone*
+a little while ago.<press>
+<face:00EE>
+9:00, eh? That's when*
+Lynne usually calls.<press>
+<face:00EA>
+Well, we can't let her talk to*
+"him" tonight. Rules are rules.<press>
+<face:00EE>
+Aw, poor Lynne. Sure*
+wish I could comfort her...
+
+-------------------------------
+
+[m03_0040][0A0C]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>Wh-What do you think*
+you're doing?! That's my*
+important "duties memo"!<press>
+<face:00EE>
+That's okay. I've got it*
+all memorized for ya.<press>
+<face:00EA>
+W-Well, it's your duty*
+to guard the telephone*
+room, you know!
+
+-------------------------------
+
+[m03_0041][0A0D]
+
+<face:00EC>
+<shake:0128><blink>Just make sure you do your*
+job when the time comes!
+
+-------------------------------
+
+[m03_0100][0A0E]
+
+<face:0014>
+Hello?<press>
+<face:00EA>
+<sound:0016>L-Lynne!<press>
+<face:0014>
+<shake:0128><blink>I'm sorry. I don't have much*
+time. Please let me talk to him!<press>
+<face:00EA>
+I-I'm sorry, Detective. I*
+can't do that tonight.<press>
+<face:001C>
+You can't...? But you always*
+let me talk to him before...<press>
+<face:00EA>
+Well, uh... The telephone*
+room is already reserved...*
+That's why.<press>
+<face:001C>
+<shake:0128>Oh... #sniffle#<press>
+<face:00EA>
+By the way, is something*
+going on with you tonight?<press>
+<face:0016>
+<sound:0015><blink>What...? Why do you ask?<press>
+<face:00EA>
+I got a call from one of the*
+other detectives a minute*
+ago, asking about you.<press>
+<face:0004>
+O-Oh, really? Well, I don't*
+think it's anything important...<press>
+Officer Bailey...?<press>
+<change:000E>
+<end>
+Do you think you could keep*
+this call just between us?<press>
+Even if only for tonight?<press>
+<face:00EA>
+Well, I... uh...
+
+-------------------------------
+
+[m03_0100a][0A0F]
+
+Oh!
+
+-------------------------------
+
+[m03_0100b][0A10]
+
+<face:0014>
+Well, I've gotta go!*
+I'll call again tomorrow!
+
+-------------------------------
+
+[m03_0110][0A11]
+
+<face:00EA>
+Oh, boy... Well, I guess*
+I'd better call the*
+detective division...
+
+-------------------------------
+
+[m03_0120][0A12]
+
+<face:00EE>
+<shake:0128><blink>Hold on there, Bailey!<press>
+<face:00EA>
+What?<press>
+<face:00EE>
+Don't tell me you're gonna*
+report that call from Lynne?<press>
+<face:00EA>
+What else can I do? It's my duty.<press>
+<face:00EE>
+Just write it down on one of*
+your important "to do" lists!<press>
+And then I can wad it up for*
+you and throw it away.
+
+-------------------------------
+
+[m03_0130][0A13]
+
+<face:00EA>
+<sound:0016>You mean, you want me*
+to <red>keep quiet<black> about it?<press>
+<face:00EE>
+Well, isn't that what*
+she asked you to do?<press>
+<face:00EA>
+Well.. yes, but...<press>
+<face:00EE>
+Tonight is kind of a*
+"special case" for us.<press>
+Can't you make a special*
+exception for my Lynne, too?<press>
+<face:00EA>
+#sigh#<press>
+"Special case," huh?*
+All right, you win.
+
+-------------------------------
+
+[m03_0140][0A14]
+
+<fchat:0001>
+I don't know what THEY*
+think is "special"*
+about tonight...<press>
+...but, for ME, it's*
+my "only" night.<press>
+Lynne is on the other*
+end of that telephone*
+line. I'd better hurry.
+
+-------------------------------
+
+[cab_demo_00][1A00]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>There you go again! Fooling*
+around with that thing!
+
+-------------------------------
+
+[cab_demo_01][1A01]
+
+<face:00EE>
+It wasn't me.<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Don't lie! You know you*
+love to see me jump up and*
+prepare for emergency!<press>
+<face:00EE>
+Oh, yeah, sure, way back*
+when I first got this job.<press>
+But I've had enough of that*
+now. Besides, you always*
+react exactly the same way.<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Grrr...!<press>
+<face:00EE>
+The emergency switch is probably*
+just loose. Probably because I*
+fooled around with it too much...<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Well, it's for emergencies!*
+Don't play with it!<press>
+<face:00EE>
+Anyway, it wasn't me. Maybe*
+you oughta get it repaired, huh?
+
+-------------------------------
+
+[cab_demo_02][1A02]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>Well, close it back up! It's*
+making me feel on edge.<press>
+<face:00EE>
+Nah. Too much of a pain.<press>
+<face:00EA>
+"A pain"?! Proper emergency*
+procedures are "a pain" to you?!*
+What a sad, sad state of affairs...
+
+-------------------------------
+
+[cab_demo2_00][1A03]
+
+<face:00EE>
+Just the kind of excitement*
+I need to wake me up!<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Well, I told you, it's*
+only for emergencies!*
+Don't play with it!<press>
+<face:00EE>
+And I told you, it wasn't me!
+
+-------------------------------
+
+[cab_demo2_01][1A04]
+
+<face:00EE>
+Ya know, I thought this work*
+would be a lot more exciting.<press>
+Sometimes, I don't know which is*
+my real job -- going on rounds,*
+or building houses out of cards!<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Well, you'd BETTER know!<press>
+<face:00EE>
+And YOU oughta know*
+that I'm just kidding.<press>
+<face:00EA>
+Grrr...!
+
+-------------------------------
+
+[cab_demo2_02][1A05]
+
+<face:00EE>
+Just the kind of excitement*
+I need to wake me up!<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Well, I told you, it's*
+only for emergencies!*
+Don't play with it!<press>
+<face:00EE>
+And I told you, it wasn't me!<press>
+Ya know, I thought this work*
+would be a lot more exciting.<press>
+Sometimes, I don't know which is*
+my real job -- going on rounds,*
+or building houses out of cards!<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Well, you'd BETTER know!<press>
+<face:00EE>
+And YOU oughta know*
+that I'm just kidding.<press>
+<face:00EA>
+Grrr...!
+
+-------------------------------
+
+[m03_9000][1900]
+
+Internal extension
+
+-------------------------------
+
+[m03_9010][1901]
+
+External line
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9050][1905]
+
+Special Detention
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+
+[m03_9070][1908]
+
+<face:0044>
+The screen shows*
+rows of tiny rooms.<press>
+The rooms are really, really*
+small. And you can see right*
+into them from the outside.<press>
+I suppose the open bars keep*
+the rooms airy, but I wouldn't*
+wanna live in one, myself...<press>
+I wonder where these*
+little rooms are?
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+

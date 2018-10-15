@@ -1,0 +1,899 @@
+[m13_1100][301C]
+
+Hnnnh!
+
+-------------------------------
+
+[m13_1830][3039]
+
+<fchat:0001>
+All right. Let's get started.
+
+-------------------------------
+
+[m13_1832][303A]
+
+<fchat:0001>
+Four minutes from now,*
+you'll <red>swap<black> "Mino" with*
+the leaf.<show><press>
+And then you have to <red>swap<black>*
+"Mino" with something else.
+
+-------------------------------
+
+[m13_1834][303B]
+
+<fchat:0001>
+<sound:0016><blink>Something with*
+<red>the same shape<black>.<show><press>
+<fchat:0007>
+<sound:0015><blink>Oh, I believe that's*
+a rugby ball!<press>
+<fchat:0001>
+Okay, "rugby ball," huh?<press>
+But with the rugby ball*
+where it is now, Missile*
+<red>can't reach it<black>.<press>
+So that means I have to*
+<red>move it closer<black> somehow.<press>
+It looks like you and I will*
+have to <red>work together<black> on*
+that one, Missile.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Okay! I'm ready!<press>
+Whenever you want to*
+use my <red>swap <black>trick...<press>
+<sound:0015><blink><red>...just touch the <MISSILE> icon!<show><black>
+
+-------------------------------
+
+[m13_1836][303C]
+
+<fchat:0002>
+That way, you'll be*
+able to <red>control <black>me.<press>
+<red>And then, if you touch*
+the <SISSEL> icon...<show><black>
+
+-------------------------------
+
+[m13_1838][303D]
+
+<fchat:0001>
+...control will <red>come back*
+<black>to me.<press>
+<fchat:0002>
+By the way, you can*
+switch between us*
+with SELECT, too.<press>
+<fchat:0001>
+SELECT, huh?*
+I'll remember that.<press>
+<fchat:0002>
+Okay, let's try it!<press>
+<sound:0017><blink><shake:0128><1EFF_1400>Together, we can stop Mino*
+from hurting anybody!
+
+-------------------------------
+
+[m13_1840][303E]
+
+<fchat:0001>
+All right, Missile.<press>
+Your <red>powers <black>are*
+the <red>key <black>this time.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Okay! I'm ready!<press>
+I can <red>swap <black>anything that*
+has <red>the same shape<black>!<press>
+<sound:0033><blink><shake:0128>Just call on me if you find*
+anything you want to try!<press>
+<fchat:0001>
+<blue>(Probably the best thing*
+to do is just try a bunch of*
+things and see how it goes.)<black><press>
+<blue>(And if I see something*
+we can swap, I should use*
+<red>the <MISSILE> icon<blue>.)<black>
+
+-------------------------------
+
+[m13_1850][303F]
+
+<fchat:0002>
+<sound:0015><blink>Huh? Are you coming back*
+to talk to me again?<press>
+<fchat:0001>
+Uh, no... I...<press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>I wish you would talk to me.*
+We could discuss the gods!<press>
+<fchat:0001>
+<blue>(Oh, boy...)<black><press>
+<blue>(I just came this way without*
+giving it much thought...)<black><press>
+<sound:0016><blue>(But now there's no <red>core<blue>*
+for me to get back!)<black><press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>You've failed to follow*
+the path of the gods!<press>
+<fchat:0001>
+<blue>(Hmm. Maybe I'd*
+better start over...)<black>
+
+-------------------------------
+
+[m13_1852][3040]
+
+<fchat:0001>
+<sound:0016>Whew. Here you*
+come already.<press>
+<fchat:0007>
+I swore to myself not to*
+repeat my mistakes!<press>
+<fchat:0001>
+Mistakes?<press>
+<fchat:0007>
+<sound:0015><blink>When somebody's in*
+trouble, you should*
+lend them a hand!<press>
+<sound:0017><blink><shake:0128>Otherwise, you'll*
+definitely regret it!<press>
+<sound:0018><blink><shake:0128>And now <red>the recklessness of*
+youth<black> has taken over, giving*
+me lightning-fast speed!<press>
+<fchat:0002>
+Hmm... I've been thinking...<press>
+<sound:0016>If we could <red>stop this man*
+from running<black>, maybe he*
+wouldn't get squished...?<press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>It won't be easy to stop*
+me once <red>the recklessness*
+of youth<black> has taken over!<press>
+<fchat:0001>
+<blue>(Hmm... <red>Stop him<blue>, eh...?)<black>
+
+-------------------------------
+
+[m13_1855][3041]
+
+<fchat:0001>
+<sound:0015><blink>Well, would you*
+look at that...
+
+-------------------------------
+
+[m13_1856][3042]
+
+<fchat:0001>
+<sound:0016>There sure are a*
+whole lot of <red>round*
+things<black> around here...<show><press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>Oh, boy!<press>
+<sound:0033><blink><shake:0128>That means it's time for*
+me, right? Oh, boy!<press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>My hair is also round!<press>
+<fchat:0001>
+<blue>(Let's see... To use*
+Missile's <red>powers<blue>, I just*
+touch <red>the <MISSILE> icon<blue>!)<black><press>
+<blue>(I'll try it and see*
+what happens.)<black>
+
+-------------------------------
+
+[m13_1860][3043]
+
+<fchat:0001>
+<sound:0018><blink><shake:0128>It's too heavy! The*
+seesaw won't budge!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Maybe because of*
+that swap I made?<press>
+<fchat:0001>
+<blue>(I guess a little ball is about*
+all the weight I can handle.)<black>
+
+-------------------------------
+
+[m13_1865][3044]
+
+<fchat:0001>
+<sound:0018><blink><shake:0128>It's so heavy, I can't*
+move it very much!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Maybe because of*
+that swap I made?<press>
+<fchat:0001>
+<blue>(I guess a little ball is about*
+all the weight I can handle.)<black>
+
+-------------------------------
+
+[m13_1870][3045]
+
+<fchat:0001>
+<sound:0016><blink>Wow... I didn't see*
+this coming...<press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>Don't you know the*
+first thing about the*
+globe climber?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0007>
+Even little children treat it*
+with the respect it deserves.<press>
+<sound:0018><blink><shake:0128>They know that unless*
+you spin it gently,*
+there's no stopping it!<press>
+<fchat:0001>
+Yeah, it does look*
+pretty dangerous...<press>
+<fchat:0007>
+<blink><shake:0128>It looks like I'm just destined*
+to <red>fly through the air <black>like*
+this for a while...!<press>
+<fchat:0001>
+Hmm...<press>
+<sound:0016>This just might <red>buy*
+us some time<black>.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Maybe he'll just keep*
+spinning around like that*
+the whole four minutes!<press>
+<fchat:0007>
+I'm sorry, but I don't think I*
+would stand for it that long.<press>
+<fchat:0001>
+<blue>(But, anyway, at least*
+we <red>stopped him from*
+running<blue> for a while.)<black><press>
+<blue>(Let's do what we can while*
+we have this chance!)<black>
+
+-------------------------------
+
+[m13_1880][3046]
+
+<fchat:0001>
+<sound:0016><blink>Whew... Look at*
+that thing go...<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>It doesn't look like it's*
+going to stop for quite*
+a while!<press>
+<fchat:0007>
+<sound:0016>#sigh# These globe*
+climber novices...<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0007>
+Even little children treat it*
+with the respect it deserves.<press>
+<sound:0017><blink><shake:0128>They know that unless*
+you spin it gently,*
+there's no stopping it!<press>
+<fchat:0001>
+Yeah, it does look*
+pretty dangerous...<press>
+<fchat:0007>
+One time, I was riding on*
+it, and I got carried away.<press>
+It was spinning so fast, I*
+couldn't get off for a while!*
+A harrowing experience!<press>
+<fchat:0001>
+<sound:0016><blue>(Hmm. I think I'd*
+<red>like to see that<blue>...)<black>
+
+-------------------------------
+
+[m13_1885][3047]
+
+<fchat:0007>
+<sound:0017><blink><shake:0128>What do you think of*
+my lightning-fast pace?!<press>
+<fchat:0001>
+I wish you would knock it*
+off, that's what I think. We*
+don't have time to <red>prepare<black>.<press>
+<blue>(I think we're gonna have*
+to find a way to <red>stop him*
+from running<blue>...)<black><press>
+<fchat:0007>
+<sound:0015><blink>As far as I can see, the only*
+way to do that is to use the*
+<red>playground equipment<black>!<press>
+<fchat:0001>
+The what?<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>You know, the seesaw,*
+the swing! Those things!<press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>Precisely!<press>
+<sound:0016>Except... there is <red>one more*
+<black>piece of equipment, to be*
+exact!<press>
+<fchat:0001>
+<blue>(Hmm... <red>Stop him<blue> with*
+the equipment, eh...?)<black><press>
+<blue>(Maybe I should rethink*
+things here...)<black>
+
+-------------------------------
+
+[m13_1890][3048]
+
+<fchat:0002>
+<sound:0033><blink><shake:0128>Sissel, did you see that?*
+Did you see the <red>seesaw<black>?<press>
+<fchat:0001>
+Yes, it really sent that*
+little ball flying, didn't it?<press>
+<fchat:0007>
+Such a pity.<press>
+<sound:0017><blink><shake:0128>It's too bad it didn't*
+hit the <red>rugby ball*
+<black>and knock it down!<press>
+<fchat:0002>
+<shake:0128>Hmm. Maybe it's a little*
+too light to do that...<press>
+<fchat:0001>
+.........*
+<blue>(Hey, wait a minute...)<black><press>
+<sound:0016><blink><blue>(Maybe we should try*
+sending up something*
+a little <red>heavier<blue>...)<black>
+
+-------------------------------
+
+[m13_1900][3049]
+
+<fchat:0002>
+<sound:0033><blink><shake:0128>Sissel, did you see that?*
+Did you see the <red>seesaw<black>?<press>
+<fchat:0001>
+Yes, it sent that ball*
+up just right, didn't it?<press>
+<fchat:0007>
+<sound:0018><blink><shake:0128>So close!<press>
+<sound:0017><blink><shake:0128>It's too bad it didn't*
+hit the <red>rugby ball*
+<black>and knock it down!<press>
+<fchat:0002>
+<shake:0128>Hmm. It really looked*
+like it was going to...<press>
+<fchat:0001>
+I guess this just isn't the*
+way to knock the rugby ball*
+down from the branch.<press>
+<blue>(But, you know...)<black><press>
+<sound:0016><blink><blue>(...I bet that ball and seesaw*
+will still <red>come in handy<blue>...)<black>
+
+-------------------------------
+
+[m13_1910][304A]
+
+<fchat:0002>
+<sound:0033><blink><shake:0128>Sissel, did you see that?*
+Did you see the <red>seesaw<black>?<press>
+<fchat:0001>
+Yeah, I guess the tire's too*
+heavy to get much height.<press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>I wouldn't have been*
+surprised if it launched*
+ME into the air!<press>
+<fchat:0001>
+That tire does have quite*
+a bit of <red>weight <black>to it.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>But no matter how heavy*
+it is, I can still <red>swap <black>it!<press>
+<fchat:0001>
+<sound:0016><blink><blue>(So weight isn't a*
+factor when it comes*
+to swapping, eh?)<black>
+
+-------------------------------
+
+[m13_1920][304B]
+
+<fchat:0002>
+<sound:0015><blink>Oh, that was so close!<press>
+<sound:0033><blink><shake:0128>If it hit the ball, it could've*
+knocked it down!<press>
+<fchat:0001>
+<sound:0016><blue>(<red>Is that all<blue> this umbrella*
+can be used for...?)<black><press>
+<blue>(For knocking the*
+<red>rugby ball<blue> down...?)<black><press>
+<fchat:0002>
+<sound:0017><blink><shake:0128>Don't forget about*
+my <red>powers<black>!<press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>And don't forget about my*
+<red>recklessness of youth<black>!
+
+-------------------------------
+
+[m13_1925][304C]
+
+<fchat:0002>
+<sound:0015><blink>Look at this funny,*
+<red>flattened ball<black>!
+
+-------------------------------
+
+[m13_1926][304D]
+
+<fchat:0002>
+<sound:0016>It's <red>the same shape<black>*
+as that horrible Mino!<press>
+But it's too far to*
+<red>swap <black>from here.<press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>Even this ball is starting*
+to look horrible to me!<press>
+<fchat:0001>
+<blue>(Hmm... We have to find a*
+way to get this ball <red>closer<blue>*
+to that "Mino" thing...)<black><press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>Knock it down from*
+the tree, I say!<press>
+<fchat:0001>
+<shake:0128><blue>(There must be something*
+we can do...)<black>
+
+-------------------------------
+
+[m13_1930][304E]
+
+<fchat:0001>
+Well, we managed to get*
+the rugby ball down...<press>
+<fchat:0007>
+<sound:0017><blink><shake:0128>But now it's even*
+further away from*
+Mino than ever!<press>
+<fchat:0001>
+What do you think, Missile?<press>
+<fchat:0002>
+Hmm... If you ask me...<press>
+<sound:0033><blink><shake:0128>...I think all we can do now is*
+give an embarrassed smile!<press>
+<fchat:0001>
+<blue>(I think we'd better*
+rethink this...)<black>
+
+-------------------------------
+
+[m13_1935][304F]
+
+<fchat:0002>
+<sound:0015><blink>The umbrella won't*
+close, will it?!<press>
+<fchat:0001>
+The ball must be in the way.<press>
+<blue>(Oh, well. I guess we*
+don't have to close it.)<black>
+
+-------------------------------
+
+[m13_1940][3050]
+
+<face:0076>
+I'm sorry about all*
+this trouble, Sissel.<press>
+If only my paw could*
+reach a little further...<press>
+<sound:0033><blink><shake:0128>...I could've <red>swapped <black>that*
+big lump one more time!<press>
+<face:00F9>
+<sound:0015><blink>Swapped it with that <red>rugby*
+ball <black>in the tree nearby!<press>
+<face:0027>
+That's all right. That's what we're*
+going to do now -- together.<press>
+<face:0076>
+<sound:0033><blink><shake:0128>I'm going to give it my best!<press>
+<face:002B>
+<blue>(The first thing to do...)<black><press>
+<sound:0016><blink><blue>(...is to find a <red>path<blue>*
+to that <red>rugby ball<blue>...)<black>
+
+-------------------------------
+
+[m13_1950][3051]
+
+<face:0076>
+<sound:0015><blink>Here comes that man, fast*
+enough to scare even a*
+quick little doggie like me.<press>
+<face:002B>
+<sound:0016><blink>Uh-oh... The <red>rugby ball<black>*
+is still in the tree.<press>
+<face:00FB>
+<sound:0017><blink><shake:0128>Ah, behold! The*
+recklessness of youth!<press>
+<face:0034>
+Yeah, it's that recklessness*
+of yours that's causing us*
+so much trouble...<press>
+<face:00FB>
+<sound:0017><blink><shake:0128>No one can stop the*
+recklessness of youth!<press>
+<face:002B>
+<blue>(Well, if we can't stop it...)<black><press>
+<sound:0016><blink><blue>(...then I guess we're gonna have to*
+find a way to <red>make it work<blue> for us.)<black><press>
+<face:0076>
+But if he comes*
+running too fast...<press>
+<sound:0033><blink><shake:0128>...we won't have*
+time to <red>get ready<black>!<press>
+<face:002B>
+<blue>(Hmm...)<black><press>
+<change:0029>
+<end>
+<sound:0015><blink><blue>(It looks like figuring out*
+<red>what to do with his*
+"recklessness"<blue> is the key...)<black>
+
+-------------------------------
+
+[m13_1960][3052]
+
+<face:0076>
+<sound:0033><blink><shake:0128>Thank you, Sissel!<press>
+At this distance...<press>
+<sound:0017><blink><shake:0128>...I'm pretty sure I can*
+make that other <red>swap<black>!<press>
+<face:0027>
+Now all we do is wait*
+for that final moment.<press>
+<face:0076>
+<sound:0033><blink><shake:0128>That's right!*
+Leave the rest to me!<press>
+<face:00FB>
+<sound:0017><blink><shake:0128>My head rests in your paws!
+
+-------------------------------
+
+[m13_1965][3053]
+
+<face:0076>
+Um, Sissel?<press>
+<sound:0016><blink>That funny, flattened*
+ball is still in the tree...<press>
+<face:0036>
+<shake:0128><blink>Yeah. I know.<press>
+<face:0076>
+<sound:0016><blink>And, um, there isn't*
+much more time...<press>
+<face:002B>
+<blue>(I have to find a*
+way somehow...)<black>
+
+-------------------------------
+
+[m13_1966][3054]
+
+<face:0076>
+Um, Sissel?<press>
+<sound:0016>I think that funny, flattened*
+ball is even farther away now*
+than when we started.<press>
+<face:0036>
+<blink><shake:0128>Yeah. I know.<press>
+<face:0076>
+I heard a saying once about*
+the thing you want always*
+ends up far away.<press>
+<sound:0016>Is this what humans mean*
+by, "That's life"?<press>
+<face:002B>
+I don't know what you've*
+heard, but I've heard a little*
+something myself...<press>
+<change:0027>
+<end>
+<sound:0015><blink>...about how as long as you're*
+alive, you can always<red> try again<black>*
+to set things right.
+
+-------------------------------
+
+[m13_1970][3055]
+
+<fchat:0001>
+<sound:0015><blink>Wow... I SO did not*
+see that coming...<press>
+<sound:0016><blink><blue>(I never thought the*
+umbrella would <red>catch*
+<blue>the ball.)<black><press>
+<fchat:0007>
+<sound:0018><blink><shake:0128>Did you see that?! The tree*
+branch...! It shook a little!<press>
+<fchat:0002>
+I think I saw it shake, too.<press>
+<fchat:0007>
+If it only shook*
+a little more...<press>
+<sound:0017><blink><shake:0128>...it would knock*
+that terrible*
+<red>rugby ball<black> down!<press>
+<sound:0018><blink><shake:0128>{2EFF}{4600}{17FF}From this terrible tree!{17FF}<press>
+<fchat:0001>
+<blue>(Maybe it just needs*
+a little more <red>weight<blue>...)<black><press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>I'm sure we can do this!*
+We just have to put our*
+heads together!<press>
+<fchat:0001>
+<blink><blue>(Everything looks good*
+so far. We just need*
+<red>one more step<blue>!)<black>
+
+-------------------------------
+
+[m13_1990][3056]
+
+<fchat:0001>
+<sound:0017><blink><shake:0128>There! We <red>moved the ball<black>!<press>
+What do you think, Missile?
+
+-------------------------------
+
+[m13_1991][3057]
+
+<fchat:0002>
+Hmm... With the ball there...<press>
+<sound:0017>{28FF}<0001_6400><blink><shake:0128>...I think <red>I can do it<black>!
+
+-------------------------------
+
+[m13_1992][3058]
+
+<fchat:0001>
+In just a few seconds...<press>
+...you'll swap "Mino"*
+with the leaf.<press>
+And then, from there,*
+you can <red>swap<black> "Mino"*
+one more time.<press>
+<sound:0017><blink><shake:0128>The final moment is near,*
+Missile! Are you ready?<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128><center>{2EFF}É{17FF}You bet!{17FF}
+
+-------------------------------
+
+[m13_1300][3059]
+
+<face:0076>
+<sound:0018><blink><shake:0128>
+
+-------------------------------
+
+[m13_1310][305A]
+
+<face:0076>
+<sound:0033><blink><shake:0128>
+
+-------------------------------
+
+[m13_1995][305C]
+
+<fchat:0002>
+<sound:0017><blink><shake:0128>Okay, watch me, Sissel!<press>
+<sound:0033><blink><shake:0128>Here I go!<press>
+<fchat:0001>
+The finishing touches!*
+You can do it, Missile!<press>
+<sound:0017><blink><shake:0128><red>Swap<black> "Mino" with that ball!
+
+-------------------------------
+
+[m13_1996][305D]
+
+<fchat:0002>
+<sound:0018><blink><shake:0128>Sissel! Help!<press>
+<sound:0017><blink><shake:0128>There's nothing in reach*
+to <red>swap<black> "Mino" with!<press>
+<fchat:0001>
+<sound:0018><blink><shake:0128><blue>(We're too late!)<black><press>
+Darn...<press>
+<sound:0016>I guess we'll have*
+to start over again.
+
+-------------------------------
+
+[m13_1998][305E]
+
+<face:0075>
+<sound:0017><blink><shake:0128>There! How's that?!<press>
+<face:00F8>
+My head has been spared!<press>
+<change:00FA>
+<end>
+<sound:0017><blink><shake:0128>Truly, that was a "try"*
+worthy of the gods!<1DFF_0100><0001_0000><press>
+<face:0028>
+And now "Mino" is right*
+where he belongs...<press>
+<face:0076>
+We did it again, didn't we?!<press>
+<sound:0017><blink><shake:0128>{2EFF}p{17FF}Didn't we?!{17FF}
+
+-------------------------------
+
+[m13_1330][305F]
+
+<face:0076>
+<sound:0033><blink><shake:0128>Now nobody has to die!<press>
+<face:0027>
+Except for one brave*
+little somebody...<press>
+<face:0076>
+<sound:0015><blink>Huh?<press>
+<face:0034>
+<sound:0016>I'm talking about you, Missile.<press>
+<face:0076>
+<sound:0015><blink>Oh! Me...?<press>
+I guess you're right.*
+I'm still dead, aren't I?<press>
+<face:0027>
+So now let's go back*
+and save your life.<press>
+<face:0076>
+.........<press>
+<sound:0015><blink><1EFF_7800>Wait a minute.<press>
+<face:0029>
+What is it?<press>
+<face:0076>
+Now that I think about it...<press>
+<sound:0016><blink>...I think I want to stay*
+dead a little longer.<press>
+<face:0036>
+<blink>What?<press>
+<face:0076>
+When I was alive, I couldn't*
+even help Miss Kamila*
+when she was in trouble.<press>
+I want to be able to*
+protect Miss Kamila.<press>
+And to do that...<press>
+<sound:0033><blink><shake:0128><1CFF_2B00>...I need these powers*
+I have now!<press>
+<face:0038>
+I see...<press>
+<face:00FB>
+<sound:0018><blink><shake:0128>Perfectly understandable!<press>
+<sound:0017><blink><shake:0128>Even I wish I had*
+powers like that!<press>
+<face:0034>
+Hey, we just saved you. Don't*
+wish your life away already!<press>
+<face:00F9>
+<sound:0015><blink><shake:0128>Oh... Of course. You're right.<press>
+<face:002B>
+Okay, Missile. Have it your way.<press>
+<sound:0016>By the way, Mr. Reckless Youth.*
+There's a certain detective who*
+needs that <red>music box<black> you found.<press>
+<change:0029>
+<end>
+When we get back to*
+the present time, could*
+you give it to her?<press>
+<face:00F9>
+<sound:0017><blink><shake:0128>Certainly! You have my word!<press>
+<face:0076>
+<sound:0033><blink><shake:0128>Let's go back, then!*
+To the present!
+
+-------------------------------
+
+[m13_1981][3061]
+
+<face:002B>
+If I can, I'd like to take advantage*
+of that guy's <red>strange way of*
+traversing the park<black>.<press>
+<face:0075>
+<sound:0033><blink><shake:0128>But he runs through so <red>quickly<black>!<press>
+<face:00FA>
+I am very quick indeed! Do*
+you think you can stop me?!<press>
+<face:002B>
+<blue>(We have to think of a way*
+to <red>stop him from running<blue>!)<black>
+
+-------------------------------
+
+[m13_1982][3062]
+
+<face:0027>
+Well, we managed to slow him*
+down, and I was feeling pretty*
+good there for a while...<press>
+<face:0075>
+Our next target is*
+that <red>rugby ball<black>!<press>
+<face:002B>
+<blue>(We have to move it closer*
+to that "<red>Mino<blue>" thing...)<black><press>
+<change:0029>
+<end>
+<blue>(...but maybe I should*
+try getting <red>closer <blue>to*
+that rugby ball first.)<black>
+
+-------------------------------
+
+[m13_1983][3063]
+
+<face:0027>
+Well, we managed to slow him*
+down, and I was feeling pretty*
+good there for a while...<press>
+<face:0075>
+Our next target is*
+that <red>rugby ball<black>!<press>
+<face:002B>
+<blue>(We have to move it closer*
+to that "<red>Mino<blue>" thing...)<black><press>
+<change:0029>
+<end>
+<blue>(There must be <red>something*
+around here<blue> we can use*
+to move that rugby ball.)<black>
+
+-------------------------------
+
+[m13_1984][3064]
+
+<face:0075>
+Oh, we were so close that time!<press>
+<sound:0033><blink><shake:0128>When the tree branch*
+shook, I really thought*
+the ball was going to fall!<press>
+<face:00F8>
+Just out of our grasp -- love,*
+our dreams, the gods...!<press>
+<face:0036>
+The gods, too, eh?*
+<blue>(I'd better try to find a way to*
+<red>make that branch shake more<blue>...)<black>
+
+-------------------------------
+
+[m13_1985][3065]
+
+<face:0075>
+<sound:0033><blink><shake:0128>Did you see that?! We finally*
+got the rugby ball down!<press>
+<face:002B>
+But, unfortunately, now*
+it's even farther away*
+from that "<red>Mino<black>" thing.<press>
+<face:00F8>
+That's because you two just had*
+to go and fiddle with things you*
+weren't supposed to!<press>
+<face:0034>
+It makes me mad when*
+you say it, but I guess*
+we'd better start over.
+
+-------------------------------
+

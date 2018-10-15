@@ -1,0 +1,993 @@
+[m07_0095][2909]
+
+The justice minister's daughter*
+has been abducted.<space>
+The kidnappers' demand?<space>
+The execution of the*
+death-row prisoner Jowd*
+to be carried out tonight.
+
+-------------------------------
+
+[m07_0096][290A]
+
+Lynne says the execution is a*
+mistake, and I believe her.<space>
+And so I'm paying the kidnappers'*
+hideout a visit, to see what I can*
+find out about the abduction.
+
+-------------------------------
+
+[m07_0100][290B]
+
+<sound:0016>What took you*
+so long?
+
+-------------------------------
+
+[m07_0110][290C]
+
+<face:00D6>
+Your instinct was right,*
+Beauty, my dear.<press>
+They had that restaurant*
+surrounded.<press>
+It took me forever to shake*
+them, and now my poor bike*
+is ready for the scrapheap.
+
+-------------------------------
+
+[m07_0115][290D]
+
+<face:00D8>
+Next time, maybe you*
+should make it a tricycle,*
+so you don't hurt yourself.<press>
+<face:00D6>
+<sound:0015><blink><shake:0128>Ouch, that hurts, Beauty!*
+But that's okay... That's*
+what I love about you.
+
+-------------------------------
+
+[m07_0120][290E]
+
+<face:00D8>
+Be a little more gentle with our*
+valuable hostage, please.<press>
+<face:00D6>
+Yes, yes. "<red>Always keep a smile on*
+a lady's face<black>," right, my dear?<press>
+There. See that, Beauty?<press>
+<sound:0016>Now there's a smile blooming*
+on your face, too, my dear.<press>
+<face:00D8>
+<sound:0015><blink>Yes, a wry smile.
+
+-------------------------------
+
+[m07_0125][290F]
+
+<face:00D9>
+I'm going out for a breath of*
+fresh air. You're on guard duty.<press>
+<face:00D5>
+All right. I'll dream of*
+you until you return.<press>
+<face:00D9>
+Why don't you open the*
+trunk for our <red>guest<black>?<press>
+<face:00D5>
+I will, Beauty. I was just*
+taking a little breather...
+
+-------------------------------
+
+[m07_0126][2910]
+
+<face:00D5>
+All right, little lady... Let me*
+open that trunk for you...
+
+-------------------------------
+
+[m07_0127][2911]
+
+.........
+
+-------------------------------
+
+[m07_0128][2912]
+
+Beauty...
+
+-------------------------------
+
+[m07_0130][2913]
+
+It looks like the justice*
+minister's daughter really*
+HAS been kidnapped...<space>
+And something else is*
+bothering me, too.
+
+-------------------------------
+
+[m07_0140][2914]
+
+I don't think I've ever been*
+to this room before...<space>
+...but something about it is giving*
+me a strange sense of déjà vu.<space>
+I've seen something*
+like this before...
+
+-------------------------------
+
+[m07_0150][2915]
+
+<fchat:0001>
+Taking something precious*
+to manipulate others... So *
+that's what <red>kidnapping<black> is...<press>
+The dirty tricks those*
+without the powers of*
+the dead come up with...<press>
+However...<press>
+<sound:0016>...if I <red>take that precious*
+thing back<black>, their power*
+vanishes, doesn't it?
+
+-------------------------------
+
+[m07_0160][2916]
+
+<fchat:0001>
+Now, then.<press>
+<sound:0015><blink>Time to see how <red>the*
+justice minister's*
+little girl<black> is doing...<press>
+...before this guy wakes up*
+from his dream of "Beauty"...
+
+-------------------------------
+
+[m07_0860][2917]
+
+<fchat:0001>
+This shelf is suspended by*
+<red>very thin cords<black>. They look*
+like they're about to break...<press>
+I bet it'd be quite a*
+spectacle if it fell...<press>
+<blue>(If something can break,*
+it kind of makes me*
+want to break it...)<black>
+
+-------------------------------
+
+[m07_0870][2918]
+
+<fchat:0001>
+When the flame gets*
+really big like this...<press>
+...for some reason, I get the*
+urge to burn something...<press>
+<sound:0016><blue>(Unfortunately, everything*
+is<red> just out of the flame's*
+reach<blue>...)<black>
+
+-------------------------------
+
+[m07_0830][2919]
+
+<fchat:0001>
+A <red>ball <black>that rolls off a table...<press>
+I've already seen*
+something like this*
+once already tonight...<press>
+<blue>(I wonder if this ball*
+does anything...?)<black>
+
+-------------------------------
+
+[m07_0840][291A]
+
+<fchat:0001>
+Whenever I possess*
+a door like this...<press>
+<sound:0016>...for some reason, I get the*
+urge to send something*
+flying with it...<press>
+<blue>(These ghost tricks*
+are kind of addictive...)<black>
+
+-------------------------------
+
+[m07_0880][291B]
+
+<fchat:0001>
+<sound:0015><blink>Darn.
+
+-------------------------------
+
+[m07_0890][291C]
+
+<fchat:0001>
+<sound:0016><blink>I can't reach my <red>destination<black>*
+from here!
+
+-------------------------------
+
+[m07_0900][291D]
+
+<fchat:0001>
+"Just my imagination"...?*
+That's all he has to say?<press>
+If he was any more laid*
+back, he'd fall right off*
+that crate.<press>
+<blue>(But look at that streamer*
+go spinning round and*
+round...)<black><press>
+<blue>(Now, how can I*
+make use of that?)<black>
+
+-------------------------------
+
+[m07_0810][291E]
+
+Just my*
+imagination...
+
+-------------------------------
+
+[m07_0910][291F]
+
+<fchat:0001>
+"Just my imagination"...?*
+That's all he has to say?<press>
+What an amazingly*
+simple fellow...<press>
+<blue>(This room, on the other*
+hand, is starting to look*
+amazingly festive...)<black><press>
+<blue>(The question is, how can*
+I use it to my advantage?)<black>
+
+-------------------------------
+
+[m07_0850][2920]
+
+<fchat:0001>
+This is one of those things*
+you light with <red>fire<black>, isn't it?<press>
+As long as there's light in*
+the room, is something like*
+this really necessary?<press>
+<blue>(But if something can*
+be lit, it kind of makes*
+me want to light it...)<black><press>
+<blue>(I need another <red>core*
+<blue>to reach the trunk*
+and open it.)<black><press>
+<sound:0015><blink><blue>(I wonder if I can*
+create a <red>new core<blue>?)<black>
+
+-------------------------------
+
+[m07_0170][2921]
+
+<fchat:0001>
+<sound:0016><blink>What in the...?<press>
+What's going on here?<press>
+This little lady is...
+
+-------------------------------
+
+[m07_0180][2922]
+
+<fchat:0001>
+<sound:0016><blink>Is this little lady really*
+a daughter of the justice*
+minister...?
+
+-------------------------------
+
+[m07_0190][2923]
+
+<face:00D8>
+What's with the fun*
+book and juice?<press>
+<face:00D6>
+Like I said, "<red>Always keep*
+a smile on a lady's face<black>."<press>
+I wanted to treat our guest well.<press>
+<face:00D8>
+How about treating me well?<press>
+<sound:0015><blink>I'd like some bread and milk, please.
+
+-------------------------------
+
+[m07_0195][2924]
+
+<face:00D6>
+At your service, my dear.*
+Be back in a flash.
+
+-------------------------------
+
+[m07_0200][2925]
+
+<face:006E>
+<sound:0016>Hey, mister.
+
+-------------------------------
+
+[m07_0210][2926]
+
+<face:00D5>
+Yes, cute little lady?<press>
+More juice, perhaps? All*
+you have to do is ask.<press>
+<face:006C>
+Have I been...<press>
+<sound:0016><blink>...<red>kidnapped<black>...?
+
+-------------------------------
+
+[m07_0220][2927]
+
+<face:00D5>
+<shake:0128>Don't cry, little dear. There's*
+nothing to be afraid of.<press>
+The surroundings are miserable*
+and filthy, I know, but we just*
+ask for a little patience.<press>
+<face:0070>
+<sound:0018><blink><shake:0128>Don't say those awful*
+things about this house!<press>
+<face:00D5>
+<blink>Hmm?<press>
+<face:006E>
+This house is...<press>
+<sound:0016>{28FF}0U<red><black>...<red>where I used to live<black>.
+
+-------------------------------
+
+[m07_0225][2928]
+
+<face:00D5>
+<sound:0018><blink><shake:0128>Wh-What?!
+
+-------------------------------
+
+[m07_0226][2929]
+
+<face:00D5>
+<shake:0128>I apologize, little lady.<press>
+<shake:0128>I'm the one who's miserable*
+and filthy. Forgive me.
+
+-------------------------------
+
+[m07_0230][292A]
+
+<face:00D6>
+<sound:0018><shake:0128>What's the meaning of this, Beauty?!*
+Why here, at this girl's old house...?!<press>
+<face:00D8>
+Don't ask me.<press>
+It was <red>the other party in our*
+deal<black> who chose this location.<press>
+<face:00D6>
+Oh... Oh, I see...<press>
+<face:00D8>
+It's been empty for five years.*
+And, apparently, nobody ever*
+comes here.<press>
+<sound:0016>But never mind that. What*
+about my bread and milk?<press>
+<face:00D6>
+<blink><shake:0128>Oh! Of course!
+
+-------------------------------
+
+[m07_0240][292B]
+
+<face:00D5>
+Now, you be a good*
+girl while I'm gone.
+
+-------------------------------
+
+[m07_0245][292C]
+
+<face:00D8>
+{28FF}<0001_6400>You just read your book*
+and drink your juice.<press>
+<face:006E>
+I want to go home...
+
+-------------------------------
+
+[m07_0246][292D]
+
+<face:00D8>
+Not quite yet.
+
+-------------------------------
+
+[m07_0250][292E]
+
+<fchat:0001>
+<sound:0016>This dilapidated place was*
+Kamila's old house...?<press>
+<blue>(What's going on here?)<black>
+
+-------------------------------
+
+[m07_0260][292F]
+
+<face:002D>
+<sound:0015><blink>{28FF}0UWh-What in the world?!
+
+-------------------------------
+
+[m07_0265][2930]
+
+<face:002D>
+<sound:0016>Why does <red>the little lady<black>*
+have a <red>core <black>of the dead...?<press>
+<change:002B>
+<end>
+<blue>(When I helped her out at Lynne's*
+apartment, she didn't have one...)<black><press>
+<blue>(So that must mean...)<black><press>
+<change:0029>
+<end>
+<blink><blue>(...she must've <red>died<blue>*
+sometime after that!)<black><press>
+<blue>(And it also means...)<black><press>
+<sound:0016><blink><blue>(...somebody else*
+must've <red>saved <blue>her!)<black>
+
+-------------------------------
+
+[m07_0266][2931]
+
+<face:0029>
+{28FF}<0001_5A00>I'd better ask her what happened!
+
+-------------------------------
+
+[m07_0820][2932]
+
+<fchat:0001>
+A book... I wonder*
+what the little lady*
+is reading tonight?<press>
+An exciting adventure*
+story, maybe?<press>
+.........<press>
+<blue>(Although she's already*
+getting quite a bit of*
+"excitement" for one day...)<black>
+
+-------------------------------
+
+[m07_0920][2933]
+
+<fchat:0001>
+Somewhere along the way,*
+Kamila must've <red>died<black>.<press>
+What could've happened to*
+her...? I'd better ask her.<press>
+Could it be...<press>
+<sound:0016>...there's somebody else*
+with <red>the powers of the*
+dead<black> besides me...?
+
+-------------------------------
+
+[m07_0270][2934]
+
+<face:0070>
+<sound:0015><blink>Who's there?!<press>
+<change:0066>
+<end>
+<shake:0128><blink>Oh, wait a minute... Is that*
+you, Missile...? Missile!<press>
+<face:0027>
+I'm sorry. I'm not Missile.*
+My name's Sissel.<press>
+<face:0066>
+Sissel...?<press>
+<change:006E>
+<end>
+My name is... Kamila.<press>
+<face:002B>
+Kamila...*
+<blue>(So it IS her. I knew it!)<black><press>
+<face:0066>
+What happened to me?*
+What is this place?<press>
+<face:002B>
+<blue>(I can hardly tell the*
+poor little thing this is*
+<red>the land of the dead<blue>...)<black><press>
+<face:006C>
+<sound:0015><blink>"The land of the dead"...?*
+Does that mean I'm dead...?<press>
+<face:0036>
+<shake:0128><blink><blue>(Darn! I forgot there are no*
+"secrets" in the Ghost World...)<black><press>
+<change:0027>
+<end>
+You can relax. You're not dead.<press>
+<change:002B>
+<end>
+<sound:0016>But this isn't the first time*
+you've been here, apparently.<press>
+<face:006E>
+Really? I don't remember.<press>
+<change:0066>
+<end>
+Wait a minute... Maybe I*
+do remember! Sort of...<press>
+<face:0027>
+You do?<press>
+<change:002B>
+<end>
+<blue>(It looks like she*
+doesn't remember*
+<red>being saved<blue> very well.)<black><press>
+<blue>(Hmm... So there's some*
+other <red>dead person<blue> out there*
+<red>with special powers<blue>, eh...?)<black><press>
+<sound:0016><blue>(Anyway, I don't want to press her*
+if she doesn't remember dying.)<black><press>
+<change:0027>
+<end>
+Do you mind if I ask you a few*
+questions about something else?<press>
+<face:0064>
+<sound:0015><blink><shake:0128>Sure, go ahead, Sissy!<press>
+<face:002B>
+<blue>("Sissy," eh? Ahem.)<black>
+
+-------------------------------
+
+[m07_0300][2935]
+
+Kidnapping
+
+-------------------------------
+
+[m07_0310][2936]
+
+<face:0064>
+Lynne asked me to do*
+something for her tonight.<press>
+<face:0027>
+I know about that part. She asked*
+you to go to the <red>Chicken Kitchen<black>*
+on Dead End Drive, right?<press>
+<face:0066>
+Yeah, but I never got there.<press>
+Now I wish I could say,*
+"I'm sorry" to her...<press>
+<change:006E>
+<end>
+<sound:0016>I never should've gone*
+through that park!<press>
+<face:002B>
+<sound:0015><blink>What park?<press>
+<face:006E>
+<red>Temsik Park<black>. It's a shortcut*
+to Dead End Drive.<press>
+<face:0029>
+Is that where the kidnappers*
+grabbed you?<press>
+<face:006E>
+Yeah... Lynne always said...<press>
+<sound:0016>"I don't like that park. Scary*
+things happen there."<press>
+<face:002B>
+<blue>(<red>Temsik Park<blue>, eh...?)<black><press>
+<face:006E>
+What am I going to do?*
+Lynne's going to be mad...<press>
+<face:0029>
+She is? How come?<press>
+<face:006E>
+Because I left it there.<press>
+<change:0066>
+<end>
+<sound:0016>The <red>music box<black>. In the park.<press>
+<face:0036>
+<sound:0015><blink><shake:0128><blue>(That's right! The <red>music box<blue>...!)<black>
+
+-------------------------------
+
+[m07_0320][2937]
+
+Music box
+
+-------------------------------
+
+[m07_0330][2938]
+
+<face:0064>
+That music box was*
+hidden in the apartment.<press>
+I finally found it, with a little*
+bit of luck and courage.<press>
+<change:0068>
+<end>
+<sound:0015><blink>Guess where it was?<press>
+<face:0034>
+Hmm, I don't know. Where?*
+<blue>(I'll pretend I don't know.)<black><press>
+<face:0066>
+You know...<press>
+<change:0064>
+<end>
+<sound:0016>...you don't have to humor me.<press>
+<face:0036>
+<blue>(Oops...)<black><press>
+<change:0027>
+<end>
+So what happened*
+to the music box?<press>
+<face:0066>
+I hid it <red>in the bushes<black> at the*
+park, just before it happened.<press>
+<face:002B>
+Just before...? Oh, just before*
+you were <red>kidnapped<black>, huh?<press>
+<face:006E>
+<shake:0128><blink>I didn't want the bad man*
+to take it! So I hid it...<press>
+I bet it's still there in the park...<press>
+<face:0027>
+You did well.<press>
+<change:002B>
+<end>
+<sound:0016><blink><blue>(So the music box is in the <red>park<blue>?*
+I'd better let Lynne know.)<black>
+
+-------------------------------
+
+[m07_0340][2939]
+
+About Kamila
+
+-------------------------------
+
+[m07_0350][293A]
+
+<face:0034>
+This is your old house?<press>
+<face:0064>
+Yup. This is where we*
+lived, until five years ago.<press>
+But now I live with*
+Lynne and Missile.<press>
+<face:002B>
+<red>Lynne <black>is like a big sister*
+to you, isn't she?<press>
+<face:0068>
+<sound:0017><blink><shake:0128>Yup! She's a detective, you*
+know. She's a hero!<press>
+<face:0036>
+<shake:0128><blink>She is, huh?<press>
+<change:002B>
+<end>
+By the way, about your <red>father<black>...<press>
+<face:006E>
+<sound:0015><blink>...!<press>
+<face:0029>
+Is he the justice minister?<press>
+<face:006E>
+.........<press>
+<1EFF_8200>My father is... gone...<press>
+<face:002B>
+<blink>Gone...?*
+<blue>(Maybe he passed away...?)<black><press>
+<face:006E>
+No. That's not it. My dad...<press>
+<change:006C>
+<end>
+<sound:0016><blink>...He's going to die. And*
+it's all because of me!<press>
+<face:003A>
+<sound:0018><blink><shake:0128>Wh-What?! What do you*
+mean "<red>because of me<black>"...?!<press>
+<change:0029>
+<end>
+Why would you say that?<press>
+<face:006C>
+It's called an "<red>execution<black>."*
+My dad is...<press>
+<sound:0015><blink>...a detective.<press>
+<face:003A>
+<shake:0128>N-No way! Don't tell me your*
+father is... Detective Jowd...?<press>
+<face:006C>
+<sound:0016><blink><1CFF_1F00>That's right.<press>
+<face:002D>
+<blink><shake:0128><blue>(What in the world...?!)<black><press>
+<face:006C>
+Five years ago, something*
+really bad happened.<press>
+Like a scary dream...*
+But it wasn't a dream.<press>
+<face:0029>
+<sound:0015><blink><shake:0128>Five years ago...*
+<blue>(<red>That murder case<blue>...!)<black>
+
+-------------------------------
+
+[m07_0360][293B]
+
+Incident five years ago
+
+-------------------------------
+
+[m07_0370][293C]
+
+<face:006E>
+It was Mom's birthday that day.<press>
+My mom and dad were working,*
+and I was home by myself.<press>
+And then I had an idea. I was*
+going to surprise my mom...<press>
+<sound:0016><blink>{28FF}0UI set up that <red>contraption<black>.
+
+-------------------------------
+
+[m07_0380][293D]
+
+I'm home,*
+Kamila!
+
+-------------------------------
+
+[m07_0390][293E]
+
+Why is it dark?
+
+-------------------------------
+
+[m07_0400][293F]
+
+Mom! Mom!!!
+
+-------------------------------
+
+[m07_0410][2940]
+
+What was*
+that noise?!
+
+-------------------------------
+
+[m07_0420][2941]
+
+<face:006C>
+I still can't believe it happened...<press>
+<sound:0018><blink><shake:0128>It wasn't supposed*
+to work like that!<press>
+<face:0029>
+<blue>(Hmm... I <red>know <blue>that contraption...)<black><press>
+<blue>(And I know how it*
+was <red>supposed <blue>to work...)<black><press>
+<change:002B>
+<end>
+<sound:0016><blink><blue>(Party poppers and a cake...*
+A <red>birthday<blue> message...)<black>
+
+-------------------------------
+
+[m07_0430][2942]
+
+<face:0071>
+<NJ:003C>
+<center>My dad told me not*
+<center>to tell anybody.<press>
+<NJ:003C>
+<center>"Just leave it to me," he said.
+
+-------------------------------
+
+[m07_0440][2943]
+
+<face:006C>
+My dad wanted to be <red>executed<black>.*
+He asked them for it.<press>
+<face:0070>
+<sound:0018><blink><shake:0128>But I wanted to tell everybody*
+it was my fault!<press>
+My dad said what I saw*
+was a bad dream...<press>
+<change:006C>
+<end>
+He told me to forget it.<press>
+<face:002D>
+<shake:0128><blink><blue>(.........*
+This is all so unbelievably tragic...)<black>
+
+-------------------------------
+
+[m07_0450][2944]
+
+<face:0044>
+<NJ:003C>
+<center>I can't believe it...<press>
+<NJ:003C>
+<1DFF_0900><0001_7800><center>This little lady is Detective*
+<center>Jowd's daughter...?
+
+-------------------------------
+
+[m07_0455][2945]
+
+<face:002B>
+<blue>(I just can't tell her...)<black><press>
+<sound:0016><blink><blue>(I can't tell her <red>why<blue>*
+she was kidnapped...)<black><press>
+<face:0070>
+<sound:0015><blink><shake:0128>Why was I kidnapped?!*
+I want to know!<press>
+<face:0029>
+<blink>Oops.<press>
+<change:002B>
+<end>
+<blue>(There are no secrets*
+in the Ghost World...)<black><press>
+<blue>(Maybe we'd better stop*
+talking... It's too <red>dangerous<blue>.)<black><press>
+<face:006E>
+Sissy...<press>
+You're not going to*
+talk to me anymore...?<press>
+<face:0029>
+I think we'd better get you*
+out of here first. We can*
+talk more after that.<press>
+<face:006E>
+Okay... but...<press>
+<face:0029>
+<sound:0016><blink>I'm going to rescue you*
+now. You just hold on a*
+little longer, all right?<press>
+<face:006E>
+<NJ:003C>
+.........<press>
+<change:0064>
+<end>
+Okay. But we'll talk later, right?<press>
+<change:0068>
+<end>
+<blink>Don't forget! You promised, Sissy!
+
+-------------------------------
+
+[m07_0460][2946]
+
+<face:00D8>
+<1CFF_0E00>What took you so long?<press>
+<face:00D6>
+<sound:0017><blink><shake:0128>I traveled the entire town in*
+search of the finest bread*
+and milk for you, my dear.<press>
+But it's late, and all*
+the shops are closed.
+
+-------------------------------
+
+[m07_0470][2947]
+
+<face:00D8>
+<sound:0016><blink>We're leaving this*
+place, right now.<press>
+<face:00D6>
+<sound:0015><blink>What?! But <red>he's<black> not here yet!<press>
+If we couldn't meet at*
+the restaurant, weren't we*
+supposed to meet here?<press>
+<face:00D8>
+Yes. And he's the one who*
+chose this location.<press>
+<face:00D6>
+<sound:0018><blink><shake:0128>Hmph! I don't like this one bit!<press>
+We have to run around doing*
+all this "extra" work, all for*
+the sake of his "<red>deal<black>"!<press>
+<face:00D8>
+<blink>Be quiet.
+
+-------------------------------
+
+[m07_0475][2948]
+
+<face:00D8>
+It can't be helped. This*
+place is too dangerous.<press>
+<sound:0016><blink>I told you. My <red>sixth sense<black> is*
+very strong.
+
+-------------------------------
+
+[m07_0476][2949]
+
+<face:00D6>
+<shake:0128>All right, as you wish, Beauty.<press>
+<face:00D8>
+I feel it... I sense <red>something<black>*
+here, in this room...
+
+-------------------------------
+
+[m07_0480][294A]
+
+<face:00DA>
+<sound:0016><blink><center>Is somebody there?*
+<center>Can you hear me?<press>
+<fchat:0001>
+<sound:0015><blink>...!*
+<blue>(Is she talking to me?)<black><press>
+<face:00DA>
+<center>I can <red>sense <black>your*
+<center>presence, you know.<press>
+<sound:0016><center>The next time I sense*
+<center>you, <red>this child will die<black>.<press>
+<center>Remember that.
+
+-------------------------------
+
+[m07_0495][294B]
+
+<face:00D8>
+All right, we're leaving.
+
+-------------------------------
+
+[m07_0496][294C]
+
+<face:00D5>
+Pardon me, little lady.
+
+-------------------------------
+
+[m07_0500][294D]
+
+All of a sudden, I'm left*
+behind alone...<space>
+...alone in the room that*
+stole that little lady's*
+smile away five years ago.<press>
+The little lady is gone*
+now, leaving me with*
+only a few new facts...<space>
+...a few very heavy, very sad facts.<space>
+Does Lynne know about all this?
+
+-------------------------------
+
+[m07_0510][294E]
+
+One other thing stands*
+out in my mind...<space>
+"I can sense your presence."<space>
+...The sum of that*
+kidnapper's final words.<press>
+Do those two know?<space>
+Do the kidnappers know about*
+the powers of the dead?
+
+-------------------------------
+

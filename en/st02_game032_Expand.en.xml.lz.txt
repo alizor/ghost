@@ -1,0 +1,675 @@
+[m02_3061][070F]
+
+<face:0046>
+That's a good boy. Gee, a*
+<red>hostage <black>sure is a handy thing.<press>
+<change:0058>
+<end>
+<sound:0016><blink>It gives me complete <red>control <black>over*
+the top police inspector in the*
+country.
+
+-------------------------------
+
+[m02_3065][0710]
+
+<face:008E>
+<blink><shake:0128>Ngh...!<press>
+<face:0046>
+<sound:0015><blink>Whatsa matter? All those*
+broken bones smart a bit?<press>
+<change:0050>
+<end>
+What's it like to feel pain?*
+Does it make you feel ALIVE?<press>
+<face:008E>
+Why... are you doing this?<press>
+<face:0046>
+Now, is that any kind of*
+question for a top inspector*
+to ask? Isn't it obvious?<press>
+<change:0058>
+<end>
+<sound:0016><blink><red>Revenge<black>, of course.<press>
+Revenge on all the people who*
+stole my life away ten years ago.
+
+-------------------------------
+
+[m02_3090][0715]
+
+<face:0058>
+<sound:0017><blink><shake:0128>And, finally, you,*
+Inspector Cabanela!<press>
+<face:008E>
+Me...?<press>
+<face:0054>
+If you hadn't done what you did...<press>
+...I never would've pointed*
+a gun at that kid.
+
+-------------------------------
+
+[m02_3100][0716]
+
+<face:0048>
+You were so proud of*
+your "spotless record."<press>
+And my case was the*
+one <red>blot <black>on it, wasn't it?<press>
+Only two people know the real*
+truth -- me, and Detective Jowd.<press>
+<face:008E>
+.........
+
+-------------------------------
+
+[m02_3110][0717]
+
+<face:0054>
+I bet tonight's execution will be*
+quite a <red>relief <black>to you, won't it?<press>
+<change:0058>
+<end>
+<sound:0016><blink>One of the people who know*
+about the stain on your record*
+will disappear for good.<press>
+That's why you didn't help*
+him escape from prison.
+
+-------------------------------
+
+[m02_3120][0718]
+
+<face:0048>
+<sound:0017><blink><shake:0128>That's the kind of guy you are!<press>
+<face:008E>
+<sound:0000><NJ:003C>
+.........
+
+-------------------------------
+
+[m02_3130][0719]
+
+<face:008E>
+I got nothing to say to you.*
+You'd never listen, anyway.
+
+-------------------------------
+
+[m02_3140][071C]
+
+<face:0046>
+This was another condition*
+of my deal.<press>
+<change:0058>
+<end>
+To wipe out everybody*
+who knew about Temsik.
+
+-------------------------------
+
+[m02_3160][071E]
+
+<fchat:000B>
+So are you a*
+"manipulator," too?<press>
+<fchat:0001>
+I have ghost tricks -- powers*
+of the dead, yeah. But...<press>
+<sound:0015><blink>...I can't control*
+living creatures.<press>
+<fchat:000B>
+Anyhoot, I think you'd*
+better be veeery careful.<press>
+<red>That guy in red<black> is*
+a manipulator.<press>
+<sound:0016>Naturally, he <red>knows <black>about*
+powers like yours.<press>
+<fchat:0001>
+<sound:0015><blink>...!<press>
+<fchat:000B>
+If he realizes <red>you're here<black>...<press>
+<sound:0016>...things might get*
+<red>a liiitle sticky<black>.<press>
+<fchat:0001>
+<blue>(You're right. I'd*
+better be careful.)<black>
+
+-------------------------------
+
+[m02_3890][071F]
+
+<fchat:0001>
+<sound:0015><blink>...!*
+Look at him...<press>
+<sound:0016>There's that "something"*
+emanating from his body...<press>
+<blue>(Is it really the <red>sign*
+<blue>of having <red>special*
+powers of the dead<blue>...?)<black>
+
+-------------------------------
+
+[m02_3500][0720]
+
+<fchat:0001>
+No good. I can't use*
+the phone lines in*
+this past world.<press>
+<shake:0128><blink><blue>(I'll have to find something*
+I can do here!)<black>
+
+-------------------------------
+
+[m02_3760][0721]
+
+<fchat:0001>
+The top of this bookshelf is*
+lined with books.<press>
+This one on top is balanced*
+so precariously, it's a*
+wonder it doesn't fall off.<press>
+How did the old pigeon*
+guy even reach up here?<press>
+<blue>(And I wonder if he makes*
+his pigeon fetch it for him?)<black>
+
+-------------------------------
+
+[m02_3640][0722]
+
+<fchat:000B>
+<sound:0015><blink>That was a real*
+shocker, baby.<press>
+<sound:0016>Didn't he feel that?*
+He <red>grilled <black>his own fist*
+to criiispy perfection.<press>
+<fchat:0001>
+It's just not natural, is it?<press>
+<blue>(Hmm. It's kind of <red>hard*
+to move around<blue> here.)<black><press>
+<fchat:000B>
+He has the same kind of*
+powers you do, after all.<press>
+<sound:0016><blink>If you do anything too*
+obvious, <red>he'll notice you<black>.<press>
+<fchat:0001>
+<blue>(Hmm. Under these*
+circumstances, I dunno if*
+there's <red>a way to save you<blue>...)<black><press>
+<fchat:000B>
+<sound:0015><blink><shake:0128>Ouch! Don't admit that*
+right in front of me, baby!
+
+-------------------------------
+
+[m02_3770][0723]
+
+<fchat:0001>
+<sound:0015><blink><shake:0128>Wh-What's going on...?!<press>
+<sound:0016><blink><blue>(I've never seen the*
+<red>Ghost World<blue> like this!)<black>
+
+-------------------------------
+
+[m02_3775][0724]
+
+<face:0059>
+<sound:0000><NJ:003C>
+<center>So you're here, are you?<press>
+<fchat:0001>
+<sound:0015><blink>...!*
+<blue>(He sensed my presence!)<black>
+
+-------------------------------
+
+[m02_3771][0725]
+
+<face:0059>
+<center>I noticed you. You think you*
+<center>can stop me, do you?<press>
+<fchat:0001>
+.........<press>
+<face:0059>
+<center>I don't know why you're*
+<center>wearing <red>my face<black>...<press>
+<center>...but you might as well give*
+<center>up now. I control everything!
+
+-------------------------------
+
+[m02_3790][0726]
+
+<sound:0018>Dammit!
+
+-------------------------------
+
+[m02_3772][0727]
+
+<face:0058>
+<sound:0016><blink>Everything! Including the life of*
+this police inspector in white.
+
+-------------------------------
+
+[m02_3773][0728]
+
+<fchat:0001>
+<sound:0017><blink><shake:0128>W-Wait! Don't shoot!
+
+-------------------------------
+
+[m02_3774][0729]
+
+<face:0034>
+It looks like it's gonna be*
+hard to save you under*
+these circumstances.<press>
+<face:008C>
+As long as Suuunglasses is*
+watching, you mean?<press>
+<change:0089>
+<end>
+Well, maybe it's time to stop*
+and smell the roooses, and*
+take a look around, baby.<press>
+<face:002B>
+<blue>(Smooth talking from a smooth*
+talker, but he's right. Maybe I*
+need a "change of scenery"?)<black>
+
+-------------------------------
+
+[m02_3170][072A]
+
+<fchat:0001>
+<sound:0016><blink><shake:0128>Look at this place...
+
+-------------------------------
+
+[m02_3171][072B]
+
+<fchat:0001>
+What in the world*
+happened here?<press>
+<fchat:000B>
+<sound:0000><NJ:003C>
+.........<press>
+<sound:0000><NJ:003C>
+Think I'm startin'*
+to remember...<press>
+<fchat:0001>
+<sound:0015><blink>...!<press>
+<fchat:000B>
+<red>Something bad*
+<black>happened here.<press>
+And now...<press>
+<sound:0016>...there's <red>another death<black>*
+lying hidden here.<press>
+<fchat:0001>
+<sound:0018><blink><shake:0128>What?! Another <red>death<black>?<press>
+<fchat:000B>
+Didn't I tell you*
+from the start?<press>
+<sound:0016><blink>Didn't I say there was <red>a very*
+important life<black>, valuable to*
+the nation, here?<press>
+<fchat:0001>
+I thought you were*
+talking about you.<press>
+<fchat:000B>
+<sound:0015><blink>Hmph. I'm just a <red>crazy*
+character <black>in a white*
+coat, baby.
+
+-------------------------------
+
+[m02_3172][072C]
+
+<fchat:0001>
+<blue>(Hey, come to think of it...)<black><press>
+<sound:0016><blink><blue>(...where is that*
+<red>old pigeon guy<blue>...?)<black>
+
+-------------------------------
+
+[m02_3780][072D]
+
+<fchat:0001>
+<sound:0016>This is... <red>some kind of device<black>.<press>
+<fchat:000B>
+Very astute observation.<press>
+<fchat:0001>
+<sound:0015><blink>Uh, sorry. My memory*
+isn't working...<press>
+<fchat:000B>
+Yeah, mine isn't workin'*
+too well right now, either.<press>
+<sound:0016>I do remember seein'*
+somebody use this*
+equipment, though...
+
+-------------------------------
+
+[m02_3650][072E]
+
+<fchat:0001>
+<sound:0015><blink><shake:0128>It's too heavy!*
+I can't budge it.<press>
+<fchat:000B>
+Not surpriiising, what*
+with that mountain of*
+rubble on top of it.<press>
+<fchat:0001>
+<sound:0016>And there appears to be*
+a <red>death <black>buried underneath*
+that rubble.<press>
+<fchat:000B>
+<sound:0017><blink><shake:0128>Please help that person!
+
+-------------------------------
+
+[m02_3920][072F]
+
+<fchat:000B>
+<sound:0018><blink><shake:0128>Hey, I'm going to die*
+all over again, maaan!<press>
+<fchat:0001>
+B-But...<press>
+<sound:0015><blink>...what can I do, when he's*
+right there watching?!<press>
+<fchat:000B>
+Well, nothing's going*
+to get solved just*
+staaanding around.<press>
+<sound:0017><blink><shake:0128>When in doubt, <red>just keep*
+movin'<black>! That's my secret!<press>
+<fchat:0001>
+Yes, I noticed you "just keep*
+moving" quite a bit...<press>
+<blue>(I'll just try going*
+everywhere I can*
+and look for a path!)<black>
+
+-------------------------------
+
+[m02_3370][0730]
+
+<face:002D>
+<sound:0016><blink>This "other me" knows the*
+<red>powers of the dead<black> well!<press>
+<face:0089>
+<sound:0015><blink>Who WOULDN'T notice what you*
+just did? You were practically*
+shouting "look at me," baby!<press>
+<face:0034>
+It looks like it might be*
+hard to save you under*
+these circumstances...<press>
+<change:002B>
+<end>
+<blue>(I guess I can't use my powers*
+<red>right in front of him<blue> like that...)<black>
+
+-------------------------------
+
+[m02_3375][0731]
+
+<face:0029>
+It looks like it's gonna be*
+hard to save you under*
+these circumstances.<press>
+<face:0089>
+I can see that. Heeere's*
+another thought...<press>
+<sound:0016>How about lookin' for the "very*
+important life, valuable to this*
+nation," I told you about instead?<press>
+<face:002B>
+<blue>(So there's <red>another death*
+<blue>hiding somewhere around*
+here, is there...?)<black>
+
+-------------------------------
+
+[m02_3180][0732]
+
+<face:0029>
+Um, excuse me.<press>
+{07FF}<15FF_0100><face:010C>
+<sound:0000><0CFF_3C00>{06FF}<sound:0000><NJ:003C>
+<center>.........<press>
+<face:0034>
+Are you awake?<press>
+{07FF}<15FF_0100><face:010C>
+<sound:0000><0CFF_5000><show><face:00D3>
+<sound:0000><0CFF_7800>{06FF}<sound:0016>Of course.<press>
+<sound:0015><blink>I never sleep during work hours.<press>
+<face:008C>
+<sound:0017><blink><shake:0128>Professor! Do you recognize me?<press>
+<face:00D3>
+There's only one crazy character*
+in a white coat that I know of.<press>
+<face:0036>
+<sound:0015><blink><shake:0128><blue>(He hasn't lost his memory!)<black><press>
+<face:00D3>
+I'm not the type who*
+likes losing things...<press>
+But never mind that.<press>
+<sound:0016><blink>Cabanela, this is quite*
+<red>a surprising guest<black> you've*
+brought with you.<press>
+Pretending like he didn't*
+just <red>blow up<black> the place...<press>
+<face:0036>
+<blink><shake:0128>Are you... talking about me?<press>
+<face:008C>
+<sound:0015><blink>Oh, this is a different guy.*
+And I'm his guest, actually.*
+Said he came to rescue us.<press>
+<change:0089>
+<end>
+Unlike you, my sharp*
+friend, he still hasn't*
+gotten his memory back.<press>
+<face:00D3>
+Hmph. Pitiful.<press>
+<face:002F>
+<blue>(Ouch. That hurts.)<black><press>
+<change:002B>
+<end>
+Anyway, now we'll be going*
+back to four minutes*
+before your death...<press>
+...in order to change*
+your fate, that is.<press>
+<face:0089>
+<sound:0015><shake:0128><blink>But aren't we already*
+in the <red>past<black>, maaan?<press>
+<face:0034>
+But we can <red>go back even*
+further<black>. I've done it before.<press>
+<change:0029>
+<end>
+<blue>(I still don't see a path to*
+saving Inspector Cabanela...)<black><press>
+<sound:0016><blink><blue>(...but if we <red>go back further<blue>,*
+maybe I'll find a lead!)<black>
+
+-------------------------------
+
+[m02_3762][0778]
+
+<fchat:0001>
+The top of this bookshelf is*
+lined with books.<press>
+How does the old pigeon*
+guy even reach up here?<press>
+<blue>(And I wonder if he makes*
+his pigeon fetch these books*
+for him?)<black><press>
+<fchat:000C>
+<sound:0016>I ain't telling.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Hmm. So many mysteries*
+surrounding this old man!<press>
+<fchat:0001>
+<blue>(But never mind those...)<black>
+
+-------------------------------
+
+[m02_3765][0779]
+
+<fchat:0001>
+This is a really thick book.<press>
+I can't read, so I don't*
+know what it's about...<press>
+<blue>(Will I ever get my*
+memory back...?)<black>
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(So what exactly*
+is this thing?)<black><press>
+<blue>(It looks like a giant*
+nail clipper to me...)<black><press>
+<fchat:000C>
+<sound:0016>No, it most certainly*
+does not.<press>
+It's an instrument used in*
+analyzing radiation-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>O-Oh. Ahem. Yes, I see...<press>
+<fchat:000B>
+<sound:0015><blink>You're not alone, kid.<press>
+None of the rest of us*
+understand it, either, baby!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Yeah! You said it!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Old pictures... of what*
+look like little fragments*
+of rock.<press>
+<fchat:000C>
+Those are Temsik fragments.<press>
+That's an article from back*
+when it was big news.<press>
+<fchat:000B>
+Ten years ago, nobody*
+really understood it.<press>
+<fchat:000C>
+I guess that's*
+still true today.
+
+-------------------------------
+
+[m02_3870][077D]
+
+What was that?
+
+-------------------------------
+
+[m02_3875][077E]
+
+.........
+
+-------------------------------
+
+[m02_1440][0534]
+
+<fchat:0003>
+These pictures are old.*
+What are they of? Little*
+fragments of rock?<press>
+And the fragments*
+are glowing... Do you*
+know what these are?<press>
+<fchat:0001>
+Sorry, but I've lost my*
+memory. Probably not*
+the best person to ask...<press>
+<fchat:0003>
+<sound:0015><blink>That's okay. I was only*
+being polite. I didn't*
+really think you'd know.<press>
+<fchat:0001>
+<blue>(Ouch. This lady's*
+tongue can be sharp.)<black><press>
+<fchat:0003>
+Uh, I can hear what you're*
+thinking, remember?<press>
+<fchat:0001>
+<sound:0016>I know.<press>
+<fchat:0003>
+Good one.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+What could this be? It looks*
+like a giant nail clipper.<press>
+<fchat:0003>
+You think so?<press>
+<fchat:0001>
+Do YOU know what it is?<press>
+<fchat:0003>
+#sigh#<press>
+<sound:0016>Why did you have to ask me?!*
+Couldn't you see I was*
+looking away evasively?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0003>
+It's... one of those science-y*
+things that scientists use.<press>
+<sound:0018><blink><shake:0128>Ordinary people like us don't*
+have to know what it is!<press>
+<fchat:0001>
+<blue>(I don't remember*
+what "science" is...)<black><press>
+<blue>(...but it's apparently*
+something Lynne*
+doesn't like very much.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+These photos*
+look pretty old.<press>
+Pictures of little*
+fragments of rock...<press>
+That old pigeon guy has*
+some pretty strange*
+taste in wall décor.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+I have no idea what this*
+instrument is for.<press>
+As a matter of fact, this*
+whole desk is filled with*
+things I've never seen.<press>
+I know I've lost my*
+memory, but still...<press>
+That old pigeon man seems*
+like a pretty strange guy.
+
+-------------------------------
+

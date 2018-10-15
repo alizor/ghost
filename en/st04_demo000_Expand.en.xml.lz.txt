@@ -1,0 +1,95 @@
+[m04_0161][1B20]
+
+<face:000D>
+The note said "The Chicken*
+Kitchen, 10:00."<press>
+I wonder who that pointy-haired*
+man was going to meet here?
+
+-------------------------------
+
+[m04_0162][1B21]
+
+What's this?
+
+-------------------------------
+
+[m04_0170][1B22]
+
+Here you go!
+
+-------------------------------
+
+[m04_0180][1B23]
+
+Where's my*
+chicken?
+
+-------------------------------
+
+[m04_0190][1B24]
+
+Can I eat*
+that thing?
+
+-------------------------------
+
+[m04_0200][1B26]
+
+<face:002B>
+<sound:0016>You're just going bigger*
+and better with each*
+new death, aren't you?<press>
+<face:000E>
+<shake:0128><blink>Leave me alone. Can I*
+help it if I got tired of*
+dying the usual ways?<press>
+<face:0029>
+But I'll say this. It was a death any*
+detective could be proud of.<press>
+<face:0016>
+<sound:0015><blink>Huh? What makes you say that?<press>
+<face:0027>
+The way you saved somebody*
+else before dying yourself.<press>
+<face:0004>
+Oh, that waitress? The one with*
+the chicken on her head?<press>
+<face:0034>
+The next time you put a chicken*
+on YOUR head, you should try one*
+about the size of the waitress's.<press>
+<face:000E>
+I'll make a note of*
+that for next time.<press>
+<face:002B>
+But, anyway...<press>
+<change:0029>
+<end>
+If you hadn't tried to save that*
+waitress, you'd still be alive.<press>
+<face:0006>
+<sound:0015><blink>I couldn't help it! You know,*
+the detective thing and all.<press>
+<change:000E>
+<end>
+I wasn't able to save that*
+poor van driver, though...<press>
+<face:002B>
+<blue>(At that speed, he must've*
+<red>died instantly<blue>.)<black><press>
+<change:0027>
+<end>
+Well, we can't let a heroic*
+detective like you stay dead.<press>
+<blue>(The <red>root<blue> of this whole*
+disaster is clear.)<black><press>
+<change:002B>
+<end>
+<sound:0016><blue>(The only question is,*
+how do I <red>stop <blue>it?)<black><press>
+<face:0006>
+<sound:0017><blink><shake:0128>Okay, let's get started!
+
+-------------------------------
+

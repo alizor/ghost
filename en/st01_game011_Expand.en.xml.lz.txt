@@ -1,0 +1,155 @@
+[m01_0050][0106]
+
+So long, sister.
+
+-------------------------------
+
+[m01_0630][0143]
+
+<fchat:0001>
+So this is four minutes*
+ago, eh? Fine. I get that.<press>
+<sound:0016>But what am I doing*
+way down here?
+
+-------------------------------
+
+[m01_0631][0144]
+
+<fchat:0004>
+That's just how it works.<press>
+Her corpse was your*
+gateway into the past,*
+after all.<press>
+So, naturally, your*
+starting point is where*
+her corpse was.<press>
+<fchat:0001>
+<blue>(And this is where she died.*
+Okay, I get it now.)<black>
+
+-------------------------------
+
+[m01_0639][0145]
+
+<fchat:0004>
+Hop in, then!
+
+-------------------------------
+
+[m01_0640][0146]
+
+<face:0086>
+There are only four minutes*
+left before she dies.<press>
+You had better try and get*
+to her as fast as you can.<press>
+There's no time to lose...
+
+-------------------------------
+
+[m01_0650][0147]
+
+<center>Who are you?!
+
+-------------------------------
+
+[m01_0660][0148]
+
+<face:0086>
+The last seconds of her*
+life are counting down.<press>
+<face:002B>
+<blue>(Looks like I better*
+get up there fast.)<black><press>
+<face:0086>
+That's right. Have a*
+look at the top screen.<press>
+<face:0029>
+The top screen, eh?<press>
+<face:0086>
+<sound:0016>The sand in the top of that timer*
+is how much<red> time she has left<black>.<press>
+Get to her quickly, before*
+all the sand is gone!
+
+-------------------------------
+
+[m01_0670][0149]
+
+<face:0086>
+Up you go, then!
+
+-------------------------------
+
+[m01_0680][014A]
+
+<center>#click#
+
+-------------------------------
+
+[m01_0690][014B]
+
+<face:0007>
+Who are you?*
+Some sort of a hitman?*
+What do you want with me?<press>
+<face:007C>
+They said we had to rub*
+out all the last traces of*
+"Temsik" left in this country.<press>
+<face:0013>
+<blink>"Temsik"...?*
+What in the world is that?
+
+-------------------------------
+
+[m01_0691][014C]
+
+<face:002B>
+<blue>(Uh-oh. Her time is running out!)<black>
+
+-------------------------------
+
+[m01_0692][014D]
+
+<fchat:0001>
+Just a few more steps!*
+Hope I make it in time!
+
+-------------------------------
+
+[m01_0693][014E]
+
+<fchat:0001>
+Darn...<press>
+<sound:0016>If I'd hopped into the flag,*
+it would've <red>taken me up<black>.<press>
+<fchat:0004>
+<sound:0015><blink><red>Timing<black> is important,*
+too, when it comes*
+to ghost tricks.<press>
+<fchat:0001>
+Is that a fact?<press>
+<fchat:0004>
+You can touch the <GHOST>*
+and <TRICK> buttons <red>any*
+time you want<black>.<press>
+So keep an eye out for the*
+<GHOST> button, even when*
+you're manipulating.<press>
+<fchat:0001>
+<blue>(So, I can press whatever*
+button is being displayed*
+on-screen at <red>any time<blue>, eh?)<black><press>
+<fchat:0004>
+So once you get the blender*
+and fan going at the same*
+time, that's your <red>chance<black>.<press>
+You ought to be able to*
+move to the flag then.<press>
+You just have to*
+find the right <red>timing<black>.
+
+-------------------------------
+

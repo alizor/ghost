@@ -1,0 +1,584 @@
+[m03_1000][0B00]
+
+<face:00EE>
+So how are the preparations*
+coming along?<press>
+<face:00EA>
+I think they're taking*
+care of them right now.<press>
+<face:00EE>
+Yeah? Man... I'm not looking*
+forward to this...<press>
+<face:00EA>
+That kind of surprises me,*
+coming from you. I didn't know*
+you thought about such things.<press>
+.........<press>
+<sound:0015><shake:0128><blink>By the way, that was me*
+being sarcastic. Just in*
+case you didn't catch that...<press>
+<face:00EE>
+Two more hours...*
+and then it's time...<press>
+<face:00EA>
+I guess we should just*
+get back to work.<press>
+<face:00EE>
+Yeah, I guess you're right.
+
+-------------------------------
+
+[m03_1010][0B01]
+
+<fchat:0001>
+<blue>(The atmosphere sure*
+seems tense...)<black><press>
+<blue>(I guess I'll just get back*
+to my <red>work <blue>as well.)<black>
+
+-------------------------------
+
+[m03_1110][0B02]
+
+<face:0014>
+I want you to go find out*
+a certain prisoner's <red>work*
+schedule for tomorrow<black>.<press>
+Yes, the prisoners are given*
+different job details every day.<press>
+Each prisoner's schedule for*
+the next day is written on a*
+small <red>blackboard <black>in his cell.<press>
+His prisoner number is <red>D99<black>.
+
+-------------------------------
+
+[m03_1020][0B03]
+
+<fchat:0001>
+<blue>(All righty, then...)<black><press>
+<blue>(How do I get to*
+these "<red>cells<blue>"...?)<black><press>
+<blue>(I'd better try to get some*
+information here first.)<black>
+
+-------------------------------
+
+[m03_1170][0B04]
+
+Hey, Bailey.
+
+-------------------------------
+
+[m03_1030][0B05]
+
+<face:00EE>
+Whatsa matter, you can't even*
+pin up a memo properly?<press>
+Lemme see this thing...*
+"Take Prisoner C38 to*
+the telephone room."<press>
+<face:00EA>
+Yes, he just made a request to*
+use the phone a little while ago.<press>
+<face:00EE>
+You already told me that earlier.*
+C38, eh?<press>
+What did that*
+punk do, anyway?<press>
+<face:00EA>
+<sound:0016><1EFF_0000>You never heard the story? About*
+the "<red>Secret Rendezvous<black>" case?<press>
+<face:00EE>
+<sound:0015><blink><blink>Secret who-what?<press>
+<face:00EA>
+<1CFF_1400>C38 was a singer in a band.<press>
+His group was playing a concert*
+that was being broadcast all*
+over the country live.<press>
+And right in the middle*
+of their encore, there*
+was a "<red>huge incident<black>."<press>
+<face:00EE>
+A "huge incident"? What was*
+it, a murder or something?<press>
+<face:00EA>
+<sound:0016>In a way, it was even worse*
+than a murder, because it had*
+to do with <red>national secrets<black>.<press>
+<face:00EE>
+<sound:0015><blink><shake:0128>Huuuh? National secrets?*
+A rock band...? I'm lost.<press>
+<face:00EA>
+The song they were*
+doing was called*
+"Secret Rendezvous."<press>
+But the lyrics C38 was*
+singing were completely*
+different from usual.<press>
+<face:00EE>
+So how is that a*
+"huge incident"?<press>
+<face:00EA>
+<sound:0016>Because the new lyrics*
+exposed all of the nation's*
+<red>dark, seamy secrets<black>...<press>
+Budget misappropriations,*
+foreign economic strategies,*
+illicit dealings -- everything.<press>
+He was caught red-handed*
+in the act of <red>leaking*
+national secrets<black>.<press>
+<face:00EE>
+<blink><shake:0128>.........Seriously?<press>
+<face:00EA>
+The case sent shockwaves*
+throughout the country.<press>
+<face:00EE>
+<sound:0018><blink><shake:0128>But it doesn't make any*
+sense! In the first place...<press>
+...how would a rock singer know*
+any top-secret information?<press>
+<face:00EA>
+It's a complete mystery.<press>
+<face:00EE>
+<sound:0018><blink><shake:0128>What?! Why don't they*
+just ask C38 himself?!<press>
+<face:00EA>
+Maybe they did, but*
+they haven't released*
+anything about it.<press>
+<sound:0016>Apparently, it's all a matter*
+of <red>national secrecy<black>...<1EFF_7800><press>
+<face:00EE>
+<shake:0128>Hmph.
+
+-------------------------------
+
+[m03_1130][0B06]
+
+Aaaaargh!
+
+-------------------------------
+
+[m03_1040][0B07]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>Would you quit throwing*
+my important duty memos*
+away?!<1DFF_1300><0001_7800>
+
+-------------------------------
+
+[m03_1050][0B08]
+
+<face:00EE>
+Try pinning up your memos*
+a little better next time.<press>
+Lemme see this thing...*
+"Inspection, Prisoner C74."<press>
+<face:00EA>
+<sound:0015><blink>Oh, it's almost time for*
+that. I'd better prepare.<press>
+<face:00EE>
+Prisoner C74, eh?<press>
+What did that big*
+whale do, anyway?<press>
+<face:00EA>
+<sound:0016><1EFF_0000>You don't know? About the "<red>Metro*
+Police Department Siege<black>" case?<press>
+<face:00EE>
+<sound:0015><blink><shake:0128>Metro who-what?<press>
+<face:00EA>
+<1CFF_1400>C74 barricaded himself into*
+the Metro Police Department*
+and took siege of the place.<press>
+He even pointed a <red>huge*
+flamethrower<black> at the*
+chief commissioner.<press>
+<face:00EE>
+Why the heck did*
+he do all that?<press>
+<face:00EA>
+That's what the detectives who*
+surrounded him asked, too. "What*
+are your demands?!" they asked.<press>
+<face:00EE>
+And...?<press>
+<face:00EA>
+The guy looked confused,*
+thought about it for a*
+while, and said...<press>
+<sound:0016>"Bring me <red>five servings of*
+curry and rice<black>, on the double!"<press>
+<face:00EE>
+<sound:0015><blink><shake:0128>Curry and rice?! That's it?<press>
+<face:00EA>
+Unfortunately, no. After*
+he was done eating...<press>
+<sound:0016>...he torched the commissioner's*
+office. With the flamethrower.*
+Torched it good.<press>
+Important documents -- and*
+the commissioner's moustache --*
+were destroyed by the flames.<press>
+<face:00EE>
+<sound:0018><blink><shake:0128>What the heck did*
+he do all that for?!<press>
+<face:00EA>
+"Because the curry*
+was too spicy," he said.<press>
+<face:00EE>
+<sound:0015><blink>Huh?<press>
+<face:00EA>
+"It was too spicy, and*
+I just lost it," he said.<press>
+<face:00EE>
+<blink><shake:0128>.........Seriously?<press>
+<face:00EA>
+The case sent shockwaves*
+throughout the country.<press>
+<face:00EE>
+<sound:0018><blink><shake:0128>But it doesn't make any*
+sense! In the first place...<press>
+...how did a huge, armed guy*
+make it all the way in to the*
+commissioner's office alone?<press>
+<face:00EA>
+It's a complete mystery.<press>
+<face:00EE>
+<sound:0018><blink><shake:0128>What?! Why don't they*
+just ask C74 himself?!<press>
+<face:00EA>
+Maybe they did, but*
+they haven't released*
+anything about it.<press>
+<sound:0016>Apparently, it's all a matter*
+of <red>national secrecy<black>...<1EFF_7800><press>
+<face:00EE>
+<shake:0128>Hmph.
+
+-------------------------------
+
+[m03_1060][0B09]
+
+<face:00EE>
+Lemme see this thing...*
+"Bring dinner to Prisoner D99."<press>
+<face:00EA>
+The chef is preparing it*
+for him right now.<press>
+<face:00EE>
+Ooh. How fancy.<press>
+<sound:0016><1EFF_0000><blink>D99, eh? Even I know*
+about this one.<press>
+<face:00EA>
+Yeah...?<press>
+Such a sad case...*
+Hard for us, too...<press>
+<face:00EE>
+<sound:0037><blink><1CFF_1F00>He shot his wife, didn't*
+he? Right in front of a*
+family member...<press>
+<face:00EA>
+.........<press>
+<face:00EE>
+It's just awful. Why in*
+the world did he do it?!<press>
+Why would HE do something*
+like that, of all people...?<press>
+<face:00EA>
+The motive, everything --*
+all a complete mystery.<press>
+<face:00EE>
+<sound:0018><blink><shake:0128>It's just ridiculous! It doesn't*
+make sense that he would do*
+anything like that!<press>
+<face:00EA>
+I don't know the details,*
+but, apparently...<press>
+...this case is a matter of*
+<red>national secrecy <black>as well...<press>
+<face:00EE>
+<sound:0018><blink><shake:0128>I don't get it. None of*
+it makes any sense!<press>
+<face:00EA>
+You do know what kind of*
+prison this is, don't you?<press>
+<sound:0016>It's a <red>special prison<black> built just for*
+these kinds of special cases...<press>
+That D99... Who knows what*
+he's thinking -- or hiding --*
+behind that beard of his...?<press>
+<face:00EE>
+.........I don't like any of it.<press>
+I knew I couldn't take my job*
+seriously without it getting*
+to me.<press>
+<fchat:0001>
+So the prisoner I'm looking*
+for, D99, was convicted*
+of <red>murder<black>, eh?<press>
+<sound:0015><blink><1EFF_7800><blue>(And he apparently*
+has a <red>beard<blue>.)<black>
+
+-------------------------------
+
+[m03_1190][0B0A]
+
+It's time.
+
+-------------------------------
+
+[m03_1070][0B0C]
+
+There! It's done!
+
+-------------------------------
+
+[m03_1120][0B0E]
+
+<face:00EE>
+Would you quit sending*
+these memos over here?<press>
+<face:00EA>
+<sound:0016>No.<press>
+<face:00EE>
+<sound:0015><blink>Huh?<press>
+<face:00EA>
+Not until I figure out how you*
+always know the exact instant*
+a memo starts falling...<press>
+<sound:0017><shake:0128><blink>Not until I solve that mystery!<1EFF_0000><press>
+<face:00EE>
+.........
+
+-------------------------------
+
+[m03_1180][0B0F]
+
+<face:00EA>
+<sound:0018><blink><shake:0128>Next time! I WILL find*
+the answer next time!<1DFF_1300><0001_5A00><press>
+<fchat:0001>
+<blue>(I guess it's time to try*
+and find a new path.)<black>
+
+-------------------------------
+
+[m03_1160][0B10]
+
+<fchat:0001>
+I'm guessing that's the kid*
+they were talking about...<press>
+The one who sang the*
+national secrets.<press>
+<blue>(If he's a prisoner, he must've*
+come from the <red>cells<blue>...)<black>
+
+-------------------------------
+
+[m03_1200][0B11]
+
+<fchat:0001>
+So this is the thing that*
+was making that horrible*
+noise a second ago.<press>
+I guess it's a way for*
+this spiky-haired youth*
+to express himself.<press>
+Sentiments like, "I'm hungry,"*
+or "I'm thirsty," maybe...<press>
+Something primitive*
+like that, I bet...
+
+-------------------------------
+
+[m03_1150][0B12]
+
+Peace out!
+
+-------------------------------
+
+[m03_1300][0B13]
+
+I'm done.
+
+-------------------------------
+
+[m03_1100][0B14]
+
+<face:00F1>
+<sound:0017><blink><shake:0128>All right, C38! Back to your cell!<press>
+<face:00F5>
+Hey, guard man, how about*
+givin' me a little space?<press>
+That craaazy walk of*
+yours is dangerous, man!
+
+-------------------------------
+
+[m03_1101][0B15]
+
+<face:00F1>
+<sound:0017><blink><shake:0128>A proper walk for a properly-*
+lead life! Now, let's go!<press>
+<face:00F5>
+<sound:0018><blink><shake:0128>Yo! No lectures, man...*
+I walk my own path, my*
+own way, to my own music!
+
+-------------------------------
+
+[cab_demo_00][1A00]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>There you go again! Fooling*
+around with that thing!
+
+-------------------------------
+
+[cab_demo_01][1A01]
+
+<face:00EE>
+It wasn't me.<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Don't lie! You know you*
+love to see me jump up and*
+prepare for emergency!<press>
+<face:00EE>
+Oh, yeah, sure, way back*
+when I first got this job.<press>
+But I've had enough of that*
+now. Besides, you always*
+react exactly the same way.<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Grrr...!<press>
+<face:00EE>
+The emergency switch is probably*
+just loose. Probably because I*
+fooled around with it too much...<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Well, it's for emergencies!*
+Don't play with it!<press>
+<face:00EE>
+Anyway, it wasn't me. Maybe*
+you oughta get it repaired, huh?
+
+-------------------------------
+
+[cab_demo_02][1A02]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>Well, close it back up! It's*
+making me feel on edge.<press>
+<face:00EE>
+Nah. Too much of a pain.<press>
+<face:00EA>
+"A pain"?! Proper emergency*
+procedures are "a pain" to you?!*
+What a sad, sad state of affairs...
+
+-------------------------------
+
+[cab_demo2_02][1A05]
+
+<face:00EE>
+Just the kind of excitement*
+I need to wake me up!<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Well, I told you, it's*
+only for emergencies!*
+Don't play with it!<press>
+<face:00EE>
+And I told you, it wasn't me!<press>
+Ya know, I thought this work*
+would be a lot more exciting.<press>
+Sometimes, I don't know which is*
+my real job -- going on rounds,*
+or building houses out of cards!<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Well, you'd BETTER know!<press>
+<face:00EE>
+And YOU oughta know*
+that I'm just kidding.<press>
+<face:00EA>
+Grrr...!
+
+-------------------------------
+
+[m03_9000][1900]
+
+Internal extension
+
+-------------------------------
+
+[m03_9010][1901]
+
+External line
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9050][1905]
+
+Special Detention
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+
+[m03_9070][1908]
+
+<face:0044>
+The screen shows*
+rows of tiny rooms.<press>
+The rooms are really, really*
+small. And you can see right*
+into them from the outside.<press>
+I suppose the open bars keep*
+the rooms airy, but I wouldn't*
+wanna live in one, myself...<press>
+I wonder where these*
+little rooms are?
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+

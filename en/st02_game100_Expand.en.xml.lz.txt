@@ -1,0 +1,388 @@
+[m02_1440][0534]
+
+<fchat:0003>
+These pictures are old.*
+What are they of? Little*
+fragments of rock?<press>
+And the fragments*
+are glowing... Do you*
+know what these are?<press>
+<fchat:0001>
+Sorry, but I've lost my*
+memory. Probably not*
+the best person to ask...<press>
+<fchat:0003>
+<sound:0015><blink>That's okay. I was only*
+being polite. I didn't*
+really think you'd know.<press>
+<fchat:0001>
+<blue>(Ouch. This lady's*
+tongue can be sharp.)<black><press>
+<fchat:0003>
+Uh, I can hear what you're*
+thinking, remember?<press>
+<fchat:0001>
+<sound:0016>I know.<press>
+<fchat:0003>
+Good one.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+What could this be? It looks*
+like a giant nail clipper.<press>
+<fchat:0003>
+You think so?<press>
+<fchat:0001>
+Do YOU know what it is?<press>
+<fchat:0003>
+#sigh#<press>
+<sound:0016>Why did you have to ask me?!*
+Couldn't you see I was*
+looking away evasively?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0003>
+It's... one of those science-y*
+things that scientists use.<press>
+<sound:0018><blink><shake:0128>Ordinary people like us don't*
+have to know what it is!<press>
+<fchat:0001>
+<blue>(I don't remember*
+what "science" is...)<black><press>
+<blue>(...but it's apparently*
+something Lynne*
+doesn't like very much.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+These photos*
+look pretty old.<press>
+Pictures of little*
+fragments of rock...<press>
+That old pigeon guy has*
+some pretty strange*
+taste in wall décor.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+I have no idea what this*
+instrument is for.<press>
+As a matter of fact, this*
+whole desk is filled with*
+things I've never seen.<press>
+I know I've lost my*
+memory, but still...<press>
+That old pigeon man seems*
+like a pretty strange guy.
+
+-------------------------------
+
+[m02_3760][0721]
+
+<fchat:0001>
+The top of this bookshelf is*
+lined with books.<press>
+This one on top is balanced*
+so precariously, it's a*
+wonder it doesn't fall off.<press>
+How did the old pigeon*
+guy even reach up here?<press>
+<blue>(And I wonder if he makes*
+his pigeon fetch it for him?)<black>
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(So what exactly*
+is this thing?)<black><press>
+<blue>(It looks like a giant*
+nail clipper to me...)<black><press>
+<fchat:000C>
+<sound:0016>No, it most certainly*
+does not.<press>
+It's an instrument used in*
+analyzing radiation-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>O-Oh. Ahem. Yes, I see...<press>
+<fchat:000B>
+<sound:0015><blink>You're not alone, kid.<press>
+None of the rest of us*
+understand it, either, baby!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Yeah! You said it!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Old pictures... of what*
+look like little fragments*
+of rock.<press>
+<fchat:000C>
+Those are Temsik fragments.<press>
+That's an article from back*
+when it was big news.<press>
+<fchat:000B>
+Ten years ago, nobody*
+really understood it.<press>
+<fchat:000C>
+I guess that's*
+still true today.
+
+-------------------------------
+
+[m02_5000][0900]
+
+<fchat:0001>
+That cop looks miserable.<press>
+He looks just like*
+a drenched and dejected*
+kitten in the rain.<press>
+.........<press>
+<sound:0016><blink><blue>(Hmm. I think he's starting*
+to rub off on me.)<black><press>
+<face:00C1>
+Tonight, in this town,*
+on this planet, in this*
+galaxy, in this cosmos...<press>
+...is there any other man*
+as miserable as me?<press>
+My goal was to be a police*
+officer as shining and as*
+bright as a newly-minted coin...<press>
+But now I have to*
+find another dream.<press>
+<fchat:0001>
+.........
+
+-------------------------------
+
+[m02_5010][0901]
+
+<face:00BD>
+<sound:0017><blink><shake:0128>I know! I'll be a newly-minted*
+coin as shining and bright as*
+a police officer!<press>
+<fchat:0001>
+<blue>(Well... I'll say this much...)<black><press>
+<blue>(It's nice to have a goal...)<black>
+
+-------------------------------
+
+[m02_5020][0902]
+
+<face:00BD>
+<sound:0017><blink><shake:0128>I know! I'll be a newly-minted*
+coin as shining and bright as*
+a police officer!<press>
+<face:00D3>
+Yes... Yes, that's a better*
+goal for you, I think.<press>
+<face:00BD>
+It is, isn't it?<press>
+<fchat:0001>
+<blue>(Well... I'll say this much...)<black><press>
+<blue>(It's nice to have a goal...)<black>
+
+-------------------------------
+
+[m02_5030][0903]
+
+<fchat:0001>
+Here, it's as if time*
+is at a standstill...<press>
+...while, downstairs, a*
+terrible situation is calling*
+out for my attention.<press>
+<blue>(I'd better get back*
+down there...)<black>
+
+-------------------------------
+
+[m02_5040][0904]
+
+<fchat:0001>
+It's that old pigeon guy*
+again. He's looking at the*
+stuff he has on the wall.<press>
+All this equipment I've never*
+seen before... Who is this guy*
+anyway, and what's he up to?<press>
+Doesn't look like he's gonna*
+budge from that spot. Guess*
+I'll go somewhere else.
+
+-------------------------------
+
+[m02_5050][0905]
+
+<face:00BE>
+You know, sometimes*
+I get the feeling...<press>
+<sound:0016>I just want to<red> crawl into a hole<black>.
+
+-------------------------------
+
+[m02_5060][0906]
+
+<face:00BE>
+<sound:0015><blink>And just maybe, this is <red>the<black>*
+<red>entrance to my true destiny<black>...<press>
+<face:00D2>
+Go ahead.<press>
+<sound:0016>Here, I'll even push*
+the "close" button for you.
+
+-------------------------------
+
+[m02_5070][0907]
+
+<fchat:0001>
+<blue>(It doesn't look like I need*
+to come back here for a*
+while...)<black>
+
+-------------------------------
+
+[m02_5080][0908]
+
+<fchat:0001>
+It looks like the old*
+pigeon guy decided to*
+go somewhere else.<press>
+There's something very*
+"off" about this place.<press>
+Old dusty junk side by side*
+with well-maintained*
+equipment...<press>
+Anyway, it doesn't look like*
+things are going to change*
+here much for a while...
+
+-------------------------------
+
+[m02_5090][0909]
+
+<fchat:0001>
+The old pigeon guy*
+is still not back, eh?<press>
+But, you know...<press>
+<sound:0016><blue>(...there's something*
+different now about the*
+<red>atmosphere <blue>of this place...)<black><press>
+.........*
+Anyway, whatever.<press>
+I'd better follow*
+my own leads.<press>
+<blue>(If I ever have to come*
+back here again, I suppose*
+fate will lead me here...)<black>
+
+-------------------------------
+
+[m02_5500][090A]
+
+<fchat:0001>
+I don't hear anything.*
+I guess nobody's here.<press>
+The darkness and quiet*
+are relaxing, but there's*
+no sense in staying here.
+
+-------------------------------
+
+[m02_5510][090B]
+
+<fchat:0001>
+The mechanical<red> murder*
+machine<black> in this room...<press>
+It must've been set up*
+by that old pigeon guy.<press>
+But what in the world for?
+
+-------------------------------
+
+[m02_5520][090C]
+
+<fchat:0001>
+I sense somebody's presence*
+in this dimly-lit place.
+
+-------------------------------
+
+[m02_5530][090D]
+
+<face:00D2>
+Tonight is probably*
+our last chance...<press>
+If he doesn't come here tonight...
+
+-------------------------------
+
+[m02_5540][090E]
+
+.........
+
+-------------------------------
+
+[m02_5550][090F]
+
+<face:00D2>
+Hmph... I think this silence*
+is starting to get to me...
+
+-------------------------------
+
+[m02_5560][0910]
+
+<fchat:0001>
+<blue>(This old man is apparently*
+<red>waiting for somebody<blue>.)<black><press>
+<blue>(The only thing waiting*
+for me is <red>the end of my*
+existence<blue>...)<black>
+
+-------------------------------
+
+[m02_5570][0911]
+
+<fchat:0001>
+I sense somebody's presence*
+in this dimly-lit place.
+
+-------------------------------
+
+[m02_5580][0912]
+
+<face:00D2>
+When the morning comes,*
+I think I'll leave this town.<press>
+This place has too many*
+memories... and I'm just*
+too weary...
+
+-------------------------------
+
+[m02_5590][0913]
+
+<fchat:0001>
+<blue>("When the morning comes,"*
+eh? Must be nice...)<black><press>
+<blue>(The morning will*
+never come for me...)<black>
+
+-------------------------------
+

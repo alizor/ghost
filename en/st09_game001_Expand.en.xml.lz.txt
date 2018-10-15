@@ -1,0 +1,372 @@
+[m09_1000][2B00]
+
+Now that my assignment to stop*
+the execution had ended in such*
+an unsatisfactory way...<space>
+I decided to go see Lynne at*
+the justice minister's office.
+
+-------------------------------
+
+[m09_1005][2B01]
+
+Detective Jowd's story*
+about this "other murder"*
+weighs on me heavily.<space>
+Should I tell Lynne about it?<space>
+I just don't know.
+
+-------------------------------
+
+[m09_1010][2B02]
+
+This time, Lynne isn't dead.<space>
+But the atmosphere makes*
+me think it might be too soon*
+to count my blessings just yet.
+
+-------------------------------
+
+[m09_1930][2B03]
+
+<fchat:0001>
+I'm glad Lynne isn't dead.<press>
+<sound:0016>But what in the world*
+is she doing?<press>
+<blue>(Then again, do I really*
+want to know?)<black>
+
+-------------------------------
+
+[m09_1020][2B04]
+
+<face:000C>
+<sound:0017><shake:0128><blink><1CFF_0C00>Eeeeek!<press>
+<face:0036>
+What kind of greeting is that?*
+I mean, I know I'm a ghost*
+and everything, but...<press>
+<face:0004>
+<sound:0018><blink><shake:0128>Well? And...? How did it go?*
+Was Detective Jowd still alive?!<press>
+<face:0034>
+He'd already been executed*
+by the time I got there. I did*
+manage to save him, but...<press>
+<face:0006>
+<sound:0015><blink><shake:0128>You did? Oh, I'm so glad!<press>
+<change:0016>
+<end>
+<sound:0016><blink>...Wait a minute.*
+Did you say "<red>but<black>"?
+
+-------------------------------
+
+[m09_1030][2B05]
+
+<face:0044>
+<blue>(I told Lynne about my*
+"adventure" at the prison.)<black><press>
+<blue>(About that "<red>other murder<blue>,"*
+though...)<black><press>
+<blue>(...I couldn't bring myself to tell her.)<black>
+
+-------------------------------
+
+[m09_1040][2B06]
+
+<face:001A>
+Inspector Cabanela arrested*
+Detective Jowd...?<press>
+<change:0008>
+<end>
+<sound:0018><blink><shake:0128><center>{2EFF}h{17FF}I can't believe it!{17FF}<press>
+<face:002B>
+Yeah. I feel the same way...<press>
+<change:0034>
+<end>
+<sound:0016>I can't believe that wherever*
+I go, somebody is always dead.*
+Either you, or someone else...<press>
+<face:0006>
+<sound:0015><blink><shake:0128>Sorry about that.<press>
+<face:002B>
+So who is that lying*
+on the floor there?<press>
+<face:0004>
+Oh, you noticed him, did you?*
+That's the justice minister.<press>
+The man who signed*
+the order to carry out*
+Detective Jowd's execution.<press>
+<change:001C>
+<end>
+He was already dead*
+when I got here.<press>
+<face:0036>
+Shouldn't you have called*
+for help, in that case?<press>
+<face:000E>
+<blink><shake:0128>Hmm... I guess so...<press>
+But I'm wanted, remember?*
+For murder?<press>
+<change:0006>
+<end>
+<sound:0016>I was hoping we could save him*
+without me getting caught...<press>
+<face:002B>
+<blue>("We," eh? Oh, boy...)<black>
+
+-------------------------------
+
+[m09_1045][2B07]
+
+<face:0014>
+<1CFF_0C00>There are just too many*
+mysteries surrounding*
+Detective Jowd's execution.<press>
+<change:000E>
+<end>
+Why did the justice*
+minister sign the order?<press>
+And...<press>
+<face:0014>
+<sound:0018><shake:0128><blink>...why would Inspector Cabanela*
+<red>betray <black>Detective Jowd?!<press>
+<face:002B>
+Just so you know...<press>
+<change:0029>
+<end>
+<sound:0016>...Detective Jowd himself said*
+it was "<red>the right thing to do<black>."<press>
+<face:001C>
+.........<press>
+<face:002B>
+<blue>(Anyway, I guess I better see*
+to the justice minister...)<black>
+
+-------------------------------
+
+[m09_1015][2B08]
+
+<face:010C>
+<NJ:003C>
+<center>.........<press>
+<face:0029>
+Hey, can you hear me?<press>
+<face:010C>
+<NJ:003C>
+<center>.........<press>
+<face:002B>
+<blue>(Hmm...)<black><press>
+<sound:0016><blue>(He's dead, but he still*
+seems to be <red>unconscious<blue>.)<black><press>
+<face:000C>
+<sound:0017><blink><shake:0128><1CFF_0C00>Hey! There you are!<press>
+<face:0034>
+What kind of greeting is that? And*
+shoving somebody's poor soul out*
+of the way like that? Tsk, tsk...<press>
+I gotta say, though...<press>
+<change:0027>
+<end>
+<sound:0016>No matter where you go,*
+somebody always seems*
+to turn up dead.<press>
+<face:0006>
+<sound:0015><blink>Sorry about that.<press>
+<face:002B>
+Who is it this time? Is*
+this the <red>justice minister<black>?<press>
+<face:000E>
+Yeah, the man who signed*
+the order to carry out*
+Detective Jowd's execution.<press>
+He was already dead*
+when I got here.<press>
+<face:002B>
+<blue>(Oh, boy... I wonder what*
+happened this time?)<black><press>
+<face:0004>
+<sound:0018><blink><shake:0128>Well? And...? How did it go?*
+Was Detective Jowd still alive?!<press>
+<face:0034>
+He'd already been executed*
+by the time I got there. I did*
+manage to save him, but...<press>
+<face:0006>
+<sound:0015><blink><shake:0128>You did? Oh, I'm so glad!<press>
+<change:0016>
+<end>
+<sound:0016><blink>...Wait a minute.*
+Did you say "<red>but<black>"?
+
+-------------------------------
+
+[m09_1017][2B09]
+
+<face:001A>
+Inspector Cabanela arrested*
+Detective Jowd...?<press>
+<change:0008>
+<end>
+<sound:0018><blink><shake:0128><center>{2EFF}h{17FF}I can't believe it!{17FF}<press>
+Inspector Cabanela would*
+never <red>betray <black>Detective Jowd!<press>
+<face:002B>
+Just so you know...<press>
+<change:0029>
+<end>
+<sound:0016>...Detective Jowd himself said*
+it was "<red>the right thing to do<black>."<press>
+<face:001C>
+.........<press>
+<face:002B>
+Anyway...<press>
+<change:0027>
+<end>
+...I'd better take care of*
+the justice minister here.<press>
+<face:000E>
+Right. And I have lots of*
+questions for him, too.<press>
+<face:0027>
+<blue>(Back we go, then! To four*
+minutes before his death!)<black>
+
+-------------------------------
+
+[m09_1050][2B0A]
+
+<face:010C>
+<NJ:003C>
+.........<press>
+<face:0029>
+Hey, can you hear me?<press>
+<face:010C>
+<NJ:003C>
+.........<press>
+<face:002B>
+<blue>(Hmm...)<black><press>
+<blue>(He's dead, but he still*
+seems to be <red>unconscious<blue>.)<black><press>
+<face:000E>
+Could you rescue him now,*
+while he's still unconscious?<press>
+<change:0012>
+<end>
+<sound:0015><blink>Instead of talking to him, I bet*
+it'll be faster to just see for*
+yourself what really happened!<press>
+<face:0034>
+Yeah, I bet you're right.<press>
+<change:0027>
+<end>
+Back we go, then! To four*
+minutes before his death!
+
+-------------------------------
+
+[m09_1090][2B11]
+
+<sound:0018>Why doesn't*
+she answer?!
+
+-------------------------------
+
+[m09_1730][2B12]
+
+.........
+
+-------------------------------
+
+[m09_1740][2B13]
+
+
+
+-------------------------------
+
+[m09_1750][2B14]
+
+
+
+-------------------------------
+
+[m09_1760][2B15]
+
+This is terrible!
+
+-------------------------------
+
+[m09_1770][2B16]
+
+<sound:0017><center>Unhhh!
+
+-------------------------------
+
+[m09_1780][2B17]
+
+
+
+-------------------------------
+
+[m09_1790][2B18]
+
+
+
+-------------------------------
+
+[m09_1800][2B19]
+
+<sound:0018><center>Nnnghhh!
+
+-------------------------------
+
+[m09_1810][2B1A]
+
+
+
+-------------------------------
+
+[m09_1820][2B1B]
+
+
+
+-------------------------------
+
+[m09_1830][2B1C]
+
+<sound:0015><center>Ngh...?
+
+-------------------------------
+
+[m09_1840][2B1D]
+
+<sound:0018><center>Nnngaaaaah!
+
+-------------------------------
+
+[m09_1850][2B1E]
+
+<sound:0017><center>Gaaaaagh!
+
+-------------------------------
+
+[m09_1860][2B1F]
+
+<sound:0018><center>Graaaaagh!
+
+-------------------------------
+
+[m09_1100][2B20]
+
+M-Medicine...!
+
+-------------------------------
+
+[m09_1110][2B21]
+
+W-Water...!
+
+-------------------------------
+

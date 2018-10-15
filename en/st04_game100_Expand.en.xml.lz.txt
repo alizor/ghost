@@ -1,0 +1,210 @@
+[m04_0170][1B22]
+
+Here you go!
+
+-------------------------------
+
+[m04_0740][1B66]
+
+<fchat:0001>
+<sound:0016>I don't see any*
+customers hungering*
+for chicken tonight.<press>
+<blue>(I hear singing coming*
+from the kitchen.)<black>
+
+-------------------------------
+
+[m04_0750][1B67]
+
+<face:00FF>
+<sound:00AA><shake:0128>{FE00} La la la! Tonight, I'm in love!*
+In love with you and only you!<0CFF_8C00><press>
+<sound:00AA><shake:0128>{FE00} My darling Miss Chicken!*
+Let me shower you with gifts*
+of salt and pepper! La la la!<0CFF_8C00>
+
+-------------------------------
+
+[m04_0760][1B68]
+
+<fchat:0001>
+He's not a bad singer.*
+<blue>(But I guess I'd*
+better be going.)<black>
+
+-------------------------------
+
+[m04_0770][1B69]
+
+<fchat:0001>
+<sound:0016>I don't see any*
+customers that have a*
+date with chicken tonight.<press>
+<blue>(I hear singing coming*
+from the kitchen.)<black>
+
+-------------------------------
+
+[m04_0780][1B6A]
+
+<face:00FF>
+<sound:00AA><shake:0128>{FE00} La la la! I love you!*
+I swear it's true!<0CFF_8C00><press>
+<sound:00AA><shake:0128>{FE00} I truly love you!*
+By my goose bumps,*
+I swear! La la la!<0CFF_8C00>
+
+-------------------------------
+
+[m04_0790][1B6B]
+
+<fchat:0001>
+He's not a bad singer.*
+<blue>(But I guess I'd*
+better be going.)<black>
+
+-------------------------------
+
+[m04_0800][1B6C]
+
+<fchat:0001>
+<sound:0016>I don't see any customers*
+declaring their love*
+for chicken tonight.<press>
+<blue>(I hear singing coming*
+from the kitchen.)<black>
+
+-------------------------------
+
+[m04_0810][1B6D]
+
+<face:00FF>
+<sound:00AA><shake:0128>{FE00} La la la! I love you!*
+Right down to the*
+marrow of your bones!<0CFF_8C00><press>
+<sound:00AA><shake:0128>{FE00} But your marrow is*
+nothing compared to your*
+glorious meat! La la la!<0CFF_8C00>
+
+-------------------------------
+
+[m04_0820][1B6E]
+
+<fchat:0001>
+He's not a bad singer.*
+<blue>(I guess Lynne isn't*
+here yet.)<black><press>
+<blue>(I have a job to do. I'd*
+better get to that first.)<black>
+
+-------------------------------
+
+[m04_0830][1B6F]
+
+<fchat:0001>
+<sound:0016>I don't see any*
+customers who dream*
+of chicken tonight.<press>
+<blue>(I hear singing coming*
+from the kitchen.)<black>
+
+-------------------------------
+
+[m04_0840][1B70]
+
+<face:00FF>
+<sound:00AA><shake:0128>{FE00} La la la! If I were*
+a plump, juicy chicken...!<0CFF_8C00><press>
+<sound:00AA><shake:0128>{FE00} I'd hop into the pan myself,*
+and leap onto the customer's*
+plate! La la la!<0CFF_8C00>
+
+-------------------------------
+
+[m04_0850][1B71]
+
+<fchat:0001>
+He's not a bad singer.*
+<blue>(I guess Lynne isn't*
+here yet.)<black><press>
+<blue>(I have a job to do. I'd*
+better get to that first.)<black>
+
+-------------------------------
+
+[m04_0860][1B72]
+
+<fchat:0001>
+The Chicken Kitchen...<press>
+This is where that little*
+lady and Lynne are*
+supposed to meet.<press>
+But...
+
+-------------------------------
+
+[m04_0870][1B73]
+
+<fchat:0001>
+<sound:0016><blink>I don't see either*
+one of them here.<press>
+<blue>(I guess they haven't*
+shown up yet.)<black>
+
+-------------------------------
+
+[m04_0880][1B74]
+
+<fchat:0001>
+No sense wasting time*
+just standing around*
+waiting for them.<press>
+Maybe I can check*
+some other place out*
+in the meantime?<press>
+<sound:0015><blink><blue>(Like <red>police headquarters<blue>...)<black><press>
+<blue>(Lynne is apparently being*
+treated as a <red>fugitive<blue> there...)<black><press>
+<sound:0016><blink><blue>(Is that <red>white-suited*
+inspector <blue>really on*
+Lynne's side?)<black>
+
+-------------------------------
+
+[m04_0890][1B75]
+
+<fchat:0001>
+The Chicken Kitchen...<press>
+I guess the little lady*
+hasn't turned up yet.
+
+-------------------------------
+
+[m04_0900][1B76]
+
+<fchat:0001>
+The detective must've*
+gone to look for her.
+
+-------------------------------
+
+[m04_0910][1B77]
+
+<fchat:0001>
+I guess this restaurant*
+never sleeps...
+
+-------------------------------
+
+[m04_0920][1B78]
+
+<fchat:0001>
+<sound:0016>But no matter when I*
+come here, there are*
+never any customers.<press>
+<blue>(I guess I'd better be*
+on my way, too...)<black>
+
+-------------------------------
+

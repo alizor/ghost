@@ -1,0 +1,751 @@
+[m03_4320][0E09]
+
+<fchat:0001>
+Hmm... An*
+emergency button.<press>
+An emergency... in a*
+prison. That's gotta be*
+a pretty bad situation.<press>
+I'll just give it a little try...
+
+-------------------------------
+
+[m03_4070][0E11]
+
+<fchat:0001>
+I still can't read...<press>
+But I'd better go check out*
+Prisoner D99's cell anyway.<press>
+Maybe I can find some*
+kind of information that*
+might help Lynne out.<press>
+<blue>(Besides...)<black><press>
+<blue>(I want to see what*
+this prisoner Lynne is*
+investigating looks like...)<black>
+
+-------------------------------
+
+[m03_4340][0E16]
+
+<fchat:0001>
+Same thing here...<press>
+It looks like this is just*
+an internal phone, too.*
+It <red>doesn't call outside<black>.<press>
+So the only places I can go*
+with this telephone are...<press>
+...other phones within*
+the building that I've*
+<red>already possessed<black>.
+
+-------------------------------
+
+[m03_4130][0E1E]
+
+<fchat:0001>
+A newspaper article has*
+been cut out and framed.<press>
+Unfortunately,*
+I can't read it...<press>
+It's probably about D99's*
+case -- "<red>Man Murders Wife<black>,"*
+or something like that.<press>
+There's a picture of*
+the alleged <red>culprit*
+<black>in the article.<press>
+<sound:0016><blue>(Yup. It's this*
+prisoner all right.)<black>
+
+-------------------------------
+
+[m03_4350][0E1F]
+
+<face:002A>
+A newspaper article has*
+been cut out and framed.<press>
+I'll just give it a little read...<press>
+<change:002C>
+<end>
+<1EFF_7800>.........<press>
+<blue>(Tonight...)<black><press>
+<blue>(...I lost a lot of things --*
+my life, my memory...)<black><press>
+<sound:0016><blink><blue>(But there's a certain skill*
+I've apparently <red>lost<blue>, too...)<black><press>
+<change:002E>
+<end>
+<sound:0018><shake:0128><blink>{2EFF}?{17FF}I can't read!{17FF}<press>
+I can tell the article contains*
+some kind of "writing"...<press>
+But I have absolutely no*
+idea what it means!<press>
+<change:002C>
+<end>
+<blue>(If I can't read Prisoner D99's*
+<red>work schedule for tomorrow<blue>...)<black><press>
+<blue>(...What do I do now?!)<black><press>
+<change:002A>
+<end>
+<sound:0015><blink>In the article...<press>
+...there's a picture of*
+the alleged <red>culprit<black>.<press>
+<sound:0016><blue>(Yup. It's this*
+prisoner all right.)<black>
+
+-------------------------------
+
+[m03_4360][0E20]
+
+<fchat:0001>
+What am I supposed to*
+report back to Lynne now?<press>
+<sound:0015><blink>If I tell her "I couldn't*
+read it," she'll kill me!<press>
+<blue>(But, actually, I guess I*
+don't have to worry about*
+that one too much...)<black><press>
+Anyway...<press>
+I might as well take*
+a look around.<press>
+Hopefully, I'll at least be*
+able to find out something*
+while I'm here.<press>
+<sound:0015><blink>I can't go back to*
+Lynne empty-handed!<press>
+<blue>(But, of course, a ghost*
+doesn't actually have*
+hands...)<black>
+
+-------------------------------
+
+[m03_4371][0E24]
+
+<fchat:0001>
+Nope, nothing written*
+on this blackboard.<press>
+I wonder if that means*
+he'll spend the day*
+painting, like today?<press>
+.........<press>
+That must be what it means.*
+Yeah... That must be it.
+
+-------------------------------
+
+[m03_4420][0E30]
+
+<fchat:0001>
+It's no use...<press>
+No matter how many times*
+I try, I still can't read what*
+it says.<press>
+But this blackboard is*
+different from the one*
+in Prisoner D99's cell.<press>
+I can tell something is*
+written on this one.<press>
+<blue>(I'm glad my task wasn't*
+to find out what this*
+particular board says...)<black>
+
+-------------------------------
+
+[m03_4430][0E32]
+
+<fchat:0001>
+I'd better not set off the*
+emergency alarm right now.<press>
+The inside of my head*
+is already in a state of*
+emergency as it is...
+
+-------------------------------
+
+[m03_5500][1200]
+
+<fchat:0001>
+So this is the <red>death*
+chamber<black>, eh?<press>
+<sound:0016>But what's going on? I can't*
+see anything... Is this what*
+they call "darkness?"<press>
+<blue>(I'd better do something*
+about this situation.)<black>
+
+-------------------------------
+
+[m03_5510][1201]
+
+<face:00F2>
+This is not good. Not good at all.<press>
+<face:00F1>
+<sound:0016>Yeah. I feel like a ghost is gonna*
+show up any minute now.<press>
+<face:00F2>
+<sound:0015><blink><shake:0128>Hey, come on. Show some respect.*
+There's a dead man here.<press>
+<fchat:0001>
+That's right. Me.<press>
+<face:00F2>
+But, whew! I never saw that*
+one coming, did you?<press>
+<face:00F1>
+Who could've? Anyway, the*
+generator is gonna be fixed*
+soon, so I guess we hang tight.
+
+-------------------------------
+
+[m03_5690][1202]
+
+<fchat:0001>
+Generator, eh?<press>
+Once that's restored, this*
+darkness will be gone.<press>
+<blue>(It seems that's the first*
+thing that has to be done.)<black>
+
+-------------------------------
+
+[m03_5520][1203]
+
+<fchat:0001>
+<sound:0016>I guess darkness*
+doesn't really exist*
+in the Ghost World.<press>
+Even without light, I can*
+still see what's going on.<press>
+I can use the Ghost World to*
+help me find that generator.
+
+-------------------------------
+
+[m03_5650][1204]
+
+<fchat:0001>
+I think I just operated*
+some kind of lever...<press>
+...but nothing happened.*
+It's too dark to really*
+tell, though.
+
+-------------------------------
+
+[m03_5710][1205]
+
+<fchat:0001>
+This appears to be some kind*
+of control panel. I might be*
+able to operate it...<press>
+Hmm, but it doesn't seem*
+to be responding. It's too*
+dark to really tell, though.<press>
+<blue>(I guess the first thing*
+I need to do is restore*
+that generator.)<black>
+
+-------------------------------
+
+[m03_5700][1206]
+
+<fchat:0001>
+<sound:0016>I've seen these things*
+before. Some kind of tool*
+for turning things.<press>
+It's leaning up against the*
+wall. If I knock it over, I*
+wonder if he'll notice?<press>
+Darn... It's too heavy.*
+It won't budge.
+
+-------------------------------
+
+[m03_5530][1207]
+
+<face:00F1>
+Oh, geez. Where did*
+that wrench go?<press>
+Without it, I can't tighten the*
+last bolt on the generator.<press>
+<blink><shake:0128>I sure wish I could see*
+in the dark like a cat!<press>
+<fchat:0001>
+<sound:0015><blink>...Or like a <red>ghost<black>.
+
+-------------------------------
+
+[m03_5640][1208]
+
+Oh, hey, there it is.
+
+-------------------------------
+
+[m03_5540][1209]
+
+There! Done.
+
+-------------------------------
+
+[m03_5550][120A]
+
+<fchat:0001>
+Now the lights are back on.<press>
+But what happened here...?*
+The answer is still shrouded*
+in darkness.<press>
+I'd better see if I can pick*
+up some more information.<press>
+<blue>(I can't seem to shake*
+this bad feeling I've got...)<black>
+
+-------------------------------
+
+[m03_5670][120B]
+
+<fchat:0001>
+I sure had misgivings*
+when I tried this lever...<press>
+<sound:0016>...but nothing happened. Kind*
+of disappointing, really.<press>
+<blue>(Maybe something else*
+has to be done first?)<black>
+
+-------------------------------
+
+[m03_5720][120C]
+
+<fchat:0001>
+This appears to be some kind*
+of control panel. I might be*
+able to operate it...<press>
+I'll give it a try.
+
+-------------------------------
+
+[m03_5730][120D]
+
+<fchat:0001>
+Some <red>lamps <black>came on. Not*
+sure what that means...<press>
+<blue>(Maybe that changed*
+the <red>situation<blue>, though.)<black>
+
+-------------------------------
+
+[m03_5560][120E]
+
+<fchat:0001>
+Whew... Something really bad*
+happened in this room.
+
+-------------------------------
+
+[m03_5561][120F]
+
+<fchat:0001>
+<sound:0016>It's like there was some*
+kind of explosion in*
+here or something.<press>
+And it looks like...
+
+-------------------------------
+
+[m03_5570][1210]
+
+<fchat:0001>
+<sound:0015><blink>...the center of the*
+explosion was that*
+thing, that <red>chair<black>.
+
+-------------------------------
+
+[m03_5580][1212]
+
+<face:00F1>
+<sound:0016><1EFF_A000>Hey... Do you think this execution*
+was really the right thing to do...?<press>
+<face:00F2>
+<sound:0018><blink><shake:0128>Wh-What the heck*
+are you saying?!<press>
+<face:00F1>
+I mean, I know this country*
+has the death penalty...<press>
+But how many years has it been*
+since we used this chair?<press>
+<face:00F2>
+Yeah, I dunno. It had quite a*
+bit of dust and dirt on it...<press>
+I bet that's what happened. All*
+that debris damaged the wiring...<press>
+<face:00F1>
+<sound:0016>Well, I think it was*
+divine retribution.<press>
+<face:00F2>
+<sound:0018><blink><shake:0128>D-Don't be stupid!<press>
+The prisoner wanted to*
+be executed, you know!
+
+-------------------------------
+
+[m03_5590][1213]
+
+<fchat:0001>
+<sound:0016>Inspector Jowd...*
+I guess I was too late...<press>
+<face:00F3>
+<center>So when are they gonna*
+<center>pick up his body?<press>
+<center>They'll be sending over a car from*
+<center>the public cemetery pretty soon.<press>
+<center>After we hand over the*
+<center>body and clean up the*
+<center>mortuary, we're done.<press>
+<center>Yeah, okay.
+
+-------------------------------
+
+[m03_5600][1214]
+
+<fchat:0001>
+So Detective Jowd has*
+<red>already been executed<black>...<press>
+Looks like there was*
+a reason for that bad*
+feeling I was getting...<press>
+But that's okay. This isn't*
+a big problem, for me.<press>
+<blue>(But if the body is taken*
+from the mortuary, that'll*
+be bad...)<black><press>
+<blue>(I have to use my ghost*
+tricks to save him before*
+that happens.)<black>
+
+-------------------------------
+
+[m03_5680][1215]
+
+<face:00F2>
+<sound:0015><blink>This chair scares me. I don't wanna*
+repair it or get anywhere near it.<press>
+<sound:0018><blink><shake:0128>Who knows when it's*
+gonna blow up again?<press>
+<face:00F1>
+Or let loose with the juice...<press>
+<face:00F2>
+<blink><shake:0128>Yikes. Shut up, man.<press>
+<face:00F1>
+Accidents can happen with*
+anything, after all...<press>
+But let's just get this*
+thing fixed. C'mon.<press>
+<face:00F2>
+<sound:0016>If I'm "executed" by*
+an accident, I'm gonna*
+come back and haunt you.<press>
+<face:00F1>
+<blink><shake:0128>Haunt ME? Why me?<press>
+<fchat:0001>
+<blue>(It sounds like a pretty*
+dangerous chair.)<black><press>
+<blue>(Hmm. A chair that gives*
+shocks... Can I use that*
+somehow...?)<black>
+
+-------------------------------
+
+[m03_5660][1216]
+
+<center>Aaagh!
+
+-------------------------------
+
+[m03_5740][1217]
+
+I just got a shock!
+
+-------------------------------
+
+[m03_5741][1218]
+
+That was quite a zap!
+
+-------------------------------
+
+[m03_5742][1219]
+
+That woke me up!
+
+-------------------------------
+
+[m03_5743][121A]
+
+This is getting*
+addictive.
+
+-------------------------------
+
+[m03_5744][121B]
+
+I thought I was*
+a goner.
+
+-------------------------------
+
+[m03_5750][121C]
+
+Son of a...!
+
+-------------------------------
+
+[m03_5610][121D]
+
+<face:0029>
+Hey, can you hear me?<press>
+{07FF}<face:010C>
+<0CFF_5000><NJ:003C>
+{06FF}.........<press>
+<NJ:003C>
+Where... am I...?<press>
+<face:0029>
+This is the <red>Ghost World<black>, the land*
+of the dead, Detective Jowd.<press>
+<face:010C>
+<NJ:003C>
+Detective... Jowd...?<press>
+<NJ:003C>
+Who is that...? Is that me...?<press>
+<face:002B>
+<sound:0015><blink>Oh, boy. Not you, too?*
+<blue>(This is getting old.)<black>
+
+-------------------------------
+
+[m03_5620][121E]
+
+<face:0044>
+<center>Guess I'll just give the*
+<center>usual explanation: <red>"The*
+<center>dead lose their memories."<black>
+
+-------------------------------
+
+[m03_5630][121F]
+
+<face:010C>
+Oh... So I'm... dead, am I?<press>
+I didn't realize that.<press>
+<face:0034>
+That's why you can't remember*
+anything right now.<press>
+<face:010C>
+<sound:0016>That's fine with me.<press>
+<face:0036>
+<sound:0015><blink>Huh?<press>
+<face:010C>
+I don't like a messy room. But I*
+hate cleaning up even more.<press>
+Not having my memories is a*
+welcome thing. Now I don't*
+have as much trash to take out.<press>
+<face:002B>
+<blue>(Memories are like trash...?)<black><press>
+<face:010C>
+Now that I'm dead, what do I need*
+with memories? And things I don't*
+need are just trash.<press>
+<face:0029>
+Not to me. I need your memories!<press>
+Besides...<press>
+<change:0027>
+<end>
+<sound:0016>I promised Lynne I'd try*
+to stop your execution.<press>
+<face:010C>
+<sound:0015><blink><1EFF_A000>"Lynne"...?<press>
+<NJ:003C>
+.........<press>
+<NJ:003C>
+Hmm.<press>
+<sound:0016><blink>It looks like I still have a*
+few bits and pieces of*
+garbage left lying around.<press>
+{07FF}<show><change:0097>
+1<show><shake:0128><blink><0CFF_0A00><blink><0CFF_0A00><blink><0CFF_B400>{06FF}I remember now...<press>
+About "Lynne"... "Jowd"...*
+and the "execution"...<press>
+<sound:0016>And what about you?*
+Who are you?<press>
+<face:0029>
+I'm Sissel. I'm looking for my*
+memory... or "trash," as you call it.<press>
+<face:0097>
+"Sissel"...?<press>
+<face:0029>
+Does my name ring a bell?*
+I think you know me.<press>
+<face:0097>
+Sorry. It must not have been a*
+very big piece of trash to me...<press>
+<face:0027>
+That's all right. I guess*
+you'll find out when you*
+get your memory back.<press>
+But, for now, I'd like you to come*
+back with me... back to four*
+minutes before your execution.
+
+-------------------------------
+
+[m03_6680][1316]
+
+<fchat:0001>
+This is the blackboard that*
+has this prisoner's schedule*
+for tomorrow written on it.<press>
+I can't read it, but that's*
+okay. I don't need to.<press>
+<fchat:0009>
+<sound:0015><blink>What a surprise. You've*
+forgotten how to read,*
+too?<press>
+<fchat:0001>
+Apparently. Can you read it?<press>
+<fchat:0009>
+<sound:0016>I can, but, like you said,*
+there's no need to.<press>
+<fchat:0001>
+<blue>(Oh, boy...)<black>
+
+-------------------------------
+
+[m03_6750][1321]
+
+<fchat:0001>
+Is this newspaper article*
+about your case?<press>
+<fchat:0009>
+Yeah. I tacked it up*
+there as a memento.<press>
+<fchat:0001>
+I can't read, but it probably*
+says something like...<press>
+<blue>(..."Man Murders Wife"...)<black><press>
+<fchat:0009>
+.........
+
+-------------------------------
+
+[m03_6760][1322]
+
+<fchat:0001>
+There's nothing written*
+on your blackboard.<press>
+Your schedule for*
+tomorrow is blank.<press>
+<fchat:0009>
+That's because I don't*
+need a "schedule."<press>
+Or a "tomorrow"...*
+Or "memories"...<press>
+.........<press>
+<fchat:0001>
+<blue>(This man...)<black><press>
+<sound:0016><blue>(I can never tell what*
+he's thinking...)<black>
+
+-------------------------------
+
+[m03_6320][1329]
+
+<fchat:0001>
+This appears to be some kind*
+of control panel. I might be*
+able to operate it...<press>
+Nope, it's already on, and*
+the buttons are locked.<press>
+<blue>(I guess I can't operate*
+it right now.)<black>
+
+-------------------------------
+
+[m03_9020][1902]
+
+Guard room
+
+-------------------------------
+
+[m03_9030][1903]
+
+Upper row of cells
+
+-------------------------------
+
+[m03_9040][1904]
+
+Lower row of cells
+
+-------------------------------
+
+[m03_9050][1905]
+
+Special Detention
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuary
+
+-------------------------------
+
+[m03_9080][1909]
+
+<fchat:0001>
+<blue>(There's a pad of note papers*
+hanging on the wall.)<black><press>
+<blue>(There's a red "O"*
+drawn on each one.)<black><press>
+<blue>(I think it's some kind of*
+letter or symbol, but I don't*
+recall what it means.)<black>
+
+-------------------------------
+
+[m03_9090][190A]
+
+<fchat:0001>
+<blue>(There's a pad of note papers*
+hanging on the wall.)<black><press>
+<blue>(There's a red "X"*
+drawn on each one.)<black><press>
+<blue>(I think it's some kind of*
+letter or symbol, but I don't*
+recall what it means.)<black>
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+It's no use. I can't use*
+the phone lines right now.<press>
+<fchat:0009>
+"Right now"...?<press>
+<fchat:0001>
+I can only move over*
+phone lines in the past*
+when it's <red>in use<black>.<press>
+Sadly, this applies to*
+the internal extensions*
+as well.<press>
+<fchat:0009>
+I see... Looks like life is*
+tough for everyone. Even*
+you.<press>
+<fchat:0001>
+You, too.
+
+-------------------------------
+

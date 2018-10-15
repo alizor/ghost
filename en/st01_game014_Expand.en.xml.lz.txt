@@ -1,0 +1,271 @@
+[m01_1220][020E]
+
+<face:002B>
+Hmm... It looks like she's <red>saying*
+something<black> to herself.<press>
+<blue>(But, unfortunately, I can't*
+hear it from here.)<black><press>
+<face:0083>
+That's no problem for ghosts like*
+us, as long as your target's not too*
+far away.<press>
+Just like you do with your*
+own <red>thought bubbles<black>...<press>
+...if you touch the thought*
+bubbles of the living, you can*
+listen in on what they're saying.<press>
+<face:0027>
+<blue>(Maybe I'll just take a*
+little listen, then...)<black><press>
+<face:0083>
+Always watch for the thought*
+bubbles of the living. They might*
+give you some important clues.
+
+-------------------------------
+
+[m01_1260][0210]
+
+<face:000D>
+But, seriously... What in*
+the world just happened?
+
+-------------------------------
+
+[m01_1280][0211]
+
+What's this?
+
+-------------------------------
+
+[m01_1290][0212]
+
+Some kind of note?
+
+-------------------------------
+
+[m01_1291][0213]
+
+<fchat:0001>
+I want to see that <red>note<black>.*
+<blue>(I wonder what I wrote in it?)<black><press>
+<fchat:0004>
+Hopefully, it's not just a*
+shopping list or something.<press>
+<fchat:0001>
+Yeah, that wouldn't help.*
+<blue>(Should I check it out...?)<black>
+
+-------------------------------
+
+[m01_1295][0214]
+
+<face:002B>
+<blue>(Did I write this note...?*
+Maybe I should give it a read.)<black><press>
+<face:0083>
+So you don't remember*
+writing it, eh?<press>
+<face:002B>
+No, I don't remember writing it.*
+But even more importantly --
+
+-------------------------------
+
+[m01_1300][0215]
+
+<face:002B>
+<blue>(Hmph. I didn't get a chance*
+to read that note.)<black><press>
+<face:0083>
+Not to interrupt your*
+train of thought, but...<press>
+I wonder if you've realized...<press>
+<sound:0016>...<red>where <black>this telephone*
+call is coming from?<press>
+<face:0034>
+Huh? How would I know that?<press>
+<face:0083>
+Think back.<press>
+<sound:0016><red>Before <black>you helped her avert her*
+fate, didn't a telephone call come*
+in at around this time, too?<press>
+<face:002F>
+<sound:0015><blink>...Oh, yeah!
+
+-------------------------------
+
+[m01_1310][0216]
+
+It's done.
+
+-------------------------------
+
+[m01_1320][0217]
+
+I'm on my way.
+
+-------------------------------
+
+[m01_1330][0218]
+
+<face:002D>
+<blue>(THAT telephone call!)<black><press>
+<face:0083>
+Exactly! In other words...<press>
+...at this very moment, on the*
+other end of this telephone line...<press>
+<sound:0016>...is the <red>culprit <black>who*
+ordered your murder!<press>
+<face:003A>
+<sound:0018><shake:0128><blink>What?!
+
+-------------------------------
+
+[m01_1340][0219]
+
+<face:0083>
+I recommend you possess*
+the <red>telephone<black>.<press>
+Once you've done that...<press>
+...I'll tell you about another*
+one of your ghost tricks.
+
+-------------------------------
+
+[m01_1350][021A]
+
+<20FF_2300><center>And then I saw him...<space>
+<center>Right there, on the other end*
+<center>of the line, I saw the face of*
+<center>the man who ordered me dead.
+
+-------------------------------
+
+[m01_1360][021B]
+
+<face:0072>
+Is it done?<press>
+<face:0014>
+.........<press>
+<face:0072>
+Speak up, man.*
+Did you get her?<press>
+<face:0014>
+.........<press>
+Who is this?<press>
+<face:0072>
+.........<press>
+Hmm, yes. A thousand pardons,*
+my dear lady. I must've dialed*
+the wrong number. Fah ha ha!
+
+-------------------------------
+
+[m01_1370][021C]
+
+<face:002D>
+<blue>(So that's him, eh?! The*
+man who stole my life!)<black><press>
+<face:0083>
+That's right. So what do you think?*
+Would you like to go see him?<press>
+<face:0029>
+You better believe I would!<press>
+<face:0083>
+Then you would do well*
+to listen to me.<press>
+We ghosts exist by possessing*
+inanimate objects. However...<press>
+<sound:0016>...there is one way we can*
+<red>move <black>from place to place*
+over great distances.<press>
+<face:0036>
+<blink>And that would be...?<press>
+<face:0083>
+The dead can jump from*
+point A to point B...<press>
+...by moving over <red>phone lines<black>!<press>
+<face:002F>
+<sound:0015><blink>Say what?<press>
+<face:0083>
+I've done all I can do to help you.<press>
+You'll have to do the rest yourself.<press>
+<face:0029>
+You're not coming with me?<press>
+<face:0083>
+I'm afraid not.<press>
+My powers have grown weak.<press>
+I've already used up most*
+of my remaining strength*
+just to get here tonight.<press>
+But I had to come,*
+to ask for your help.<press>
+<face:0029>
+My help?<press>
+<face:0083>
+Many mysterious things will*
+happen in this town tonight.<press>
+I'm trusting in you to get*
+to the bottom of them*
+and find out the <red>truth<black>.<press>
+You're the only one who can do it.<press>
+I want you to use your powers*
+of the dead to find this truth.<press>
+<face:002B>
+.........<press>
+<change:0029>
+<end>
+I'm grateful to you for*
+everything you've done.*
+But I can't promise I'll help.<press>
+<face:0083>
+.........<press>
+<face:0029>
+Tomorrow morning, I cease*
+to exist. That doesn't give*
+me a whole lot of time...<press>
+I need to pursue my own mystery,*
+find out the truth about myself.<press>
+<face:0083>
+That's more than enough.<press>
+<face:0036>
+<sound:0015><blink>Huh?<press>
+<face:0083>
+If you succeed in doing that, you'll*
+have done what I asked anyway.*
+The two are <red>one and the same<black>.<press>
+<face:0029>
+One and the same?<press>
+<change:002B>
+<end>
+.........*
+<blue>(Hmm.)<black><press>
+<blue>(This desk lamp knows a whole*
+lot more than he's telling me...)<black><press>
+<face:0083>
+Now, then.<press>
+From that call a moment ago,*
+you now have the culprit's*
+telephone number.<press>
+The rest is all up to you.
+
+-------------------------------
+
+[m01_1390][021D]
+
+<center>And so the story of the search*
+<center>for myself begins, a story that*
+<center>will last one night only.<space>
+<center>Tomorrow morning,*
+<center>I will cease to exist.*
+<center>And I'm surprisingly*
+<center>okay with this fact.<press>
+<center>I have to find the answers*
+<center>before the sun comes up.<space>
+<center>Why was I killed?<space>
+<center>And what exactly is going to*
+<center>happen in this town tonight?
+
+-------------------------------
+

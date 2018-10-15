@@ -1,0 +1,125 @@
+[m04_1061][1C09]
+
+<fchat:0001>
+I can't seem to raise this*
+switch. It won't budge.<press>
+But if the switch were*
+already raised, <red>I bet I*
+could manage to lower it<black>.
+
+-------------------------------
+
+[m04_1070][1C0A]
+
+It's smoky in here.
+
+-------------------------------
+
+[m04_1300][1C1E]
+
+<fchat:0001>
+Just as before, the*
+delicious aroma of*
+chicken fills the air.
+
+-------------------------------
+
+[m04_1310][1C1F]
+
+<face:00FE>
+{FE00} La la la! The lovely maiden, Memry!*
+Goddess of chicken!<press>
+<face:00D0>
+<sound:0016>What's with the song, Chef?<press>
+<face:00FE>
+I don't know why myself, but...<press>
+<sound:0015><blink>...tonight, I feel like singing*
+to you as much as you like,*
+until you've had your fill!<press>
+<face:00D0>
+Oh, yeah?<press>
+<sound:0016><blink>Well, if you're going to sing*
+about me being a "goddess,"*
+I guess I don't mind.<press>
+<fchat:0001>
+<blue>(That's all it takes, eh?)<black>
+
+-------------------------------
+
+[m04_1350][1C20]
+
+<fchat:0001>
+Just as before, the*
+delicious aroma of*
+chicken fills the air.
+
+-------------------------------
+
+[m04_1360][1C21]
+
+<face:00FD>
+{FE00} La la la! As long as I*
+have chicken and you...*
+and chicken, I'm happy!
+
+-------------------------------
+
+[m04_1370][1C22]
+
+<face:00FD>
+That poor girl...<press>
+<sound:0016>She got a stomachache from*
+listening to my singing.<press>
+She's very delicate, that girl.<press>
+<fchat:0001>
+<blue>(I guess his songs didn't sit*
+well with Detective Memry's*
+digestive system...)<black><press>
+<blue>(I guess I'd better go,*
+before I start getting*
+stomach trouble, too.)<black>
+
+-------------------------------
+
+[m04_1400][1C23]
+
+<fchat:0001>
+Hmm... It's not like the*
+restaurant is closed.*
+Where's the chef?<press>
+.........<press>
+<sound:0016>It's just not the same*
+without his singing.<press>
+I guess I can come back*
+later if I want to hear him*
+sing again.
+
+-------------------------------
+
+[m04_1450][1C24]
+
+<fchat:0001>
+It looks like the chef is back.<press>
+The rich sound of singing*
+and the delicious aroma*
+of chicken fills the air.
+
+-------------------------------
+
+[m04_1460][1C25]
+
+<face:00FD>
+{FE00} La la la! The last*
+chicken of the night!<press>
+{FE00} La la la! Cooked by me,*
+in that secret, special way,*
+for me alone!<press>
+{FE00} The Chicken Kitchen will open*
+again tomorrow to share its*
+chicken with the world! La la la!<press>
+<fchat:0001>
+I sure would like to try*
+some of that chicken...
+
+-------------------------------
+

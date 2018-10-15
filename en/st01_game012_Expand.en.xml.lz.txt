@@ -1,0 +1,304 @@
+[m01_0160][0110]
+
+<center>Oof!
+
+-------------------------------
+
+[m01_0170][0111]
+
+<center>Hold it!
+
+-------------------------------
+
+[m01_0230][0118]
+
+<center>Who's there?!
+
+-------------------------------
+
+[m01_0280][0122]
+
+<center>My eyesight...*
+<center>and your future!
+
+-------------------------------
+
+[m01_0610][0141]
+
+<face:0007>
+A shotgun? Kind of a flashy weapon*
+for a hitman, dontcha think?<press>
+<face:007B>
+Not flashy. Just thorough.<press>
+They call me "Nearsighted Jeego,"*
+but I never let my prey get away.<press>
+<face:000D>
+Ever thought about just*
+buying a pair of glasses?<press>
+<face:007B>
+Well, sister. This is it.<press>
+Two things are looking*
+pretty dim right now...
+
+-------------------------------
+
+[m01_0700][014F]
+
+<fchat:0004>
+Now's your chance*
+to change her fate!<press>
+<fchat:0001>
+<blue>(There isn't much time left.*
+This is coming down to a*
+battle of <red>seconds<blue>!)<black>
+
+-------------------------------
+
+[m01_0710][0150]
+
+<fchat:0004>
+Time is almost up!<press>
+You have to change her*
+fate before the countdown*
+reaches "0"!<press>
+<fchat:0001>
+<blue>(Hmm. Time doesn't*
+pass while I'm in the*
+Ghost World.)<black><press>
+<blue>(I'd better possess*
+something... fast!)<black>
+
+-------------------------------
+
+[m01_0715][0151]
+
+<face:007B>
+<blink><shake:0128>Dammit! What's going on here?<press>
+Nearsighted Jeego never misses,*
+as long as the target is within*
+point-blank range!
+
+-------------------------------
+
+[m01_0720][0152]
+
+<face:0083>
+<sound:0016><blink>It looks like you made*
+it in time... just barely.<press>
+<face:0027>
+Yup. She's still alive!<press>
+<face:0083>
+And in that split second,*
+hope was born.<press>
+Just now, her fate was changed,*
+albeit ever so slightly.
+
+-------------------------------
+
+[m01_0730][0153]
+
+<fchat:0001>
+You said her "fate*
+was changed"...<press>
+...but it looks like she's still*
+in the same predicament.<press>
+<fchat:0004>
+I said her fate was changed*
+"ever so slightly."<press>
+<fchat:0001>
+I guess I'm gonna have*
+to take care of that guy*
+once and for all.<press>
+<fchat:0004>
+But there isn't much*
+time left. Depending*
+on what you do...<press>
+...there is still the*
+possibility of failure.<press>
+<fchat:0001>
+I don't want to think*
+about failure now.<press>
+<fchat:0004>
+No, of course not.*
+But still...<press>
+...if you ever feel like*
+you want to start over...<press>
+<fchat:0005>
+...just press the <TIME> button*
+before time runs out.<show><press>
+<fchat:0004>
+Although, you never know...<show><press>
+<fchat:0004>
+You might learn a thing*
+or two when time runs*
+out, too.<press>
+<fchat:0001>
+All right. I'll keep that*
+in mind.<press>
+<blue>(But, right now, I'd better*
+go after those two!)<black>
+
+-------------------------------
+
+[m01_0750][0155]
+
+<face:000B>
+<blink><shake:0128>Oh, you gotta be kidding me!
+
+-------------------------------
+
+[m01_0760][0156]
+
+<face:0007>
+The bridge is up!
+
+-------------------------------
+
+[m01_0770][0157]
+
+That's because*
+I put it up.
+
+-------------------------------
+
+[m01_0780][0158]
+
+Nowhere to*
+run to now.
+
+-------------------------------
+
+[m01_0790][0159]
+
+No...!
+
+-------------------------------
+
+[m01_0800][015A]
+
+This time I mean it.
+
+-------------------------------
+
+[m01_0810][015B]
+
+So long, sister.
+
+-------------------------------
+
+[m01_0820][015C]
+
+<fchat:0004>
+I bet you're wondering*
+what's going on over*
+there, right?<press>
+<fchat:0001>
+<blue>(Oh, that's right. If I*
+want to take a look, I*
+can <red>slide <blue>the screen.)<black><press>
+<fchat:0004>
+Exactly. And, by the way...<press>
+...you can also use*
+<DPAD> to do the same thing.<press>
+Use whichever way*
+is easiest for you.
+
+-------------------------------
+
+[m01_0830][015D]
+
+You hear something?
+
+-------------------------------
+
+[m01_0840][015E]
+
+.........
+
+-------------------------------
+
+[m01_0861][0160]
+
+Okay, this is it.
+
+-------------------------------
+
+[m01_0860][0161]
+
+This time I mean it.
+
+-------------------------------
+
+[m01_0870][0162]
+
+So long, sister.
+
+-------------------------------
+
+[m01_0880][0163]
+
+<face:0083>
+How does it feel to*
+save a lady's life?<press>
+<face:0029>
+So the danger is gone?<press>
+<face:0083>
+Yes. It looks like the "danger" --<press>
+-- "Mr. Danger," in fact --*
+rolled away somewhere.<press>
+You used your powers to*
+avert that woman's fate.<press>
+<face:002B>
+<blue>(So I did all that, huh?)<black><press>
+<face:0083>
+You most certainly did!<press>
+And I knew you could do it.
+
+-------------------------------
+
+[m01_0890][0164]
+
+<20FF_4B00><center>So I lost my life tonight, and*
+saved somebody else's life.
+
+-------------------------------
+
+[m01_0900][0165]
+
+<face:002B>
+Seeing as how she's the slowest*
+runner in the world, I'd better*
+give her a chance to escape.<press>
+<change:0029>
+<end>
+Guess I'll try to find something*
+to distract that man in black with...<press>
+If I want to use my powers,*
+I'll have to <red>touch <black>the*
+<GHOST> button first.<press>
+<change:002B>
+<end>
+<blue>(I don't really have a plan yet, but*
+I guess I'll start with a "<red>touch<blue>"!)<black>
+
+-------------------------------
+
+[m01_0910][0166]
+
+<face:0029>
+Hmm... I still couldn't save her.<press>
+It looks like I'm gonna have*
+to take care of that man in*
+black once and for all.<press>
+<change:002B>
+<end>
+<blue>(There must be <red>something<blue>*
+<red>I can use<blue> around here!)<black><press>
+<change:0027>
+<end>
+<blue>(I think I'll try <red>possessing<blue>*
+anything and everything*
+until I find the right one...)<black>
+
+-------------------------------
+

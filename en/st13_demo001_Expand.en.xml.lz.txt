@@ -1,0 +1,68 @@
+[m04_1130][1C17]
+
+<face:00FF>
+<shake:0128><center><green>{FE00} I took a bite!*
+<shake:0128><center>My heart swelled with pride!*
+<shake:0128><center>And I got goose bumps!<black>
+
+-------------------------------
+
+[m04_1140][1C18]
+
+What the heck is this?
+
+-------------------------------
+
+[m04_1150][1C19]
+
+<face:00FF>
+<shake:0128><center><green>{FE00} I'm consumed with the love*
+<shake:0128><center>of consuming you! La la la!<black>
+
+-------------------------------
+
+[m04_1160][1C1A]
+
+<face:0027>
+Well, it looks like you've escaped*
+the fate of being hammered by*
+your horrible hen!<press>
+<face:0014>
+Yes, but I still haven't escaped*
+the worst darkness of this*
+terrible night...<press>
+<change:001C>
+<end>
+<sound:0016>I... I shot you, didn't I...?<press>
+<face:0029>
+There must've been some sort of*
+complicated set of circumstances*
+that made you do it...<press>
+<face:0014>
+<sound:0015><blink>It's never okay to shoot a person,*
+no matter what the circumstances!<press>
+<face:0036>
+Hey, shouldn't that be*
+my line? But, anyway...<press>
+<change:002B>
+<end>
+You were investigating a case.*
+And I was supposed to give*
+you information on that case.<press>
+Maybe it's time you*
+told me about it...<press>
+<change:0029>
+<end>
+<sound:0016>Tell me about the <red>case<black>*
+you're looking into.<press>
+<face:001C>
+Yes... I guess I should...<press>
+<change:0014>
+<end>
+But let's go back to*
+the new present first.<press>
+<face:0027>
+Okay, sure.
+
+-------------------------------
+

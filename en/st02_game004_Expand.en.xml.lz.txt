@@ -1,0 +1,719 @@
+[m02_1010][0501]
+
+<face:0014>
+I have a bad feeling about this...
+
+-------------------------------
+
+[m02_1020][0502]
+
+Yes, sir!
+
+-------------------------------
+
+[m02_1030][0503]
+
+<face:00BD>
+<blink><shake:0128>Detective! Is everything okay?
+
+-------------------------------
+
+[m02_1035][0504]
+
+<face:0008>
+<sound:0015><blink>Oh...! Uh...<press>
+<change:0006>
+<end>
+<shake:0128>...I was hungry! So I was trying*
+to get something delivered...!<press>
+<face:00BD>
+<sound:0018><shake:0128>What?! Don't do that!
+
+-------------------------------
+
+[m02_1040][0505]
+
+Oh, I'm sorry...
+
+-------------------------------
+
+[m02_1045][0506]
+
+<sound:0018><shake:0128>Don't do that!
+
+-------------------------------
+
+[m02_1050][0507]
+
+<face:00BD>
+<sound:0015><blink>You should leave jobs like*
+that to me! Is chicken all right?
+
+-------------------------------
+
+[m02_1070][0509]
+
+<face:0004>
+I would like to go back to the*
+station for a minute, though.<press>
+<face:00BD>
+<sound:0016>You would? Oh, uh... I'm afraid*
+I can't let you do that.
+
+-------------------------------
+
+[m02_1080][050A]
+
+<face:00BD>
+<blink><shake:0128>Inspector Cabanela is on his*
+way. He'll be here any minute.
+
+-------------------------------
+
+[m02_1085][050B]
+
+<face:0089>
+Evening, patrolmaaan.
+
+-------------------------------
+
+[m02_1090][050C]
+
+<face:00BE>
+<sound:0017><blink><shake:0128>Good evening, Inspector*
+Cabanela, sir!<press>
+<face:0089>
+Nice work. Now, do me a*
+favor and take a little patrol*
+around outside, would you?<press>
+Thaaat's a nice fellow.<press>
+<face:00BE>
+<blink><shake:0128>Yes, sir!
+
+-------------------------------
+
+[m02_1100][050D]
+
+<face:0089>
+Yo. How's it goin', baby?<press>
+<face:0016>
+Inspector Cabanela! What*
+are you doing here...?<press>
+<change:0004>
+<end>
+I thought the Special Investigation*
+Unit had an important top-secret*
+assignment tonight?<press>
+<face:0089>
+What does that matter*
+at a time like this, when*
+my Lynne's in crisis?<press>
+<face:0004>
+I appreciate it, sir!
+
+-------------------------------
+
+[m02_1110][050E]
+
+<face:0008>
+<sound:0016>Don't tell me I'm*
+being <red>suspected<black>...?!<press>
+Suspected of shooting*
+that pointy-haired*
+man in the red suit?<press>
+<face:000C>
+<sound:0018><blink><shake:0128>I mean, I've never even*
+met the guy before!<press>
+<face:0089>
+Hmm... "Never," baby?<press>
+<face:0008>
+<sound:0015><blink><shake:0128>Oh! Well, uh...<press>
+<change:000E>
+<end>
+Before tonight, I mean. He*
+asked me to meet him here.<press>
+He said he had important*
+information about the case*
+I'm working on.<press>
+<change:000C>
+<end>
+<sound:0018><blink><shake:0128>He's the one who*
+contacted ME!
+
+-------------------------------
+
+[m02_1120][0510]
+
+<face:0089>
+You know I don't suspect*
+ya, baby. Just tryin' to*
+clear things up.<press>
+You're not the type to*
+ever shoot anybody.<press>
+Heeey, who knows ya*
+better than me, baby?<press>
+You know, if anything ever*
+happened to you...
+
+-------------------------------
+
+[m02_1130][0512]
+
+<face:008C>
+<blink>...I'd never be able to look*
+HIM in the eye again...
+
+-------------------------------
+
+[m02_1460][0516]
+
+Inspector Cabanela.
+
+-------------------------------
+
+[m02_1465][0517]
+
+Please tell me.
+
+-------------------------------
+
+[m02_1470][0518]
+
+What's that?
+
+-------------------------------
+
+[m02_1475][0519]
+
+Is it...
+
+-------------------------------
+
+[m02_1480][051A]
+
+...tonight?
+
+-------------------------------
+
+[m02_1485][051B]
+
+Hmm?
+
+-------------------------------
+
+[m02_1488][051C]
+
+What are you*
+talkin' about?
+
+-------------------------------
+
+[m02_1170][051D]
+
+Get down!
+
+-------------------------------
+
+[m02_1190][051F]
+
+<fchat:0003>
+You know what?*
+I have an idea.<press>
+The guy who shot me*
+is outside, right?<press>
+<fchat:0001>
+Looks that way, yeah.<press>
+<fchat:0003>
+Instead of trying to*
+stop the bullet once*
+it gets in here...<press>
+<sound:0016>...wouldn't it be more fun*
+to go out and stop <red>the guy*
+who's shooting<black> the bullet?<press>
+<fchat:0001>
+<blue>("Fun," she says, with eyes*
+gleaming. Oh, boy...)<black><press>
+<fchat:0003>
+You can use the <red>telephone<black>*
+to move around, right?<press>
+<fchat:0001>
+That's right. And I know the*
+telephone number to the*
+junkyard pay phone, too.<press>
+<fchat:0003>
+I don't want to*
+get shot again.<press>
+You know what they say,*
+about 3 strikes and you're*
+out...<press>
+<fchat:0001>
+As long as you don't become*
+a ball player, you'll probably*
+be "safe."<press>
+<blue>(But the <red>telephone*
+<blue>thing's a good idea.*
+Maybe I'll give it a try.)<black>
+
+-------------------------------
+
+[m02_1200][0520]
+
+<fchat:0001>
+<sound:0016>That's funny...<press>
+<fchat:0003>
+What's the matter?<press>
+<fchat:0001>
+This telephone <red>doesn't seem*
+to be working<black> right now.<press>
+<blue>(Usually, the telephone*
+line glows red, but it's*
+dark right now.)<black><press>
+<fchat:0003>
+<sound:0015><blink>What?!<press>
+<fchat:0001>
+Apparently, in this*
+"four minutes*
+before death" world...<press>
+<sound:0016>...we<red> can't just use the phone*
+lines whenever we want<black>.<press>
+<fchat:0003>
+<sound:0018><blink>You're kidding, right?!<press>
+<fchat:0001>
+<blue>(As long as the lines are*
+"<red>closed<blue>" like this, it looks*
+like we can't go anywhere.)<black><press>
+<fchat:0003>
+<shake:0128>But I want to stop*
+that criminal!
+
+-------------------------------
+
+[m02_1215][0521]
+
+Oh, that's*
+okay!
+
+-------------------------------
+
+[m02_1210][0522]
+
+<face:00FD>
+Hello! The Chicken Kitchen!*
+You want chicken? We got*
+your chicken!<press>
+<face:00BE>
+One chicken dinner, please.<press>
+<face:00FD>
+Would you like an order*
+of fried chicken with that?
+
+-------------------------------
+
+[m02_1250][0528]
+
+<fchat:0001>
+No sense in going over*
+to the restaurant now.<press>
+<fchat:0003>
+Right. Can't eat*
+chicken if I'm dead.<press>
+<fchat:0001>
+That's not what I*
+was talking about...<press>
+<blue>(The place we need*
+to be now is...)<black><press>
+<blue>(...outside in the <red>junkyard<blue>,*
+where the hitman lurks.)<black><press>
+<fchat:0003>
+And the only way to get*
+there is to use the*
+telephone lines!
+
+-------------------------------
+
+[m02_1495][0529]
+
+One chicken dinner.
+
+-------------------------------
+
+[m02_1260][052A]
+
+<face:00BD>
+They ordered me here to*
+stand guard over this*
+rookie detective, Lynne.<press>
+Now that I'm really looking*
+at her, she sure is cute.<press>
+They told me to call the*
+detective outside if she*
+did anything suspicious...<press>
+So here I stand.<press>
+<sound:0017><blink><shake:0128>Hey, maybe I need to call the*
+detective outside after all...*
+She's so beautiful, it's criminal!
+
+-------------------------------
+
+[m02_1270][052B]
+
+<fchat:0003>
+<sound:0015><blink>Say, did you hear what*
+the officer just said?<press>
+<fchat:0001>
+Yes. Strange taste*
+that fellow has...<press>
+<fchat:0003>
+<sound:0018><shake:0128>His taste is perfectly*
+normal! Hmph. But,*
+anyway, not that part.<press>
+The part about the*
+order he got.<press>
+The order to telephone*
+outside if I did <red>anything*
+suspicious<black>.<press>
+<fchat:0001>
+<sound:0016><blue>("<red>Telephone<blue>," huh?)<black><press>
+<fchat:0003>
+I was <red>acting really*
+suspicious<black> a few minutes*
+ago, but he didn't call.<press>
+<sound:0018><blink><shake:0128>He should've been*
+more observant!<press>
+<fchat:0001>
+<blue>(So if the police officer sees*
+anything <red>suspicious<blue>...)<black><press>
+<blue>(...this state of affairs*
+might change...)<black>
+
+-------------------------------
+
+[m02_1310][052C]
+
+<fchat:0001>
+What's up with this*
+blinding pink notebook?<press>
+<fchat:0003>
+Oh, that's mine. Isn't it*
+adorable? Hee hee hee!<press>
+<fchat:0001>
+Why isn't your adorable*
+notebook in your pocket?<press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>I panicked, okay?! Don't*
+you shove things in the*
+bookcase when you panic?<press>
+<fchat:0001>
+Who were you*
+calling, anyway?<press>
+<fchat:0003>
+It was personal business.
+
+-------------------------------
+
+[m02_1497][052D]
+
+Huh?
+
+-------------------------------
+
+[m02_1380][052E]
+
+<face:00BD>
+That's Lynne's notebook.*
+Hey, wait a minute...
+
+-------------------------------
+
+[m02_1390][052F]
+
+<face:00BD>
+I thought she was practicing a*
+dance move when I came in...<press>
+<sound:0016>Nope. That was definitely*
+suspicious! No question!<press>
+<sound:0015><blink><shake:0128>I'd better report this!<press>
+I wonder if I can make the*
+call without her noticing?
+
+-------------------------------
+
+[m02_1400][0530]
+
+<face:00C6>
+What's up?<press>
+<face:00BE>
+I've been watching Lynne*
+just like you told me to...<press>
+<sound:013E><blink><shake:0128>...and I noticed something*
+suspicious!<press>
+<face:00C6>
+You did?! So Inspector*
+Cabanela was right...<press>
+<face:00BE>
+<blink><shake:0128>She was hiding her notebook*
+when I came in!<press>
+<face:00C6>
+Her notebook, eh?<press>
+<face:00BE>
+<sound:013E><blink><shake:0128>Yes, sir!<press>
+<sound:0017><blink><shake:0128>In a very suspicious manner! And*
+in a very conspicuous place!<press>
+<face:00C6>
+Anything else?<press>
+<face:00BE>
+Um, let's see...<press>
+<sound:0017><blink><shake:0128>It's pink, and it's a notebook!<press>
+<face:00C6>
+Anything else?<press>
+<face:00BE>
+Um, let's see...<press>
+Come to think of it, she was using*
+the phone when I came in, too,*
+and referring to her notebook.<press>
+<face:00C6>
+Okay, someone will be over later.*
+Don't let on you noticed anything.
+
+-------------------------------
+
+[m02_1220][0531]
+
+<fchat:0003>
+<sound:0015><blink>Hey, look at that! The phone*
+line is glowing red!<press>
+<fchat:0001>
+<sound:0016>...!<press>
+<fchat:0003>
+I bet it would work*
+if we tried it now!<press>
+<fchat:0001>
+I bet you're right.<press>
+The detective he's talking*
+to is outside in the junkyard.<press>
+<fchat:0003>
+And that's where*
+the horrible hitman*
+who's after me is, too!
+
+-------------------------------
+
+[m02_1420][0532]
+
+<fchat:0003>
+<press>
+<press>
+<fchat:0001>
+<press>
+<fchat:0003>
+<press>
+<press>
+<fchat:0001>
+<press>
+<fchat:0003>
+
+
+-------------------------------
+
+[m02_1430][0533]
+
+<fchat:0003>
+<sound:0015><blink>Hey! Don't scare*
+me like that!<press>
+<sound:0018><blink><shake:0128>You could shorten my life!<press>
+Poor little me...<press>
+<fchat:0001>
+<blue>(Um, your "life" is already*
+over, actually...)<black><press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>You don't have to rub it in!
+
+-------------------------------
+
+[m02_1440][0534]
+
+<fchat:0003>
+These pictures are old.*
+What are they of? Little*
+fragments of rock?<press>
+And the fragments*
+are glowing... Do you*
+know what these are?<press>
+<fchat:0001>
+Sorry, but I've lost my*
+memory. Probably not*
+the best person to ask...<press>
+<fchat:0003>
+<sound:0015><blink>That's okay. I was only*
+being polite. I didn't*
+really think you'd know.<press>
+<fchat:0001>
+<blue>(Ouch. This lady's*
+tongue can be sharp.)<black><press>
+<fchat:0003>
+Uh, I can hear what you're*
+thinking, remember?<press>
+<fchat:0001>
+<sound:0016>I know.<press>
+<fchat:0003>
+Good one.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+What could this be? It looks*
+like a giant nail clipper.<press>
+<fchat:0003>
+You think so?<press>
+<fchat:0001>
+Do YOU know what it is?<press>
+<fchat:0003>
+#sigh#<press>
+<sound:0016>Why did you have to ask me?!*
+Couldn't you see I was*
+looking away evasively?!<press>
+<fchat:0001>
+Huh?<press>
+<fchat:0003>
+It's... one of those science-y*
+things that scientists use.<press>
+<sound:0018><blink><shake:0128>Ordinary people like us don't*
+have to know what it is!<press>
+<fchat:0001>
+<blue>(I don't remember*
+what "science" is...)<black><press>
+<blue>(...but it's apparently*
+something Lynne*
+doesn't like very much.)<black>
+
+-------------------------------
+
+[m02_1320][0536]
+
+<fchat:0003>
+How strange... Did you see*
+Inspector Cabanela?<press>
+<fchat:0001>
+Yeah, I'd say he was pretty*
+darned strange, indeed.<press>
+<fchat:0003>
+No, no. That's not what*
+I mean. I'm talking*
+about my notebook.<press>
+<fchat:0001>
+<sound:0015><blink>Notebook?<press>
+<fchat:0003>
+We lit it up for him, plain*
+as day, but... nothing.<press>
+It's not like Inspector*
+Cabanela not to notice*
+something.<press>
+<fchat:0001>
+<sound:0016>Well, he's a weird guy.*
+What can I say?<press>
+<fchat:0003>
+That's all you're going*
+to focus on, isn't it?
+
+-------------------------------
+
+[m02_1360][0538]
+
+<face:002B>
+Apparently, the hitman fired*
+from outside in the junkyard.<press>
+Probably the best thing to*
+do is go out there and*
+stop him directly.<press>
+But, in the <red>past<black>, I <red>can't just*
+use the telephone lines*
+whenever I want<black>...<press>
+<change:0027>
+<end>
+<blue>(Hmm... I'm guessing the only*
+way is to <red>get somebody to call<blue>*
+the junkyard...)<black>
+
+-------------------------------
+
+[m02_1690][054E]
+
+<fchat:0001>
+I can't hear from here.*
+Better get closer...
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+These photos*
+look pretty old.<press>
+Pictures of little*
+fragments of rock...<press>
+That old pigeon guy has*
+some pretty strange*
+taste in wall décor.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+I have no idea what this*
+instrument is for.<press>
+As a matter of fact, this*
+whole desk is filled with*
+things I've never seen.<press>
+I know I've lost my*
+memory, but still...<press>
+That old pigeon man seems*
+like a pretty strange guy.
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(So what exactly*
+is this thing?)<black><press>
+<blue>(It looks like a giant*
+nail clipper to me...)<black><press>
+<fchat:000C>
+<sound:0016>No, it most certainly*
+does not.<press>
+It's an instrument used in*
+analyzing radiation-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>O-Oh. Ahem. Yes, I see...<press>
+<fchat:000B>
+<sound:0015><blink>You're not alone, kid.<press>
+None of the rest of us*
+understand it, either, baby!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Yeah! You said it!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Old pictures... of what*
+look like little fragments*
+of rock.<press>
+<fchat:000C>
+Those are Temsik fragments.<press>
+That's an article from back*
+when it was big news.<press>
+<fchat:000B>
+Ten years ago, nobody*
+really understood it.<press>
+<fchat:000C>
+I guess that's*
+still true today.
+
+-------------------------------
+

@@ -1,0 +1,432 @@
+[m09_0000][2A00]
+
+<face:0104>
+<shake:0128><blink>Are you all right, sir?!
+
+-------------------------------
+
+[m09_0010][2A01]
+
+<face:00E5>
+<sound:0018><blink><shake:0128>I ordered all of you not*
+to come near me!
+
+-------------------------------
+
+[m09_0015][2A02]
+
+<face:0104>
+<sound:0017><blink><shake:0128>I-I beg your pardon, sir!<press>
+<face:00E3>
+<shake:0128>#sigh# I'm sorry. I shouldn't*
+have yelled at you like that.
+
+-------------------------------
+
+[m09_0017][2A03]
+
+<face:00E3>
+But I'd like to be left alone*
+right now. You may go.<press>
+<face:0104>
+Yes, sir!
+
+-------------------------------
+
+[m09_0020][2A04]
+
+<fchat:0001>
+Oh, boy.<press>
+<sound:0016><blink>Another strange room, and*
+another strange person.<press>
+<blue>(I wish these telephone*
+lines came with nameplates*
+or something... Sheesh.)<black>
+
+-------------------------------
+
+[m09_0030][2A05]
+
+<fchat:0001>
+He still appears to be*
+deeply troubled.<press>
+If he doesn't have any work*
+to do, why doesn't he just*
+go home and go to bed?<press>
+<sound:0016><blink>Maybe the fact he doesn't*
+have any work to do is what*
+has him deeply troubled...?<press>
+I have quite a bit of*
+work to do, myself.<press>
+Don't know which of us*
+is in a more enviable*
+situation, though...
+
+-------------------------------
+
+[m09_0040][2A06]
+
+<face:00E3>
+Maybe I was wrong...<press>
+Maybe Emma was right...<press>
+Maybe it was a mistake*
+I was ever born at all...<press>
+<change:00E5>
+<end>
+<sound:0018><blink><shake:0128>But wait a minute. If I'd*
+never been born, Amelie*
+wouldn't be here right now!<press>
+<change:00E3>
+<end>
+#groan# It's gotten to the*
+point where I don't know*
+what my mistakes were...!<press>
+What defines a*
+"mistake," anyway?<press>
+<change:00E5>
+<end>
+<sound:0018><blink><shake:0128>If something isn't right, does*
+that make it a mistake?!<press>
+<fchat:0001>
+I'm out of here.
+
+-------------------------------
+
+[m09_0050][2A07]
+
+<face:00E3>
+Even as I sit here,*
+time is ticking away.<press>
+I wonder what he's*
+feeling right now?<press>
+<change:00E5>
+<end>
+<sound:0018><blink><shake:0128>I bet he hates me!*
+Aaaargh...!<press>
+<change:00E3>
+<end>
+<sound:0016>Oh, if only I could blow up and*
+scatter into a million pieces...!<press>
+<fchat:0001>
+<blue>(Maybe he oughta think of*
+more peaceful images...)<black>
+
+-------------------------------
+
+[m09_0060][2A08]
+
+<face:00E3>
+If only I could catch a*
+breeze and fly away!<press>
+Or maybe even just*
+catch a cold...<press>
+If I caught a cold, would*
+Emma take pity on me?<press>
+Would Amelie cry for me?*
+No, I don't think she would...<press>
+<change:00E5>
+<end>
+<sound:0018><blink><shake:0128>{2EFF}{5400}{17FF}Why would she?!{17FF}<press>
+.........<press>
+<change:00E3>
+<end>
+<sound:0016>Oh, if only I could blow up and*
+fly into a million pieces...!<press>
+<fchat:0001>
+I don't think I need to*
+come back here again*
+for a while.
+
+-------------------------------
+
+[m09_0070][2A09]
+
+Emma?!*
+Is that you?!
+
+-------------------------------
+
+[m09_0080][2A0A]
+
+<face:00E3>
+This feeling of waiting for a phone*
+call that might never come...<press>
+<shake:0128><blink>I wonder what sort of*
+feeling HE'S waiting with...?
+
+-------------------------------
+
+[m09_0090][2A0B]
+
+<face:0104>
+Your Excellency! Are you*
+sure you are all right, sir?
+
+-------------------------------
+
+[m09_0100][2A0C]
+
+<face:00E5>
+<sound:0018><blink><shake:0128>Please! Stay back! How many*
+times do I have to say it?!
+
+-------------------------------
+
+[m09_0110][2A0D]
+
+<face:0104>
+<sound:0017><blink><shake:0128>I-I'm very sorry, Your Excellency!<press>
+We're all just very*
+worried about you, sir!<press>
+<face:00E3>
+<shake:0128>I'm sorry. I shouldn't*
+have yelled like that.
+
+-------------------------------
+
+[m09_0115][2A0E]
+
+<face:00E3>
+But don't worry about me.*
+Please just leave me alone.<press>
+<face:0104>
+Yes, sir!
+
+-------------------------------
+
+[m09_0120][2A0F]
+
+<fchat:0001>
+The tension in this*
+room is palpable.<press>
+<blue>(It's as if... something*
+is about to happen...)<black>
+
+-------------------------------
+
+[m09_0130][2A10]
+
+<fchat:0001>
+<sound:0016><blink>The room is filled*
+with tension.<press>
+Everybody is on edge --*
+waiting, fearful...<press>
+Everybody except one.<press>
+<sound:0015><blink>The inspector in white*
+is sitting, humming a*
+tune to himself.
+
+-------------------------------
+
+[m09_0140][2A11]
+
+<face:0097>
+The justice minister is*
+worried about his daughter.<press>
+If we could prove to him*
+somehow that she's okay,*
+he'd probably relent.<press>
+<face:0034>
+But he won't believe me.<press>
+<face:0097>
+I guess we can't blame him.<press>
+Probably the best way to*
+convince him would be...<press>
+<change:00AD>
+<end>
+<sound:0016>...if we could let him hear*
+his daughter's <red>voice<black>.<press>
+<face:0036>
+Yeah, that would probably*
+work. But how do we do that?<press>
+<face:00AD>
+I know you can do it!*
+I believe in you.<press>
+<face:002B>
+<blue>(Oh, boy... Another one. Easy*
+enough for you to say.)<black>
+
+-------------------------------
+
+[m09_0150][2A12]
+
+<face:00E6>
+<sound:0018><blink><shake:0128>O gods, I pray!<press>
+<sound:0017><blink><shake:0128>Please allow me to blow up and*
+scatter into a million pieces!<press>
+<face:0034>
+What kind of prayer is that?<press>
+<face:00E6>
+<sound:0018><blink><shake:0128>But my daughter has*
+been kidnapped!<press>
+<change:00E4>
+<end>
+And the inmate whose*
+death warrant I signed*
+is glaring at me!<press>
+<change:00E6>
+<end>
+<sound:0017><blink><shake:0128>The best thing for me right*
+now would be to blow up!<press>
+<face:0029>
+Listen to me. Your daughter*
+hasn't been kidnapped.<press>
+<change:003A>
+<end>
+<sound:0018><blink><shake:0128>Why won't you believe me?!<press>
+<face:00E4>
+<sound:0016>I tell you what. If you blow*
+me up, I'll believe you.<press>
+<face:002D>
+<shake:0128><blue>(Oh, boy. Now what?)<black>
+
+-------------------------------
+
+[m09_0160][2A13]
+
+<face:010D>
+<NJ:0078>
+<center>.........<press>
+<fchat:0001>
+<sound:0016>There's so much tension*
+in here... I've never felt*
+anything like this before.<press>
+I'd better find out more*
+about this kidnapping*
+as quickly as I can...<press>
+<sound:0015><blink>...before the minister*
+dies of anxiety.
+
+-------------------------------
+
+[m09_0170][2A14]
+
+<face:00E6>
+Damn those criminals!<press>
+<sound:0017><blink><shake:0128>If they were going to*
+abduct somebody, why*
+didn't they take me?!<press>
+<face:002B>
+But if they took you...<press>
+<change:0034>
+<end>
+<sound:0016>...who would've carried*
+out their demand?<press>
+<face:00E4>
+<sound:0015><blink>Y-You've got a point there...<press>
+.........<press>
+<change:00E6>
+<end>
+<sound:0018><blink><shake:0128>Unlike me...! There's no point*
+to my existence at all!<press>
+<face:0029>
+<blue>(I'd better get going*
+on that kidnapping...)<black>
+
+-------------------------------
+
+[m09_0180][2A15]
+
+<face:010D>
+<NJ:0078>
+<center>.........<press>
+<fchat:0001>
+<sound:0016>There's so much tension*
+in here... I've never felt*
+anything like this before.<press>
+We'd better find that <red>gun<black>*
+as quickly as we can...<press>
+<sound:0015><blink>...before the minister*
+dies of anxiety.
+
+-------------------------------
+
+[m09_0190][2A16]
+
+<face:00E4>
+How is it going over at the park?<press>
+<face:002B>
+<sound:0016>Hmm... It's kind of*
+difficult to say...<press>
+<face:00E4>
+<shake:0128>#sigh# I see. But, I must admit,*
+I envy you.<press>
+<face:0036>
+<sound:0015><blink>You envy me?<press>
+<face:00E4>
+You just say "it's difficult to*
+say," and then, you don't have*
+to actually say it.<press>
+<change:00E6>
+<end>
+<sound:0018><blink><shake:0128>In my case...<press>
+<sound:0017><blink><shake:0128>...actually saying what's*
+"difficult to say" is my job!<press>
+.........<press>
+<change:00E4>
+<end>
+<sound:0016><blink>She sells seashells*
+by the seashore...<press>
+<face:0034>
+Yes, that IS difficult*
+to say, isn't it...<press>
+<face:00E6>
+<sound:0018><blink><shake:0128>Oh, why did I say that*
+at a time like this?!<press>
+<face:0029>
+<blue>(Anyway, I'd better do*
+something about the*
+park problem... and fast.)<black>
+
+-------------------------------
+
+[m09_0200][2A17]
+
+<face:00E6>
+<shake:0128>Did I make the right decision...?<press>
+I can't believe I let a*
+death-row inmate go free,*
+if only for the night...<press>
+<change:00E4>
+<end>
+Maybe I wasn't cut out*
+to be justice minister...?<press>
+<change:00E6>
+<end>
+<sound:0018><blink><shake:0128>Just what kind of minister*
+I was meant to be?!<press>
+<fchat:0001>
+<blue>(It looks like there's no end*
+to the minister's worrying...)<black>
+
+-------------------------------
+
+[m09_0210][2A18]
+
+<face:00E8>
+<sound:0017><blink><shake:0128>How is it going?!*
+What is the situation?!<press>
+<face:0029>
+It looks like it's all*
+coming to an end.<press>
+<face:00E8>
+<sound:0015><blink><shake:0128>It is?!<press>
+Don't hesitate to ask if*
+there's anything I can do!<press>
+<sound:0017><blink><shake:0128>I'll even look the other way if*
+it comes to minor illegalities!<press>
+<face:0036>
+<shake:0128>Thank you, Mr. Minister.*
+I'll let everybody know.<press>
+<face:002B>
+<blue>(That's quite a blessing,*
+but a little scary, too...)<black><press>
+<face:0029>
+<blue>(Daybreak isn't far off.*
+It'll all be over soon!)<black><press>
+<face:00E8>
+<sound:0017><blink><shake:0128>Off you go, then!*
+Leave this place to me!
+
+-------------------------------
+
