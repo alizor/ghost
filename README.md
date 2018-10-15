@@ -1,5 +1,5 @@
 
-# Instruções
+# Instruções (Python 3.x)
 
 1 - Extraia os arquivos das pastas 'st' e descomprima-os utilizando a ferramenta que desejar (CrystalTile2, dsdecmp...)
 
@@ -19,8 +19,11 @@
 # Créditos
 
 alizor - ferramenta de extração e inserção, tradução
+
 Jr Ninja - tradução
-Barubary - dsdecmp
+
+Barubary - dsdecmp (https://github.com/Barubary/dsdecmp)
+
 
 # Licença
 
