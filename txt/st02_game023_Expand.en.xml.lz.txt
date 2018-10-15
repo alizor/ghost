@@ -1,0 +1,610 @@
+[m02_2120][061D]
+
+<face:000E>
+Sissel...? Você está aí...?<press>
+<fchat:0001>
+<sound:0015><blink><blue>(Lynne está... <red>falando*
+comigo<blue>...?)<black>
+
+-------------------------------
+
+[m02_2130][061E]
+
+<face:000E>
+Se estiver aí, poderia*
+dizer algo?<press>
+Se não estiver...<press>
+<change:0012>
+<end>
+<sound:0016>...Acho que sou só uma garota*
+estranha que fala consigo mesma.<press>
+<fchat:0001>
+<blue>(Bem, você É uma garota*
+estranha, seja falando com*
+você mesma ou não...)<black>
+
+-------------------------------
+
+[m02_2160][061F]
+
+<face:0006>
+<sound:0017><blink><shake:0128>Você tá aqui! Eu sabia!*
+Eu tive esse sensação.<press>
+Tenho pena de você por ter pisado*
+no mundo de uma garota sem convite.<press>
+<change:0016>
+<end>
+<sound:0015><blink>Espera aí...!<press>
+<change:0012>
+<end>
+Não venha com esse olhar de "um*
+fantasma não tem pés".<press>
+É apenas uma figura de linguagem!<press>
+<face:0034>
+Ei, por acaso eu disse algo?<press>
+<face:0010>
+<sound:0018><blink><shake:0128>Aí! Esse tom! É esse tom seu*
+que me deixa louca!<press>
+<face:002B>
+Então... você tem algo especial que*
+gostaria de me dizer?<press>
+<face:000E>
+.........<press>
+Eu só pensei em compartilhar*
+umas informações contigo.<press>
+Estou investigando um caso agora.<press>
+<change:0014>
+<end>
+<sound:0016>Um <red>caso de homicídio<black>. E estou*
+nele sozinha.<press>
+<face:0029>
+Um casso de homício? Sozinha?<press>
+<face:0014>
+Sim, é porque esse caso foi*
+encerrado há muito tempo.<press>
+O "culpado" já está atrás das*
+grades, esquecido pelo mundo.<press>
+<face:0034>
+E então por que você*
+está nele ainda?<press>
+<face:0010>
+<sound:0017><blink><shake:0128>Porque eu acredito que essa*
+pessoa seja inocente, por isso!{1EFF}4<press>
+<change:0014>
+<end>
+Há algo estranho por trás*
+desse caso, algum <red>grande mistério<black>.*
+Creio fortemente nisso.<press>
+Tá, mas enfim, finalmente tive minha*
+memória restaurada. Não estou em*
+liberdade para te contar do caso...<press>
+...mas se houver algo a mais que*
+deseje saber, eu tentarei responder*
+o que puder.<press>
+<face:002B>
+<blue>(Lynne é minha única "<red>pista<blue>."*
+Eu GOSTARIA de perguntar*
+a ela umas coisinhas...)<black>
+
+-------------------------------
+
+[m02_2170][0620]
+
+Sobre quem atirou em mim
+
+-------------------------------
+
+[m02_2180][0621]
+
+Sobre a "informação"
+
+-------------------------------
+
+[m02_2190][0622]
+
+Sobre a garota com um laço
+
+-------------------------------
+
+[m02_2200][0623]
+
+<face:002B>
+Você tem a sua vida E*
+memória de volta...<press>
+Então deixe-me perguntar de novo...<press>
+<change:0029>
+<end>
+<sound:0016><blink>...Quem atirou em mim?<press>
+<face:001C>
+Sim, pensei que isso fosse a*
+primeiro coisa na sua mente...<press>
+<face:0029>
+O que mais poderia ser?<press>
+Há uma boa chance de eu ter sido*
+atingido enquanto estava*
+você, afinal.<press>
+<face:001C>
+Lamento...<press>
+...minha memória não está*
+clara nessa parte.<press>
+<face:0029>
+<sound:0015><blink>Não está clara?<press>
+<face:001C>
+Me econtrei com você esta noite...<press>
+...e então você caiu bem na*
+minha frente. Acho que me lembro*
+de <red>ver<black> essa parte.<press>
+Tenho quase certeza de que atiraram*
+em você. Talvez... de algum*
+lugar mais distante...?<press>
+<face:002B>
+<sound:0015>Então você <red>não viu<black> o culpado?<press>
+<face:001C>
+Sinto muito. Queria te*
+oferecer mais ajuda...<press>
+<change:0014>
+<end>
+<blink>Mas eu sei que não fui*
+eu quem atirou em você.<press>
+<face:0027>
+Mas parece que os seus colegas*
+estão considerando você <red>suspeita<black>.<press>
+<face:0014>
+Eu queria a informação que*
+você tinha pra mim.<press>
+Por que eu atiraria em você*
+mesmo antes de obtê-la?<press>
+<face:002B>
+<sound:0016><blue>("<red>Informação<blue>", hum? Qual tipo de*
+informação eu teria para ela?)<black>
+
+-------------------------------
+
+[m02_2210][0624]
+
+<face:002B>
+Então eu tinha uma*
+"informação" que você queria, isso?<press>
+<face:000E>
+Isso mesmo. Você ligou para*
+a delegacia ontem.<press>
+E pediu para falar comigo.<press>
+<change:0014>
+<end>
+Me disse que tinha <red>uma*
+pista importante<black> no caso*
+que estou investigando.<press>
+<face:002B>
+Pista importante, hum...?<press>
+<face:000E>
+Você disse que queria me encontrar*
+e falar comigo diretamente,*
+hoje, no ferro velho.<press>
+<face:0027>
+E você acreditou?*
+Mesmo duvidoso quanto parecia?<press>
+<face:0006>
+<sound:0015><blink>Sabe, você é a última pessoa*
+que eu desejava ouvir isso.<press>
+<change:0004>
+<end>
+Mas eu não poderia deixar passar,*
+não importando quanto suspeito*
+fosse.<press>
+<change:0014>
+<end>
+<sound:0016><blink>É porque meu tempo está*
+se esgotando.<press>
+<face:0029>
+Ei, é verdade. Você disse que*
+<red>algo <black>estava para acontecer*
+esta noite.<press>
+Esse "algo" tem a ver com*
+o caso que investigas?<press>
+<face:0014>
+.........<press>
+Sinto muito, mas não posso falar.<press>
+<face:002B>
+<blue>(Ah, cara... Mas acho*
+posso compreender...)<black>
+
+-------------------------------
+
+[m02_2220][0625]
+
+<face:002B>
+Mas enfim, eu vi que você tem*
+uma companheira de quarto.<press>
+<face:0016>
+<sound:0015><blink>Kamila? Como sabe dela?<press>
+<face:0027>
+Houve um pequeno... incidente no seu*
+apartamente um tempinho atrás.<press>
+<face:0016>
+Um incidente? Que tipo de incidente?<press>
+<face:0008>
+<sound:0018><blink><shake:0128>O que aconteceu?! Kamila está bem?!<press>
+<face:0034>
+Ela está bem, graças ao seu leal*
+amiguinho, Missile.<press>
+<change:0027>
+<end>
+Embora tenha tido um probleminha*
+em trazê-lo de volta à vida...<press>
+<face:001A>
+<blink><shake:0128>Minha nossa...{1EFF}{7800}<press>
+Mas o que tá acontecendo?*
+Por que alguém machucaria a Kamila*
+e o Missile?<press>
+<face:0029>
+Você está sendo alvo de*
+uma certa organização.<press>
+<face:0008>
+<sound:0015><blink>Quê?!
+
+-------------------------------
+
+[m02_2225][0626]
+
+<face:0044>
+Eu os avistei, as pessoas que te*
+chamavam de "<red>alvo<black>".
+
+-------------------------------
+
+[m02_2230][0627]
+
+<face:0008>
+Então sou uma suspeita e um alvo?*
+Será que algo poderia piorar nesta*
+noite?!<press>
+<face:0027>
+Realmente parece difícil.*
+Tem certeza de que ficará bem*
+por conta própria?<press>
+<face:0016>
+<sound:0015><blink><shake:0128>Hã?<press>
+<face:0034>
+{1CFF}WSabe o que eles dizem...*
+Quando chove, transborda.<press>
+<change:0027>
+<end>
+<sound:0016><blink>Não é hora de admitir que*
+precisa dos meus <red>poderes<black>?<press>
+<face:0008>
+.........<press>
+<change:001C>
+<end>
+Lamento.<press>
+Não posso cooperar contigo.<press>
+<face:0029>
+.........<press>
+<face:001C>
+Sim, você salvou minha vida hoje.<press>
+Estou plenamente grata por isso.<press>
+<change:0014>
+<end>
+Mas como uma detetive, ainda não*
+posso confiar em você.<press>
+<face:0029>
+Que pena...
+
+-------------------------------
+
+[m02_2240][0628]
+
+<face:0029>
+E o que vai fazer agora*
+então?<press>
+<face:0014>
+Correr, eu acho. Eles vão me pegar*
+de novo se não sair daqui.<press>
+E tenho que ir até o restaurante.*
+Estou preocupada com Kamila.<press>
+<face:002B>
+Ah, sim. O que era mesmo...?*
+O "<red>Rango de Frango<black>"*
+na Dead End Drive, certo?
+
+-------------------------------
+
+[m02_2245][0629]
+
+<face:000E>
+E você, Sissel?*
+O que você pretende fazer?<press>
+<face:0029>
+Para falar a verdade, não sei.<press>
+<change:0034>
+<end>
+Você é minha única pista.*
+Se partir...
+
+-------------------------------
+
+[m02_2250][062A]
+
+<face:0014>
+<sound:0016>Acabei de notar... Você e eu*
+estamos no mesmo barco.<press>
+Ambos estamos procurando por*
+respostas esta noite, e nenhum*
+de nós têm alguém para nos ajudar.<press>
+<face:0034>
+Acho que se resume a isso.<press>
+<change:0027>
+<end>
+<sound:0015><blink>Ei, mesmo se não puder <red>cooperar<black>*
+comigo, que tal apenas concordar em*
+<red>cada um usar o outro<black>?
+
+-------------------------------
+
+[m02_2520][062B]
+
+.........
+
+-------------------------------
+
+[m02_2255][062C]
+
+<face:000E>
+Não é uma má ideia...*
+Você tá dentro.<press>
+Mas poderia pedir para*
+me fazer um favor antes?<press>
+<face:0029>
+O que é?<press>
+<face:000E>
+Preciso que se infiltre em um*
+certo lugar pra mim.<press>
+<change:0014>
+<end>
+<sound:0016>Uma <red>prisão<black>, para ser exata.<press>
+<face:0036>
+Prisão...?<press>
+<face:000E>
+Era o lugar que eu estava*
+ligando quando você estava lá em cima.<press>
+<change:0014>
+<end>
+Eu quero que vá descobrir*
+o <red>horário de trabalho<black>*
+de um certo prisioneiro.<press>
+<face:002B>
+<sound:0015><blink>O horário de trabalho?*
+De um prisioneiro?<press>
+<face:0014>
+Sim, são dados trabalhos diferentes*
+para eles todo dia.<press>
+Cada programação de um prisioneiro*
+para o próximo dia fica escrito num*
+pequeno <red>quadro negro<black> em sua cela.<press>
+<face:0029>
+Então eu tenho que verificar o quadro*
+negro de um certo presidiário, hum?*
+Entendi.<press>
+<face:0014>
+O número de prisão dele é <red>D99<black>.<press>
+Se fizer isso por mim,*
+irei cooperar contigo.<press>
+<face:0027>
+Certo. Tô dentro.
+
+-------------------------------
+
+[m02_2260][062D]
+
+<face:0004>
+Olha, aqui tá o número do*
+telefone do <red>Rango de Frango<black>...*
+
+
+-------------------------------
+
+[m02_2270][062E]
+
+<face:0012>
+Tá, te vejo depois!<press>
+<face:0027>
+Até mais.<press>
+Mas não morra de novo*
+se puder evitar.
+
+-------------------------------
+
+[m02_2480][062F]
+
+<fchat:0001>
+<press>
+<press>
+<press>
+<press>
+
+
+-------------------------------
+
+[m02_2530][0630]
+
+<face:00D3>
+O que está fazendo aí que*
+demora tanto?<press>
+Olha, garoto, só quero*
+que faça meu chá.<press>
+<face:00BF>
+<sound:0015><blink>Shh! Por favor, não*
+fale comigo agora.<press>
+Ajustar este fogão é uma*
+tarefa bem delicada.<press>
+<face:00D3>
+<sound:0016>Hããã?<press>
+<face:00BF>
+Se eu girar o botão para esquerda,*
+as chamas diminuem. Se girar para*
+direita, elas aumentam.<press>
+Há um minuto, eu terei*
+elas ajustadas para direita!<press>
+<face:00D3>
+Queria que tivesse um*
+botão na tua cabeça...<press>
+Eu te ajustaria para direita...<press>
+<fchat:0001>
+Ah, cara... Isso vai*
+demorar um pouco.<press>
+Afinal, não posso simplesmente*
+deixar Lynne para trás.<press>
+Ela disse que queria*
+falar comigo.<press>
+<blue>(Melhor eu ir lá e ver*
+o que ela tem pra falar.)<black>
+
+-------------------------------
+
+[m02_2540][0639]
+
+{20FF}5Ao que parece, eu tenho a chave para*
+o caso que Lynne está investigando...<space>
+E ela tem chave para resolver*
+o "meu mistério"...<space>
+Então começamos uma estranha*
+"relação de cooperação".<press>
+{20FF}5Lynne me deu uma missão...<space>
+Verificar o horário*
+de trabalho do prisioneiro D99.<space>
+Melhor ir à prisão.
+
+-------------------------------
+
+[m02_1440][0534]
+
+<fchat:0003>
+Essas fotos são antigas.*
+São feitas de quê? Pequenos*
+fragmentos de rocha?<press>
+E os fragmentos estão*
+brilhando... Você sabe*
+o que eles são?<press>
+<fchat:0001>
+Lamento, eu perdi a memória.*
+Provavelmente não sou a*
+melhor pessoa pra responder...<press>
+<fchat:0003>
+<sound:0015><blink>Está bem. Só estava*
+tentando ser educada. Eu achava*
+mesmo que você não soubesse.<press>
+<fchat:0001>
+<blue>(Ai. A língua dessa*
+garota pode ser afida.)<black><press>
+<fchat:0003>
+Eh... posso ouvir o que*
+está pensando, lembra?<press>
+<fchat:0001>
+<sound:0016>Eu sei.<press>
+<fchat:0003>
+Bonzão.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+O que isso poderia ser? Parece*
+um cortador de unhas gigante.<press>
+<fchat:0003>
+Você acha?<press>
+<fchat:0001>
+VOCÊ sabe o que é isso?<press>
+<fchat:0003>
+#suspiro#<press>
+<sound:0016>Por que você tem de me*
+perguntar?! Não viu que eu*
+estava olhando pro outro lado?!<press>
+<fchat:0001>
+Hã?<press>
+<fchat:0003>
+Isso... deve ser... uma dessas*
+coisas de ficção científica que*
+*
+os cientistas usam.<press>
+<sound:0018><blink><shake:0128>Pessoas comuns como a gente*
+não precisam saber o que é!<press>
+<fchat:0001>
+<blue>(Eu não lembro exatamente*
+do que é "ciência"...)<black><press>
+<blue>(...mas aparentemente é*
+algo que Lynne não deve*
+gostar muito.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+Essas imagens parecem*
+ser bastante velhas.<press>
+Imagens de pequenos*
+fragmentos de rocha...<press>
+Aquele homem pombo tem um*
+gosto bem estranho no que*
+se trata de decoração.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+Não tenho ideia para que*
+serve este instrumento.<press>
+Na realidade, esse balcão*
+todo está cheio de coisas*
+que eu nunca vi.<press>
+Eu sei que perdi minha*
+memória, mas mesmo assim...<press>
+Aquele homem pombo parece*
+ser um cara bem estranho.
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(Mas afinal o que é*
+essa coisa?)<black><press>
+<blue>(Pra mim parece um cortador*
+de unhas gigante...)<black><press>
+<fchat:000C>
+<sound:0016>Não, certamente não*
+parece.<press>
+É um instrumento usado na*
+análise de radiação-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>Aaaaah tá. Sim, entendi...<press>
+<fchat:000B>
+<sound:0015><blink>Você não está só, garoto.<press>
+Nenhum do resto de nós*
+entende isso também, cara!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Isso! Falou e disse!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Imagens antigas... que parecem*
+com pequenos fragmentos*
+de rocha.<press>
+<fchat:000C>
+São fragmentos de Temsik.<press>
+Esse é um artigo de quando*
+eles eram grande novidade.<press>
+<fchat:000B>
+Dez anos atrás, ninguém havia*
+entendido eles por completo.<press>
+<fchat:000C>
+Acho que até hoje*
+isso ainda é verdade.
+
+-------------------------------
+

@@ -1,0 +1,219 @@
+[rollback_00][0000]
+
+Acho melhor rebobinar o tempo*
+novamente e ver se consigo coletar*
+mais outras pistas.<show>
+
+-------------------------------
+
+[phonebook_00][0001]
+
+<face:002B>
+Não parece que esta*
+linha esteja funcionadno.<press>
+<blue>(Acho que não posso ir lá agora.)<black>
+
+-------------------------------
+
+[sys_error_msg][0002]
+
+<fchat:0001>
+Será que eu conseguirei*
+entender tudo antes do*
+amanhecer...?<press>
+<blue>(Quão perto eu estou?)<black>
+
+-------------------------------
+
+[sys_add_data][0003]
+
+<face:010D>
+<sound:000D><green><center><MENU> Uma nova informação foi adicionada.{0CFF}y<black>
+
+-------------------------------
+
+[sys_update_db][0004]
+
+<face:010D>
+<sound:000D><green><center><MENU> Uma nova informação foi adicionada.{0CFF}y<black>
+
+-------------------------------
+
+[sys_add_place][0005]
+
+<face:010D>
+<sound:000D><green><center><MENU> Uma nova informação foi adicionada.{0CFF}y<black>
+
+-------------------------------
+
+[sys_add_person][0006]
+
+<face:010D>
+<sound:000D><green><center><MENU> Uma nova informação foi adicionada.{0CFF}y<black>
+
+-------------------------------
+
+[sys_update_place][0007]
+
+<face:010D>
+<sound:000D><green><center><MENU> Uma nova informação foi adicionada.{0CFF}y<black>
+
+-------------------------------
+
+[sys_update_person][0008]
+
+<face:010D>
+<sound:000D><green><center><MENU> Uma nova informação foi adicionada.{0CFF}y<black>
+
+-------------------------------
+
+[phone_00_00][0009]
+
+(???)-????
+
+-------------------------------
+
+[phone_01_00][000A]
+
+(MHR)-8513
+
+-------------------------------
+
+[phone_02_00][000B]
+
+(MHR)-4568
+
+-------------------------------
+
+[phone_02_01][000C]
+
+(MHR)-4481
+
+-------------------------------
+
+[phone_03_00][000D]
+
+(KMR)-2675
+
+-------------------------------
+
+[phone_03_07][000E]
+
+(KMR)-3243
+
+-------------------------------
+
+[phone_04_00][000F]
+
+(MKG)-6799
+
+-------------------------------
+
+[phone_04_01][0010]
+
+(MKG)-1043
+
+-------------------------------
+
+[phone_05_00][0011]
+
+(YMT)-2948
+
+-------------------------------
+
+[phone_06_00][0012]
+
+(YMT)-2636
+
+-------------------------------
+
+[phone_07_00][0013]
+
+(YMT)-2369
+
+-------------------------------
+
+[phone_09_00][0014]
+
+(KCG)-3951
+
+-------------------------------
+
+[phone_11_00][0015]
+
+(KCG)-1105
+
+-------------------------------
+
+[phone_13_00][0016]
+
+(BSP)-1536
+
+-------------------------------
+
+[phone_14_00][0017]
+
+(SYS)-1729
+
+-------------------------------
+
+[phone_14_01][0018]
+
+(SYS)-1459
+
+-------------------------------
+
+[backup_read_error][0019]
+
+*
+*
+<center>Não foi possível ler os dados.*
+<center>Por favor, desligue o DS*
+<center>e reinsira o Cartucho do Jogo.
+
+-------------------------------
+
+[backup_write_error][001A]
+
+*
+*
+<center>Não foi possível salvar os dados.*
+<center>Por favor, desligue o DS*
+<center>e reinsira o Cartucho do Jogo.
+
+-------------------------------
+
+[backup_broken][001B]
+
+*
+*
+*
+<center>Os dados salvos estavam*
+<center>corrumpidos e foram apagados.
+
+-------------------------------
+
+[backup_update][001C]
+
+*
+*
+<center>Os dados salvos foram atualizados.*
+<center>Dados anteriores não poderão*
+<center>mais serem usados.
+
+-------------------------------
+
+[sys_dead_connect_00][001D]
+
+<center>Assim que uma pessoa morre,*
+<center>um núcleo emerge de dentro dela.*
+<center>Tentar falar com ele?
+
+-------------------------------
+
+[sys_dead_connect_01][001E]
+
+<center>Falar com o Missile?
+
+-------------------------------
+

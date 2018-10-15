@@ -1,0 +1,477 @@
+[m01_0000][0100]
+
+{0CFF}{BE00}{20FF}P<center>Devia estar inconsciente*
+<center>por um tempo...<space>
+{0CFF}é<center>Minha cabeça está girando, como se eu*
+{0CFF}é<center>estivesse nadando na escuridão...{15FF}Q
+
+-------------------------------
+
+[m01_0010][0101]
+
+{20FF}P<center>Ao recuperar os sentidos, havia uma*
+<center>mulher ali. Uma que não conheço.<space>
+<center>Pelo menos... não que me lembre.{15FF}Ó
+
+-------------------------------
+
+[m01_0020][0102]
+
+{20FF}P<center>E também um homem com uma arma.<space>
+<center>Que não conheço também...*
+<center>Bem, provavelmente não, mas enfim...{15FF}{6600}
+
+-------------------------------
+
+[m01_0030][0103]
+
+{20FF}F<center>Eu não sou o tipo de cara*
+<center>que fica sem fazer nada enquanto vê*
+<center>uma arma apontada para uma mulher...<space>
+<center>Porém, tenho um probleminha...{15FF}{9E00}
+
+-------------------------------
+
+[m01_0040][0104]
+
+{22FF}3{20FF}Z<center>Eu estou morto!{15FF}{8C00}
+
+-------------------------------
+
+[m01_0041][0105]
+
+{20FF}P<center>Este tem de ser eu.*
+<center>Não há dúvidas.<space>
+<center>Afinal, você vê outros*
+<center>cadáveres por aqui?{15FF}{C300}
+
+-------------------------------
+
+[m01_0050][0106]
+
+Adeus, gracinha.
+
+-------------------------------
+
+[m01_0060][0107]
+
+{22FF}2{20FF}F<center>Me sinto mal por ela, de verdade.*
+<center>Mas o que posso fazer?<space>
+<center>Estou morto.<space>
+<center>Mas assim que pensava nisso...{15FF}{A500}
+
+-------------------------------
+
+[m01_0070][0108]
+
+{22FF}3{20FF}Í<center>Não é hora de ficar*
+<center>resmungando por estar morto!{15FF}{A000}
+
+-------------------------------
+
+[m01_0071][0109]
+
+{22FF}1{20FF}Í<center>Você é o único que pode salvá-la!{15FF}{7800}
+
+-------------------------------
+
+[m01_0090][010A]
+
+<face:002D>
+M-mas como...?!*
+<blue>(O lugar inteiro*
+mudou de repente!)<black><press>
+<fchat:0006>
+<NJ:003C>
+Bem vindo ao Mundo*
+Fantasma, a terra dos*
+mortos.<press>
+<face:002D>
+<blue>(Uma voz na minha mente?!)<black>*
+Quem é você?!<press>
+<fchat:0006>
+<NJ:003C>
+Não é hora para introduções.*
+Você tem que salvá-la!<press>
+<NJ:003C>
+Sei que é capaz!*
+Tudo que tem de fazer é*
+usar seus poderes.<press>
+<face:0029>
+Hã?*
+<blue>(Eu? Salvá-la? Como?)<black><press>
+<fchat:0006>
+<NJ:003C>
+Veja o seu cadáver.
+
+-------------------------------
+
+[m01_0099][010B]
+
+<fchat:0006>
+<NJ:003C>
+Vê essa chama azul?*
+Ela é a sua <red>alma<black>.
+
+-------------------------------
+
+[m01_0100][010C]
+
+<fchat:0006>
+<NJ:003C>
+E vê também aquele*
+ponto branco e brilhante ali*
+perto? Aquilo é um <red>núcleo<black>.
+
+-------------------------------
+
+[m01_0110][010D]
+
+<face:002B>
+Um núcleo...?*
+<blue>(Hum. Para mim parece somente*
+uma cancela.)<black><press>
+<fchat:0006>
+<NJ:003C>
+Olha, o melhor jeito de*
+entender isso é tentando.<press>
+<NJ:003C>
+{04FF}0Primeiro de tudo, tente*
+tocar a sua alma.<show>{15FF}0{04FF}0Agora, <red>com o seu dedo*
+ainda nela<black>, arraste-a*
+e a conecte ao núcleo.<show><wait>
+
+-------------------------------
+
+[m01_0130][010E]
+
+<fchat:0006>
+<NJ:003C>
+Parabéns!<press>
+<NJ:003C>
+A sua alma agora possuiu*
+a cancela.<press>
+<face:0036>
+E daí?*
+Agora sou uma cancela...?<press>
+<fchat:0006>
+<NJ:003C>
+#Ahã#... Enfim.*
+Use a cancela*
+para salvar a mulher!<press>
+<face:0029>
+<sound:0015><blink>Quê? Mas como?<press>
+<fchat:0006>
+<NJ:003C>
+Em breve, o tempo irá*
+voltar a fluir novamente.*
+Esta será a sua chance.<press>
+<NJ:003C>
+Escute, quando o homem*
+apertar o gatilho, a mulher*
+morrerá, correto?<press>
+<NJ:003C>
+Portanto, antes disso ocorrer*
+você terá que usar os seus*
+poderes para impedí-lo!<press>
+<face:0036>
+<blink><shake:0128>Ei, ei! Espera um segundo!*
+Eu ainda não sei do que*
+você tá falando!<press>
+<fchat:0006>
+<NJ:003C>
+Heh heh.<press>
+<NJ:003C>
+Você verá. Você verá.<press>
+<NJ:003C>
+Enfim. O tempo irá*
+voltar a fluir de novo...
+
+-------------------------------
+
+[m01_0150][010F]
+
+<fchat:0006>
+Agora é sua chance!*
+Toque no botão <TRICK>!<show><wait>
+
+-------------------------------
+
+[m01_0160][0110]
+
+<center>Ugh!
+
+-------------------------------
+
+[m01_0170][0111]
+
+<center>Parada aí!
+
+-------------------------------
+
+[m01_0180][0112]
+
+<fchat:0006>
+<NJ:003C>
+Muito bem.<press>
+<face:0036>
+Eh, o que acabou de acontecer?<press>
+<fchat:0006>
+<NJ:003C>
+Esse foi um de seus*
+<red>poderes <black>funcionando,*
+um "<red>truque fantasma<black>".<press>
+<face:002B>
+Quer dizer que eu fiz aquela*
+cancela se mexer?<press>
+<fchat:0006>
+<NJ:003C>
+Correto. Você <red>manipulou*
+<black>o objeto com um <red>poder do*
+morto<black>, um <red>truque fantasma<black>.<press>
+<NJ:003C>
+E tudo o que tem de fazer*
+para realizar um truque desses*
+é tocar no botão <TRICK>.<press>
+<NJ:003C>
+Agora o destino da mulher*
+foi mudado!*
+Mesmo que por pouco...<press>
+<face:0034>
+Sim. A arma ainda está apontada*
+para ela...<press>
+<fchat:0006>
+<NJ:003C>
+Correto. Hum... Isso não*
+é nada bom, é?<press>
+<NJ:003C>
+Mas pelo menos você está*
+começando a entender <red>como*
+usar<black> os seus poderes.<press>
+<face:002B>
+Eu entro no Mundo Fantasma pelo*
+"<red>Fantasma<black>", possuo um objeto e*
+realizo um "<red>Truque<black>" com ele, isso?
+
+-------------------------------
+
+[m01_0190][0113]
+
+<fchat:0006>
+<NJ:003C>
+Está pegando o jeito.*
+Vamos adiante, ao*
+próximo passo.<press>
+<NJ:003C>
+Tente possuir um núcleo*
+diferente.<show><wait>
+
+-------------------------------
+
+[m01_0191][0114]
+
+<fchat:0006>
+<NJ:003C>
+Entendi... um violão, hum?*
+#Ahã#.<press>
+<face:0034>
+Ei, queria o quê de mim?<press>
+Eu preferia aquela gigantesca*
+bola de demolição, aposto que*
+resolveria o problema rapidamente!<press>
+<change:002B>
+<end>
+Mas parece que não posso alcançar*
+núcleos que estão mais distantes.<press>
+<fchat:0006>
+<NJ:003C>
+Bem, vejamos o que podemos*
+fazer com esse violão.<press>
+<NJ:003C>
+Vamos pôr o tempo em fluxo*
+novamente e ver no que dá.
+
+-------------------------------
+
+[m01_0200][0115]
+
+Bem, mais uma vez.
+
+-------------------------------
+
+[m01_0210][0116]
+
+Adeus, gracinha.
+
+-------------------------------
+
+[m01_0220][0117]
+
+<fchat:0006>
+Certo, agora toque no*
+botão <TRICK>!<show><wait>
+
+-------------------------------
+
+[m01_0230][0118]
+
+<center>Quem está aí?!
+
+-------------------------------
+
+[m01_0240][0119]
+
+<face:0034>
+Ah, esta deve ser uma das*
+"fugas" mais lentas que*
+já vi na vida...<press>
+<change:002B>
+<end>
+Hum. Parece que terei de*
+tentar algo mais.
+
+-------------------------------
+
+[m01_0241][011A]
+
+<face:0029>
+Vejamos, qual núcleo está próximo*
+o bastante para eu possuir daqui?<press>
+<change:0027>
+<end>
+<sound:0016>Parece que tudo que temos aqui...*
+sou <red>eu<black>.<press>
+Não é hora para ser exigente.*
+Tenho uma mulher para salvar!<press>
+<fchat:0006>
+<NJ:003C>
+Gostei de sua atitude.*
+Realmente é admirável, mas...<press>
+<face:0029>
+<sound:0015><blink>Mas o quê?<press>
+Se eu posso manipular objetos...<press>
+<change:0027>
+<end>
+...então sou capaz de manipular*
+meu próprio cadáver, certo?<press>
+<fchat:0006>
+<NJ:003C>
+Bem... vou te falar algo.*
+Por que você mesmo não*
+tenta e vê?<press>
+<NJ:003C>
+Vá em frente e <red>possua*
+<black>o seu cadáver.<show><wait>
+
+-------------------------------
+
+[m01_0250][011B]
+
+<fchat:0006>
+<NJ:003C>
+Muito bem. Agora vamos pôr*
+o tempo em fluxo.
+
+-------------------------------
+
+[m01_0251][011C]
+
+<fchat:0006>
+<NJ:003C>
+Certo, agora toque no*
+botão <TRICK>.<show><wait>
+
+-------------------------------
+
+[m01_0260][011D]
+
+<face:0036>
+<sound:0015><blink>Hã? Nada aconteceu.<press>
+<fchat:0006>
+<NJ:003C>
+Exatamente. Triste, porém*
+verdade. Infelizmente...<press>
+<NJ:003C>
+Você pode apenas manipular*
+coisas <red>sem vida<black>.<press>
+<sound:0016>Cadáveres, mesmo não tendo*
+mais vida, não são "coisas*
+comuns".{0CFF}á{1CFF}A<press>
+<face:002F>
+<sound:0015><blink>Você tá de brincadeira!<press>
+<change:003A>
+<end>
+<sound:0018><shake:0128>Espera, e a mulher?!*
+O que vai acontecer com ela?!<press>
+<fchat:0006>
+<NJ:003C>
+Vamos olhar, não?<press>
+<NJ:003C>
+Se você quiser dar uma olhada*
+ao redor, pode deslizar*
+a tela.<press>
+<face:002B>
+Deslizar a tela?<press>
+<fchat:0006>
+<NJ:003C>
+Isso é fácil.*
+Vamos, é só tentar.
+
+-------------------------------
+
+[m01_0262][011F]
+
+<fchat:0006>
+<NJ:003C>
+<red>Toque<black> a tela e a <red>deslize<black> em*
+qualquer direção que desejar.<show><wait>
+
+-------------------------------
+
+[m01_0264][0120]
+
+<fchat:0006>
+<NJ:003C>
+Gostou?<press>
+<NJ:003C>
+Sempre que quiser ver o que*
+está acontecendo em outro*
+lugar, basta <red>deslizar <black>a tela.<press>
+<face:0027>
+Certo. Entendi.<press>
+<change:002B>
+<end>
+<blue>(Agora eu quero ver o que vai*
+acontecer com com aquela mulher!)<black><press>
+<fchat:0006>
+<NJ:003C>
+Claro. Bem, você sabe*
+o que fazer então!<press>
+<NJ:003C>
+Deslize a tela e veja*
+se consegue achá-la.<show><wait>
+
+-------------------------------
+
+[m01_0279][0121]
+
+<face:0001>
+Olha, gracinha. A tua hora chegou.<press>
+Duas coisas estão ficando*
+bem escuras agora...
+
+-------------------------------
+
+[m01_0280][0122]
+
+<center>Minha vista...*
+<center>e o seu futuro!
+
+-------------------------------
+
+[m01_0281][0123]
+
+Sai da frente!
+
+-------------------------------
+

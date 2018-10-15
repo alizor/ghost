@@ -1,0 +1,283 @@
+[m03_3000][0D00]
+
+<face:0101>
+Aqui é a central.*
+Como está a situação aí?<press>
+<face:00EA>
+<sound:0015><blink><shake:0128>Ah, Chefe! É você!<press>
+Eles estão fazendo os preparativos agora.*
+Sem problemas, senhor!<press>
+<face:0101>
+Quanto tempo ainda?<press>
+<face:00EA>
+Uma hora, senhor.<press>
+<face:0101>
+Entendi. Prossigam, então.<press>
+<sound:0015><blink>Ah, mais uma coisa.<press>
+O Inspetor Cabanela*
+quer falar com vocês.
+
+-------------------------------
+
+[m03_3010][0D01]
+
+<face:008D>
+<sound:0016>{1CFF}{1100}Boa. Cabanela aqui.*
+Como vão, rapazes?<press>
+<face:00EA>
+<sound:0017><blink><shake:0128>Inpector Cabanela!*
+Bem, senhor!<press>
+<face:008A>
+Recebeste outra chamada esta noite,*
+não? Da minha garota?
+
+-------------------------------
+
+[m03_3020][0D02]
+
+<face:00EA>
+<shake:0128>Da Lynne...? Ah, bem, sim...<press>
+<face:008A>
+E ela disse algo...*
+interessaaaaante?<press>
+<face:00EA>
+<shake:0128>Oh, nada especial. Ela desligou quase*
+imediatamente.<press>
+<face:008A>
+Veeeeejo...<press>
+Na próxima vez que ela der um toque,*
+tenha certeza de me certificaaaaar*
+prontamente. Que bom rapaaaaaz.<press>
+<face:00EA>
+Sim, senhor.<press>
+<face:008D>
+<sound:0015><blink>Tente esconder e eu te garanto*
+que você irá se arrepender muito.*
+Muitissímooooo.<press>
+<face:00EA>
+<sound:0017><blink><shake:0128>Sim, senhor! Lhe chamarei logo em seguida!*
+Imediatamente, senhor!<press>
+<face:008A>
+<sound:0016>Não esqueça. Afinal ela é uma*
+<red>fugitiva<black>...<press>
+<face:00EA>
+Sim, senhor.<press>
+<face:008A>
+Neste caso, prossigam. Talvez eu dê*
+um pulinho aí mais tarde.<press>
+<face:00EA>
+<sound:0017><blink><shake:0128>Sim, senhor! Espero vê-lo em*
+breve, senhor!
+
+-------------------------------
+
+[m03_3030][0D03]
+
+<face:00EA>
+O inspetor Cabanela parece estar*
+procurando por ela também...<press>
+<sound:0016>...A sua Lynne, quero dizer.<press>
+<face:00EE>
+O inspetor Cabanela? O que a Unidade*
+de Investigações Especiais quer com ela?<press>
+<face:00EA>
+Eu não sei. Acho que aconteceu algo*
+que não sabemos.<press>
+<face:00EE>
+Logo esta noite.
+
+-------------------------------
+
+[m03_3040][0D04]
+
+<face:00EA>
+O inspetor Cabanela deve estar*
+chateado hoje também.<press>
+<sound:0015><blink>Ele o prisioneiro D99 --*
+Detetive Jowd -- não eram <red>bons amigos<black>?<press>
+<face:00EE>
+Tem certeza? Se eram bons amigos...<press>
+...como então o inspetor Cabanela*
+nunca veio o visitar?<press>
+<face:00EA>
+Ele é o diretor da Unidade de*
+Investigações Especiais.*
+É um homem bastante ocupado.
+
+-------------------------------
+
+[m03_3050][0D05]
+
+<face:00EA>
+<sound:0015><blink><shake:0128>O-o que foi?<press>
+<face:00EE>
+Jowd era meu herói, sabia?*
+Eu quis ser um detetive por causa*
+dele.<press>
+<sound:0018><blink><shake:0128>Mas olha pra mim!<press>
+Aprodecendo num lugar desse!*
+E não posso fazer nada para ajudar*
+a Lynne...<press>
+<sound:0018><blink><shake:0128>O que estou fazendo com a minha vida?!<press>
+<face:00EA>
+.........<press>
+<sound:0016>E-esse seu novo lado é meio*
+que... meigo...<press>
+<face:00EE>
+.........<press>
+<face:00EA>
+Mas enfim, a coisa a se fazer é*
+trabalhar para com consertar o*
+que puder, pouco a pouco.<press>
+Como, por exemplo, o seu castelo*
+de cartas. Ele desabou, sabia?<press>
+<face:00EE>
+<shake:0128>#murmúrio#
+
+-------------------------------
+
+[m03_3060][0D06]
+
+<fchat:0001>
+Lynne deve estar indo para o*
+Rango de Frango agora.<press>
+Mas a ligação da central*
+de polícia me intriga também.<press>
+<blue>(Está parecendo bem óbvio*
+agora. Aquele inspetor de terno*
+branco suspeita de Lynne.)<black><press>
+<blue>(E ela está sendo considerada*
+uma <red>fugitiva<blue>...*
+Isso não é bom...)<black><press>
+Acho que seria uma boa ideia*
+eu ir checar lá onde o inspetor*
+de branco o chefe estão.
+
+-------------------------------
+
+[m03_3120][0D07]
+
+Aaaaargh!
+
+-------------------------------
+
+[m03_3070][0D08]
+
+.........
+
+-------------------------------
+
+[m03_3080][0D09]
+
+<face:00EA>
+<sound:0017><blink><shake:0128>O que achou do meu*
+<red>comportamento peculiar<black>?! Surpreso?
+
+-------------------------------
+
+[m03_3090][0D0A]
+
+<face:00EA>
+Você parecia tão entediado que*
+eu achava que ia te acordar.<press>
+<sound:0018><blink><shake:0128>Pode chamar o movimento do <red>meu "Te peguei!"*
+<black>! O que acha?
+
+-------------------------------
+
+[m03_3100][0D0B]
+
+<face:00EA>
+Ei, espera aí...<press>
+<sound:0016>{28FF}0UVocê está... morto...?<press>
+<face:00EE>
+<sound:0015><blink>Morto? Claro que não.<press>
+<face:00EA>
+<sound:0018><blink><shake:0128>Ah, obrigado céus!{28FF}{0001}{1E00}<press>
+Pensei que eu te surpreenderia,*
+mas foi você quem me surpreendeu!<press>
+<sound:0017><blink><shake:0128>Você é bom. Ah, como é bom...
+
+-------------------------------
+
+[m03_3110][0D0C]
+
+Você é bom.
+
+-------------------------------
+
+[m03_9000][1900]
+
+Extensão interna
+
+-------------------------------
+
+[m03_9010][1901]
+
+Linha externa
+
+-------------------------------
+
+[m03_9030][1903]
+
+Celas superiores
+
+-------------------------------
+
+[m03_9040][1904]
+
+Celas inferiores
+
+-------------------------------
+
+[m03_9050][1905]
+
+Detenção Especial
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuário
+
+-------------------------------
+
+[m03_9070][1908]
+
+<face:0044>
+A tela mostra linhas*
+de pequenas salas.<press>
+As salas são bem, bem pequenas.*
+E você pode ver bem o*
+interior delas por fora.<press>
+Acho que as barras abertas mantém*
+a sala arejadas, mas eu não gostaria*
+de viver lá, sinceramente...<press>
+Onde será que essas salinhas*
+estão?
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+Não adianta. Não consigo usar*
+as linhas telefônicas agora.<press>
+<fchat:0009>
+"Agora"...?<press>
+<fchat:0001>
+Só posso me mover por*
+elas no passado quando estão*
+<red>em uso<black>.<press>
+Infelizmente, isso também se*
+aplica às extensões internas*
+também.<press>
+<fchat:0009>
+Entendo... Parece que a vida*
+é dura para todos. Inclusive*
+você.<press>
+<fchat:0001>
+E você também.
+
+-------------------------------
+

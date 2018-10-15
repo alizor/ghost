@@ -1,0 +1,291 @@
+[m02_1440][0534]
+
+<fchat:0003>
+Essas fotos são antigas.*
+São feitas de quê? Pequenos*
+fragmentos de rocha?<press>
+E os fragmentos estão*
+brilhando... Você sabe*
+o que eles são?<press>
+<fchat:0001>
+Lamento, eu perdi a memória.*
+Provavelmente não sou a*
+melhor pessoa pra responder...<press>
+<fchat:0003>
+<sound:0015><blink>Está bem. Só estava*
+tentando ser educada. Eu achava*
+mesmo que você não soubesse.<press>
+<fchat:0001>
+<blue>(Ai. A língua dessa*
+garota pode ser afida.)<black><press>
+<fchat:0003>
+Eh, posso ouvir o que*
+está pensando, se lembra?<press>
+<fchat:0001>
+<sound:0016>Eu sei.<press>
+<fchat:0003>
+Bonzão.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+O que poderia ser? Parece com*
+um cortador de unhas gigante.<press>
+<fchat:0003>
+Você acha?<press>
+<fchat:0001>
+VOCÊ sabe o que é isso?<press>
+<fchat:0003>
+#suspiro#<press>
+<sound:0016>Por que você tem de me*
+perguntar?! Não viu que eu*
+estava olhando pro outro lado?!<press>
+<fchat:0001>
+Hã?<press>
+<fchat:0003>
+Isso é... uma dessas science-y*
+things que os cientistas usam.<press>
+<sound:0018><blink><shake:0128>Pessoas comuns como a gente*
+não precisam saber o que é!<press>
+<fchat:0001>
+<blue>(Eu não lembro do*
+que é "ciência"...)<black><press>
+<blue>(...mas aparentemente é*
+algo que Lynne não deve*
+gostar muito.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+Essas imagens parecem*
+ser bastante velhas.<press>
+Imagens de pequenos*
+fragmentos de rocha...<press>
+Aquele homem pombo tem um*
+gosto bem estranho no que*
+se trata de decoração.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+Não tenho ideia para que*
+serve este instrumento.<press>
+Na realidade, esse balcão*
+todo está cheio de coisas*
+que eu nunca vi.<press>
+Eu sei que perdi minha*
+memória, mas mesmo assim...<press>
+Aquele homem pombo parece*
+ser um cara bem estranho.
+
+-------------------------------
+
+[m02_2000][0600]
+
+<face:00BE>
+<sound:0018><blink><shake:0128>Lynne! Lyyyyynne!<press>
+Ah, por que não poderia ter*
+sido eu em vez dela?!<press>
+<sound:0018><blink><shake:0128>Não sou útil como um policial!*
+Era pra ter sido eu!
+
+-------------------------------
+
+[m02_2005][0601]
+
+<face:00D2>
+Parece que ela está morta.*
+Melhor não tocarmos nela.<press>
+<face:00BE>
+<sound:0018><blink><shake:0128>Quem fez isso?!*
+Quem atirou na Lynne?!
+
+-------------------------------
+
+[m02_2010][0602]
+
+<face:00BE>
+<sound:0015><blink>Ei... Com licença, senhor.
+
+-------------------------------
+
+[m02_2011][0603]
+
+<face:00D2>
+Falando comigo?
+
+-------------------------------
+
+[m02_2012][0604]
+
+<face:00BE>
+Nesta sala... não há*
+mais outra saída fora essa daqui?<press>
+<face:00D2>
+Você vê outra?
+
+-------------------------------
+
+[m02_2015][0605]
+
+<face:00BE>
+Hã...? Então como...?<press>
+<sound:0017><blink><shake:0128>Acho que temos um desses*
+<red>misteriosos casos de assassinato*
+de "sala fechada"<black> em nossas mãos!<press>
+<sound:0018><blink><shake:0128>Um desses casos em*
+que o assassino some pelo ar num vácuo!<press>
+<face:00D2>
+Apenas vá chamar um detetive de*
+verdade.<press>
+Ficarei aqui observando.
+
+-------------------------------
+
+[m02_2018][0606]
+
+Sim, senhor!
+
+-------------------------------
+
+[m02_2020][0607]
+
+<face:00D2>
+#suspiro# Que terrível*
+sequência de eventos...
+
+-------------------------------
+
+[m02_2030][0608]
+
+Agora então um assassinato numa*
+"sala fechada", hum? As coisas nunca*
+ficam tediosas pra nossa ruivinha...<space>
+Já sei de um certo inspetor que*
+vai dançar ao saber*
+do mistério.<press>
+Mas não é um para mim.<space>
+Não quando posso rebobinar o*
+tempo e falar com a própria vítima.<space>
+Acho que tá na hora de voltar*
+e ver a verdade por trás deste*
+assassinato com meus próprios olhos.
+
+-------------------------------
+
+[m02_2040][0609]
+
+<face:00D2>
+Por que ele está demorando tanto?<press>
+Acho que só o simples fato de*
+chamar um detetive já é muita*
+coisa para os jovens de hoje.<press>
+Bem... não estou apressado. Vou*
+apenas não pensar nisso e aguardar.<press>
+<fchat:0001>
+<blue>(Bom, já eu ESTOU com pressa.*
+Melhor ir andando...)<black>
+
+-------------------------------
+
+[m02_2050][060A]
+
+<face:0006>
+<sound:0015><blink>Ha ha! Eu morri de novo!<press>
+<face:002F>
+.........<press>
+<change:0029>
+<end>
+Pensei que estivesse mais séria,*
+devido às circunstâncias.<press>
+<face:000E>
+Sim. Bom, essa é a terceira vez*
+afinal... Assustador ver com o que uma*
+garota pode se acostumar, não acha?<press>
+<face:002B>
+<blue>(Francamente, o jeito*
+dela pensa já é todo*
+assustador pra mim...)<black><press>
+<change:0029>
+<end>
+Então o que houve dessa*
+vez? Quem atirou em você?<press>
+<face:000E>
+<sound:0016>Eu não sei.<press>
+<face:0029>
+<blink>Como é?<press>
+<face:000E>
+Eu também gostaria de saber.*
+Quem poderia ter feito isso...?<press>
+<change:0010>
+<end>
+<sound:0018><blink><shake:0128>{2EFF}À{17FF}Quem atirou em mim?!{17FF}<press>
+<face:003A>
+<sound:0018><blink><shake:0128>Está querendo o quê de mim?!<press>
+<change:002B>
+<end>
+<blue>(Ah, deixa pra lá... acho que eu mesmo*
+terei de descobrir.)<black><press>
+<face:0004>
+<blink>Certo, você só precisa*
+fazer isso. Vamos juntos nessa!<press>
+<face:0029>
+<blue>(Tive a nítida impressão*
+de que estou sendo usado aqui...)<black><press>
+<change:0027>
+<end>
+Certo. Acho que está na hora*
+de... voltarmos para quatro minutos*
+antes da tua morte!
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(Mas afinal o que é*
+essa coisa?)<black><press>
+<blue>(Pra mim parece um cortador*
+de unhas gigante...)<black><press>
+<fchat:000C>
+<sound:0016>Não, certamente não*
+parece.<press>
+É um instrumento usado na*
+análise de radiação-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>Aaaaah tá. Sim, entendi...<press>
+<fchat:000B>
+<sound:0015><blink>Você não está só, garoto.<press>
+Nenhum do resto de nós*
+entende isso também, cara!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Isso! Falou e disse!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Imagens antigas... que parecem*
+com pequenos fragmentos*
+de rocha.<press>
+<fchat:000C>
+São fragmentos de Temsik.<press>
+Esse é um artigo de quando*
+eles eram grande novidade.<press>
+<fchat:000B>
+Dez anos atrás, ninguém havia*
+entendido eles por completo.<press>
+<fchat:000C>
+Acho que até hoje*
+isso ainda é verdade.
+
+-------------------------------
+

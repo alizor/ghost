@@ -1,0 +1,1001 @@
+[rimocom_mes][2500]
+
+Ebaaaa! Encontrei*
+o controle remoto!
+
+-------------------------------
+
+[cicel_08][2501]
+
+<fchat:0001>
+Bem, não podemos mudar*
+o destino dessa garotinha*
+apenas "ficando parados"...<press>
+...aqui assistindo.<press>
+O invasor de preto irá*
+entrar nessa sala em apenas*
+quatro minutos.<press>
+E meus <red>truques fantasmas<black>*
+só podem me levar a uma*
+certa distância.<press>
+Se eu quiser salvar a*
+mocinha eu terei que contar*
+com a <red>cooperação<black> dela.<press>
+E o primeiro passo é possuir*
+algo que possa me levar*
+ao meu objetivo.
+
+-------------------------------
+
+[tel_nouse_mes][2502]
+
+<fchat:0001>
+<sound:0016>Engraçado...<press>
+<fchat:0002>
+O que foi?<press>
+<fchat:0001>
+Esse telefone <red>não parece*
+estar funcionando<black> agora.<press>
+<blue>(Normalmente, o telefone*
+brilha em vermelho, mas*
+está preto agora.)<black><press>
+Hum...<press>
+Parece que eu <red>não posso*
+usar a linha telefônica<black>*
+no mundo "quatro minutos...<press>
+...antes da morte de alguém".
+
+-------------------------------
+
+[cicel_01][2503]
+
+<fchat:0002>
+<sound:0033><blink><shake:021E>Opa, quase!<press>
+Você quase derrubou*
+essa <red>coisa vermelha<black>!<press>
+<fchat:0001>
+<blue>(Ei, Eu acho que*
+estou no caminho certo...)<black><press>
+<blue>(Se nós os derrubarmos*
+no aquário dos peixes, Kamila*
+não poderá usá-los mais...)<black><press>
+<fchat:0002>
+Mas se nós os derrubarmos*
+no aquário, a Senhorita*
+Kamila...<press>
+...vai levar uma bronca*
+da senhorita Lynne!<press>
+<fchat:0001>
+Tudo o que você tem que*
+fazer é fingir que foi*
+culpa sua.<press>
+É assim que guerreiros*
+honrosos agem.<press>
+<fchat:0002>
+Tudo bem...<press>
+Mas você com certeza nunca*
+viu a senhorita Lynne*
+quando está com raiva...
+
+-------------------------------
+
+[madam_mes][2504]
+
+Cale essa*
+boca!
+
+-------------------------------
+
+[opdemo3][2505]
+
+<face:0065>
+Não, Missile! Não é*
+pra você latir!<press>
+A senhora nossa vizinha*
+está mais estressada*
+do que nunca hoje.
+
+-------------------------------
+
+[opdemo2][2506]
+
+<face:0063>
+Você não quer que ela*
+derrube a parede, quer,*
+mocinho?<press>
+<change:0065>
+<end>
+#suspiro# Por quê você gosta*
+tanto de latir, hein?<press>
+Você é muito fofinho, mas*
+só não vá nos matar, tá bem?<press>
+Pôxa. Eu também queria*
+mesmo assistir TV.<press>
+<change:0067>
+<end>
+Ei, já sei! Vou*
+ouvir música!
+
+-------------------------------
+
+[cicel_00][2507]
+
+<fchat:0001>
+O-ou... Isso não é bom...<press>
+<fchat:0002>
+<sound:0018><blink><shake:021E>Senhorita Kamila está*
+para colocar aquelas <red>coisas*
+vermelhas<black> na cabeça!<press>
+<fchat:0001>
+É, eu sei. E uma vez que ela*
+fizer isso, já era.<press>
+Ela não será capaz*
+de escutar nada.<press>
+<blue>(O que eu posso fazer...?)<black>
+
+-------------------------------
+
+[headphone_lost_mes][2508]
+
+<sound:0015>Oops! Oops!
+
+-------------------------------
+
+[headphone_catch_mes][2509]
+
+Ufa!*
+Essa passou perto!
+
+-------------------------------
+
+[st06_001p01][250A]
+
+<fchat:0002>
+<sound:0033><shake:0128><blink>Ah, não! Senhorita Kamila*
+colocou aquelas <red>coisas*
+vermelhas<black> na cabeça!<press>
+<fchat:0001>
+Isso é ruim. Agora ela*
+está totalmente desligada,*
+no próprio mundo dela.<press>
+<blue>(Hum...)<black><press>
+<blue>(Eu acho que <red>perdi uma*
+chance crítica<blue> de pará-la!)<black><press>
+O <red>painel<black> <TIME>... Eu acho*
+que preciso usá-lo e*
+repensar minha estratégia.
+
+-------------------------------
+
+[madam_mes2][250B]
+
+...Eu vou derrubar*
+esta parede!
+
+-------------------------------
+
+[cicel_03][250C]
+
+<fchat:0001>
+Caramba! Ela <red>não*
+consegue<black> nem ouvir*
+toda essa barulheira?<press>
+Quão alto deve estar o*
+volume desses fones de*
+ouvido, hã?<press>
+<fchat:0002>
+Na verdade, eu tenho que*
+confessar... Eu sempre quis*
+usar essas <red>coisas vermelhas<black>...<press>
+<sound:0033><blink><shake:021E>Eu sempre quis saber como*
+devem ser.*
+Aposto que é bem macio...<press>
+<fchat:0001>
+<blue>(Certo, pois bem... Eu acho que*
+nós temos que fazer algo*
+com esses fones de ouvido...)<black>
+
+-------------------------------
+
+[cicel_07][250D]
+
+<fchat:0002>
+Uau! Você mandou*
+essa coisa pelos ares!<press>
+<fchat:0001>
+Eu gosto de manter as*
+coisas arrumadas. Heh heh.<press>
+<fchat:0002>
+E eu gosto de latir*
+para coisas que se movem!<press>
+<fchat:0001>
+<blue>(Eu acho que tudo parece*
+um brinquedo para um*
+cãozinho.)<black><press>
+<blue>(E agora eu aposto que*
+nossa garotinha virá*
+para acalmá-lo.)<black>
+
+-------------------------------
+
+[cicel_09][250E]
+
+<fchat:0001>
+Hã?*
+<blue>(Eu <red>não posso fazer*
+outra rosquinha cair<blue>.)<black><press>
+<fchat:0002>
+Hum. O que faremos agora?<press>
+Sem aquela rosquinha, o*
+ratinho barulhento não*
+virá, e eu não vou latir!<press>
+<fchat:0001>
+Sim, e a parte de latir é*
+sua favorita, não é?<press>
+<blue>(Hum... Parece que*
+<red>apenas uma<blue> rosquinha*
+irá cair.)<black><press>
+<blue>(Nós só temos uma chance...)<black>
+
+-------------------------------
+
+[tree_demo_mes][250F]
+
+<fchat:0001>
+Inacreditável...<press>
+Ela não consegue nem ouvir*
+nada dessa barulheira.<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>É por causa dessa*
+<red>coisa vermelha<black> na cabeça*
+dela!<press>
+<fchat:0001>
+<blue>(Eu acho que nós teremos*
+que fazer algo a respeito*
+desses <red>fones de ouvido<blue>...)<black><press>
+<blue>(Mudar um pouco do destino*
+da garotinha não é uma*
+tarefa fácil, aparentemente.)<black><press>
+Acho melhor desligar*
+esse enfeite de estrela.<press>
+Nós não queremos que a*
+vizinha derrube o*
+apartamento.
+
+-------------------------------
+
+[cicel_02][2510]
+
+<fchat:0001>
+Isso é ruim. Agora ela*
+está totalmente desligada,*
+no próprio mundo dela.<press>
+<fchat:0002>
+<sound:0015><blink>É essa <red>coisa vermelha<black>!*
+Olha ela!<press>
+Eu queria saber o que*
+ela fica cochichando*
+nas orelhas dela!
+
+-------------------------------
+
+[cicel_10][2511]
+
+<fchat:0002>
+Olha como a senhorita Kamila*
+fica balançando a cabeça pra*
+tudo que ela está dizendo!<press>
+<fchat:0001>
+<blue>(Uma coisa está clara.*
+esses <red>fones de ouvido<blue>*
+estão nos atrasando.)<black>
+
+-------------------------------
+
+[cicel_12][2512]
+
+<fchat:0002>
+Alguma coisa acabou de cair!*
+E bem dramaticamente!<press>
+<fchat:0001>
+Era uma caixa de madeira,*
+meio pesada. Eu queria*
+saber o que isso fazia ali!<press>
+<fchat:0002>
+Ainda bem que não caiu*
+na cabeça da senhorita*
+Kamila!<press>
+<fchat:0001>
+É mesmo.<press>
+Nós não precisamos*
+de mais fantasmas*
+por aqui.
+
+-------------------------------
+
+[suibotu_mes][2513]
+
+Ah, não!*
+Droga.
+
+-------------------------------
+
+[headphone_lost_mes2][2514]
+
+<face:0065>
+Como foi que eu fiz isso?<press>
+Lynne comprou esses fones*
+há pouco tempo...
+
+-------------------------------
+
+[headphone_lost_mes3][2515]
+
+<face:0063>
+Que tal se eu contar a*
+ela que foi você quem*
+fez isso, Missile?
+
+-------------------------------
+
+[headphone_lost_mes4][2516]
+
+<face:0065>
+Droga. Agora eu não posso*
+nem ouvir música também.<press>
+Acho que os deuses estão*
+brincando comigo esta*
+noite.<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>Me perdoe, senhorita Kamila!*
+Eu só estou fazendo isso*
+para salvá-la!<press>
+<fchat:0001>
+<blue>(Hã? Então você pensa*
+que é um dos deuses, é?)<black><press>
+<fchat:0002>
+<sound:0015><blink>Huh...? Não...! Esqueça*
+isso!<press>
+O importante é que nós*
+conseguimos mudar um*
+pouco a situação!<press>
+<fchat:0001>
+Isso é verdade.<press>
+Pelo menos agora nós podemos*
+usar os <red>ouvidos<black> dessa*
+garotinha para nos ajudar.
+
+-------------------------------
+
+[wagon_mes][2517]
+
+Estou com vontade*
+de comer rosquinhas.
+
+-------------------------------
+
+[cicel_04][2518]
+
+<fchat:0001>
+A questão é, o que*
+nós fazemos agora?<press>
+A menos que nós façamos alguma*
+coisa a mais, tudo vai terminar*
+do mesmo jeito que antes.<press>
+<fchat:0002>
+Ah, se ao menos eu tivesse*
+dentes enormes e fortes*
+e um espírito agressivo!<press>
+<fchat:0001>
+<blue>(Hum. Não parece que nós podemos*
+evitar que o assassino entre.*
+Eentão, nesse caso...)<black><press>
+<fchat:0002>
+<sound:0015><blink>Ah! Eu tenho uma idéia!<press>
+Porque a gente não esconde*
+a senhorita Kamila?!<press>
+<fchat:0001>
+<sound:0015><blink>...!<blue>*
+("<red>Esconder<blue>," hã...?)<black><press>
+Esse é o tipo de idéia que*
+viria de um cãozinho.<press>
+<fchat:0002>
+Você está me zoando?<press>
+<fchat:0001>
+<blue>(Mas <red>onde<blue> uma garotinha*
+poderia se esconder nessa*
+sala...?)<black><press>
+Mas há só um pequeno*
+problema.<press>
+<fchat:0002>
+Como fazer a senhorita*
+Kamila ir até lá, certo?<press>
+<fchat:0001>
+Exatamente.<press>
+Se eu pudesse possuir*
+a própria Kamila, a resposta*
+seria fácil.<press>
+Mas eu não posso fazer isso,*
+então eu acho que o único*
+meio de fazê-lo é...<press>
+...<red>levá-la<black> até lá.<press>
+<blue>(Agora, o que eu posso*
+fazer utilizando os objetos*
+dessa sala...?)<black><press>
+<blue>(Eu acho que vou tentar*
+várias coisas e ver o que*
+acontece.)<black><press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>E eu vou estar*
+aqui assistindo e torcendo*
+por você!
+
+-------------------------------
+
+[okashisearch_mes][2519]
+
+Onde as rosquinhas*
+foram parar?
+
+-------------------------------
+
+[cicel_11][251A]
+
+<fchat:0001>
+Se você latir assim,*
+como alguém vai apreciar*
+a bela melodia?<press>
+E sua pobre dona tem que*
+se levantar e acalmar*
+você toda hora.<press>
+<fchat:0002>
+Sim, eu estou realmente*
+envergonhado do meu*
+comportamento...<press>
+<fchat:0001>
+<blue>(Ei, veja isso.)<black><press>
+<blue>(Um dos enfeites caiu*
+da árvore.)<black><press>
+<fchat:0002>
+Eu não estou interessado*
+em coisas assim.<press>
+Eu parei de*
+brincar com bolas há*
+muito tempo.<press>
+<fchat:0001>
+Você devia tentar*
+parar com esses latidos*
+desnecessários também.<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>Desculpe. Isso é algo*
+que eu nunca vou deixar*
+de fazer!
+
+-------------------------------
+
+[cicel_05][251B]
+
+<fchat:0001>
+Por quê exatamente você*
+está latindo, hã?<press>
+<fchat:0002>
+Bem, olha pra isso! É todo*
+brilhante e colorido e*
+gira e gira!<press>
+Além disso, toca essa*
+música empolgante!<press>
+<sound:0033><blink><shake:021E>O que mais você faz*
+além de latir?<press>
+<fchat:0001>
+Me fala, então. Exatamente*
+o que você pensa quando*
+late assim?<press>
+<fchat:0002>
+Bem, vejamos...<press>
+Naquela hora lá, se eu fosse*
+traduzir meus sentimentos em*
+palavras, eu diria...<press>
+<sound:0017><blink><shake:021E>{2EFF}l{17FF}"Bem vindo!"{17FF}<press>
+Eu acho que isso resume tudo.<press>
+<fchat:0001>
+<blue>(Acho que esse tipo de*
+sentimento eu nunca vou*
+entender direito.)<black>
+
+-------------------------------
+
+[cicel_06][251C]
+
+<fchat:0002>
+<sound:0033><shake:0128><blink>Uau! Você mandou*
+essa coisa pelos ares!<press>
+<fchat:0001>
+Eu gosto de esconder a*
+sujeira varrendo para*
+baixo do sofá. Heh heh.<press>
+<fchat:0002>
+Ei, por quê você*
+olhou pra mim quando*
+disse isso?<press>
+<fchat:0001>
+<sound:0016><blink>{28FF}0U<blue>(Ei, espere um minuto.*
+"<red>em baixo do sofá<blue>," hã?)<black><press>
+<sound:0015><blink><blue>(Esse deve ser o lugar*
+onde um assassino não*
+olharia...)<black><press>
+<fchat:0002>
+<sound:0015><shake:0128><blink>Falando nisso!<press>
+A senhorita Kamila sempre*
+vai pra baixo do sofá<press>
+tentando me pegar!<press>
+<fchat:0001>
+Você é um cãozinho*
+travesso, não é?<press>
+<blue>(Então meu novo*
+plano é <red>esconder<blue> a*
+garotinha em baixo do sofá.)<black><press>
+{28FF}{0001}{8C00}<blue>(O único problema agora é,*
+"Como eu vou <red>levá-la<blue> lá*
+pra baixo?")<black>
+
+-------------------------------
+
+[dog_mes1][251D]
+
+<face:0063>
+Missile, se você latir assim,*
+vai fazer a vizinha do lado*
+começar a gritar!<press>
+<change:0065>
+<end>
+Se você continuar assim, essa parede*
+vai cair em cima da gente, antes mesmo*
+que a gente possa evitar!<press>
+<change:0063>
+<end>
+Mas você vai me proteger se*
+alguma coisa ruim acontecer,*
+não é, Missile?<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>É claro que vou!<press>
+<fchat:0001>
+Essa é uma promessa e tanto*
+para um baixinho!<press>
+<blue>(O pobrezinho está*
+encarando alguns oponentes*
+e tanto...)<black><press>
+<blue>(O homem de preto, e*
+a mulher de roxo!)<black>
+
+-------------------------------
+
+[dogstopdemo][251E]
+
+<fchat:0001>
+Porque você sempre dá*
+tanto trabalho pra sua*
+dona?<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>Sim, eu estou realmente*
+envergonhado do meu*
+comportamento...<press>
+Mas quando esse carinha*
+começa a fazer esse chiado,*
+isso me deixa louco!<press>
+E quando eu lato...<press>
+A senhorita Kamila sempre*
+vem me dar um belo de*
+um abraço.<press>
+<fchat:0001>
+<sound:0016><blue>(Hum. Nós podemos usar*
+e <red>tirar vantagem<blue> dessa*
+informação...)<black><press>
+<fchat:0002>
+Hã? Como?<press>
+<fchat:0001>
+Onde quer que a*
+rosquinha caia, o*
+rato aparece...<press>
+E então sua dona vem*
+até você para lhe acalmar.<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>Sim. É assim mesmo*
+<red>que as coisas acontecem<black>,*
+já notei.<press>
+<fchat:0001>
+<blue>(Então, em outras palavras...)<black><press>
+<blue>(...a rosquinha pode ser*
+a <red>isca<blue> que guiará a*
+garotinha até onde queremos.)<black>
+
+-------------------------------
+
+[st06_001p02][251F]
+
+<fchat:0001>
+Hã?*
+<blue>(Eu <red>não posso fazer*
+outra rosquinha cair<blue>.)<black><press>
+<fchat:0002>
+Hum. O que fazemos agora?<press>
+Sem aquela rosquinha, o*
+ratinho barulhento não*
+aparecer e eu não latirei!<press>
+<fchat:0001>
+<blue>(Hum... Parece que*
+<red>apenas uma<blue> rosquinha*
+vai cair.)<black><press>
+<blue>(Mas a rosquinha é a única*
+<red>isca<blue> que levará a mocinha*
+até onde nós queremos.)<black><press>
+<blue>(Talvez eu devesse repensar*
+meu plano de ataque...)<black>
+
+-------------------------------
+
+[death_mes][2520]
+
+<fchat:0001>
+Droga. Parece que eu só*
+tenho mais alguns segundos.<press>
+<fchat:0002>
+<sound:0018><shake:021E>Senhorita Kamilaaaaa!*
+Nós temos que fazer algo!<press>
+<sound:0018><blink><shake:021E>{2EFF}s{17FF}Nós precisamos!{17FF}<press>
+<fchat:0001>
+Calma. Ficar nervoso*
+não vai ajudar. Nós estamos*
+por um fio, aqui.<press>
+Nós temos tempo suficiente*
+para fazer alguma coisa*
+e mudar o destino dela?<press>
+Ou é hora de usar outro dos*
+meus <red>truques fantasma<black>?<press>
+<fchat:0002>
+Outro truque fantasma?*
+O que é isso?<press>
+<fchat:0001>
+Nós poderíamos "<red>voltar no*
+tempo<black>", e começar novamente*
+dos quatro minutos atrás.<press>
+O que quer que a gente faça*
+é melhor ser rápido!
+
+-------------------------------
+
+[killer_mes][2521]
+
+<face:007E>
+Hum. Eu não gosto muito quando o*
+trabalho sai um pouco dos*
+limites planejados.<press>
+Eu tenho que cuidar disso como uma*
+tarefa adicional e o contratante*
+nunca gosta disso.<press>
+Mas eu acho que não há*
+outro jeito... Desculpe, garoto.
+
+-------------------------------
+
+[killer_mes2][2522]
+
+<face:007E>
+Escute bem, garotinha.*
+Eu farei um acordo com você.<press>
+Se você prometer ficar*
+quieta, eu vou deixar*
+você viver. Por enquanto...<press>
+<face:006E>
+.........
+
+-------------------------------
+
+[killer_mes3][2523]
+
+<face:007E>
+Que vergonha.<press>
+<sound:0016>Mas eu acho que esse*
+baixinho se recusa a aceitar*
+nosso acordo.<press>
+<face:0070>
+<sound:0017><blink><shake:0128>Missiiiiile! Nããããão!
+
+-------------------------------
+
+[gameovermes][2524]
+
+<face:002B>
+Parece que a pobre mocinha*
+está completamente desavisada do perigo*
+que ela está correndo.<press>
+Eu tenho que encontrar um meio de*
+abrir tanto seus olhos quanto*
+seus ouvidos.<press>
+<change:0027>
+<end>
+<sound:0016>Uma vez que eu conseguir*
+fazê-la <red>notar o que está acontecendo<black>,*
+então talvez eu possa fazer algo.<press>
+
+
+-------------------------------
+
+[gameovermes2][2525]
+
+<face:002B>
+Hum... Parece que eu não posso*
+impedir que o invasor entre...<press>
+E acho que esse pequeno*
+cão <red>não possui muita*
+força pra lutar<black>...<press>
+<face:0075>
+<sound:0033><blink><shake:0128>As pessoas sempre dizem*
+que meu nome não combina*
+comigo!<press>
+<face:002B>
+<blue>(Eu acho que a única coisa*
+a fazer é <red>esconder<blue> nossa*
+pequena dama em algum...<press>
+...lugar onde o assassino*
+não possa vê-la.)<black><press>
+<change:0027>
+<end>
+Hum... É melhor eu voltar o*
+tempo e pensar nisso...
+
+-------------------------------
+
+[stop_demo_mes][2526]
+
+Missile, não!
+
+-------------------------------
+
+[dog_mes2][2527]
+
+<face:0065>
+O que você está fazendo*
+aí em baixo, seu bobinho?<press>
+<change:0067>
+<end>
+Ow, meu pequeno "Missile"!*
+Você está sempre fazendo*
+as coisas mais fofas!
+
+-------------------------------
+
+[killer_in_mes][2528]
+
+.........
+
+-------------------------------
+
+[killer_in_mes2][2529]
+
+Ninguém aqui, hã?
+
+-------------------------------
+
+[clear_killer_mes][252A]
+
+<face:007E>
+Minha presa deve estar*
+chegando aqui a qualquer*
+momento.<press>
+É melhor eu ficar*
+bem confotável enquanto*
+isso.
+
+-------------------------------
+
+[ending_mes][252B]
+
+<face:0027>
+Aí está! O destino da*
+nossa garotinha foi*
+modificado.<press>
+<face:0076>
+<sound:0016>Foi...?<press>
+A pobrezinha ainda está*
+lá abaixada e tremendo*
+de medo.<press>
+<face:0034>
+Bem, sim, é verdade...<press>
+<change:0027>
+<end>
+Mas não é tão ruim.*
+De um modo geral,*
+Eu diria que ela está bem.<press>
+E veja, você não está morto.<press>
+<face:0076>
+Ah, você tem razão. Nós*
+conseguimos.*
+Nós conseguimos, não foi?!<press>
+<shake:021E><sound:0018>{2EFF}o{17FF}Conseguimos!{17FF}<press>
+<face:0027>
+Bem, pra ser mais preciso,*
+foi você quem conseguiu.<press>
+<face:0076>
+<sound:0015><blink>Hã?<press>
+Eu...? Eu... salvei a senhorita*
+Kamila...?<press>
+<face:0027>
+Sim.<press>
+<change:0034>
+<end>
+Você foi quem a levou*
+para baixo do sofá, não foi?<press>
+<face:0076>
+.........<press>
+<face:0027>
+Você protegeu sua dona.*
+Eu posso afirmar isso!<press>
+<face:0076>
+Oh...<press>
+<sound:0033><blink><shake:021E>Obrigado!
+
+-------------------------------
+
+[ending_mes3][252C]
+
+<face:0076>
+Posso fazer uma pergunta?<press>
+<face:0027>
+Claro. Qual é?<press>
+<face:0076>
+O que exatamente são esses*
+poderes estranhos que você*
+tem?<press>
+<face:002B>
+Ah, você quer dizer meus <red>truques fantasma<black>?*
+Aparentemente eles são os poderes*
+para manipular objetos inanimados.<press>
+<face:0076>
+Se eles são truques "<red>fantasma<black>", então*
+por quê eu não tenho esses poderes*
+também? Afinal eu também estou morto.<press>
+<face:0036>
+E-eu acho que...?*
+<blue>(É assim que funciona, certo?)<black><press>
+<face:0076>
+Eu fiquei encarando essas*
+rosquinhas o máximo que eu*
+pude por um bom tempo...<press>
+<sound:0033><blink><shake:021E>...mas elas nem se mexeram*
+pra mim!<press>
+<sound:0033><blink><shake:021E>Por que você acha que*
+isso aconteceu?<press>
+<face:0034>
+Eu realmente não sei.<press>
+<change:002B>
+<end>
+Eu acho que você simplesmente*
+não tem o poder.<press>
+<face:0076>
+Bem, eu tenho uma coisa*
+a dizer sobre isso...<press>
+<sound:0033><blink><shake:021E>{2EFF}t{17FF}Isso não é justo!{17FF}<press>
+<face:002B>
+<blue>(Desculpe, mas eu acho que nem*
+todos os que morrem ganham os*
+<red>poderes dos mortos<blue>...)<black>
+
+-------------------------------
+
+[ending_mes2][252D]
+
+<face:0076>
+Então o que vai acontecer*
+comigo agora?<press>
+<face:0034>
+Nada. Sua morte vai ser*
+apagada.<press>
+Você voltará a ser um*
+cãozinho feliz vivendo sua*
+vida de sempre.<press>
+<change:0027>
+<end>
+Eu acho que isso é uma*
+despedida.<press>
+<face:0076>
+Mas...<press>
+...Nós vamos nos ver*
+novamente, certo?<press>
+<face:0027>
+Sim, talvez. Se você morrer de novo.<press>
+<face:0076>
+O que você fez por mim esta*
+noite...<press>
+<sound:0033><blink><shake:021E>{2EFF}q{17FF}Eu nunca esquecerei!{17FF}<press>
+<face:0029>
+Heh heh. Bem, eu acho que é*
+melhor voltarmos ao*
+"presente".<press>
+Hora de ver o que acontece*
+em seguida em nossa*
+"história"!
+
+-------------------------------
+
+[tel_mes][252E]
+
+<face:0065>
+Oww! Por que isso ficou assim*
+de repente?<press>
+Eu realmente não gosto de*
+ser esmagadada por portas...*
+especialmente na minha própria casa.<press>
+<change:0063>
+<end>
+Parece que a porta é um cão*
+malvado, mordendo a mão que*
+a alimenta.<press>
+<change:0065>
+<end>
+Embora, com o Missile, parece mais*
+que fica "dando pequenas mordidas...<press>
+Na ponta do meu nariz"*
+em vez da minha mão...
+
+-------------------------------
+
+[caster_mes][252F]
+
+<face:0065>
+Ei, espere um minuto. Este*
+carrinho se moveu, não foi?<press>
+Eu sempre desconfiei, isso*
+prova como esse apartamento*
+está....<press>
+.........<press>
+<change:0063>
+<end>
+<sound:0016>...se inclinando para um lado.<press>
+<fchat:0001>
+Nossa! Essa garotinha*
+sabe como me fazer*
+roer as unhas!<press>
+<fchat:0002>
+Ei! Senhorita Kamila não é*
+assustadora! Você não vê*
+o quão inocente ela é?
+
+-------------------------------
+
+[caster_mes][252F]
+
+<face:0065>
+Ei, espere um minuto. Este*
+carrinho se moveu, não foi?<press>
+Eu sempre desconfiei, isso*
+prova como esse apartamento*
+está....<press>
+.........<press>
+<change:0063>
+<end>
+<sound:0016>...se inclinando para um lado.<press>
+<fchat:0001>
+Nossa! Essa garotinha*
+sabe como me fazer*
+roer as unhas!<press>
+<fchat:0002>
+Ei! Senhorita Kamila não é*
+assustadora! Você não vê*
+o quão inocente ela é?
+
+-------------------------------
+
+[caster_mes2][2531]
+
+<face:0065>
+O carrinho se moveu, não foi?<press>
+Eu estou dizendo, esse prédio*
+é torto para um lado!<press>
+<change:0063>
+<end>
+Desde que aquela mulher*
+se mudou pro apartamento*
+ao lado...
+
+-------------------------------
+

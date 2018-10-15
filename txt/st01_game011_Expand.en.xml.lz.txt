@@ -1,0 +1,153 @@
+[m01_0050][0106]
+
+Adeus, gracinha.
+
+-------------------------------
+
+[m01_0630][0143]
+
+<fchat:0001>
+Então voltamos os quatro*
+minutos. Estou entendendo.<press>
+<sound:0016>Mas o que estou*
+fazendo aqui?
+
+-------------------------------
+
+[m01_0631][0144]
+
+<fchat:0004>
+É assim que funciona.<press>
+O cadáver dela era a entrada*
+para o passado.<press>
+Logo é natural que você*
+apareça onde estava o*
+corpo dela.<press>
+<fchat:0001>
+<blue>(Aqui foi onde ela*
+morreu, entendi.)<black>
+
+-------------------------------
+
+[m01_0639][0145]
+
+<fchat:0004>
+Então vamos lá!
+
+-------------------------------
+
+[m01_0640][0146]
+
+<face:0086>
+Só restam quatro minutos*
+para ela.<press>
+É melhor você tentar chegar logo*
+até lá o mais rápido possível. <press>
+Não há tempo a perder...
+
+-------------------------------
+
+[m01_0650][0147]
+
+<center>Quem é você?
+
+-------------------------------
+
+[m01_0660][0148]
+
+<face:0086>
+Os últimos instantes dela*
+estão se passando.<press>
+<face:002B>
+<blue>(Acho melhor eu ir*
+logo até lá em cima.)<black><press>
+<face:0086>
+Bem. Já reparou na tela*
+superior?<press>
+<face:0029>
+A tela superior?<press>
+<face:0086>
+<sound:0016>A areia na parte de cima da*
+ampulheta mostra o <red>tempo restante<black>.<press>
+Chegue logo até ela antes*
+que a areia escorra totalmente!
+
+-------------------------------
+
+[m01_0670][0149]
+
+<face:0086>
+Subindo! Vamos!
+
+-------------------------------
+
+[m01_0680][014A]
+
+<center>#clac-clac#
+
+-------------------------------
+
+[m01_0690][014B]
+
+<face:0007>
+Você é um *
+assassino ou algo assim?*
+O que quer de mim? <press>
+<face:007C>
+Disseram que tínhamos de apagar*
+todos os rastros de "Temsik"*
+Que haviam no país.<press>
+<face:0013>
+<blink>"Temsik"? E o que é isso?
+
+-------------------------------
+
+[m01_0691][014C]
+
+<face:002B>
+<blue>(Droga! Não tenho muito tempo!)<black>
+
+-------------------------------
+
+[m01_0692][014D]
+
+<fchat:0001>
+Mais alguns passos!*
+Espero chegar a tempo!
+
+-------------------------------
+
+[m01_0693][014E]
+
+<fchat:0001>
+Hum...<press>
+<sound:0016>A bandeira poderia me*
+<red>levar pra cima<black>.<press>
+<fchat:0004>
+<sound:0015><blink>A <red>coordenação<black> também é*
+importante ao se usar*
+os truques fantasma.<press>
+<fchat:0001>
+Sério?<press>
+<fchat:0004>
+Você pode tocar os botões*
+<GHOST> e <TRICK>*
+<red>sempre que quiser<black>.<press>
+Sempre que aparecer o botão*
+<GHOST>, você já pode*
+possuir outro objeto.<press>
+<fchat:0001>
+<blue>(<red>Sempre<blue> posso tocar*
+em qualquer botão que*
+apareça na tela, hum?)<black><press>
+<fchat:0004>
+Quando o liquidificador e o*
+ventilador funcionarem*
+juntos, terás a sua <red>chance<black>.<press>
+Pois será capaz de mover a*
+bandeira.<press>
+Mas precisa fazer isso no*
+<red>momento<black> adequado.
+
+-------------------------------
+

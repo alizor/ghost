@@ -1,0 +1,672 @@
+[m02_1440][0534]
+
+<fchat:0003>
+Essas fotos são antigas.*
+São feitas de quê? Pequenos*
+fragmentos de rocha?<press>
+E os fragmentos estão*
+brilhando... Você sabe*
+o que eles são?<press>
+<fchat:0001>
+Lamento, eu perdi a memória.*
+Provavelmente não sou a*
+melhor pessoa pra responder...<press>
+<fchat:0003>
+<sound:0015><blink>Está bem. Só estava*
+tentando ser educada. Eu achava*
+mesmo que você não soubesse.<press>
+<fchat:0001>
+<blue>(Ai. A língua dessa*
+garota pode ser afiada.)<black><press>
+<fchat:0003>
+Eh, posso ouvir o que*
+está pensando, se lembra?<press>
+<fchat:0001>
+<sound:0016>Eu sei.<press>
+<fchat:0003>
+Bonzão.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+O que poderia ser? Parece com*
+um cortador de unhas gigante.<press>
+<fchat:0003>
+Você acha?<press>
+<fchat:0001>
+VOCÊ sabe o que é isso?<press>
+<fchat:0003>
+#suspiro#<press>
+<sound:0016>Por que você tem de me*
+perguntar?! Não viu que eu*
+estava olhando pro outro lado?!<press>
+<fchat:0001>
+Hã?<press>
+<fchat:0003>
+Isso é... uma dessas science-y*
+things que os cientistas usam.<press>
+<sound:0018><blink><shake:0128>Pessoas comuns como a gente*
+não precisam saber o que é!<press>
+<fchat:0001>
+<blue>(Eu não lembro do*
+que é "ciência"...)<black><press>
+<blue>(...mas aparentemente é*
+algo que Lynne não deve*
+gostar muito.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+Essas imagens parecem*
+ser bastante velhas.<press>
+Imagens de pequenos*
+fragmentos de rocha...<press>
+Aquele homem pombo tem um*
+gosto bem estranho no que*
+se trata de decoração.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+Não tenho ideia para que*
+serve este instrumento.<press>
+Na realidade, esse balcão*
+todo está cheio de coisas*
+que eu nunca vi.<press>
+Eu sei que perdi minha*
+memória, mas mesmo assim...<press>
+Aquele homem pombo parece*
+ser um cara bem estranho.
+
+-------------------------------
+
+[m02_2060][060B]
+
+<face:00D3>
+Quanto tempo será que faz*
+desde que eu tranquei esta*
+sala no escuro?<press>
+Certa vez pensei que a verdade*
+podia ser descoberta na escuridão...<press>
+...Talvez tenha sido quando*
+não estava na hora certa.
+
+-------------------------------
+
+[m02_2065][060D]
+
+<fchat:0003>
+Sabe, Sissel?<press>
+Acho que esta morte deva*
+ser mais fácil de evitar*
+do que as outras.<press>
+<fchat:0001>
+Por quê?<press>
+<fchat:0003>
+<sound:0016>Tipo. Porque o*
+assassino é <red>mecânico<black>!<press>
+<fchat:0001>
+<blue>(Ela tem razão.*
+Não posso manipular*
+coisas vivas...)<black><press>
+<blue>(Mas eu posso manipular*
+esse mecanismo. Agora só*
+preciso saber como pará-lo...)<black><press>
+<fchat:0003>
+Quando eu dos "quatro minutos*
+atrás" acender a <red>luz<black>...<press>
+...dará início então ao*
+mecanismo da <red>máquina assassina<black>.<press>
+<fchat:0001>
+<blue>(Ao que parece, a chave*
+para solucionar isso...)<black><press>
+<blue>(...é entender como funciona*
+essa máquina de*
+Rube Goldberg.)<black>
+
+-------------------------------
+
+[m02_2300][060E]
+
+<fchat:0001>
+Como você conseguiu*
+se enfiar por completo*
+nesse pequeno elevador?<press>
+<fchat:0003>
+Eu sempre gostei de lugares*
+pequenos e estreitos.<press>
+Sempre que vejo um buraco*
+ou uma fenda, tenho vontade*
+de entrar lá.<press>
+O lugar que me sinto mais*
+em casa é o espaço entre*
+minha cama e a parede.<press>
+<fchat:0001>
+Sim, acho que consigo*
+compreender isso.<press>
+<fchat:0003>
+<sound:0015><blink>Ah, somos farinha do mesmo saco!*
+Deveríamos nos juntar e falar*
+mais sobre isso uma outra hora!
+
+-------------------------------
+
+[m02_2100][060F]
+
+<face:00BD>
+<sound:0015><blink>Ah! Hum, aí é o superintendente?<press>
+Que bom! Pensei que estivesse aqui*
+sozinho...<press>
+<face:00D3>
+.........
+
+-------------------------------
+
+[m02_2440][0610]
+
+Ele desligou.
+
+-------------------------------
+
+[m02_2410][0611]
+
+<face:00C0>
+Tudo acabou... Tudo acabou pra mim...<press>
+Lynne, minha doce e meiga Lynne,*
+que brilha tão forte como o*
+sol... fugiu de mim...<press>
+E esses detetives, dois*
+sabichões, azul*
+e verde, gritaram comigo...<press>
+E então o outro velho com um*
+pombo azul e sujo na cabeça*
+completamente me ignorou...<press>
+Ah se alguém me desse umas*
+palavras amigáveis agora...<press>
+<fchat:0001>
+<sound:0016>Quer dar a ele*
+umas palavras amigáveis,*
+Sr. Brilhante-Como-O-Sol?<press>
+<fchat:0003>
+<shake:0128><blink>Hum... Vamos ver...<press>
+<sound:0015><blink>"Aguenta aí!"<press>
+<fchat:0001>
+<blue>(Só tem a dizer isso?)<black><press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>Gostaria de ver você fazer*
+melhor!
+
+-------------------------------
+
+[m02_2420][0612]
+
+<face:00C1>
+Tudo acabou... Tudo acabou pra mim...<press>
+Lynne, minha doce e meiga Lynne,*
+que brilha tão forte como o*
+sol... fugiu de mim...<press>
+E então o outro velho com um*
+pombo azul e sujo na cabeça*
+completamente me ignorou...<press>
+Ah se alguém me desse umas*
+palavras amigáveis agora...<press>
+Mas não! Ganhei o que afinal?<press>
+<sound:0018><blink><shake:0128>Um vapor escaldante da chaleira!<press>
+<fchat:0001>
+<sound:0016>Gostaria de oferecer*
+a ele uma palavra amigável,*
+Sr. Brilhante-Como-O-Sol?<press>
+<fchat:0003>
+<shake:0128><blink>Hum... Vamos...<press>
+<sound:0015><blink>Queixo pra cima! Você só*
+está tendo um mau dia!<press>
+<fchat:0001>
+<blue>(Isso aí não foi muito*
+melhor do que uma queimadura*
+de vapor...)<black><press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>Gostaria de ver você fazer*
+melhor!
+
+-------------------------------
+
+[m02_2430][0613]
+
+<face:00C2>
+Lynne fugiu, os detetives*
+gritaram comigo e ainda o*
+homem do pombo me ignora...<press>
+E a chaleira quase me*
+matou de susto...<press>
+<change:00BE>
+<end>
+<sound:0017><shake:0128>Minha vida está completamente em ruínas!<press>
+<fchat:0003>
+<sound:0015><blink>Isso se chama gratidão!*
+A gente só tava tentando*
+alertá-lo com o som da chaleira!<press>
+<sound:0018><shake:0128>Será que ele preferia*
+ser escaldado pelo vapor?<press>
+<fchat:0001>
+Bom, pelo menos o destino*
+dele mudou um pouco.<press>
+Mesmo assim isso é bom.
+
+-------------------------------
+
+[m02_2110][0614]
+
+<face:00BD>
+<sound:0015><blink>Aí está você, Superintendente!*
+Isso não foi muito bom de sua parte,*
+sabe.<press>
+<face:00D3>
+O que nã foi?<press>
+<face:00BD>
+O mínimo que se deve fazer é*
+dizer "olá" quando se atende*
+um telefone.<press>
+<sound:0017><blink><shake:0128>Mas você não disse nada.*
+Como é que você acha*
+que estou me sentindo?<press>
+<face:00D3>
+Uma pessoa tem o direito de*
+chamar quem ela quiser.*
+E, ao contrário...<press>
+...a pessoa que atende tem*
+o direito de decidir se ela quer*
+falar com essa pessoa ou não.<press>
+<face:00BD>
+Então, em outras palavras, tudo que*
+posso é esperar, isso?<press>
+<sound:0017><blink><shake:0128>Esperar encontrar <red>a pessoa do*
+destino<black>, a pessoa que*
+escolherá falar comigo!
+
+-------------------------------
+
+[m02_2450][0615]
+
+<fchat:0003>
+<sound:0016><shake:0128>Aí vai! A <red>máquina*
+assassina<black> foi ativada!<press>
+<fchat:0001>
+E se tudo continuar*
+assim, a arma na parede*
+vai disparar.<press>
+<blink><shake:0128>Mas antes disso acontecer,*
+cabe a mim usar os meus*
+<red>truques fantasma<black>!<press>
+<fchat:0003>
+Deve haver uma maneira de*
+desfazer esse efeito dominó.<press>
+Você só tem que achá-la!<press>
+<fchat:0001>
+<blue>(Aqui vai!)<black>
+
+-------------------------------
+
+[m02_2460][0616]
+
+<fchat:0003>
+Ah, conheço esse brinquedo.*
+A roda gira e move*
+o bastão.<press>
+<sound:0015><blink>Ei, olha! Tem um fio*
+anexado a ele!<press>
+<fchat:0001>
+Ele gira ao redor do relógio*
+e está amarrado ao quadro*
+em que a arma está...<press>
+...e parece também estar*
+conectado ao nosso caloroso*
+amigo Sr. Cupido.<press>
+<blue>(Esse brinquedo parece*
+ser o "coração" do mecanismo*
+inteiro.)<black><press>
+<blue>(Mas a inércia é supreendentemente*
+poderosa... não posso pará-lo*
+quando posto em movimento!)<black>
+
+-------------------------------
+
+[m02_2465][0617]
+
+<fchat:0003>
+<sound:0015><blink>Ei! Isso aí foi*
+muito bom!<press>
+<fchat:0001>
+Talvez seja como estarmos*
+num campo de golf.<press>
+<fchat:0003>
+Bom, com um balanço desse...*
+Talvez possamos usar ele*
+aqui a nosso favor.<press>
+<fchat:0001>
+<blue>(Verdade. Talvez eu*
+possa conseguir <red>usar esse*
+truque<blue> de um jeito.)<black><press>
+<sound:0016><blue>(Se eu pudesse <red>mudar o*
+caminho<blue> que a bola leva...)<black><press>
+<fchat:0003>
+Isso é bom e tudo mais...<press>
+<sound:0015><blink>Porém parece que dessa*
+vez estamos sem tempo...
+
+-------------------------------
+
+[m02_2320][0618]
+
+<fchat:0003>
+Então, sobre telefones...<press>
+No mundo dos "quatro minutos*
+antes", não é possível usá-los*
+a qualquer momento, certo?<press>
+<fchat:0001>
+Isso. Apenas quando é usado*
+para fazer ou receber chamadas.<press>
+<fchat:0003>
+Então talvez essa chamada*
+tenha sido uma boa oportunidade.<press>
+<fchat:0001>
+Hum. Pra mim parece que
+há uma grande diferença entre*
+"boa oportunidade" e<press>
+"nossa única chance"...<press>
+<fchat:0003>
+Então de quem era*
+aquela chamada?<press>
+<fchat:0001>
+Hum. Pra mim parece...*
+<blue>(...Não tenho ideia.)<black>
+
+-------------------------------
+
+[m02_2470][0619]
+
+<fchat:0001>
+Este telefone não parece*
+funcionar no momento.<press>
+<blue>(Normalmente, a linha telefônica*
+brilha em vermelho, mas está*
+escura agora.)<black><press>
+Hum... No mundo dos "quatro*
+minutos antes"...<press>
+...parece que eu não*
+posso usar as linhas*
+telefônicas quando quiser.
+
+-------------------------------
+
+[m02_2330][061A]
+
+<fchat:0003>
+<sound:0016>Aí vai! A máquina assassina*
+assassina foi ativada!<press>
+<fchat:0001>
+E-eu posso ver isso.*
+<blue>(Tenho que fazer algo!)<black><press>
+<fchat:0003>
+Mas o que você PODE fazer?!<press>
+<sound:0018><blink><shake:0128>Não tem mais pra onde*
+ir daqui! Nós vamos ter que*
+cruzar os braços!<press>
+<sound:0015><blink>E não me olhe com esse*
+jeito de "fantasmas não têm*
+braços".<press>
+É uma figura de linguagem!<press>
+<fchat:0001>
+<blue>(Hum...)<black><press>
+<blue>(Parece que eu vacilei*
+em algum lugar...)<black>
+
+-------------------------------
+
+[m02_2340][061B]
+
+<face:0016>
+O que houve?<press>
+<face:0034>
+Parece que o seu futuro*
+ficou mais otimista.<press>
+<change:0027>
+<end>
+<sound:0016>A sua morte foi*
+evitaada... mais uma vez.<press>
+<face:001C>
+Eu, eh... Muito obrigada.<press>
+.........<press>
+<change:0004>
+<end>
+<blink>Você manteve a palavra,*
+não foi, Sissel?<press>
+<face:002B>
+<sound:0015><blink>Minha promessa?<press>
+<face:0006>
+Você disse que eu te veria*
+de novo se eu morresse.<press>
+<face:0027>
+Não lembro de ter feito*
+promessa alguma. Até por que*
+é tudo para o meu benefício...
+
+-------------------------------
+
+[m02_2345][061C]
+
+<face:000E>
+.........<press>
+Qual seria a utilidade*
+dessa sala?<press>
+<face:0029>
+Hum... não consigo imaginar.<press>
+<face:000E>
+Essas coisas que caíram*
+no final. Elas não eram*
+confetis de festa?<press>
+<face:002B>
+Confeti de festa?*
+<blue>(Não tenho sabedoria do que*
+eles são, não é mais surpresa...)<black><press>
+<face:0014>
+Os confetis de festa, a arma*
+sendo disparada... Parece um*
+pouco familiar...<press>
+<face:002B>
+.........<press>
+<change:0027>
+<end>
+Deixarei essa parte do enigma*
+com você. Eu tenho meu próprio*
+"enigma" para entender.<press>
+Bom, podemos voltar agora?*
+De volta ao nosso novo "presente"?
+
+-------------------------------
+
+[m02_2350][0631]
+
+<face:002B>
+Se eu quiser mudar o destino dela...<press>
+<face:000F>
+<sound:0017><blink><shake:0128>...Então preciso fazer algo em relação*
+aquela <red>máquina assassina<black>!<press>
+<face:0029>
+<blue>(Acredito que ficar aqui parado*
+não vai trazer algo bom...)<black>
+
+-------------------------------
+
+[m02_2360][0632]
+
+<face:0029>
+A chave para essa*
+"<red>máquina assassina<black>"...<press>
+<face:000D>
+<sound:0015><blink>...é esse pequeno e atrevido <red>Cupido*
+<black>que dispara a flecha.<press>
+Se ele vai disparar flechas,*
+Eu preferia que fossem*
+flechas de amor.<press>
+<face:002B>
+<blue>(Então ou eu vou ter que parar o Cupido*
+de <red>se virar<blue>, ou parar sua <red>flecha<blue>...)<black>
+
+-------------------------------
+
+[m02_2370][0633]
+
+<face:0029>
+A chave para essa*
+"<red>máquina assassina<black>"...<press>
+<face:000D>
+<sound:0015><blink>...é esse pequeno e atrevido <red>Cupido*
+<black>que dispara a flecha.<press>
+<face:002B>
+<blue>(Espera aía...*
+Essa pá <red>que balança<blue>...)<black><press>
+<change:0029>
+<end>
+<sound:0016><blue>(Será que ela pode ser*
+usada como uma "<red>arma<blue>" para*
+impedir de um jeito o Sr. Cupido?)<black>
+
+-------------------------------
+
+[m02_2380][0634]
+
+<face:0029>
+A chave para essa*
+"<red>máquina assassina<black>"...<press>
+<face:000D>
+<sound:0015><blink>...é esse pequeno e atrevido Cupido*
+que dispara a <red>flecha<black>.<press>
+Se conseguíssemos jogar essa <red>bola*
+<black>para acertar nele...<press>
+<face:0027>
+<blue>(Sim, talvez isso parasse*
+nosso pequeno Sr. Cupido...)<black>
+
+-------------------------------
+
+[m02_2385][0635]
+
+<face:0011>
+<sound:0015><blink>Por que não me faz*
+escapar por aquela tampa oculta*
+no chão?!<press>
+<face:0034>
+Você e eu sabemos que isso*
+é impossível, senhorita.*
+Entretanto...<press>
+<face:002B>
+<blue>(Acredito ter visto um <red>novo caminho<blue>*
+aberto para nós quando abrimos*
+essa tampa...)<black><press>
+<blue>(Mas será que eu perdi a chance de*
+<red>voltar ao caminho principal<blue>*
+depois?)<black>
+
+-------------------------------
+
+[m02_2390][0636]
+
+<face:0029>
+Creio que não há nada que possamos*
+fazer daqui...<press>
+<face:0011>
+Eu sempre digo que não tem sentido*
+ser tímido e <red>não querer avançar<black>.<press>
+<face:002B>
+<blue>(Isso veio de uma detetive*
+que se escondeu num elevador...)<black><press>
+<change:0027>
+<end>
+Acho melhor ficar de olhos abertos*
+por uma oportunidade de poder*
+me mover.
+
+-------------------------------
+
+[m02_2400][0637]
+
+<face:000D>
+Parar essa máquina assassina*
+não é tarefa fácil.<press>
+<face:002B>
+Bom, não seu não conseugir parar...<press>
+<change:0034>
+<end>
+<sound:0016>...talvez eu possa pelo menos*
+<red>mudar <black>a forma dela funcionar.<press>
+<blue>(Vou ficar apenas tentando*
+até achar alguma <red>pista<blue>.)<black>
+
+-------------------------------
+
+[m02_2405][0638]
+
+<face:0034>
+O que acha dos movimentos do*
+Sr. Cupido até agora?<press>
+<face:0003>
+Diríamos que estamos bem perto.<press>
+<face:002B>
+<blue>(Sim, acho que falta só*
+mais um pouco para conseguir.)<black><press>
+<change:0029>
+<end>
+<sound:0016><blue>(Tudo se resume ao*
+<red>momento certo<blue>...)<black>
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(Mas afinal o que é*
+essa coisa?)<black><press>
+<blue>(Pra mim parece um cortador*
+de unhas gigante...)<black><press>
+<fchat:000C>
+<sound:0016>Não, certamente não*
+parece.<press>
+É um instrumento usado na*
+análise de radiação-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>Aaaaah tá. Sim, entendi...<press>
+<fchat:000B>
+<sound:0015><blink>Você não está só, garoto.<press>
+Nenhum do resto de nós*
+entende isso também, cara!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Isso! Falou e disse!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Imagens antigas... que parecem*
+com pequenos fragmentos*
+de rocha.<press>
+<fchat:000C>
+São fragmentos de Temsik.<press>
+Esse é um artigo de quando*
+eles eram grande novidade.<press>
+<fchat:000B>
+Dez anos atrás, ninguém havia*
+entendido eles por completo.<press>
+<fchat:000C>
+Acho que até hoje*
+isso ainda é verdade.
+
+-------------------------------
+

@@ -1,0 +1,701 @@
+[m02_0005][0401]
+
+Mudar o destino de uma*
+pessoa não é tarefa fácil...<space>
+Especialmente quando*
+ele é a "morte".<space>
+<press>
+A cena logo ao outro lado*
+da linha era basicamente*
+o que eu esperava.<space>
+Exceto por uma coisa...
+
+-------------------------------
+
+[m02_0010][0402]
+
+<face:0092>
+<sound:0018><blink><shake:0128>Nããoo! Lyyynne!*
+Aguente firme, baby!
+
+-------------------------------
+
+[m02_0015][0403]
+
+<face:00D3>
+Parece que algum pedaço de*
+tralha foi disparado nela*
+no topo da pilha de lixo lá de fora.<press>
+Bem, deixe-me dar uma olhada nela.*
+Talvez há algo que eu...<press>
+<face:0089>
+Desculpa mas não posso*
+permitir isso, Homem Pombo.<press>
+Eu investigo, e você*
+"superintende". Você tem o*
+seu trabalho, eu tenho o meu.<press>
+Vamos deixar cada um com sua*
+profissão, ceeeeerto?
+
+-------------------------------
+
+[m02_0017][0404]
+
+<face:00D3>
+É? Bem, é assim que*
+eu penso.<press>
+<sound:0016>Quanto "profissonal" você*
+se acha se permitiu ela levar*
+um tiro bem na sua frente?<press>
+<face:008E>
+<sound:0018><blink><shake:0128>Eu...!<press>
+<face:00D3>
+Enfim, faça como quiser.*
+Ficarei longe de sua cola.
+
+-------------------------------
+
+[m02_0060][0405]
+
+<face:0093>
+<sound:0018><blink><shake:0128>Doutor, por que demorou tanto?!*
+Pare de arrastar os pés!<press>
+<face:00CB>
+Quem você é para gritar assim comigo?*
+Tá, deixe eu dar uma olhada na vítima.<press>
+<fchat:0001>
+<blue>(Eu ainda não olhei,*
+mas já posso afirmar que ela*
+está morta.)<black><press>
+<blue>(A sua <red>segunda<blue> morte*
+na mesma noite, exatamente...)<black>
+
+-------------------------------
+
+[m02_0070][0406]
+
+<face:0093>
+<sound:0018><blink><shake:0128>E então, doutor?!*
+Você pode salvá-la?!*
+Ela não tá respirando...
+
+-------------------------------
+
+[m02_0075][0407]
+
+<face:00CB>
+<shake:0128><blink>Infelizmente não faço milagres.<press>
+A única coisa que podemos*
+fazer é amaldiçoar a mira*
+daquele que atirou nela.<press>
+<face:008F>
+Lyyynne... Como pude deixar isso*
+acontecer contigo...?
+
+-------------------------------
+
+[m02_0080][0408]
+
+<fchat:0001>
+Isso deve ser... um*
+porão. E aquele velho*
+de antes está aqui.<press>
+Não consigo ver muito bem*
+nesta escuridão, mas parece*
+ser uma sala bem estranha.<press>
+<blue>(De qualquer forma... Melhor*
+eu ir cuidar da Lynne.)<black>
+
+-------------------------------
+
+[m02_0420][0409]
+
+<fchat:0001>
+O que há com esse caderno rosa choque?<press>
+Alguém o colocou atrás da estante de*
+livros num ângulo não muito racional.<press>
+Talvez seja a maneira do*
+superintendente arrumar a casa?
+
+-------------------------------
+
+[m02_0090][040A]
+
+<change:010C>
+U{0CFF}{7800}<face:002B>
+<blue>(Inconsciente desta vez, hum?)<black><press>
+{07FF}<face:010C>
+{0CFF}{5A00}{06FF}<NJ:003C>
+Onde... eu estou...?{0CFF}{2D00}<sound:0016><blink><press>
+<face:0029>
+<sound:0015><blink>...!*
+<blue>(Está recuperando os sentidos?)<black><press>
+<face:010C>
+<NJ:003C>
+O que aconteceu comigo?<press>
+<face:0029>
+.........<press>
+<face:010C>
+<NJ:003C>
+Com licença...<press>
+<sound:0016><NJ:003C>
+Você está me ignorando?<press>
+<face:0036>
+<sound:0015><blink><shake:0128>Ah! Hum, me desculpe...<press>
+<change:0034>
+<end>
+Ainda não estou acostumado*
+a falar com os mortos, sabe.<press>
+<face:010C>
+<NJ:003C>
+"<red>Mortos<black>"? Então estou morta, hum...<press>
+<NJ:003C>
+Por mais que eu tente, não*
+consigo lembrar quem sou.<press>
+<face:002B>
+<blue>(Ela está começando a me fazer*
+lembrar de mim.)<black><press>
+<face:010C>
+<sound:0018><blink><shake:0128>{2EFF}n<center>{17FF}Quem eu sou?!{17FF}<press>
+<face:0034>
+Todo mundo aparenta lhe chamar de*
+"<red>Lynne<black>," se isso ajuda.<press>
+<face:010C>
+<NJ:003C>
+"Lynne", ein? Que nome bonitinho.<press>
+<face:0027>
+E, aparentemente, você é*
+uma <red>detetive<black>, também.<press>
+<face:010C>
+<NJ:003C>
+"Detetive"...? Quer dizer aquele tipo*
+de policial super maneiro que soluciona*
+crimes e defende a justiça?<press>
+<face:0034>
+Parece uma descrição bastante*
+subjetiva, mas, sim, esse tipo*
+de "detetive".<press>
+<face:010C>
+<NJ:003C>
+.........<press>
+<sound:0016><blink>{1EFF}{0C00}Ei, espera aí...<press>
+<face:003A>
+<sound:0015><blink>...!*
+Está começando a lembrar de*
+alguma coisa...?!<press>
+<face:010C>
+<sound:0018><blink><shake:0128>Não há tempo a perder!<press>
+{07FF}{0CFF}{1400}<show><wait>
+
+-------------------------------
+
+[m02_0093][040B]
+
+{06FF}<sound:0017><shake:0128><change:008A>
+1{1CFF}{0C00}<blink>Alguma coisa<red> bem inusitada <black>está*
+acontecendo esta noite!{0CFF}{0600}<blink><press>
+<face:002B>
+<blue>(É, eu certamente não irei*
+argumentar da parte "<red>bem inusitada<blue>".)<black><press>
+<change:0029>
+<end>
+<sound:0016>Essa não é seu rosto, sabe.*
+Dê uma olhada de novo.*
+Você é <red>a que está morta<black>.<press>
+<face:008A>
+<sound:0015><blink><shake:0128>Ah...! Mas é claro. Seria bem*
+esquisito se eu parecesse asssim, não seria?{1EFF}{1E00}<press>
+<face:002B>
+<blue>(Não sei se "esquisito" seria*
+a palavra certa...)<black><press>
+{07FF}<face:008A>
+{0CFF}{2800}<show><wait>
+
+-------------------------------
+
+[m02_0095][040C]
+
+{07FF}<sound:0017><shake:0128><change:0012>
+5<blink>{0CFF}{0600}<blink>{0CFF}{5A00}{1CFF}{0C00}{06FF}Pronto! Agora está certo!<press>
+<face:002B>
+<blue>("Alguma coisa <red>bem inusitada<blue> está*
+acontecendo nesta cidade hoje a noite"...)<black><press>
+<blue>(Será que tem a ver com a*
+minha morte?)<black><press>
+<change:0029>
+<end>
+Diga-me... O que ESTÁ havendo com esta*
+cidade hoje a noite...?<press>
+<face:0014>
+<sound:0016>Não me pergunte.<press>
+<face:002F>
+<sound:0015><blink>Hã?<press>
+<face:000E>
+Não lembro de nada...*
+Talvez seja porque estou morta.<press>
+<change:0010>
+<end>
+<sound:0018><blink><shake:0128>Grrr! Tudo está tão confuso!*
+Não dá para fazer algo?!<press>
+<face:0036>
+<sound:0018><shake:0128><blue>(Ei! Está pedindo pro cara errado.)<black><press>
+<change:002B>
+<end>
+Mas eu tenho algumas coisas para*
+perguntar a VOCÊ.
+
+-------------------------------
+
+[m02_0100][040D]
+
+Sobre eu
+
+-------------------------------
+
+[m02_0110][040E]
+
+<face:002B>
+Estou procurando pelas respostas das perguntas,*
+"Quem eu sou?" e "Por que fui assassinado?"<press>
+Você sabe de algo que possa*
+me ajudar?<press>
+<change:0029>
+<end>
+A única coisa que eu sei é que*
+o meu nome é "Sissel".<press>
+<face:000E>
+O seu nome é "Sissel", hã?<press>
+<face:0029>
+Eu acho que sim. E soa bastante*
+familiar também.<press>
+Creio que eu morri hoje a noite,*
+enquanto eu me encontrava contigo.<press>
+<change:0034>
+<end>
+Portanto você deve pelo menos me*
+conhecer... eu acho.<press>
+<face:0016>
+<blink>Eu estava me encontrando com você...?<press>
+<face:0029>
+Sim, no ferro velho.
+
+-------------------------------
+
+[m02_0120][040F]
+
+<face:000E>
+.........<press>
+É... está voltando a lembrança...<press>
+<change:0014>
+<end>
+<sound:0016><blink>Me lembro agora!
+
+-------------------------------
+
+[m02_0130][0410]
+
+<face:0027>
+<sound:0015><blink>Eu sabia! Sabia que você era a pista*
+que eu precisava!<press>
+<face:000E>
+Mas lamento.<press>
+<change:0004>
+<end>
+Não acho que possa te ajudar.<press>
+<face:0036>
+<blink><shake:0128>P-por que não?<press>
+<face:0004>
+<sound:0016>{1EFF}{0000}Porque <red>não te conheço<black>.<press>
+<face:002D>
+<sound:0018><blink><shake:0128>O-o que quer dizer?!*
+Pensei que você se lembrasse de mim?!<press>
+<face:0004>
+Não, eu disse que lembrei de algo.*
+Lembrei do fato de eu <red>não te*
+conhecer<black>.<press>
+<face:002F>
+<sound:0015><blink>{1DFF}{0900}{0001}{5A00}Ah não!
+
+-------------------------------
+
+[m02_0200][0411]
+
+A morte de Lynne
+
+-------------------------------
+
+[m02_0210][0412]
+
+<face:0014>
+Então eu <red>morri<black>, foi?<press>
+<face:0029>
+Aparentemente, sim.*
+Lamento.<press>
+<face:000A>
+Como isso pôde ter acontecido?*
+E logo depois de eu ter passado*
+no teste finalmente este ano?<press>
+Minha carreira emocionante de*
+capturar os bandidos apenas começou...<press>
+<change:0010>
+<end>
+<sound:0018><blink><shake:0128>E agora olha pra mim!*
+Por que eu tinha que morrer num ferro velho*
+desse?!<press>
+<face:002B>
+<blue>(Pobrezinha.*
+Está começando a cair a ficha...)<black>
+
+-------------------------------
+
+[m02_0220][0413]
+
+<center>E então eu contei tudo que ocorrera*
+<center>na noite de hoje.<space>
+<center>Sobre os truques fantasmas e*
+<center>a manipulação de objetos...<space>
+<center>E a ida a quatro minutos antes*
+<center>da morte de uma pessoa.
+
+-------------------------------
+
+[m02_0230][0414]
+
+<face:0029>
+Essa na verdade não é a primeira vez*
+que você morreu hoje, sabe.<press>
+Você foi baleada e assassinada*
+outra vez antes ainda hoje.<press>
+<face:0014>
+E... você me salvou...?<press>
+<face:0034>
+Exato. Não lembra?
+
+-------------------------------
+
+[m02_0240][0415]
+
+<face:0014>
+.........<press>
+<change:000E>
+<end>
+<sound:0016>Hum. Sim, acho que lembro*
+algo assim ter acontecido... vagamente.<press>
+Sim, eu fui baleada! Por um cara*
+azul vestido todo de preto<press>
+<face:0029>
+<blue>(Eu acho que isso significa que*
+mesmo tendo apagado a morte,*
+<red>a memória dela ainda continua<blue>.)<black>
+
+-------------------------------
+
+[m02_0250][0416]
+
+<face:001C>
+Então eu morri<red> duas vezes <black>só esta noite...<press>
+<face:0029>
+<blue>(Queria saber o que dizer a*
+ela... Acho que vou ter que esperar*
+até que ela se recupere um pouco.)<black><press>
+<face:001C>
+.........<press>
+<change:0012>
+<end>
+<sound:0015><blink><shake:0128>{1CFF}{0C00}Ei, aposto que é um novo*
+tipo recorde, não acha?!<press>
+<face:0036>
+<blink><shake:0128>Hum, é, acho que sim.*
+<blue>(Parece que ela já se*
+recuperou e tanto...)<black>
+
+-------------------------------
+
+[m02_0300][0417]
+
+Dois estranhos
+
+-------------------------------
+
+[m02_0310][0418]
+
+<face:0029>
+Você não me conhece então, não é?<press>
+<face:000E>
+Não. Gostaria que sim.<press>
+<face:002B>
+Então você acha que somos apenas dois*
+estranhos que chegarmos a nos conhecer*
+nesta noite...?<press>
+<face:000E>
+<sound:0016>De jeito nenhum. Não acho que foi acidental.<press>
+Por qual motivo eu iria estar*
+aqui no meio do nada sem nenhuma razão?<press>
+<change:0004>
+<end>
+Fui chamada a vir aqui.<press>
+<face:0036>
+<sound:0015><blink>"<red>Chamada a vir<black>..."? Por quem?<press>
+<face:0004>
+Não consegue advinhar para onde*
+isso está indo?<press>
+<face:002F>
+<blink><shake:0128>Está brincando. Q-quer dizer...?<press>
+<face:0012>
+<sound:0016>Bingo! Por você.<press>
+<face:003A>
+<sound:0018><blink><shake:0128>Eu te chamei para vir aqui?!*
+Mas por que?!<press>
+<face:0012>
+Isso era o que eu iria perguntar a VOCÊ.<press>
+<change:0004>
+<end>
+<sound:0016>Por que você me pediu para vir aqui*
+esta noite? Bem aqui no meio do nada?<press>
+<face:002D>
+<sound:0018><blink><shake:0128>Tá de brincadeira!<press>
+<blue>(Sem contar que eu não*
+me lembro!)<black><press>
+<face:000C>
+<sound:0018><blink><shake:0128>Grrr! Tudo está tão confuso!*
+Não dá pra fazer algo?!<press>
+<face:002D>
+<shake:0128>Hum...
+
+-------------------------------
+
+[m02_0400][0419]
+
+<face:0029>
+Lynne.<press>
+Não estou lhe dizendo que você me*
+deve algo, ou coisa do tipo,*
+mas tenho um favor a pedir.<press>
+<face:0004>
+<sound:0015><blink>E qual é?<press>
+<face:002B>
+Nos próximos quatro minutos, provavelmente*
+você voltará a viver.<press>
+<change:0029>
+<end>
+Quando voltar, será que você poderia*
+descobrir mais sobre mim?*
+Antes do amanhecer?<press>
+Quem eu sou? Por que fui assassinado?<press>
+<face:0014>
+.........{1EFF}{7800}<press>
+Lamento muito.<press>
+<change:001C>
+<end>
+<sound:0016><blink>Mas não posso fazer promessas.<press>
+<face:0036>
+<blink><shake:0128>Por que não?<press>
+<face:001C>
+Não consigo lembrar muito bem*
+agora...<press>
+Mas eu acho que estava investigando*
+um caso esta noite.<press>
+Um caso muito, muito importante*
+para mim. Então mesmo que eu volte a<press>
+viver...<press>
+<change:0014>
+<end>
+Não sei se irei ter tempo para*
+descobrir algo a seu respeito.<press>
+<face:0029>
+.........<press>
+<face:0014>
+Sei que é uma coisa terrível a se*
+dizer a uma pessoa que já salvou*
+a minha vida uma outra vez...<press>
+<change:001C>
+<end>
+Desculpe, lamento muito.<press>
+<face:0038>
+{1DFF}{0900}{0001}{7800}Entendo... É uma pena...<press>
+<face:001C>
+Mas mesmo assim irei de pedir...<press>
+<face:0029>
+Pedir o que?<press>
+<face:001C>
+Pedir para me salvar.<press>
+<change:0014>
+<end>
+Mesmo que eu provavelmente*
+não consiga te ajudar...<press>
+<face:0029>
+.........<press>
+<face:000A>
+Eu sei que é egoísmo da minha parte.*
+Realmente peço desculpas.<press>
+Mas... eu não posso morrer.*
+Ainda não. Não assim.<press>
+Estou investigando algo importante*
+hoje.<press>
+Eu creio que essa possa ser a*
+razão o qual fui assassinado.<press>
+<change:0014>
+<end>
+<sound:0018><blink><shake:0128>Mas eu ainda quero solucionar o caso,*
+a despeito de tudo isso!<press>
+Estou fora da linha?<press>
+<face:0029>
+.........<press>
+<sound:0016>Não te falei há um minuto que não*
+me deves nada?<press>
+<face:0016>
+<sound:0015><blink>Hã?<press>
+<face:0034>
+Eu certamente não irei tratar a sua*
+vida como um tipo de moeda de troca.<press>
+<change:0027>
+<end>
+Eu te salvarei. O que fizer daqui*
+em diante é por sua conta.<press>
+<face:0014>
+Obrigada.<press>
+<face:0027>
+Então, está pronta para voltar?<press>
+Voltar aos quatro minutos antes*
+de ser baleada?
+
+-------------------------------
+
+[m02_1440][0534]
+
+<fchat:0003>
+Essas fotos são velhas.*
+São sobre o quê? Pequenos*
+fragmentos de rocha?<press>
+E os fragmentos estão*
+brilhando... Você sabe*
+o que são essas coisas?<press>
+<fchat:0001>
+Desculpe, mas eu perdi*
+minha memória. Provavelmente*
+não sou a melhor pessoa...<press>
+...pra quem você deva*
+perguntar.<press>
+<fchat:0003>
+<sound:0015><blink>Tudo bem. E estava*
+apenas sendo educada. Não*
+esperava que você soubesse.<press>
+<fchat:0001>
+<blue>(Ai. A língua dela*
+é bem afiada.)<black><press>
+<fchat:0003>
+Ei, posso ouvir o que*
+você pensa, lembra?<press>
+<fchat:0001>
+<sound:0016>Eu sei.<press>
+<fchat:0003>
+Bonzão.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+O que seria isso? Parece*
+um cortador de unhas*
+gigante.<press>
+<fchat:0003>
+Você acha?<press>
+<fchat:0001>
+VOCÊ sabe o que é isso?<press>
+<fchat:0003>
+#suspiro#<press>
+<sound:0016>Porque você tinha*
+que me perguntar?!<press>
+Não viu que eu estava*
+totalmente distraído?!<press>
+<fchat:0001>
+Hã?<press>
+<fchat:0003>
+Isso é... um daquelas coisas*
+que os cientistas usam.<press>
+<sound:0018><blink><shake:0128>Pessoas comuns como nós*
+não precisam saber o que*
+é isso!<press>
+<fchat:0001>
+<blue>(Eu não lembro o que*
+um "cientista" é...)<black><press>
+<blue>(...mas é aparentemente*
+algo que a Lynne*
+não gosta muito.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+Essas fotos*
+parecem muito velhas.<press>
+Fotos de pequenos*
+fragmentos de rocha...<press>
+Aquele velho com o*
+pombo tem um gosto*
+estranho pra decoração.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+Eu não faço idéia da*
+finalidade desse instrumento.<press>
+Se é que muda alguma coisa,*
+essa mesa toda está cheia*
+de coisas que eu nunca vi.<press>
+Eu sei que perdi minha*
+memória, mas mesmo assim...<press>
+Aquele velho com o pombo*
+parece ser muito estranho.
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(Então o que exatamente*
+é essa coisa?)<black><press>
+<blue>(Parece um cortador*
+de unhas gigante pra mim...)<black><press>
+<fchat:000C>
+<sound:0016>Não, quase certeza*
+que não é isso.<press>
+É um instrumento usado*
+em medição e análise de*
+radiação.<press>
+<fchat:0001>
+<blink><shake:0128>A-ah. Aham. Sim, sei...<press>
+<fchat:000B>
+<sound:0015><blink>Você não está só, garoto.<press>
+Nenhum de nós entende*
+bem disso, querido!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>É! Você tá dizendo!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Fotos velhas... de coisas*
+que parecem pequenos*
+fragmentos de rocha.<press>
+<fchat:000C>
+Estes são fragmentos de*
+Onitsed.<press>
+É um artigo de antigamente*
+quando isto foi uma grande*
+notícia.<press>
+<fchat:000B>
+Dez anos atrás, ninguém*
+entendeu bem o que houve.<press>
+<fchat:000C>
+Eu acho que isso ainda*
+é verdade até hoje.
+
+-------------------------------
+

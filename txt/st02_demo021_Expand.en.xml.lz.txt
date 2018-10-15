@@ -1,0 +1,187 @@
+[m02_1440][0534]
+
+<fchat:0003>
+Essas fotos são antigas.*
+São feitas de quê? Pequenos*
+fragmentos de rocha?<press>
+E os fragmentos estão*
+brilhando... Você sabe*
+o que eles são?<press>
+<fchat:0001>
+Lamento, eu perdi a memória.*
+Provavelmente não sou a*
+melhor pessoa pra responder...<press>
+<fchat:0003>
+<sound:0015><blink>Está bem. Só estava*
+tentando ser educada. Eu achava*
+mesmo que você não soubesse.<press>
+<fchat:0001>
+<blue>(Ai. A língua dessa*
+garota pode ser afida.)<black><press>
+<fchat:0003>
+Eh... posso ouvir o que*
+está pensando, lembra?<press>
+<fchat:0001>
+<sound:0016>Eu sei.<press>
+<fchat:0003>
+Bonzão.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+O que isso poderia ser? Parece*
+um cortador de unhas gigante.<press>
+<fchat:0003>
+Você acha?<press>
+<fchat:0001>
+VOCÊ sabe o que é isso?<press>
+<fchat:0003>
+#suspiro#<press>
+<sound:0016>Por que você tem de me*
+perguntar?! Não viu que eu*
+estava olhando pro outro lado?!<press>
+<fchat:0001>
+Hã?<press>
+<fchat:0003>
+Isso... deve ser... uma dessas*
+coisas de ficção científica que*
+os cientistas usam.<press>
+<sound:0018><blink><shake:0128>Pessoas comuns como a gente*
+não precisam saber o que é!<press>
+<fchat:0001>
+<blue>(Eu não lembro exatamente*
+do que é "ciência"...)<black><press>
+<blue>(...mas aparentemente é*
+algo que Lynne não deve*
+gostar muito.)<black>
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+Essas imagens parecem*
+ser bastante velhas.<press>
+Imagens de pequenos*
+fragmentos de rocha...<press>
+Aquele homem pombo tem um*
+gosto bem estranho no que*
+se trata de decoração.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+Não tenho ideia para que*
+serve este instrumento.<press>
+Na realidade, esse balcão*
+todo está cheio de coisas*
+que eu nunca vi.<press>
+Eu sei que perdi minha*
+memória, mas mesmo assim...<press>
+Aquele homem pombo parece*
+ser um cara bem estranho.
+
+-------------------------------
+
+[m02_2060][060B]
+
+<face:00D3>
+Quanto tempo será que faz*
+desde que eu tranquei esta*
+sala no escuro?<press>
+Certa vez pensei que a verdade*
+podia ser descoberta na escuridão...<press>
+...Talvez tenha sido quando*
+não estava na hora certa.
+
+-------------------------------
+
+[m02_2070][060C]
+
+<face:0036>
+<blue>(ESSA é a <red>verdade<blue> por trás*
+do assassinato na sala fechada...?)<black><press>
+<face:000C>
+<sound:0017><blink><shake:0128>Então o "assassino" era*
+uma "<red>máquina assassina<black>" mecânica?!<press>
+<face:002F>
+"Máquina assassina"...?<press>
+<face:000E>
+Quando eu cheguei na sala,*
+tudo estava completamente escuro,*
+por isso acendi a luz.<press>
+<change:000C>
+<end>
+<sound:0016>Deve ter sido isso que deu*
+início à <red>máquina assassina<black>!<press>
+<face:0034>
+Será que você poderia parar de repetir*
+o termo "máquina assassina"?<press>
+<face:000E>
+Aquele cara do pombo deve ter*
+produzido ela. Mas por quê?<press>
+<face:002B>
+<blue>(Qual poderia ser o significado*
+por trás dessa sala estranha?)<black><press>
+<face:0012>
+Enfim, você precisa achar*
+um jeito de parar esse*
+mecanismo assustador.<press>
+Assim que o Cupido atirar*
+a flecha, será o fim.
+
+-------------------------------
+
+[m02_2440][0610]
+
+Ele desligou.
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(Mas afinal o que é*
+essa coisa?)<black><press>
+<blue>(Pra mim parece um cortador*
+de unhas gigante...)<black><press>
+<fchat:000C>
+<sound:0016>Não, certamente não*
+parece.<press>
+É um instrumento usado na*
+análise de radiação-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>Aaaaah tá. Sim, entendi...<press>
+<fchat:000B>
+<sound:0015><blink>Você não está só, garoto.<press>
+Nenhum do resto de nós*
+entende isso também, cara!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Isso! Falou e disse!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Imagens antigas... que parecem*
+com pequenos fragmentos*
+de rocha.<press>
+<fchat:000C>
+São fragmentos de Temsik.<press>
+Esse é um artigo de quando*
+eles eram grande novidade.<press>
+<fchat:000B>
+Dez anos atrás, ninguém havia*
+entendido eles por completo.<press>
+<fchat:000C>
+Acho que até hoje*
+isso ainda é verdade.
+
+-------------------------------
+

@@ -1,0 +1,455 @@
+[m03_0050][0A00]
+
+<face:00EE>
+Ligaram pra quê?*
+Ouvi você dizer "Lynne".
+
+-------------------------------
+
+[m03_0051][0A01]
+
+<face:00EA>
+Eu não sei. Mas se tivesse*
+que adivinhar, eu provavelmente*
+diria que...<press>
+<sound:0016>...<red>algo está acontecendo<black> com ela.<press>
+<face:00EE>
+<sound:0018><shake:0128><blink>Ha ha ha!<press>
+O único lugar no mundo*
+onde <red>nada está acontecendo<black> é*
+dentro do seu cérebro, Bailey!
+
+-------------------------------
+
+[m03_0150][0A02]
+
+Aaaaargh!
+
+-------------------------------
+
+[m03_0060][0A03]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>o que quis dizer*
+com isso?!<press>
+.........<press>
+<sound:0015><shake:0128><blink>Quero dizer, entendi o*
+que as palavras significaram... Não é*
+isso que estou perguntando.<press>
+Esse foi o meu jeito de*
+expressar indignação, colocando*
+ela em forma de pergunta...
+
+-------------------------------
+
+[m03_0070][0A04]
+
+<face:00EE>
+Só espero que Lynne não*
+esteja fazendo nenhuma maluquice.*
+Sou um grande fã dela, sabia?<press>
+<face:00EA>
+De acordo com o meu histórico...<press>
+Lynne esteve ligando pra cá quase*
+todas as noites recentemente.
+
+-------------------------------
+
+[m03_0091][0A07]
+
+<fchat:0001>
+Então, vamos ver...<press>
+Este é o lugar que Lynne*
+correu todo aquele risco*
+pra ligar, hum?<press>
+<blue>(Mas que lugar é*
+esse exatamente?)<black>
+
+-------------------------------
+
+[m03_0000][0A08]
+
+<face:00EE>
+Ei, o que é isso?
+
+-------------------------------
+
+[m03_0010][0A09]
+
+<face:00EA>
+Ah, isso? Eu escrevi as minhas*
+tarefas de hoje à noite, assim*
+não esquecerei de nenhuma delas.<press>
+<face:00EE>
+Não consegue mantê-las na sua*
+mente? Até porque não tem*
+aqui um "monte" de tarefas.<press>
+Use um pouco do poder do seu cérebro.
+
+-------------------------------
+
+[m03_0020][0A0A]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>Está falando do quê?!<press>
+<sound:0017><shake:0128><blink>Você não acabou de dizer*
+que nada acontecia dentro dele?!<press>
+<face:00EE>
+.........<press>
+Hum, não pensei que você fosse*
+levar isso tão sério...
+
+-------------------------------
+
+[m03_0030][0A0B]
+
+<face:00EE>
+Certo, vamos ver essa sua importante*
+lista de "afazeres"... "9:00: Levar o*
+Prisioneiro C38 à sala de telefone."<press>
+<face:00EA>
+Sim, ele acabou de fazer um*
+pedido pra usar o telefone*
+uns minutos atrás.<press>
+<face:00EE>
+9:00, hum? Geralmente é nessa*
+hora que Lynne costuma ligar.<press>
+<face:00EA>
+Bem, não podemos deixá-la falar*
+com "ele" hoje. Regras são regras.<press>
+<face:00EE>
+Ah, pobre Lynne. Queria*
+mesmo poder consolá-la...
+
+-------------------------------
+
+[m03_0040][0A0C]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>O-o que acha que tá*
+fazendo?! Esse é o meu importante*
+"bilhete de tarefas"!<press>
+<face:00EE>
+Tudo bem. Eu já memorizei*
+ele todinho pra você.<press>
+<face:00EA>
+B-bem, é o seu dever vigiar*
+a sala de telefone, sabia né?!
+
+-------------------------------
+
+[m03_0041][0A0D]
+
+<face:00EC>
+<shake:0128><blink>Não se esqueça de fazer o*
+seu trabalho quando a hora chegar!
+
+-------------------------------
+
+[m03_0100][0A0E]
+
+<face:0014>
+Olá?<press>
+<face:00EA>
+<sound:0016>L-Lynne!<press>
+<face:0014>
+<shake:0128><blink>Me desculpe. Eu não tenho muito*
+tempo. Por favor, deixe-me falar com*
+ele!<press>
+<face:00EA>
+P-perdão, Detetive. Não posso*
+permitir hoje.<press>
+<face:001C>
+Não pode...? Mas antes você*
+sempre me deixava falar com ele...<press>
+<face:00EA>
+Bem, é que... a sala de telefone*
+já está reservada...*
+É por isso.<press>
+<face:001C>
+<shake:0128>Ah... #sniff#<press>
+<face:00EA>
+Afinal, está acontecendo alguma*
+coisa contigo hoje?<press>
+<face:0016>
+<sound:0015><blink>Quê...? Por que pergunta?<press>
+<face:00EA>
+Recebi uma ligação de um dos*
+outros detetives um minuto*
+atrás perguntando sobre você.<press>
+<face:0004>
+A-ah, sério? Bom, não acho que*
+seja algo importante...<press>
+Oficial Bailey...?<press>
+<change:000E>
+<end>
+Você acha que poderia manter*
+essa chamada só entre nós?<press>
+Mesmo que apenas por hoje?<press>
+<face:00EA>
+Bem, eu... eh...
+
+-------------------------------
+
+[m03_0100a][0A0F]
+
+Ah!
+
+-------------------------------
+
+[m03_0100b][0A10]
+
+<face:0014>
+Olha, tenho que ir!*
+Amahã eu ligo de novo!
+
+-------------------------------
+
+[m03_0110][0A11]
+
+<face:00EA>
+Ah, cara... Bom, acho melhor*
+ligar para a divisão de detetives...
+
+-------------------------------
+
+[m03_0120][0A12]
+
+<face:00EE>
+<shake:0128><blink>Espera aí, Bailey!<press>
+<face:00EA>
+O que foi?<press>
+<face:00EE>
+Não me diga que você vai reportar*
+essa chamada da Lynne?<press>
+<face:00EA>
+O que mais posso fazer?*
+Meu dever é esse.<press>
+<face:00EE>
+Por que não escreve na tua*
+importante "lista de afazeres"?!<press>
+Porque assim eu poderei amassá-la e*
+jogá-la fora pra você.
+
+-------------------------------
+
+[m03_0130][0A13]
+
+<face:00EA>
+<sound:0016>Quer dizer então que é pra eu*
+<red>ficar calado<black> a respeito disso?<press>
+<face:00EE>
+Bom, não foi isso que ela*
+pediu pra você?<press>
+<face:00EA>
+Bem... sim, mas...<press>
+<face:00EE>
+Hoje é um tipo de*
+"caso especial" pra nós.<press>
+Você não podia fazer uma exceção*
+especial pra minha Lynne também?<press>
+<face:00EA>
+#suspiro#<press>
+"Caso especial", é?*
+Tá, você venceu.
+
+-------------------------------
+
+[m03_0140][0A14]
+
+<fchat:0001>
+Eu não sei do que ELES*
+acham que é "especial"*
+este noite...<press>
+...mas, pra MIM, é a*
+minha "única" noite.<press>
+Lynne está no outro lado*
+da linha telefônica.*
+Melhor eu andar logo.
+
+-------------------------------
+
+[cab_demo_00][1A00]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>Você de novo! Brincando*
+com esse negócio!
+
+-------------------------------
+
+[cab_demo_01][1A01]
+
+<face:00EE>
+Não fui eu.<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Não minta! Você sabe que*
+adora me ver pular e e*
+preparar para emergência!<press>
+<face:00EE>
+Ah, sim, certo, mas isso foi*
+quando foi minha primeira vez aqui.<press>
+Mas já cansei disso agora.*
+Até porque você sempre reage*
+do mesmo jeito.<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Grrr...!<press>
+<face:00EE>
+O interruptor de emergência está*
+provavelmente foglado. Talvez porque*
+tenha brincado demais com ele...<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Ora, é para emergências!*
+Não brinque com ele!<press>
+<face:00EE>
+Tá, mas não fui eu. Talvez*
+você deveria repará-lo, não?
+
+-------------------------------
+
+[cab_demo_02][1A02]
+
+<face:00EA>
+<sound:0018><shake:0128><blink>Bom, deixe-o como estava!*
+Está me deixando no limite.<press>
+<face:00EE>
+Nem. Dá muito trabalho.<press>
+<face:00EA>
+"Trabalho"?! Medidas de emergência*
+dão "trabalho" pra você?!*
+Que situação deplorável...
+
+-------------------------------
+
+[cab_demo2_00][1A03]
+
+<face:00EE>
+Era o tipo de animação que eu*
+precisava para despertar!<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Eu te falei, é para*
+somente para emergências!*
+Não brinque com isso!<press>
+<face:00EE>
+E eu já disse, não fui eu!
+
+-------------------------------
+
+[cab_demo2_01][1A04]
+
+<face:00EE>
+Sabe, pensei que esse emprego*
+fosse bem mais animador.<press>
+Tem vez que não sei qual é o meu*
+trabalho verdadeiro, fazer as rondas,*
+ou construir castelos de cartas!<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Bom, é MELHOR que saiba!<press>
+<face:00EE>
+E você DEVE saber que*
+eu só tava brincando.<press>
+<face:00EA>
+Grrr...!
+
+-------------------------------
+
+[cab_demo2_02][1A05]
+
+<face:00EE>
+Justo o tipo de emoção que*
+precisava para acordar!<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Cara, eu te disse, é somente*
+para emergências!*
+Não brinque com isso!<press>
+<face:00EE>
+E eu te disse, não fui eu!<press>
+Sabe, pensei que esse emprego*
+fosse bem mais animador.<press>
+Tem vez que não sei qual é o meu*
+trabalho verdadeiro, fazer as rondas,*
+ou construir castelos de cartas!<press>
+<face:00EA>
+<sound:0018><shake:0128><blink>Bom, é MELHOR que saiba!<press>
+<face:00EE>
+E você DEVE saber que*
+eu só tava brincando.<press>
+<face:00EA>
+Grrr...!
+
+-------------------------------
+
+[m03_9000][1900]
+
+Extensão interna
+
+-------------------------------
+
+[m03_9010][1901]
+
+Linha externa
+
+-------------------------------
+
+[m03_9030][1903]
+
+Celas superiores
+
+-------------------------------
+
+[m03_9040][1904]
+
+Celas inferiores
+
+-------------------------------
+
+[m03_9050][1905]
+
+Detenção Especial
+
+-------------------------------
+
+[m03_9055][1906]
+
+Mortuário
+
+-------------------------------
+
+[m03_9070][1908]
+
+<face:0044>
+A tela mostra linhas*
+de pequenas salas.<press>
+As salas são bem, bem pequenas.*
+E você pode ver bem o*
+interior delas por fora.<press>
+Acho que as barras abertas mantém*
+a sala arejadas, mas eu não gostaria*
+de viver lá, sinceramente...<press>
+Onde será que essas salinhas*
+estão?
+
+-------------------------------
+
+[m03_9100][190B]
+
+<fchat:0001>
+Não adianta. Não consigo usar*
+as linhas telefônicas agora.<press>
+<fchat:0009>
+"Agora"...?<press>
+<fchat:0001>
+Só posso me mover por*
+elas no passado quando estão*
+<red>em uso<black>.<press>
+Infelizmente, isso também se*
+aplica às extensões internas*
+também.<press>
+<fchat:0009>
+Entendo... Parece que a vida*
+é dura para todos. Inclusive*
+você.<press>
+<fchat:0001>
+E você também.
+
+-------------------------------
+

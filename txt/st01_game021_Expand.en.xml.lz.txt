@@ -1,0 +1,759 @@
+[m01_2196][031B]
+
+<face:0089>
+Continuem, garoootos.
+
+-------------------------------
+
+[m01_2260][031E]
+
+<face:00CC>
+Acho que nós podemos assegurar*
+que essa foi a <red>arma do crime<black>.
+
+-------------------------------
+
+[m01_2270][031F]
+
+<face:00C9>
+<sound:0015><blink>Ah, não... Esta pistola...
+
+-------------------------------
+
+[m01_2275][0321]
+
+<face:00CC>
+<sound:0016>{28FF}0KÉ. O mesmo modelo de pistolas*
+que vocês <red>detetives<black> usam.<press>
+<face:00C9>
+Você não acha que...*
+foi a Lynne, acha...?<press>
+<face:00C6>
+Isso não é bom. Se isto*
+for dela, está tudo acabado.
+
+-------------------------------
+
+[m01_2285][0324]
+
+<face:00CC>
+<sound:0018><blink><shake:0128>Idiota! Se você quer*
+atirar, mire na sua própria direção!<press>
+<face:00C9>
+<blink><shake:0128>E-eu não atirei!*
+Eu que sou a vítima!<press>
+Isso é coisa de quem tem inveja*
+de minhas habilidades como detetive!<press>
+<face:00C6>
+Ei, por que você está olhando assim*
+pra mim? Não tenho inveja sua.<press>
+
+-------------------------------
+
+[m01_2360][0331]
+
+<face:0083>
+Estive esperando por você.<press>
+<face:0015>
+<sound:0015><blink><shake:0128>Uah! O-o que é você?!<press>
+<face:0015>
+<sound:0015><blink>Uma luminária de mesa... parece*
+um vovô idoso...?<press>
+<face:0083>
+Me chame apenas de "Ray."<press>
+<face:000D>
+"Vovô Ray"...?<press>
+<face:002B>
+<blue>(Você tinha que pegar*
+a parte do "vovô" de*
+algum lugar, não é?)<black><press>
+<face:0083>
+Nós somos espíritos. Podemos*
+escolher <red>qualquer aparência<black>*
+que quisermos.<press>
+<face:0027>
+O que significa que você*
+não tem intenção alguma*
+de mostrar como você é, certo?<press>
+<face:0083>
+.........<press>
+Pois bem. Sobre aquele*
+tiro que tirou a sua vida...<press>
+<face:0013>
+<sound:0015><blink>...!<press>
+<face:0083>
+Ouvi o som vindo lá de cima,*
+há alguns minutos.
+
+-------------------------------
+
+[m01_2370][0332]
+
+<face:0086>
+O assassino está provavelmente*
+preparando seu rifle agora.<show>
+
+-------------------------------
+
+[m01_2380][0333]
+
+<face:0011>
+<blink><shake:0128>Tudo bem, estou indo! Vou pegá-lo*
+com aqueles meus "truques fantasmas"!<press>
+<face:0083>
+Me desculpe, mocinha...<press>
+<sound:0016>...mas você <red>não tem<black>*
+esses poderes.<press>
+<face:0015>
+<sound:0015><blink>Quê?! Por que não?!<press>
+<face:0083>
+Infelizmente não sei qual a razão.<press>
+Mas apenas alguns especiais*
+possuem os poderes dos mortos.<press>
+<face:000F>
+<sound:0018><shake:0128><blink>Quê?! Você está dizendo*
+que eu não sou especial?!*
+Isso não é justo!<press>
+<face:0083>
+De toda forma, nós temos*
+pouco tempo.
+
+-------------------------------
+
+[m01_2385][0334]
+
+<face:0083>
+Venha e pule aqui.
+
+-------------------------------
+
+[m01_2386][0335]
+
+<fchat:0001>
+<sound:0016>Isso é inútil.<press>
+<fchat:0003>
+Qual o problema?<press>
+<fchat:0001>
+Esse telefone não parece*
+estar funcionando agora.<press>
+No mundo dos "quatro minutos*
+antes da morte", não podemos usar*
+o telefone a qualquer hora.<press>
+<fchat:0003>
+Acho que é uma mensagem*
+dos deuses.<press>
+<fchat:0001>
+Mensagem dos deuses?<press>
+<fchat:0003>
+<sound:0017><shake:0128><blink>Correto. Estão dizendo*
+para ficarmos bem aqui e*
+encontrar esse assassino.<press>
+<fchat:0001>
+É uma mensagem muito*
+específica e personalizada*
+dos deuses, não é?
+
+-------------------------------
+
+[m01_2600][0336]
+
+<fchat:0003>
+Aquele assassino terrível*
+que está atrás de mim, está*
+lá em cima, não está?<press>
+<fchat:0001>
+Sim, aparentemente.<press>
+<blue>(Em outras palavras...)<black><press>
+<blue>(...nós <red>não podemos pará-lo<blue>*
+se ficarmos aqui em baixo!)<black><press>
+<fchat:0003>
+<blink><shake:0128>Vamos lá, então!<press>
+Eu não sou muito fã*
+da idéia de levar outro tiro.
+
+-------------------------------
+
+[m01_2601][0337]
+
+<fchat:0003>
+Aí vai ele.<press>
+<fchat:0001>
+É. Nós devíamos*
+ir também.<press>
+<fchat:0003>
+Parece que nós perdemos,*
+sabe?<press>
+E se há uma coisa que*
+eu detesto é perder*
+uma corrida.<press>
+<fchat:0001>
+Não fui avisado de que*
+estávamos em uma corrida*
+com o inspetor.<press>
+<fchat:0003>
+<sound:0015><blink>Imagine uma bandeira quadriculada,*
+você corre de vermelho, ele de*
+branco, uma corrida até o topo!<press>
+<fchat:0001>
+<blue>(#suspiro# Talvez eu deva*
+simplesmente ceder ao que*
+ela diz e tentar novamente.)<black>
+
+-------------------------------
+
+[m01_2620][0338]
+
+<fchat:0003>
+Bem, conseguimos! Agora*
+é hora de caçar esse*
+terrível assassino!<press>
+<fchat:0001>
+Ele deve estar por aqui*
+em algum lugar,*
+se preparando para atirar.<press>
+Não há muito tempo.*
+Vamos tentar encontrá-lo,*
+rápido.<press>
+<fchat:0003>
+Farei com que ele entenda*
+de uma vez por todas...<press>
+<sound:0017><blink><shake:0128>...o que acontece a aqueles*
+que apontam armas para*
+os outros!<press>
+<fchat:0001>
+<blue>(Há um forte brilho*
+no olhar dela, capaz de*
+cegar alguém...)<black>
+
+-------------------------------
+
+[m01_2630][0339]
+
+<fchat:0003>
+Olhe! Aí está ele, bem*
+ali! O terrível assassino!<press>
+<fchat:0001>
+<blue>(Acho que o nome dele*
+na verdade é "Tengo", mas*
+não importa.)<black><press>
+<fchat:0003>
+<sound:0017><shake:0128><blink>Vamos lá! Vamos*
+fazê-lo em pedaços!<press>
+<fchat:0001>
+Gostaria que você não usasse*
+expressões assim tão*
+violentas. Além disso...<press>
+<sound:0018><shake:0128><blue>(Não vejo nenhum núcleo*
+para nos levar até lá.)<black><press>
+<blue>(Acho que já devemos*
+ter <red>perdido nossa chance.)<black><press>
+<blue>(<red>Sincronismo<blue> é tudo.)<black>
+
+-------------------------------
+
+[m01_2670][033A]
+
+<face:007E>
+Vejo meu alvo.*
+É hora de agir.<press>
+Serei o líder da divisão*
+de assassinos até o*
+próximo mês, com certeza.
+
+-------------------------------
+
+[m01_2675][033B]
+
+<face:000B>
+<sound:0015><blink><shake:0128>Aí está ele! O terrível assassino!<press>
+<face:002C>
+<blue>(Acho que o nome dele na verdade*
+é "Tengo", mas*
+não importa agora.)<black><press>
+<change:0028>
+<end>
+Temos que impedí-lo*
+de atirar... rápido!
+
+-------------------------------
+
+[m01_2540][033C]
+
+<face:002B>
+Hum. Ele está dizendo algo,*
+mas eu <red>não consigo ouvir<black> daqui.
+
+-------------------------------
+
+[m01_2700][033D]
+
+<face:0027>
+Aí está. Ao menos nós*
+conseguimos impedir esse*
+tiro.<press>
+<face:0006>
+<sound:0015><blink><shake:0128>Conseguimos! Então estou salva*
+agora, certo?<press>
+<face:0034>
+Bem, isto mudou seu destino*
+um pouco, mas eu não o*
+evitei completamente.<press>
+Nós não terminamos ainda.*
+Aquele assassino é um*
+profissional.<press>
+Ele parece querer muito*
+ser o líder entre eles.<press>
+<change:002B>
+<end>
+<sound:0016><blue>(Duvido que ao*
+impedir um tiro aqui e*
+acolá irá impedí-lo de fato.)<black><press>
+<face:0012>
+<blink>Se você quiser ser um pouco mais*
+incisivo eu prometo que não*
+colocarei isso no meu relatório.<press>
+<face:0027>
+Vamos pensar <red>no que mais*
+podemos fazer<black> antes*
+que ele acerte um tiro!
+
+-------------------------------
+
+[m01_2680][033E]
+
+<face:007E>
+"Se eu quiser essa posição,*
+tenho que tomar cuidado com*
+qualquer pequena luz."<press>
+Ser o líder da divisão é*
+a minha ambição para este*
+ano.<press>
+No próximo, meu lema será*
+"Se eu quiser ser o diretor,<press>
+tenho que tomar cuidado com cada*
+pequeno escândalo."<press>
+<face:002C>
+Então parece que ele<red> não*
+quer aparecer<black> em lugares*
+onde uma <red>luz está acesa<black>.<press>
+<face:007E>
+<sound:0015><blink>E, no próximo ano,*
+espalharei alguns escândalos*
+sórdidos sobre ele!
+
+-------------------------------
+
+[m01_2660][033F]
+
+<face:00BF>
+Ei, você que ligou aqueles*
+refletores?<press>
+<face:00C5>
+Não fui eu. Parece que*
+se acendeu sozinho. Tô*
+até ficando assustado.<press>
+<face:00BF>
+<sound:0016>Bem, apenas cuide para que*
+você não mexa em nada.<press>
+Não quero que*
+desperdice eletricidade.<press>
+<face:00C5>
+As contas estão assim tão*
+apertadas? Isso é triste.<press>
+<face:00BF>
+Estão nos colocando em maus lençóis*
+por estarmos iluminando muito*
+os locais dos crimes.<press>
+Eles não nos deixarão*
+usar mais nem as lanternas.<press>
+<face:00C5>
+Caramba...<press>
+Nós devíamos poder usar*
+muita eletricidade pelo menos*
+em noites escuras como esta.
+
+-------------------------------
+
+[m01_2665][0340]
+
+<face:00BF>
+<sound:0018><shake:0128><blink>Ei, eu disse a você*
+para desligar isso!<press>
+<face:00C5>
+<sound:0018><shake:0128><blink>E eu disse a você que*
+não fui eu!<press>
+<face:00BF>
+Oh-ou... Acho que já sei o*
+que está havendo aqui...<press>
+<sound:0016>Isso é coisa de... você*
+sabe.<press>
+<face:00C5>
+<sound:0015><blink><shake:0128>Quê? Ei, cale a boca!*
+Você está me assustando!<press>
+<face:00BF>
+Mas você sabe tanto quanto*
+eu, a única explicação para*
+coisas tão estranhas é...<press>
+<sound:0016>...o Inspetor Cabanela!<press>
+<fchat:0001>
+Dizem as más línguas que*
+ele é como se fosse*
+um fantasma, hã?<press>
+<fchat:0003>
+<shake:0128><blink>Mas o Inspetor Cabanela é*
+uma pessoa muito bacana!
+
+-------------------------------
+
+[m01_2609][0341]
+
+<fchat:0001>
+Hum. Nada acontece.<press>
+Engraçado.<press>
+Pensei que essa alavanca*
+era para balançar o braço*
+do guindaste.<press>
+<fchat:0003>
+Eu queria lançar esse*
+terrível assassino pra*
+bem longe!<press>
+<fchat:0001>
+<blue>(Hum. Esse guindaste...)<black><press>
+<blue>(Será que tem mais algum*
+jeito de utilizá-lo?)<black>
+
+-------------------------------
+
+[m01_2610][0342]
+
+<fchat:0001>
+Oh-ou. O guarda-chuva foi*
+arremessado para lá...<press>
+<blue>(Agora nós não podemos ir a*
+lugar algum.)<black><press>
+<fchat:0003>
+Acho que é isso o que você*
+ganha por tocar no guarda-*
+chuva do Inspetor Cabanela.<press>
+Ele está sempre preparando*
+armadilhas para as*
+pessoas.<press>
+<fchat:0001>
+Droga. E agora?<press>
+<blue>(Provavelmente devíamos*
+ter guardado o guarda-chuva*
+para quando precisássemos.)<black><press>
+<blue>(Talvez devêssemos*
+recomeçar.)<black>
+
+-------------------------------
+
+[m01_2690][0343]
+
+<face:007E>
+Hum. Essa é uma distância*
+grande até o alvo...<press>
+Mas não posso trabalhar*
+sob um local iluminado,*
+então será aqui mesmo.<press>
+Esquece. Um tiro como esse*
+não é nada para um homem*
+habilidoso como eu.<press>
+<face:000E>
+"Sr. Chefe da Divisão"*
+parece gostar de locais*
+escuros e sombrios.<press>
+Eu adoraria jogá-lo em*
+uma cela bem escura!<press>
+<change:0012>
+<end>
+<sound:0017><blink><shake:0128>Vamos lá, Sissel. Pegue-o!<press>
+<face:0030>
+<blue>(Calma aí! Quando foi que*
+eu virei assistente DELA?!)<black>
+
+-------------------------------
+
+[m01_2650][0344]
+
+<fchat:0003>
+<sound:0015><blink>Ah! Olhe alí! Um dos*
+refletores apagou.<press>
+<fchat:0001>
+Há três refletores aqui*
+no total.<press>
+Aparentemente, nós <red>não*
+podemos ter todos os três*
+ligados ao mesmo tempo<black>.<press>
+<fchat:0003>
+Nossa estação geradora*
+de eletricidade é*
+muito fraca.<press>
+Uma vez eu tive que*
+pedalar minha bicicleta no*
+local de trabalho,<press>
+só para acender a luz para*
+que outro detetive pudesse*
+ver o que estava fazendo.<press>
+<fchat:0001>
+Uma história muito triste,*
+certamente.<blue>(Parece que*
+isso tá indo longe demais.)<black>
+
+-------------------------------
+
+[m01_2655][0345]
+
+<fchat:0003>
+<sound:0015><blink>Olhe! Um dos*
+refletores apagou!<press>
+<fchat:0001>
+Existem três refletores*
+ao todo aqui.<press>
+Aparentemente, nós <red>não*
+podemos acender os três*
+ao mesmo tempo<black>.
+
+-------------------------------
+
+[m01_2640][0346]
+
+<fchat:0003>
+.........<press>
+Uau. Que força...*
+e velocidade.<press>
+Aposto que daria um jeito*
+nesse assassino horrível.<press>
+<fchat:0001>
+Se eu o parasse,*
+tudo ficaria bem.<press>
+<sound:0016>Mas se isso o matasse,*
+Eu seria obrigado a salvá-lo?<press>
+<fchat:0003>
+.........<press>
+De toda forma... vamos tentar*
+nos focar na parte de*
+"pará-lo".<press>
+<fchat:0001>
+<blue>(Aparentemente, pensar*
+em coisas muito profundas não*
+é algo muito bom a se fazer.)<black><press>
+<fchat:0003>
+Só na medida certa.*
+É assim que os detetives*
+gostam de pensar nas coisas!<press>
+<sound:0017><shake:0128><blink>Agora, vamos!*
+Vamos logo com isso!<press>
+Aah, eu adoro soltar meu*
+lado má! Me faz me sentir*
+tão <red>viva<black>!<press>
+<fchat:0001>
+<blue>(Exceto pelo fato de*
+você estar <red>morta<blue>.)<black>
+
+-------------------------------
+
+[m01_2710][0347]
+
+<face:007E>
+Reflexões de um Assassino, Parte 1.*
+Quando eu disparo uma bala, coloco meu*
+coração e alma.<press>
+O tiro é a expressão de minha alma.
+É por isso que eu nunca desperdiço munição.<press>
+Além disso eu teria que recarregar a*
+arma, um desperdício de tempo e dinheiro,*
+e o contratante nunca gosta disso.<press>
+<face:0010>
+<sound:0018><shake:0128><blink>Mas que diabos*
+esse idiota está murmurando?!<press>
+<face:0034>
+Ei, não me culpe por*
+isso!<blue>(Nós temos que*
+parar esse cara.)<black>
+
+-------------------------------
+
+[m01_2720][0348]
+
+<face:007E>
+Reflexões de um assassino, Parte 2.*
+Ao disparar uma bala, preciso de um*
+local silencioso e estável.<press>
+Ao mirar meu rifle, o local escolhido deve*
+estar firme e estável.<press>
+Caso contrário, qualquer pequena influência*
+externa poderia me fazer errar o alvo.<press>
+<face:0010>
+<sound:0018><shake:0128><blink>Sobre o que esse*
+idiota está murmurando?!<press>
+<face:0034>
+Ei, não se irrite comigo!*
+<blue>(Temos que fazer*
+algo... rápido.)<black>
+
+-------------------------------
+
+[m01_2730][0349]
+
+<face:007E>
+Reflexões de um assassino, Parte 3.*<press>
+Quando disparo uma bala, eu procuro sempre*
+apoioar meu queixo. "Um rifle é sempre*
+imparcial quando machuca alguém.<press>
+Ele pode até machucar o caçador assim*
+como a caça."<press>
+Essa citação é de um assassino que*
+mordeu a própria língua devido ao*
+recuo que sua arma deu após o disparo.<press>
+Não tenho intenção de*
+morder minha língua. Quero*
+apenas acertar minha presa.<press>
+<face:0010>
+<sound:0018><shake:0128><blink>Mas que diabos*
+esse idiota está murmurando?!<press>
+<face:0034>
+Ei, não se zangue comigo!*
+<blue>(Oh-ou. Estamos ficando*
+sem tempo...)<black>
+
+-------------------------------
+
+[m01_2740][034A]
+
+<face:00BF>
+Você ouviu um barulho*
+agorinha?<press>
+<face:00C5>
+<sound:0018><shake:0128><blink>Já lhe disse que não fui eu!<press>
+<face:00BF>
+Ninguém disse que foi você.
+
+-------------------------------
+
+[m01_2750][034B]
+
+<face:002B>
+Aí está.<press>
+<change:0027>
+<end>
+Encontramos um ótimo lugar*
+escuro para nosso obscuro*
+assassino.<press>
+Acho que sua morte acabou*
+de ser apagada. Novamente.
+
+-------------------------------
+
+[m01_2760][034C]
+
+<face:0014>
+Mas por que não...?<press>
+<face:0029>
+<sound:0015><blink>Hã?<press>
+<face:0014>
+Por que eu não tenho*
+<red>poderes<black> como os seus?<press>
+Se eu pudesse fazer algo*
+assim, poderia ter me ajudado*
+a perseguir meu caso...<press>
+<change:001C>
+<end>
+<sound:0016>Por que apenas os*
+"<red>especiais<black>," hã?*
+Isso não é justo!<press>
+<face:002B>
+<blue>(É a mesma coisa que*
+o cãozinho disse, também.)<black><press>
+<change:0027>
+<end>
+Bem, estou com inveja de VOCÊ*
+na verdade.<press>
+<face:0016>
+<blink><shake:0128>Está? Por quê?<press>
+<face:0027>
+Porque sua vida pode ser*
+salva. Mesmo que você morra*
+novamente esta noite.<press>
+Eu posso salvar você, com*
+meus truques fantasma.<press>
+<change:0034>
+<end>
+<sound:0016>Ninguém pode salvar minha*
+vida, no entanto.<press>
+<face:0016>
+<sound:0015><blink>Ah...<press>
+<face:0027>
+<blue>(Esses poderes dos mortos...*
+por quê eles <red>me escolheram<blue>?)<black><press>
+<change:002B>
+<end>
+<blue>(Será que encontrarei a*
+resposta para essa pergunta*
+esta noite?)<black><press>
+<face:001C>
+Sissel... me desculpe.<press>
+<face:0027>
+Bem, você é livre para*
+fazer o que quiser agora.<press>
+Acho que isso é uma*
+despedida, Detetive.<press>
+<face:001C>
+Iremos nos encontrar*
+novamente algum dia?<press>
+<face:0027>
+Se você quiser me ver*
+novamente, tudo o que tem que*
+fazer é morrer.<press>
+<face:0006>
+<sound:0015><blink><shake:0128>Certo, entendi!<press>
+<face:002F>
+<blue>(Eu estava brincando.)<black><press>
+<change:0027>
+<end>
+Bem, acho que é melhor*
+nós voltarmos... para o*
+presente!
+
+-------------------------------
+
+[m01_2530][034D]
+
+<face:002B>
+O tiro veio de algum*
+lugar <red>lá de cima<black>.<press>
+<change:0027>
+<end>
+Se nós quisermos pará-lo,*
+temos que ir onde ele está.<press>
+Mas nós teremos que*
+encontrá-lo primeiro...<press>
+<change:002B>
+<end>
+<blue>(Temos que procurar pelo <red>momento<blue>*
+certo por um caminho que se abre*
+até onde o assassino está.)<black>
+
+-------------------------------
+
+[m01_2535][034E]
+
+<face:002B>
+Mesmo se nós impedirmos que ele*
+atire, isso só irá nos dar um*
+pouco mais de tempo.<press>
+<change:0029>
+<end>
+Não acho que nós podemos*
+fazer com que ele desista*
+completamente de atirar.<press>
+<face:0011>
+<sound:0015><blink>O único modo de*
+lidar com mau é destruí-lo*
+completamente!<press>
+<face:002B>
+<blue>(Essa detetive é*
+um pouco exagerada...)<black>
+
+-------------------------------
+

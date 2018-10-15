@@ -1,0 +1,288 @@
+[m01_1010][0201]
+
+{20FF}Í<center>Quando voltei*
+<center>ao presente, chovia.
+
+-------------------------------
+
+[m01_1015][0202]
+
+<center>Eu havia salvado a vida desta*
+<center>estranha sentada ali,*
+<center>triste sob a chuva.<space>
+<center>Logo agora que minha vida havia*
+<center>chegado ao seu final...
+
+-------------------------------
+
+[m01_1020][0203]
+
+Atchim!
+
+-------------------------------
+
+[m01_1030][0204]
+
+{22FF}2<center>Uma "estranha"...<space>
+<center>Essa palavra desperta algo em mim.<space>
+<center>E uma terrível verdade começa a*
+<center>emerger...
+
+-------------------------------
+
+[m01_1040][0205]
+
+{22FF}3{20FF}Z<center>Eu não lembro de nada.<press>
+<center>Quem sou?<space>
+<center>Que lugar é este?<space>
+*
+<center>E, o mais importante...
+
+-------------------------------
+
+[m01_1060][0206]
+
+{22FF}3{20FF}Í<center>Por que fui assassinado?
+
+-------------------------------
+
+[m01_1070][0207]
+
+<face:0083>
+Tua <red>história<black> ainda não terminou.<press>
+<face:0036>
+<sound:0015><blink>Afinal, Quem é você*
+exatamente?<press>
+<face:0083>
+Me chame apenas de "Ray".<press>
+Como um "raio de luz na*
+escuridão". He he.<press>
+<face:0027>
+"Ray", é? Imagino que você*
+não me dirá seu verdadeiro nome.<press>
+<face:0083>
+Você também não me disse ainda*
+como se chama.<press>
+<face:0034>
+<sound:0016>Eu... não consigo lembrar.<press>
+<face:0083>
+Sim, suponho que as memórias dos*
+que acabam de morrer podem*
+ficar meio confusas.<press>
+Alguns recuperam suas memórias*
+mas outros não conseguem.<press>
+Mas, se quer minha opinião,*
+que diferença faz?<press>
+Ao fim de tudo, os mortos*
+só têm um caminho...<press>
+<sound:0016>...que é <red>desaparecer<black>.<press>
+<face:002F>
+<sound:0015><blink>Desaparecer...?<press>
+<face:0083>
+Quando o sol amanhecer amanhã...*
+Temo que você não mais irá*
+existir.<press>
+<face:002D>
+<blink><shake:0128>C-como!?*
+<blue>(Amanhã de manhã...!?)<black><press>
+<change:002B>
+<end>
+.........<press>
+Mas, espere um pouco... estes*
+"<red>poderes fantasmas<black>"...<press>
+<face:0083>
+Sim?<press>
+<face:0029>
+Eu gostaria de usá-los para salvar*
+a vida de um certo alguém.<press>
+<face:0083>
+A vida de quem, posso saber?<press>
+<face:0027>
+E ainda precisa perguntar?*
+a <red>minha<black>, é claro.<press>
+<face:0083>
+Ah, já entendi.<press>
+Mas pense bem.<press>
+Se pudéssemos usar os poderes*
+de fantasma para nos salvar...<press>
+<sound:0016>Eu também teria tentado*
+salvar a mim mesmo, não?*
+Veja... sou uma luminária!<press>
+<face:0027>
+.........<press>
+<change:002B>
+<end>
+Por quê uma luminária?*
+Se não se importa.<press>
+<face:0083>
+Não tenho muita certeza*
+para ser sincero.<press>
+De qualquer forma, parece que<red> não*
+podemos usar nossos poderes <black>em*
+nossos próprios cadáveres.<press>
+<face:002D>
+<sound:0018><shake:0128><blink>Não me diga isso!<press>
+<face:0083>
+Você só existirá nesse mundo*
+até amanhã de manhã.<press>
+Eu temo que esse fato*
+não possa ser mudado.<press>
+<face:002D>
+<blue>(Então eu não tenho como*
+escapar de minha prória morte!?)<black>
+
+-------------------------------
+
+[m01_1160][0208]
+
+{22FF}2{20FF}F<center>Pela manhã deixarei*
+<center>de existir.<space>
+<center>Parece que não há nada*
+<center>que eu possa fazer para mudar isso.<space>
+<center>Mas, ainda continuo*
+<center>querendo saber...<press>
+<center>Quero conhecer minha história. A*
+<center>história perdida do meu destino,*
+<center>até o momento de minha*
+<center>morte.<space>
+<center>E até que eu saiba...
+
+-------------------------------
+
+[m01_1180][0209]
+
+<face:0081>
+Não poderás descansar*
+em paz, né?
+
+-------------------------------
+
+[m01_1190][020A]
+
+<face:0083>
+Sim, entendo como você se sente.<press>
+Se queres saber a verdade*
+sobre tua morte, talvez*
+devesses ir atrás dela.<press>
+<face:002B>
+Eu irei, mas vejamos...*
+Como eu devo proceder*
+com isso?.<press>
+<blue>(Não consigo nem imaginar qual*
+seria o primeiro passo.)<black><press>
+<face:0083>
+O primeiro passo? Muito fácil.*
+Comece com ela.
+
+-------------------------------
+
+[m01_1200][020B]
+
+<face:0083>
+A pessoa que <red>testemunhou*
+sua morte<black>. Deve ter algumas*
+boas pistas, não acha?<press>
+<face:0029>
+<sound:0015><blink><blue>(É! Você tem razão! Não apenas isso...)<black><press>
+<change:002B>
+<end>
+Talvez ela saiba quem sou!<press>
+<face:0083>
+Sim, eu diria que existe uma grande*
+possibilidade de que saiba.<press>
+<face:002B>
+<blue>(O que eu fazia aqui esta noite*
+em um lugar como este?)<black><press>
+<blue>(Essa mulher provavelmente*
+sabe a resposta.)<black><press>
+<face:0083>
+Exato. Não se esqueça.<press>
+<sound:0016>{1EFF}4Ela é a <red>chave<black> de tudo esta noite.<press>
+<face:0029>
+A chave de tudo?*
+O que quer dizer?<press>
+<face:0083>
+{1CFF}BVocê saberá logo logo,*
+quando recuperar a memória.<press>
+<face:002B>
+<blue>(Sim. Sou uma folha de papel*
+em branco neste momento.)<black><press>
+<blue>(Provavelmente eu deveria levar*
+algum tipo de <red>diário<blue> de tudo*
+o que descobrir esta noite...)<black><press>
+<face:0083>
+É uma grande idéia.<press>
+Aperte <MENU> para ver um <red>diário<black> do*
+que você descobriu. E não se esqueça*
+de consultá-lo de vez em quando.<show><press>
+Nossa memória nem sempre é*
+confiável no fim das contas.<show>
+
+-------------------------------
+
+[m01_1209][020C]
+
+<face:0083>
+Bem. Eu espero que tenhas sorte!
+
+-------------------------------
+
+[m01_1210][020D]
+
+<face:002B>
+É melhor que não a perca de vista.<press>
+Além do mais...<press>
+<change:0027>
+<end>
+...não sou de deixar*
+uma mulher espirrando*
+sob uma chuva fria dessas.<press>
+Vou tentar me aproximar.
+
+-------------------------------
+
+[m01_1220][020E]
+
+<face:002B>
+Hum... Parece que ela está <red>dizendo*
+algo<black> a si mesma.<press>
+<blue>(Mas, infelizmente não*
+posso ouvir daqui.)<black><press>
+<face:0083>
+Isso não é um problema para nós*
+fantasmas, sempre que o objetivo*
+não está muito próximo.<press>
+Faça o mesmo que fazes com seus*
+próprios <red>balões<black>...<press>
+...se você tocar os balões*
+dos vivos, pode escutar*
+o que estão dizendo.<press>
+<face:0027>
+<blue>(Bom, então talvez eu*
+deva escutar um pouco...)<black><press>
+<face:0083>
+Fique sempre atento aos*
+balões dos vivos. Eles podem*
+te dar pistas importantes.
+
+-------------------------------
+
+[m01_1230][020F]
+
+<face:001A>
+Mas o que aconteceu...?<press>
+O guindaste se moveu sozinho e a*
+bola gigante de ferro caiu do nada...<press>
+Começou a chover de repente*
+e um guarda-chuva apareceu*
+também do nada...<press>
+<change:0016>
+<end>
+<sound:0015><blink>Oh, minha nossa!<press>
+<change:000E>
+<end>
+<sound:0016>Não me diga que tenho*
+<red>poderes telecinéticos<black>!
+
+-------------------------------
+

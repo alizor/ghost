@@ -1,0 +1,519 @@
+[m02_1440][0534]
+
+<fchat:0003>
+Essas fotos são antigas.*
+São feitas de quê? Pequenos*
+fragmentos de rocha?<press>
+E os fragmentos estão*
+brilhando... Você sabe*
+o que eles são?<press>
+<fchat:0001>
+Lamento, eu perdi a memória.*
+Provavelmente não sou a*
+melhor pessoa pra responder...<press>
+<fchat:0003>
+<sound:0015><blink>Está bem. Só estava*
+tentando ser educada. Eu achava*
+mesmo que você não soubesse.<press>
+<fchat:0001>
+<blue>(Ai. A língua dessa*
+garota pode ser afiada.)<black><press>
+<fchat:0003>
+Eh... posso ouvir o que*
+está pensando, lembra?<press>
+<fchat:0001>
+<sound:0016>Eu sei.<press>
+<fchat:0003>
+Bonzão.
+
+-------------------------------
+
+[m02_1450][0535]
+
+<fchat:0001>
+O que isso poderia ser? Parece*
+um cortador de unhas gigante.<press>
+<fchat:0003>
+Você acha?<press>
+<fchat:0001>
+VOCÊ sabe o que é isso?<press>
+<fchat:0003>
+#suspiro#<press>
+<sound:0016>Por que você tem de me*
+perguntar?! Não viu que eu*
+estava olhando pro outro lado?!<press>
+<fchat:0001>
+Hã?<press>
+<fchat:0003>
+Isso... deve ser... uma dessas*
+coisas de ficção científica que*
+os cientistas usam.<press>
+<sound:0018><blink><shake:0128>Pessoas comuns como a gente*
+não precisam saber o que é!<press>
+<fchat:0001>
+<blue>(Eu não lembro exatamente*
+do que é "ciência"...)<black><press>
+<blue>(...mas aparentemente é*
+algo que Lynne não deve*
+gostar muito.)<black>
+
+-------------------------------
+
+[m02_1505][053A]
+
+<center>Quando Lynne perdeu a vida pela*
+<center>segunda vez, ela estava*
+<center>sendo detida em suspeita do*
+<center>meu assassinato.<space>
+<center>Mas eu a salvei, esperando que*
+<center>isso resolvesse o meu mistério.<press>
+<center>Criaturas vivas podem escolher*
+<center>como viver de dois modos.<space>
+<center>Elas ou podem aceitar o*
+<center>destino, ou tentar mudá-lo.<space>
+<center>Lynne está definitivamente*
+<center>no segundo campo.<press>
+<center>Assim que voltei ao*
+<center>escritório do superintendente*
+<center>do ferro velho...<space>
+<center>Esse fato realmente*
+<center>foi se tornando claro.
+
+-------------------------------
+
+[m02_1510][053B]
+
+Idiota!
+
+-------------------------------
+
+[m02_1520][053C]
+
+<face:00C9>
+<sound:0017><blink><shake:0128>Te falamos para não tirar*
+o olho da suspeita!<press>
+<face:00BE>
+<sound:0018><blink><shake:0128>Minhas desculpas, senhor!<press>
+Mas eu nunca pe-pensei*
+que ela fosse fugir!<press>
+Lynne é nossa anja... Quero dizer,*
+amiga. Quero dizer... ela é como*
+uma família para nós!<press>
+<face:00C9>
+<sound:0018><blink><shake:0128>Anja, amiga ou família -- eles*
+todos fogem quando têm a chance!<press>
+<sound:0017><blink><shake:0128>Você tem ideia de quantos*
+anos se passaram desde que*
+minha esposa fugiu?!<press>
+<face:00BE>
+<sound:013E><blink><shake:0128>Lamento muito!*
+Não fazia ideia, senhor!<press>
+<face:00C9>
+<blink><shake:0128>Hmph! Nunca vai ser*
+um detetive desse jeito!<press>
+Agora, vá achar Lynne!<press>
+<face:00BE>
+<sound:013E><blink><shake:0128>Sim, senhor!
+
+-------------------------------
+
+[m02_1525][053D]
+
+<face:00C9>
+Se o Inspetor Cabanela ficar*
+sabendo disso, será o fim!
+
+-------------------------------
+
+[m02_1530][053E]
+
+<fchat:0001>
+Então nossa detetive ruiva*
+<red>escapou<black>, não foi?<press>
+<blue>(Mas eu mal salvei ela*
+uns minutos atrás.*
+Nossa, ela é boa nisso.)<black><press>
+Bem, acho que vou ter*
+que procurar por pistas.
+
+-------------------------------
+
+[m02_1585][053F]
+
+<face:00C6>
+Aquele velho do pombo... Você*
+acha que esta realizando algum*
+tipo de pesquisa aqui...?<press>
+Olha só esses instrumentos*
+de alta precisão e dispositivos*
+complexos...
+
+-------------------------------
+
+[m02_1590][0540]
+
+<face:00C6>
+O que está fazendo aí?<press>
+<face:00BE>
+<blink><shake:0128>Senhor! Acho que talvez tenha sido*
+esse o lugar que Lynne escapou.
+
+-------------------------------
+
+[m02_1600][0541]
+
+<face:00C6>
+Ela não poderia caber nesse*
+elevadorzinho pequeno!<press>
+<face:00BE>
+Ah, eu não sei, senhor...*
+Lynne é bem magrinha...<press>
+<face:00C6>
+<sound:0018><blink><shake:0128>Idiota! Não sabia que as*
+mulheres conseguem parecer magras*
+através da moda?!<press>
+<sound:0017><blink><shake:0128>Até hoje, eu AINDA não sei qual*
+o peso verdadeiro da minha esposa!
+
+-------------------------------
+
+[m02_1605][0542]
+
+<face:00BE>
+<sound:013E><blink><shake:0128>Lamento muito!*
+Não fazia ideia, senhor!<press>
+<face:00C6>
+<blink><shake:0128>Hmph! Nunca vai ser*
+um detetive desse jeito!
+
+-------------------------------
+
+[m02_1610][0543]
+
+<face:00C6>
+Mas enfim... aonde está*
+aquele velho do pombo?<press>
+<face:00BE>
+Ah, ele, senhor? Ele passou por aquela*
+porta atrás de mim, senhor.
+
+-------------------------------
+
+[m02_1620][0544]
+
+<face:00C7>
+Não dá pra abrir.<press>
+<face:00BD>
+Aparentemente, essa porta nos*
+leva ao porão, mas está fechada*
+no momento, senhor.
+
+-------------------------------
+
+[m02_1630][0545]
+
+<face:00C7>
+Esses instrumentos...*
+Eles são todos suspeitos.<press>
+Fique de olho nesse*
+velho também.<press>
+<face:00BD>
+<blink><shake:0128>Sim, senhor!
+
+-------------------------------
+
+[m02_1940][0546]
+
+<face:00BD>
+<sound:0016>Eu jurava que tinha visto*
+esse coisa se mover...<press>
+<blink><shake:0128>Não me diga que...!*
+Será que foi...?<press>
+<sound:0015><blink>...Ela sentiu a tensão entre*
+eu e o detetive e se moveu*
+para ficar longe disso...?<press>
+<fchat:0001>
+<blue>(Essa foi uma tangente*
+inesperada.)<black><press>
+<face:00BD>
+Nunca serei um*
+detetive desse jeito...<press>
+O que preciso é algum tipo*
+de conquista, uma pluma no*
+meu boné...<press>
+Ah se eu pudesse achar alguma*
+pista útil, isso daria conta...<press>
+<fchat:0001>
+<blue>(Uma pista útil e obviamente*
+perceptível está <red>cara a cara*
+com você<blue> agora mesmo...)<black>
+
+-------------------------------
+
+[m02_1570][0547]
+
+<face:00BD>
+<sound:0015><blink>Hã...? Esse é o...*
+Caderno da Lynne!<press>
+Se eu der isso de volta a ela,*
+talvez poderá "faíscar" algo*
+entre nós...<press>
+Hum... O que fazer? O que*
+fazer...? Questão complicada essa.
+
+-------------------------------
+
+[m02_1640][0548]
+
+<face:00C7>
+O que você tem aí?<press>
+<face:00BD>
+<sound:0015><blink><shake:0128>O que é isso?! Ah... eh...*
+Isso é... Um...<press>
+<face:00C7>
+Espera aí... Isso é...?<press>
+<face:00BD>
+<sound:013E><blink><shake:0128>Si-sim, senhor! O caderno da Lynne!<press>
+<face:00C7>
+Caderno, hum? Agora lembrei,*
+tinha algo sobre ele naquele*
+relatório.<press>
+Algo a respeito dela estar olhando*
+para o caderno e fazendo uma*
+ligação telefônica...
+
+-------------------------------
+
+[m02_1650][0549]
+
+<face:00C7>
+<sound:0016>Deve ser isso. Esse*
+número telefônico com um círculo*
+bem grande em volta.<press>
+Não está curioso em saber*
+pra quem ela estava ligando?<press>
+<face:00BD>
+<sound:013E><blink><shake:0128>Estou! De verdade, senhor!*
+Eu gostaria de saber!<press>
+<sound:0015><blink>...Ah!<press>
+<sound:013E><blink><shake:0128>Mas eu não tenho nenhum motivo*
+ulterior pra querer saber.*
+Não, senhor! Não, senhor!<press>
+<face:00C7>
+Esse número deve ser*
+uma pista imporante.<press>
+Melhor eu verificar.
+
+-------------------------------
+
+[m02_1660][054A]
+
+<face:00C7>
+<sound:0017><blink><shake:0128>Olá?! Com quem eu*
+falo, por favor?!<press>
+<face:00EA>
+<blink><shake:0128>Sim?! Olá?!<press>
+<face:00C7>
+Esta é uma investigação criminal.*
+Precisamos de sua cooperação.<press>
+<face:00EA>
+<sound:0015><blink>Ei, eu conheço essa voz...*
+É você, Detetive McCaw?<press>
+<face:00C7>
+<sound:0015><blink>Ah... é você... Oficial Bailey?<press>
+<face:00EA>
+O que está havendo, senhor?*
+Normalmente o senhor não costuma ligar*
+a essa hora.<press>
+<face:00C7>
+Ah, bem...<press>
+Você recebeu uma chamada de um*
+nossos detetives, Lynne, mais cedo?<press>
+<face:00EA>
+Da Lynne?<press>
+<sound:0016>Sim, recebi. Ela me liga toda noite.<press>
+Talvez ela pressinta o*
+está prestes a acontecer.<press>
+<face:00C7>
+Ela disse algo especial?<press>
+<face:00EA>
+Não, não mesmo. Há algo de errado?<press>
+<face:00C7>
+Bem, sim... #Ahã#. Estarei*
+entrando em contato contigo assim*
+que tiver novas perguntas.
+
+-------------------------------
+
+[m02_1670][054B]
+
+<face:00C6>
+Estou indo arquivar o relatório*
+na delegacia. Preciso que fique*
+de vigilância aqui.
+
+-------------------------------
+
+[m02_1680][054C]
+
+<face:00BE>
+Perdoe-me, Detetive, mas...<press>
+<face:00C6>
+O que foi?<press>
+<face:00BE>
+Esse caderninho... será que*
+se importaria se eu desse...?<press>
+.........
+
+-------------------------------
+
+[m02_1685][054D]
+
+<face:00BE>
+<sound:0017><blink><shake:0128>Ah, deixa prá lá, senhor!<press>
+<face:00C6>
+Hmph. Apenas fique alerta.
+
+-------------------------------
+
+[m02_1690][054E]
+
+<fchat:0001>
+Não posso ouvi-los daqui.*
+Melhor me aproximar...
+
+-------------------------------
+
+[m02_1540][054F]
+
+<fchat:0001>
+Essas imagens parecem*
+ser bastante velhas.<press>
+Imagens de pequenos*
+fragmentos de rocha...<press>
+Aquele homem pombo tem um*
+gosto bem estranho no que*
+se trata de decoração.
+
+-------------------------------
+
+[m02_1550][0550]
+
+<fchat:0001>
+Não tenho ideia para que*
+serve este instrumento.<press>
+Na realidade, esse balcão*
+todo está cheio de coisas*
+que eu nunca vi.<press>
+Eu sei que perdi minha*
+memória, mas mesmo assim...<press>
+Aquele homem pombo parece*
+ser um cara bem estranho.
+
+-------------------------------
+
+[m02_1560][0551]
+
+<fchat:0001>
+O caderno da Lynne,*
+triste e esquecido, situado*
+atrás da instante de livros.<press>
+Para quem ela poderia estar*
+ligando antes de o ter*
+escondido ali?<press>
+<blue>(Queria poder descobrir...)<black>
+
+-------------------------------
+
+[m02_1970][0552]
+
+<fchat:0001>
+O caderno da Lynne, hum? Queria*
+ver o que tem dentro...<press>
+Mas esse cara tem uma morte*
+lhe esperando. Não posso abri-lo.<press>
+Aposto que esse detetive nunca*
+deixa sua presa escapar quando*
+ele se apossa dela...
+
+-------------------------------
+
+[m02_1950][0553]
+
+<face:00BD>
+Droga. Aí se vai minha chance de*
+acender um romance com Lynne.<press>
+E eu nem ao menos ganhei crédito*
+em achar o caderno.<press>
+E também esqueci de perguntar*
+de quem era aquele número.<press>
+Ah se eu pudesse entrar nesse*
+elevador e simplesmente desaparecer!<press>
+Se eu desaparecesse, será que*
+Lynne iria derramar uma lágrima*
+por mim...?<press>
+<fchat:0001>
+<blue>(E eu aqui pensando que*
+ele estava examinando o*
+elevador procurando pistas...)<black>
+
+-------------------------------
+
+[m02_1960][0554]
+
+<face:00D3>
+Acho que já está na hora de*
+limpar esse lugar por completo...<press>
+Mas isso vai resolver o*
+problema...?<press>
+O aparecimento dela aqui, dentre*
+todos os outros lugares, e hoje à*
+noite, dentre todos os outras horas...<press>
+Dificilmente acho que foi*
+coincidência...
+
+-------------------------------
+
+[m02_3940][077B]
+
+<fchat:0001>
+<blue>(Mas afinal o que é*
+essa coisa?)<black><press>
+<blue>(Pra mim parece um cortador*
+de unhas gigante...)<black><press>
+<fchat:000C>
+<sound:0016>Não, certamente não*
+parece.<press>
+É um instrumento usado na*
+análise de radiação-*
+emitting matter.<press>
+<fchat:0001>
+<blink><shake:0128>Aaaaah tá. Sim, entendi...<press>
+<fchat:000B>
+<sound:0015><blink>Você não está só, garoto.<press>
+Nenhum do resto de nós*
+entende isso também, cara!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Isso! Falou e disse!
+
+-------------------------------
+
+[m02_3945][077C]
+
+<fchat:0001>
+Imagens antigas... que parecem*
+com pequenos fragmentos*
+de rocha.<press>
+<fchat:000C>
+São fragmentos de Temsik.<press>
+Esse é um artigo de quando*
+eles eram grande novidade.<press>
+<fchat:000B>
+Dez anos atrás, ninguém havia*
+entendido eles por completo.<press>
+<fchat:000C>
+Acho que até hoje*
+isso ainda é verdade.
+
+-------------------------------
+

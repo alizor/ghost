@@ -1,0 +1,452 @@
+[m11_0000][2E00]
+
+<face:0100>
+Os preparativos parecem estar indo*
+bem na prisão, não é, inspetor Cabanela?<press>
+<face:0091>
+.........<press>
+<face:0100>
+Chegamos um pouquinho atrasados...*
+Quase, ein, inspetor?<press>
+<face:0091>
+Ainda temos tempo, chefe.*
+Não muito, mas temos.<press>
+Nós tivemos o Ponto X cercardo*
+por toda a noite.<press>
+<change:008A>
+<end>
+Se ele aparecer, nós o pegamos,*
+ainda podemos conseguir.<press>
+<face:0100>
+Enfim...<press>
+O que está havendo com aquele outro caso?*
+O <red>assassinato<black> no ferro velho?<press>
+Ela quem fez, não há dúvidas?<press>
+<face:008A>
+.........<press>
+Ela é uma garotinha má...<press>
+<change:0091>
+<end>
+Disparecer da cena daquela forma.*
+Onde será que ela foi brincar?<press>
+<fchat:0001>
+<sound:0015><blink>O que você disse...?<press>
+<sound:0016><red>"Ela quem fez."*
+<black>Escutei isso direito?<press>
+<blue>(Acho que eles estão falando*
+do <red>culpado <blue>que matou...)<black><press>
+.........<press>
+<shake:0128><blue>(N-não pode ser...)<black>
+
+-------------------------------
+
+[m11_0010][2E01]
+
+<face:0100>
+Eu simplesmente não consigo acreditar.*
+Por que ela faria uma coisa dessas?<press>
+<face:008A>
+Infelizmente não tenho a respota para você*
+chefe. Eu não quero acreditar nisso*
+mais do que você.<press>
+E ainda...
+
+-------------------------------
+
+[m11_0011][2E02]
+
+<face:008A>
+<sound:0016><blink>Depois de vermos isso, talvez*
+não teremos outra escolha a não ser*
+acreditar. Ah, baby...<press>
+<face:0100>
+Esse é o tape da câmera de segurança*
+que a unidade de investigações*
+especiais acabou de entregar?<press>
+Não vou negar...<press>
+<sound:0015><blink>...é uma <red>evidência sólida<black> contra ela...<press>
+<face:008A>
+Evidência...
+
+-------------------------------
+
+[m11_0011a][2E03]
+
+<face:008A>
+<sound:0015><blink>Nada disso, baby...
+
+-------------------------------
+
+[m11_0012][2E04]
+
+<face:0100>
+<sound:0018><blink><shake:0128>Hmph! Por que um caso de*
+assassinato logo numa noite importante?!
+
+-------------------------------
+
+[m11_0013][2E05]
+
+<face:008A>
+Tsk, tsk. Achou que você*
+entendeu errado, Chefe.
+
+-------------------------------
+
+[m11_0014][2E06]
+
+<face:008A>
+<sound:0016>{1DFF}{1100}{0001}{0A00}Um caso de assassinato agora, é*
+a exata razão a qual esta noite É*
+uma importante.
+
+-------------------------------
+
+[m11_0020][2E07]
+
+<fchat:0001>
+Antes de eu ir atrás de Lynne*
+no Rango de Frango...<press>
+...parece que há uma importante*
+evidência aqui que eu não*
+dever perder.<press>
+<sound:0015><blink><blue>("Uma <red>sólida evidência<blue>",*
+ele disse... Isso, eu tenho que ver.)<black><press>
+Mas é engraçado...<press>
+<sound:0016>Por que tenho um mal pressentimento*
+sobre esse tape?
+
+-------------------------------
+
+[m11_0030][2E08]
+
+<center>O ferro velho onde morri*
+<center>tinha uma câmera de segurança.<space>
+<center>E ela captou perfeitamente*
+<center>o momento da minha morte.<press>
+<center>E o que o tape*
+<center>me mostrou...<space>
+<center>...foi a a mais cruel*
+<center>verdade imaginável.
+
+-------------------------------
+
+[m11_0040][2E09]
+
+<face:0100>
+A verdade é verdade, não importa*
+quantas vezes você assista, inspetor Cabanela.<press>
+<face:008A>
+Não fui eu quem executou*
+o tape agora, baby.
+
+-------------------------------
+
+[m11_0190][2E0A]
+
+<face:0100>
+Ah, enfim,*
+inspector Cabanela.<press>
+<sound:0016>Há algo naquele tape que*
+me <red>intriga<black>.<press>
+<face:008A>
+E o que seria, Chefe? Estou ouvindo.<press>
+<face:0100>
+Eu olhei todas essas fotos da*
+cena do crime também, mas...
+
+-------------------------------
+
+[m11_0200][2E0B]
+
+<face:0102>
+<sound:0016>...os lugares <red>de onde a vítima*
+foi baleada <black> e <red>de onde o corpo*
+foi achado<black> são claramente diferentes.<press>
+<fchat:0001>
+<blue>(Ei, ele tem razão.*
+Isso é estranho.)<black><press>
+<blue>(O <red>assassino <blue>de preto*
+foi quem me chutou para*
+baixo.)<black><press>
+<blue>(Mas eu mudei o seu destino,*
+então ele não deveria*
+ter feito isso...)<black><press>
+<blue>(Mas aqui estou eu, lá*
+no último piso...)<black>
+
+-------------------------------
+
+[m11_0210][2E0C]
+
+<face:008A>
+Eu tenho a resposta pro teu*
+mistério beeeem aqui, alguns minutos*
+após o crime ter ocorrido.
+
+-------------------------------
+
+[m11_0220][2E0D]
+
+<face:0100>
+<sound:0015><blink><shake:0128>Aquilo era um... <red>gato preto<black>?<press>
+<face:008A>
+Você acertou, baby. Um felino cabeludo*
+bagunçou a nossa cena do crime...<press>
+E então o gatinho culpado*
+desapareceu pela noite.<press>
+<fchat:0001>
+<blue>(Hum...)<black><press>
+<blue>(Parece que o meu destino*
+de ser jogado para baixo...)<black><press>
+<blue>(...é bem difícil de mudar.)<black>
+
+-------------------------------
+
+[m11_0050][2E0E]
+
+<face:00CF>
+<sound:0018><shake:0128><center><green>Aqui é o Ponto X! Chefe, atenda!<black>
+
+-------------------------------
+
+[m11_0055][2E0F]
+
+<face:0100>
+<sound:0015><blink>Chefe falando!*
+Ele apareceu?!<press>
+<face:00CF>
+<center><shake:0128><green>Eh, não senhor. Ainda não. Mas--<black><press>
+<face:0100>
+<sound:0018><blink><shake:0128>Idiota! Eu te falei para ficar*
+longe do rádio a não ser que fosse algo*
+importante!<press>
+<face:00CF>
+<center><shake:0128><green>M-mas, é importante, senhor!*
+<center>Outra pessoa apareceu...<black><press>
+<sound:0016><center><green>...Nossa detetive iniciante, <red>Lynne<green>.{0EFF}{8600}{1CFF}{0A00}<black>
+
+-------------------------------
+
+[m11_0058][2E10]
+
+<face:0095>
+<blink><shake:0128>Como éééé?*
+Você viu minha baby lá, foi isso?
+
+-------------------------------
+
+[m11_0060][2E11]
+
+<face:00CF>
+<center><shake:0128><green>Ouvi dizer que ela estava <red>foragida<center><green>...*
+O que quer eu eu faça, <center>chefe?<black><press>
+<face:0100>
+O que me diz, inspetor?
+
+-------------------------------
+
+[m11_0070][2E12]
+
+<face:0095>
+Detetive!<press>
+<face:0093>
+<sound:0017><blink><shake:0128>Deixe a minha baby longe do Ponto X!<press>
+<change:0095>
+<end>
+Faça isso agora, homem!*
+E fique de olho nela!<press>
+<face:00CF>
+<sound:0017><blink><shake:0128><center><green>Sim, senhor! Irei atrás dela agora!<black>
+
+-------------------------------
+
+[m11_0080][2E13]
+
+<face:0100>
+<sound:0018><shake:0128>O que isso quer dizer?*
+Por que a Lynne foi aparecer no Ponto X?<press>
+Levou a Unidade de Investigações*
+Especiais seis meses para localizar*
+esse lugar!<press>
+<face:0091>
+Não sei chefe, mas não acho*
+que tenha sido coincidência...
+
+-------------------------------
+
+[m11_0085][2E14]
+
+<face:0095>
+Talvez--
+
+-------------------------------
+
+[m11_0090][2E15]
+
+<face:0100>
+<sound:0018><shake:0128>O-o que aconteceu?!*
+Detetive, atenda!<press>
+<face:010D>
+<NJ:003C>
+<center><green>.........<black><press>
+<face:0100>
+E agora?! O que aconteceu*
+dessa vez?!<press>
+<face:008F>
+<blink><shake:0128>Droga!
+
+-------------------------------
+
+[m11_0095][2E16]
+
+<face:0095>
+This calls for a telephone*
+call to Point X! Allow me!
+
+-------------------------------
+
+[m11_0160][2E17]
+
+<fchat:0001>
+Aparentemente, algo*
+terrível está havendo...<press>
+Mas, para mim, nada pode*
+ser pior do que as imagens*
+que eu vi naquele tape.<press>
+<blue>(Preciso ver mais*
+uma vez.)<black>
+
+-------------------------------
+
+[m11_0170][2E18]
+
+<fchat:0001>
+Então Lynne apareceu*
+num tal "Ponto X"?<press>
+Mas eu achava que...<press>
+...ela estava indo para o*
+Rango de Frango...?<press>
+O que está acontecendo?<press>
+Mas algo está claro...*
+Aconteceu alguma coisa!
+
+-------------------------------
+
+[m11_0100][2E19]
+
+<face:00FD>
+<sound:0017><shake:0128>O que está fazendo?*
+Get your buns over here!<press>
+<face:008F>
+<blink><shake:0128>O-o que você disse?!<press>
+<face:00FD>
+Agora eu entendo!*
+Finalmente sei como se sentem...<press>
+<sound:0017><blink><shake:0128>...os nossos pobres clientes*
+famintos que têm as entregas*
+de comida atrasadas!<press>
+<face:0091>
+Com licença...<press>
+<change:008A>
+<end>
+...mas aqui é o Rango de*
+Frango ou não?<press>
+<face:00FD>
+<sound:0015><blink>Quê?!<press>
+<sound:0016>EU não estou falando com a polícia?<press>
+<face:008A>
+A polícia...? Aconteceu algo no qual vocês*
+precisem de ajuda?<press>
+<face:00FD>
+"Something happen here," you ask!<press>
+<sound:0017><blink><shake:0128>More like, "there's nothing left*
+here!" I gotta go!{1EFF}{0500}<press>
+<face:0093>
+<sound:0015><blink><shake:0128>Espere! Espereeeee!
+
+-------------------------------
+
+[m11_0120][2E1A]
+
+<face:0100>
+O que está havendo?!<press>
+<face:0091>
+Alguma coisa, é isso.*
+Está acontecendo alguma coisa...<press>
+<change:0095>
+<end>
+<sound:0016>{1CFF}{1100}E essa "coisa" está longe de*
+ser "nada", com certeza!
+
+-------------------------------
+
+[m11_0125][2E1B]
+
+<face:008A>
+Obrigado pelo chá, chefe.*
+Estou indo.<press>
+<face:0100>
+Está para o Ponto X?<press>
+<face:008A>
+O Ponto X, hum?*
+Vou deixar com os garotos.<press>
+<change:0091>
+<end>
+Tem outro lugar que devo ir...<press>
+<face:0100>
+Inspetor...<press>
+Você estando lá não vai mudar nada.*
+Por que se esforça tanto nisso?<press>
+<face:0091>
+.........<press>
+<change:008A>
+<end>
+Eu tenho responsabilidade,*
+e eu quero ver até o final.<press>
+Além do mais...<press>
+<change:008D>
+<end>
+<sound:0015><blink><shake:0128>Ainda não chegou no fim.<press>
+<face:0100>
+<shake:0128><blink>Certo. É verdade.*
+Faça o que deve então.
+
+-------------------------------
+
+[m11_0150][2E1E]
+
+Eu me vi sendo baleado*
+bem diante dos meus olhos.<space>
+Pela Lynne.<space>
+Lá se vai minha única pista.*
+Me sinto como se tivesse morrido<press>
+mais uma outra vez. Mas uma.<space>
+coisa me intriga. Lynne estava*
+muito aflita naquele tape.<space>
+O que será que eu disse para ela?
+
+-------------------------------
+
+[m11_0180][2E1F]
+
+Prisoner D99's schedule*
+para amanhã estava em branco.<space>
+Parece que eu descobri isso*
+há anos.<space>
+E agora a minha mente está*
+ainda mais em branco que o quadro...<press>
+Lynne -- minha uma única pista*
+e parceira -- atirou em mim.<space>
+O que isso tudo significa?<space>
+Eu sabia onde conseguir*
+as minhas respostas.<press>
+O Rango de Frango... O "Ponto*
+X" que a polícia havia circulado...<space>
+E o lugar onde algo de grande*
+acabou de acontecer.<space>
+No que será que a Lynne estará*
+envolvida desta vez quando eu achá-la?
+
+-------------------------------
+

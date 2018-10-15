@@ -1,0 +1,324 @@
+[mono_mes][2600]
+
+<fchat:0001>
+E agora um novo*
+"presente" nasceu.<press>
+A pequena moça ainda está*
+encolhida e com as pernas*
+tremendo de medo.<press>
+E o pequeno cãozinho*
+está sacodindo a cauda*
+alegremente.<press>
+Então o que eu faço*
+agora?<press>
+Acho que vou observar*
+por um tempo e ver o*
+que acontece.
+
+-------------------------------
+
+[killerB_00][2601]
+
+Quê?!
+
+-------------------------------
+
+[killerB_01][2602]
+
+Ainda está no ferro*
+velho?
+
+-------------------------------
+
+[killerB_02][2603]
+
+Está bem, entendi.
+
+-------------------------------
+
+[killerB_03][2604]
+
+Já estou indo.
+
+-------------------------------
+
+[killerB_out_mes][2605]
+
+<face:007F>
+Hunf. Acho que minha presa*
+gosta de brincar de esconde-*
+esconde.<press>
+Ela ainda não cansou de*
+brincar no ferro velho,*
+aparentemente.<press>
+Eu não posso deixar o*
+Jeego Míope me superar*
+nessa.<press>
+É melhor eu me apressar.
+
+-------------------------------
+
+[girl_01_mes][2606]
+
+<face:006E>
+O que foi tudo isso?
+
+-------------------------------
+
+[girl_02_mes][2607]
+
+<face:006B>
+Você me salvou, não foi,*
+Missile? Eu sei que foi!
+
+-------------------------------
+
+[girl_minimes00][2608]
+
+Talvez seja melhor eu*
+não atender...
+
+-------------------------------
+
+[girl_00][2609]
+
+Lynne!
+
+-------------------------------
+
+[cicel_mes00][260A]
+
+<fchat:0001>
+Uma ligação da <red>Lynne<black>,*
+hã?<press>
+Parece algo sério. Quero*
+saber o que elas estão*
+dizendo!<press>
+É melhor eu <red>possuir<black> este*
+telefone e escutar.
+
+-------------------------------
+
+[tree_mes][260B]
+
+<fchat:0001>
+Ops. Que falta de*
+educação a minha, com*
+essa garotinha <red>no telefone<black>.<press>
+Realmente não é a melhor*
+hora para esse tipo de*
+música empolgante.<press>
+Além disso...
+
+-------------------------------
+
+[madam_mes][260C]
+
+Eu vou derrubar*
+esta parede!
+
+-------------------------------
+
+[tree_mes2][260D]
+
+<fchat:0001>
+...sempre tenho que me*
+preocupar com AQUILO.*
+É melhor desligar...
+
+-------------------------------
+
+[coredemo][260E]
+
+<fchat:0001>
+Lá está aquele cãozinho,*
+todo curvado no chão...<press>
+Sonhando sobre a vida*
+que nós trabalhamos duro*
+para devolver a ele...<press>
+Tudo bem, mas o que há*
+com aquele <red>núcleo<black>?<press>
+Os mortos não podem possuir*
+alguém vivo.<press>
+É uma das regras que o*
+Sr. Luminária me ensinou.<press>
+Então o que um pequeno cão*
+vivo e respirando estaria*
+fazendo com um <red>núcleo<black>?<press>
+É melhor tentar*
+<red>possuí-lo<black> e descobrir.<show><wait>
+
+-------------------------------
+
+[dog_talk][260F]
+
+<face:0075>
+<sound:0018><shake:021E>Ah, é você! É você!<press>
+É... Hum...<press>
+Por falar nisso, eu nunca*
+perguntei seu nome.<press>
+<face:0037>
+Eu acho que foi bom nós*
+termos nos encontrado*
+novamente, então.<press>
+<change:0028>
+<end>
+Essa é uma boa chance*
+para nós nos*
+reapresentarmos.<press>
+<face:0075>
+<sound:0018><shake:021E>Você quer dizer*
+que já esqueceu meu nome?!<press>
+Depois de tudo que nós*
+passamos juntos?! O drama?!*
+Aquela triste despedida?!<press>
+<sound:0033><blink><shake:021E>{2EFF}v{17FF}Eu sou Missile!{17FF}<press>
+<face:002C>
+Mas, você sabe, é estranho...<press>
+Eu queria saber por que <red>você lembra*
+de mim<black> agora, estando*
+vivo novamente.<press>
+<change:0037>
+<end>
+<sound:0016>Você <red>lembra<black> de seu*
+tempo <red>estando morto<black>?<press>
+<face:0075>
+<sound:0015><blink>É claro! De tudinho!<press>
+<face:002C>
+<blue>(Certo, me deixe pensar melhor.)<black><press>
+<blue>(A memória de ter morrido não*
+desaparece.)<black><press>
+<blue>(E os mortos que eu conheci no mundo*
+fantasma desenvolvem um<black> núcleo<blue>*
+quando retornam ao mundo dos vivos.)<black><press>
+<change:002A>
+<end>
+<blue>(E se eu possuir esse*
+núcleo, eu posso <red>falar<blue>*
+com essa pessoa!)<black><press>
+<face:0075>
+Parece que é isso mesmo.
+
+-------------------------------
+
+[dog_talk2][2610]
+
+<face:0075>
+<sound:0033><blink><shake:021E>Hunf. Essa Kamila! Sempre assim!<press>
+<face:0037>
+O que é "sempre assim"?<press>
+<face:0075>
+Toda vez que ela pega esse "<red>Alô<black>"*
+ela fala e fala e esquece*
+totalmente de mim!<press>
+Não importa o quanto eu corra ao*
+redor dela e tente aparecer*
+ela nunca presta atenção em mim!<press>
+<face:002C>
+<blue>(Então aquilo era você*
+se exibindo, é?)<black><press>
+<change:002A>
+<end>
+Bem, eu gostaria de ouvir*
+sobre o que as moças estão*
+conversando.<press>
+<face:0075>
+<sound:0015><blink>Ah! Eu também!
+
+-------------------------------
+
+[st06_m0000][2300]
+
+<face:000B>
+<sound:0018><shake:011E><blink>Kamila! Ah, que bom*
+que você está bem!
+
+-------------------------------
+
+[st06_m0010][2301]
+
+<face:0066>
+Bem, eu não sei se estou*
+"bem", exatamente. Você não*
+acreditaria no que aca--<press>
+<face:000B>
+<sound:0018><shake:011E><blink>Me escute! Você tem*
+que sair daí, agora!<press>
+<face:0064>
+Mas e o jantar? Eu estava*
+pensando em espaguete*
+esta noite...<press>
+<face:0013>
+Eu não vou voltar pra casa tão cedo.*
+E você corre perigo se*
+ficar aí também!<press>
+<face:0066>
+Mas eu já ESTAVA em*
+perigo. Há pouco tempo*
+atrás...
+
+-------------------------------
+
+[st06_m0011][2302]
+
+<face:000D>
+Me encontre naquele restaurante, o*
+<red>Rango de Frango<black> no fim do beco*
+sem saída!<press>
+<face:0066>
+No beco sem saída? Não sei...*
+É muito longe.<press>
+<face:0013>
+Apenas se apresse, certo!?*
+Ah, e mais uma coisa...<press>
+<sound:0016>Traga a <red>caixa*
+de música<black> com você, tá?
+
+-------------------------------
+
+[st06_m0012][2303]
+
+<face:0066>
+Caixa de música...?<press>
+<change:0068>
+<end>
+<sound:0015><blink>Eu amo caixinhas*
+de música! É um presente*
+pra mim?<press>
+<face:000D>
+Me desculpe, ela não toca.*
+Eu nem mesmo consigo*
+abrir.<press>
+<face:0068>
+Então você não pode chamar*
+de "caixa de música", pode?*
+Tá mais pra "caixa" apenas.<press>
+<face:000B>
+<sound:0017><blink><shake:0128>Só traga pra mim, tá? É meio*
+grande, feita de madeira.<press>
+<face:0064>
+Tá bom, eu vou. Onde está?<press>
+<face:000D>
+Eu meio que escondi ela na*
+sala, onde você está...
+
+-------------------------------
+
+[st06_m0050][2305]
+
+Desculpe-me.
+
+-------------------------------
+
+[st06_m0030][2306]
+
+Aaaahhhh!
+
+-------------------------------
+
+[st06_m0040][2307]
+
+Lynne!
+
+-------------------------------
+

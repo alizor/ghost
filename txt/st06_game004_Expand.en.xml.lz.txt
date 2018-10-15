@@ -1,0 +1,393 @@
+[monologue][2800]
+
+<center>Lynne está em perigo outra vez.<space>
+<center>Acho que ela já saiba disso também.<space>
+<center>Sinceramente, duvido que ela volte*
+<center>à este apartamento ainda hoje.
+
+-------------------------------
+
+[monologue2][2801]
+
+<center>Ela e eu estamos conectados*
+<center>de alguma forma.<space>
+<center>Minha única pista é ela, por*
+<center>isso não posso me perder.<space>
+<center>Tenho que chegar lá, e rápido.
+
+-------------------------------
+
+[cicel_00][2802]
+
+<fchat:0001>
+Com o telefone deste*
+apartamento estando fora*
+de serviço...<press>
+Minha única esperança de*
+escapar é achar outro.<press>
+Dessa vez não há nenhum*
+"Sr. Lâmpada de Mesa" aqui.*
+O único amigo que tenho...<press>
+<sound:0016>...é esse <red>cãozinho*
+<black>todo enrolado ali no chão.
+
+-------------------------------
+
+[dog_talk][2803]
+
+<face:0075>
+<sound:0033><blink><shake:021E>Ah, olá! E aí?<press>
+<face:0028>
+Queria saber se você*
+poderia me ajudar.<press>
+<face:0075>
+<sound:0017><blink><shake:021E><center>{2EFF}x{17FF}Eu tentarei!{17FF}<press>
+Praticamente a única coisa que*
+sou bom mesmo...<press>
+<sound:0033><blink><shake:021E>...é em <red>latir<black>. O resto*
+não sou muito útil.<press>
+<face:002C>
+<blue>(Acho que nisso ele está certo.)<black><press>
+<face:0075>
+Mas eu sou muito, muito*
+bom em <red>latir<black>!<press>
+A senhorita Lynne vem atrás de mim*
+com uma vassoura, a senhora*
+do outro lado chuta a parede...<press>
+<sound:0033><blink><shake:021E>Eu tenho uma boa referência*
+por essas bandas!
+
+-------------------------------
+
+[cicel_01][2804]
+
+<fchat:0001>
+Bem, só não posso ficar*
+aqui parado sem fazer nada.<press>
+Como poderei mudar essa*
+situação? Apenas tentar*
+e ver o que acontece?
+
+-------------------------------
+
+[madam_mes][2805]
+
+Vou derrubar*
+esta parede!
+
+-------------------------------
+
+[madam_demo6][2806]
+
+<face:005F>
+Se continuar com esse barulho...<press>
+<sound:0018><shake:011E>...derrubarei esse*
+prédio em ruínas em cima de você!
+
+-------------------------------
+
+[madam_demo][2807]
+
+<face:002C>
+Ouviu o que acabei de ouvir?<press>
+<face:0075>
+Está falando dos berros*
+enfurecidos da vizinha?<press>
+<face:002C>
+Não, não. Deixa isso pra lá.<press>
+<change:0028>
+<end>
+<sound:0016>Estou falando do <red>som de um*
+telefone tocando<black> vindo do*
+apartamento da vizinha!<press>
+<face:0075>
+<sound:0015><blink>Ah, entendi! Você está pensando*
+em <red>pegar emprestado <black>o*
+telefone dela, não é?<press>
+<sound:0033><blink><shake:021E>Mas como vais fazer isso sem*
+ter que quebrar a parede?<press>
+<face:0035>
+Bem, essa senhora se ofereceu*
+gentilmente a fazer isso por nós...<press>
+<face:0075>
+Sim, mas o que ela mais quer*
+é me esmagar debaixo dela...
+
+-------------------------------
+
+[dog_talk3][2808]
+
+<face:0028>
+Qual é. Não pode latir*
+mais alto que isso?<press>
+<face:0075>
+Mais alto?! Mas assim aquela*
+senhora vai derrubar a parede*
+em cima de mim!<press>
+<face:0028>
+Nos preocuparemos com isso*
+quando tal fato ocorrer.<press>
+<face:0075>
+Hum... enfim, já estou latindo*
+o mais alto que posso.<press>
+<face:002C>
+<blue>(Preciso que esse cãozinho*
+ponha mais <red>energia <blue>nisso.)<black><press>
+<blue>(Vejamos... não tinha algo*
+a mais por aqui que o fizesse*
+ter uma <red>reação<blue>...?)<black>
+
+-------------------------------
+
+[cicel_02][2809]
+
+<fchat:0001>
+Duas coisas estão claras,*
+há um telefone no*
+apartamento vizinho...<press>
+...e eu terei de criar um*
+caminho para chegar lá.<press>
+<fchat:0002>
+<sound:0033><blink><shake:021E>Posso continuar latindo?<press>
+<fchat:0001>
+"Se continuar com esse*
+barulho, vou derrubar essa*
+parede em você!"<press>
+Se ela cumprir com a palavra,*
+talvez possamos conseguir*
+mudar a situação.<press>
+<fchat:0002>
+Eu só quero evitar toda essa*
+história de "ser esmagado",*
+se é que se importa.<press>
+<fchat:0001>
+<blue>(Tenho que fazer algo para*
+mudar essa situação.)<black><press>
+<sound:0016><blue>(Se eu pudesse fazer um pouco*
+mais de <red>barulho<blue>...)<black>
+
+-------------------------------
+
+[no_action][280A]
+
+<face:002C>
+Neste momento, preciso de*
+<red>mais barulho<black>, e não de menos.<press>
+Não acho que devo desligar*
+isso agora.<press>
+<change:002A>
+<end>
+<blue>(Até porque, quero ver*
+se aquela mulher vai fazer*
+mesmo o que prometeu.)<black><press>
+<face:0075>
+<sound:0033><blink><shake:021E>Ah, o que vai ser de mim se eu*
+me tornar um purê de Pomeranian?!<press>
+<face:002C>
+<blue>(Não há mais algo que faça <red>estimular<blue>*
+esse cachorrinho um pouco mais...?)<black>
+
+-------------------------------
+
+[madam_mes4][280B]
+
+Vou derrubar esta*
+parede é agora!
+
+-------------------------------
+
+[madam_demo2][280E]
+
+<face:005F>
+<sound:0016><blink>Te falei, não foi? Te falei*
+que iria <red>derrubar a*
+parede em cima de você<black>!
+
+-------------------------------
+
+[madam_demo3][280F]
+
+<face:0075>
+Então essa é a sensação de*
+ter uma parede derrubada*
+em você, hum...?<press>
+<face:002C>
+Está mais para como se você tivesse*
+sido derrubado "pela" parede, sério...<press>
+<face:0075>
+Ainda estou vivo, não estou?
+
+-------------------------------
+
+[madam_demo4][2810]
+
+<fchat:0001>
+Você está...<press>
+...mas a TV e a estrela*
+ornamentada não.<press>
+<fchat:0002>
+#uff# Nunca mais vou*
+latir, não enquanto eu viver!<press>
+<fchat:0001>
+Mas, espera um pouco...<press>
+<sound:0016>Parece que todo esse*
+tumulto não foi em*
+vão.<press>
+<fchat:0002>
+<sound:0015><blink>Hã?
+
+-------------------------------
+
+[madam_demo5][2811]
+
+<face:0044>
+<sound:0016>Seu latido fez ela criar*
+um caminho para mim.<press>
+<fchat:0002>
+<sound:0015><blink>Um caminho?<press>
+Mas a parede ainda está de*
+pé, assim como antes.<press>
+<fchat:0001>
+Entretanto, há caminhos que*
+apenas os mortos podem ver.<press>
+<fchat:0002>
+Ah, esses tipos de caminhos!
+
+-------------------------------
+
+[dog_talk4][2812]
+
+<face:0075>
+Ufa, me senti bem. Não tinha*
+latido assim há um longo tempo.<press>
+<face:0028>
+Você sem dúvida parecia ter*
+posto seu coração nisso.<press>
+<face:0075>
+<sound:0033><blink><shake:0128>É realmente bom se soltar*
+de vez em quando!<press>
+Mas estou um pouco cansado agora.*
+Não sou tão jovem quanto costumava*
+ser. Afinal já tenho dois anos.<press>
+<face:002C>
+<blue>(Hum... quantos anos será que tenho?)<black>
+
+-------------------------------
+
+[cicel_03][2813]
+
+<fchat:0001>
+Pelo menos algo bom veio de*
+toda essa confusão e caos.<press>
+<fchat:0002>
+<sound:0015><blink>"Algo bom"?<press>
+<sound:0033><blink><shake:021E>Tenho tendência a pensar que toda*
+"confusão e caos" são*
+SEMPRE algo bom.<press>
+<fchat:0001>
+Bem, não precisaremos de*
+mais nada, muito obrigado.
+
+-------------------------------
+
+[cicel_04][2814]
+
+<fchat:0001>
+A situação mudou.*
+Somente um pouco, mas deve*
+ser o bastante...<press>
+<blue>(Agora deve ser possível*
+pegar emprestado aquele*
+telefone.)<black>
+
+-------------------------------
+
+[cicel_mes][2816]
+
+<fchat:0001>
+Uau... está todo acabado.<press>
+Provavelmente pelos choques*
+de ondas que foram emitidos*
+das pancadas daquela mulher...<press>
+<fchat:0002>
+Não sabia que algo assim*
+fosse possível.<press>
+<fchat:0001>
+<blue>(Acho que meus truques*
+não são <red>nada <blue>comparados à*
+fúria daquela mulher.)<black>
+
+-------------------------------
+
+[clear_demo][2817]
+
+<face:0075>
+Então estás partindo, não é?<press>
+<face:0028>
+Creio que sim.<press>
+<face:0075>
+Você está indo salvar a Senhorita*
+Kamila e a Senhorita Lynne?<press>
+<face:002A>
+.........<press>
+Eu tenho que seguir meu próprio*
+mistério antes de tudo.*
+Ele significa tudo para mim.<press>
+<face:0075>
+Mas você VAI salvá-las, não vai?<press>
+<face:0035>
+Se isso me ajudar ao longo*
+da jornada, sim.<press>
+<face:0075>
+Não tenho nenhum poder*
+do morto.<press>
+Nem morto eu estou ainda.<press>
+<sound:0033><blink><shake:021E>Mas eu vou achar um jeito de*
+ajudar a Senhorita Kamila também!<press>
+<face:0028>
+Nós criamos nossos próprios*
+caminhos. Certo, Missile?<press>
+<face:0075>
+<sound:0015><blink>É verdade!<press>
+<face:0028>
+Certo, estou partindo agora.*
+Acredito que é o nosso segundo*
+adeus.<press>
+<face:0075>
+Pois é, não é?<press>
+<face:0028>
+Meu nome é Sissel.<press>
+Se nos encontramos novamente, pode*
+me chamar assim.<press>
+<face:0075>
+"Sissel," hum? Entendi.*
+Sabe, Sissel?<press>
+<sound:0033><blink><shake:021E>Estou indo criar o meu próprio*
+caminho, assim como você disse!
+
+-------------------------------
+
+[tel_info][2704]
+
+<fchat:0001>
+Bem, acho que o telefone está*
+"<red>morto<black>"... Quais são as*
+chances de isso acontecer?<press>
+Parece que nossa jovem*
+senhorita é um pouco*
+desajeitada.<press>
+Daqui há pouco estará*
+jogando o pobre cachorrinho*
+no tanque.<press>
+Enfim, <red>algo<black> está acontecendo*
+com Lynne.<press>
+É melhor eu ajudar Kamila*
+a achar o <red>tesouro<black>.<press>
+<blue>(Hum. Não sei se é porque*
+eu perdi minha memória ou*
+algo assim...)<black><press>
+<blue>(Mas não me lembro bem*
+como seria essa "<red>caixa demúsica<blue>" exatamente...)<black>
+
+-------------------------------
+

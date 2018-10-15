@@ -1,0 +1,168 @@
+[cicel_opmono][2400]
+
+<center>O telefone me guiou até*
+<center>o apartamento de Lynne.<space>
+<center>Felizmente, Lynne não está*
+<center>aqui ainda. Mas, infelizmente*
+<center>o assassino está...<press>
+<center>E há mais algumas pequenas*
+<center>complicações esperando*
+<center>por mim, pelo que parece...
+
+-------------------------------
+
+[mono2][2403]
+
+<fchat:0001>
+Hum...<press>
+<sound:0016>Parece que há uma*
+pequena dama com pouca*
+sorte aqui esta noite.
+
+-------------------------------
+
+[mono3][2404]
+
+<fchat:0001>
+E um ainda menos sortudo*
+<red>cãozinho<black>...<press>
+O pobre, bravo e pequeno*
+<red>guerreiro<black>.<press>
+<sound:0016>Ele deve ter tentado*
+defender a garotinha.
+
+-------------------------------
+
+[mono4][2405]
+
+<fchat:0001>
+Se Lynne chegasse em casa*
+agora...<press>
+.........<press>
+<blue>(Eu tenho que fazer*
+alguma coisa a respeito dessa*
+situação... e rápido.).<black>
+
+-------------------------------
+
+[killer_mes][2406]
+
+<face:007F>
+Esse Jeego Míope está*
+definitivamente perdendo*
+o jeito.<press>
+Parece que o título de "líder*
+da divisão de assassinos"*
+será meu em breve.<press>
+Um profissional nunca tira*
+seus olhos da presa.<press>
+Este é o segredo para*
+ser promovido.<press>
+<fchat:0001>
+Sobre o que este idiota está*
+murmurando, sentado lá enchendo*
+a boca de rosquinhas?<press>
+Deixa pra lá.*
+É melhor eu resgatar esta*
+pobre moça.<press>
+<blue>(E este pobre cãozinho*
+também, é claro.)<black>
+
+-------------------------------
+
+[success][2408]
+
+{07FF}<change:010C>
+U{0CFF}á{06FF}<NJ:003C>
+Hã? Onde estou...?{0CFF}e<sound:0016><blink><press>
+<sound:0018><shake:021E>E, sendo mais direto,*
+QUEM eu sou?<press>
+<face:0029>
+.........<press>
+<face:010C>
+<sound:0018><shake:021E>{2EFF}n{17FF}Quem sou eu?!{17FF}<press>
+<face:0036>
+<sound:0015><blink>Hã, você tá falando comigo?<press>
+<face:010C>
+<shake:0128>Mas é claro! Você vê*
+mais alguém por aqui?!<press>
+<face:002B>
+<blue>(Se eu bem me lembro, os*
+mortos não têm <red>vozes<blue>.*
+Seus pensamentos chegam...<press>
+às outras pessoas diretamente.)<black><press>
+<blue>(Eu acho que isso explica*
+por quê esse cão está falando*
+comigo agora.)<black><press>
+<change:0029>
+<end>
+Esse é o apartamento da sua*
+dona. E você é...<press>
+<change:0034>
+<end>
+<sound:0016>... o cãozinho que*
+morreu aqui, eu presumo.<press>
+<face:010C>
+"<red>Morreu<black>"? Então eu estou*
+morto, é?<press>
+<face:002B>
+<blue>(Vejamos. Os mortos perdem*
+suas memórias. Eles esquecem*
+até mesmo como eles eram<blue>.)<black><press>
+<sound:0016><blue>(Então é por isso que*
+ficam com essa forma de*
+"<red>chama<blue>" azul...)<black><press>
+<face:010C>
+<sound:0015><blink>Ah...!<press>
+{07FF}{0CFF}K<show><wait>
+
+-------------------------------
+
+[success2][2409]
+
+{06FF}<sound:0017><shake:021E><change:0076>
+1<blink>Não há tempo a perder!{0CFF}6<blink><press>
+<sound:0018><shake:021E>Senhorita Kamila!*
+Minha senhorita Kamila corre*
+perigo!<press>
+<face:0036>
+<sound:0015><blink>...!<press>
+<face:002D>
+<sound:0016><blink><shake:0128>Quer dizer que você <red>lembra<black>?!*
+Você lembra quem você é?!<press>
+<face:0076>
+<sound:0033><blink><shake:021E>Isso aí. Eu sou Missile.*
+Prazer em conhecê-lo!<press>
+<sound:0032><blink><shake:021E>Eu sou um Pomeranian!<press>
+<face:002B>
+<blue>(Bem...)<black><press>
+<blue>(Eu acho que agora sei que*
+é possível um fantasma*
+<red>recuperar suas memórias<blue>...)<black><press>
+<change:0027>
+<end>
+<sound:0015><blink><shake:0128><blue>(...graças a esse cãozinho!)<black><press>
+<face:0076>
+<sound:0018>Senhorita Kamila!*
+Senhorita Kamilaaaaa!<press>
+Minha Senhorita Kamila está*
+em apuros!<press>
+E eu prometi devotar*
+a minha vida para*
+protegê-la!<press>
+<sound:0018><shake:021E>Mas eu morri antes que*
+pudesse resgatá-la! Como eu*
+pude deixar isso acontecer?!<press>
+<face:0027>
+Então você está mais preocupado com*
+a segurança da sua dona do que*
+com a sua prória morte, ein?<press>
+Eu gosto da sua atitude,*
+cãozinho.<press>
+<blue>(Parece que é hora de ir <red>de volta<blue>*
+aos quatro minutos antes que*
+esse cãozinho morresse.)<black><press>
+(Hora de salvar a vida dele!)<black>
+
+-------------------------------
+

@@ -1,0 +1,306 @@
+[m01_0160][0110]
+
+<center>Uh!
+
+-------------------------------
+
+[m01_0170][0111]
+
+<center>Parada!
+
+-------------------------------
+
+[m01_0230][0118]
+
+<center>Quem está aí?
+
+-------------------------------
+
+[m01_0280][0122]
+
+<center>Minha vista...*
+<center>e o teu futuro!
+
+-------------------------------
+
+[m01_0610][0141]
+
+<face:0007>
+Uma escopeta? Uma arma bem*
+chamativa pra um assassino,*
+não acha? <press>
+<face:007B>
+Não é chamativa. É efetiva. <press>
+Me chamam de "Jeego o Míope", mas*
+nunca deixo minha presa fugir.<press>
+<face:000D>
+Nunca pensou em comprar uns*
+óculos pra você?<press>
+<face:007B>
+Olha, gracinha. A tua hora chegou.<press>
+Duas coisas estão ficando*
+bem escuras agora...
+
+-------------------------------
+
+[m01_0700][014F]
+
+<fchat:0004>
+Esta é sua chance de*
+mudar o destino dela! <press>
+<fchat:0001>
+<blue>(Não tenho muito tempo.*
+Está se tornando uma*
+questão de <red>segundos<blue>!)<black>
+
+-------------------------------
+
+[m01_0710][0150]
+
+<fchat:0004>
+O tempo está quase acabando.<press>
+Mude o destino*
+dela antes que a*
+contagem chegue em "0"!<press>
+<fchat:0001>
+<blue>(Hum. O tempo não passa*
+quando estou no*
+Mundo fantasma.)<black><press>
+<blue>(É melhor eu possuir *
+algo... depressa!)<black>
+
+-------------------------------
+
+[m01_0715][0151]
+
+<face:007B>
+<blink><shake:0128>Droga! O que está havendo?<press>
+Jeego o Míope nunca falha*
+sempre quando o alvo está bem*
+próximo!
+
+-------------------------------
+
+[m01_0720][0152]
+
+<face:0083>
+<sound:0016><blink>Parece que você conseguiu*
+a tempo... ainda bem.<press>
+<face:0027>
+Ela está viva!<press>
+<face:0083>
+Em uma fração de segundos*
+nasceu a esperança.<press>
+Neste momento, seu destino mudou*
+mesmo que só um pouco.
+
+-------------------------------
+
+[m01_0730][0153]
+
+<fchat:0001>
+Você disse que o "destino*
+mudou"...<press>
+Mas parece que ela ainda*
+corre perigo.<press>
+<fchat:0004>
+Disse que seu destino  *
+mudou, mas "só um pouco".<press>
+<fchat:0001>
+Acho que tenho que me*
+livrar desse cara de*
+uma vez por todas.<press>
+<fchat:0004>
+Mas não há muito*
+tempo. Dependendo*
+do que você faça..<press>
+...e ainda existe a *
+possibilidade de fracassar.<press>
+<fchat:0001>
+Não quero pensar nessa*
+possibilidade por enquanto.<press>
+<fchat:0004>
+Suponho que não, mas mesmo*
+assim, se achar que*
+deve voltar e recomeçar,<press>
+<fchat:0005>
+basta pressionar o botão <TIME>*
+antes que o tempo se*
+esgote.<show><press>
+<fchat:0004>
+Também nunca se sabe...<show><press>
+<fchat:0004>
+Talvez você aprenda algo*
+ao fracassar seu objetivo.<press>
+<fchat:0001>
+Vou considerar seu *
+conselho.<press>
+<blue>(Mas por hora, é melhor*
+eu seguir eles dois!)<black>
+
+-------------------------------
+
+[m01_0750][0155]
+
+<face:000B>
+<blink><shake:0128>Ah não! Só pode estar brincando!
+
+-------------------------------
+
+[m01_0760][0156]
+
+<face:0007>
+A ponte está levantada!
+
+-------------------------------
+
+[m01_0770][0157]
+
+Isso é porque eu*
+a subi.
+
+-------------------------------
+
+[m01_0780][0158]
+
+Não tem pra*
+onde fugir.
+
+-------------------------------
+
+[m01_0790][0159]
+
+Não...!
+
+-------------------------------
+
+[m01_0800][015A]
+
+Desta vez é*
+sério.
+
+-------------------------------
+
+[m01_0810][015B]
+
+Adeus, gracinha.
+
+-------------------------------
+
+[m01_0820][015C]
+
+<fchat:0004>
+Aposto que você quer ver o*
+que está havendo lá, não é?<press>
+<fchat:0001>
+<blue>(É verdade! Se eu quiser*
+ver outro lugar é só*
+<red>deslizar <blue>a tela.)<black><press>
+<fchat:0004>
+Exato. Além disso...<press>
+...você pode usar o*
+<DPAD> também.<press>
+Faça do jeito que*
+achar melhor.
+
+-------------------------------
+
+[m01_0830][015D]
+
+Ouviu isso?
+
+-------------------------------
+
+[m01_0840][015E]
+
+.........
+
+-------------------------------
+
+[m01_0861][0160]
+
+Este*
+é o seu fim.
+
+-------------------------------
+
+[m01_0860][0161]
+
+Desta vez é*
+sério.
+
+-------------------------------
+
+[m01_0870][0162]
+
+Adeus, gracinha.
+
+-------------------------------
+
+[m01_0880][0163]
+
+<face:0083>
+O que achou de salvar*
+a vida de uma garota?<press>
+<face:0029>
+Então finalmente ela está salva?<press>
+<face:0083>
+Sim, acho que o "perigo"...<press>
+...o "Sr. Perigo", de fato...*
+foi parar em outro lugar.<press>
+Você usou seus poderes e*
+mudou o destino desta mulher.<press>
+<face:002B>
+<blue>(Então eu fiz isso tudo, hã?)<black><press>
+<face:0083>
+Fez sim, sem dúvidas!<press>
+Eu sabia que você era capaz.
+
+-------------------------------
+
+[m01_0890][0164]
+
+{20FF}Í<center>Então nesta noite em que perdi a*
+minha vida, salvei a de outra pessoa.
+
+-------------------------------
+
+[m01_0900][0165]
+
+<face:002B>
+Como ela parece ser a corredora*
+mais lenta do mundo, acho que*
+lhe darei a chance de escapar.<press>
+<change:0029>
+<end>
+Acho que tentarei encontrar algo*
+para distrair o homem de preto...<press>
+Se quero usar meus poderes,*
+antes terei que <red>tocar <black>o*
+botão <GHOST>.<press>
+<change:002B>
+<end>
+<blue>(Bem, ainda não tenho um plano, mas*
+acho que é melhor eu "<red>tocar<blue>"!)<black>
+
+-------------------------------
+
+[m01_0910][0166]
+
+<face:0029>
+Hum... Ainda não pude salvá-la.<press>
+Parece que vou ter que me*
+encarregar do homem de*
+preto de uma vez por todas.<press>
+<change:002B>
+<end>
+<blue>(Tem que haver <red>algo<blue> que eu*
+<red>possa usar<blue> por aqui!)<black><press>
+<change:0027>
+<end>
+<blue>(Acho que vou <red>possuir<blue>*
+todas as coisas até que*
+encontre a correta...)<black>
+
+-------------------------------
+

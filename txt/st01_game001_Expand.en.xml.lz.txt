@@ -1,0 +1,382 @@
+[m01_0340][0124]
+
+Está feito.
+
+-------------------------------
+
+[m01_0350][0125]
+
+Já estou a caminho.
+
+-------------------------------
+
+[m01_0290][0126]
+
+<center>No fim, parece que o*
+<center>destino dela não mudou.<space>
+<center>Mas então para que serviram*
+<center>esses meus "truques fantasmas"? <space>
+<center>Mas assim que pensava nisso...
+
+-------------------------------
+
+[m01_0360][0127]
+
+<face:0081>
+Olá.*
+Como se sente?<press>
+Não muito bem, devo imaginar.*
+Uma terrível tragédia, o que*
+aconteceu esta noite...<press>
+<face:0029>
+.........<press>
+<face:0081>
+<sound:0015><blink>Está me ignorando?*
+Eu acho um pouco cedo para*
+você ficar tão frio comigo.<press>
+<face:0027>
+Ah, então era você aquela voz*
+na minha mente, não era?<press>
+<face:0081>
+Bom, eu não diria "voz"*
+exatamente. Os mortos não*
+têm voz, sabia? <press>
+Eram meus pensamentos emitidos*
+diretamente à sua mente.*
+<press>
+É mais um "truque" que os*
+fantasmas podem fazer.<press>
+<face:0034>
+Mas parece que eles*
+não foram úteis..
+
+-------------------------------
+
+[m01_0370][0128]
+
+<face:002B>
+<blue>(Ela acabou morrendo*
+como antes.)<black><press>
+<face:0083>
+Isso é verdade, por enquanto.<press>
+<face:002B>
+<sound:0016>"Por enquanto"?
+
+-------------------------------
+
+[m01_0381][0129]
+
+<face:0081>
+Ainda tenho o que ensinar*
+sobre os poderes dos mortos e*
+seus "truques fantasmas".<press>
+<face:0029>
+Ah, tá certo, mas quem é você*
+exatamente?<press>
+<face:0081>
+Antes de responder, acho que*
+deveríamos salvar a jovem dama.
+
+-------------------------------
+
+[m01_0410][012B]
+
+<face:0080>
+Não é uma pena ver esta linda*
+garota aqui jogada como se*
+fosse um traste?<press>
+<face:0034>
+Mas o que eu posso fazer?*
+Ela já tá morta.
+
+-------------------------------
+
+[m01_0420][012C]
+
+<face:0083>
+Amigo, é hora de você ter mais*
+lições sobre fantasmas.<press>
+<sound:0016>Primeiro deves <red>possuir<black> a mim.<press>
+<face:002B>
+Possuir você?<press>
+<face:0083>
+Quando fizer isso, te direi mais*
+sobre outro de seus poderes.
+
+-------------------------------
+
+[m01_0430][012D]
+
+{20FF}F<center>Por que estou tão decidido a*
+<center>salvar essa mulher? Afinal, eu nem*
+<center>sei quem ela é.<space>
+<center>Mas acho que de qualquer forma*
+<center>aceitarei o pedido da lâmpada.<press>
+<center>Por dois motivos:<space>
+<center>Um, não sou o tipo de cara*
+<center>que deixa mulheres jogadas*
+<center>como se fossem lixo.<space>
+<center>E dois, eu não tenho mais*
+<center>nada a perder mesmo.
+
+-------------------------------
+
+[m01_0450][012E]
+
+<fchat:0004>
+Este <red>balão <black>que acabas de*
+tocar...<press>
+<sound:0016>São seus <red>pensamentos<black>, o que*
+ocorre na tua própria mente.<press>
+<fchat:0001>
+Meus pensamentos, hum?<press>
+<blue>(Já que os mortos*
+não falam...)<black><press>
+<blue>(...o que pensamos vai*
+diretamente aos demais*
+fantasmas...)<black><press>
+<blue>(Então esses <red>pensamentos<blue>*
+substituem a voz. Acho*
+que começo a compreender.)<black><press>
+<fchat:0004>
+Acho que sim, também.<press>
+Tente ficar sempre*
+atento a esses*
+<red>balões de pensamento<black>.<press>
+<fchat:0001>
+É uma boa idéia.<press>
+<blue>(Talvez eu consiga alguma*
+pista importante com eles...)<black><press>
+<fchat:0004>
+Bem...<press>
+Para possuir a mim, é*
+só você entrar no*
+<red>Mundo Fantasma<black>.<press>
+E o botão <GHOST> é o*
+bilhete de entrada.<show><press>
+A melhor coisa a fazer é*
+tentar.<show><press>
+<fchat:0001>
+<blue>(O botão <GHOST>, né?*
+Acho que darei um*
+leve <red>toque<blue>.)<black>
+
+-------------------------------
+
+[m01_0460][012F]
+
+<fchat:0004>
+<sound:0015><blink>Certamente você já viu*
+a <red>tela superior<black>, não?<press>
+<fchat:0001>
+O que tem ela?<press>
+<fchat:0004>
+Ela diz qual "<red>truque<black>" você*
+pode fazer com o objeto *
+possuído no momento.<press>
+Você pode consultá-la*
+sempre que achar*
+necessário.<press>
+<fchat:0001>
+<blue>(Parece que no caso da*
+cama dobrável eu posso*
+fazê-la "<red>desdobrar<blue>".)<black><press>
+<fchat:0004>
+E para fazer o "truque" no*
+objeto possuído você...<press>
+... deve antes retornar ao*
+<red>mundo dos vivos<black>, captou?<press>
+<fchat:0001>
+Ah, entendi.<press>
+<fchat:0004>
+Agora, o botão <BACK>*
+é seu bilhete de saída do*
+Mundo Fantasma.<show><press>
+Pois bem, boa sorte!*
+Contamos contigo.<show><press>
+<fchat:0001>
+<blue>(Hum? Contamos?*
+Mas quem?)<black>
+
+-------------------------------
+
+[m01_0470][0130]
+
+<face:002B>
+<sound:0016><blink>Que estranho...<press>
+<face:0083>
+O que foi?
+
+-------------------------------
+
+[m01_0480][0131]
+
+<face:0044>
+Meu corpo e o dela...<press>
+Há algo de*
+<red>diferente<black> neles.<press>
+<blue>(Há algo emanando*
+do meu...)<black><press>
+<face:0083>
+É porque...<press>
+...você é especial.<press>
+<face:0036>
+O que quer dizer com isso?<press>
+<face:0083>
+Nem todos os que morrem conseguem*
+<red>poderes<black> especiais, sabia?<press>
+<face:002B>
+<blue>(Então essas ondas se*
+devem aos "<red>poderes*
+fantasma<blue>", isso?)<black><press>
+<face:0083>
+Está correto...
+
+-------------------------------
+
+[m01_0500][0132]
+
+<face:0083>
+Parabéns, está aprovado.<press>
+<face:0027>
+Ah, é?*
+E que prêmio vou receber?<press>
+<face:0083>
+<sound:0016>Um <red>novo poder<black>. O que mais seria?<press>
+<face:0036>
+Mais um?<press>
+<face:0083>
+Bom, vamos recapitular. Você*
+pode manipular objetos, não*
+é verdade?
+
+-------------------------------
+
+[m01_0510][0133]
+
+<face:0086>
+O que acha que acontece ao*
+possuir <red>um cadáver<black>?<press>
+<face:0034>
+Nada, porque já tentei isso, não*
+lembra? E nada aconteceu.<press>
+<face:0086>
+Certamente não tens a capacidade de*
+"manipular" um cadáver.
+
+-------------------------------
+
+[m01_0511][0134]
+
+<face:0086>
+Mesmo assim...<press>
+<sound:0015><blink>Há <red>algo diferente<black> que podes fazer.<press>
+<face:002B>
+Ah, é?*
+O quê?
+
+-------------------------------
+
+[m01_0515][0135]
+
+<face:0086>
+Por que não tenta e vê você mesmo?
+
+-------------------------------
+
+[m01_0520][0136]
+
+<change:010C>
+U{15FF}{7800}<face:0036>
+O que é isso?<press>
+<face:010C>
+<sound:0000>.........<press>
+<face:0029>
+Pode me ouvir?<press>
+<face:010C>
+<sound:0000>.........<press>
+<face:003A>
+<blink><shake:0128>Mas que diabos*
+está havendo?<press>
+<face:0083>
+Hum...<press>
+Parece inconsciente,*
+tadinha.<press>
+<face:002F>
+Inconsciente? Mas ela tá morta.<press>
+<face:0083>
+Sim, mas você lembra como estava*
+quando viu que tinha morrido?<press>
+Quando voltou a si, também*
+havias ficado inconsciente.<press>
+<face:002B>
+<blue>(Inconsciente, hum?)<black>
+
+-------------------------------
+
+[m01_0530][0137]
+
+<face:0044>
+<blue>(Pensando bem, o*
+abajur tem razão.)<black>
+
+-------------------------------
+
+[m01_0531][0138]
+
+<face:0044>
+<blue>(Quando recuperei os sentidos,*
+já estava morto.)<black>
+
+-------------------------------
+
+[m01_0535][0139]
+
+{07FF}<change:0085>
+y{0CFF}{7800}{06FF}Vamos deixá-la assim...<press>
+<face:0083>
+Enquanto descansa,*
+salvaremos a vida dela.<press>
+<face:002B>
+Ah, parece até que*
+é muito fácil.<press>
+<face:0083>
+Acontece que É fácil.<press>
+Ao usar seus poderes em*
+um defunto...<press>
+<sound:0016><blink>...é possível regressar no tempo,*
+ao momento <red>quatro minutos antes<black>*
+da morte daquela pessoa.<press>
+<face:002F>
+<sound:0015><blink>Isso é sério?*
+Podemos voltar no tempo?<press>
+<face:0083>
+Exato. Mas tem um porém.<press>
+Só funciona em "cadáveres*
+novos", ou seja, que estão *
+mortos há <red>menos de um dia<black>.<press>
+E ela ainda está neste*
+período.<press>
+Talvez você queira tentar,*
+antes que seja tarde.<press>
+<face:002D>
+<blink><shake:0128>Mas isto é loucura!*
+Nada faz sentido!<press>
+<face:0083>
+Mas estamos falando dos*
+poderes dos mortos. Não é*
+preciso fazer sentido.<press>
+Bem, podemos ir?<press>
+<sound:0017><blink><shake:0128>Ao instante quatro minutos antes*
+desta garota ser assassinada!<press>
+<face:0036>
+<sound:0015><blink><shake:0128>Ei, ei! Pera aí! Ainda*
+não sei do que você*
+tá falando!<press>
+<face:0083>
+<NJ:003C>
+Heh heh.<press>
+<sound:0016>Você verá, você verá.
+
+-------------------------------
+

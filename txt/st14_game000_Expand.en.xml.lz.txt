@@ -1,0 +1,533 @@
+[m14_0000][3300]
+
+<center>Quem sou eu?<space>
+<center>Por que fui morto?<space>
+<center>O homem que com certeza sabe as*
+<center>respostas para essas perguntas é*
+<center>o homem que ordenou meu*
+<center>assassinato.
+
+-------------------------------
+
+[m14_0005][3301]
+
+<center>No outro lado da linha*
+<center>telefônica está o verdadeiro*
+<center>responsável pela minha morte.<space>
+<center>Nosso encontro, tudo tão*
+<center>repentino. Eu não tenho certeza*
+<center>se estou realmente preparado*
+<center>para o que está por vir.
+
+-------------------------------
+
+[m14_0010][3302]
+
+<face:0072>
+Hum, sim... Se o que li*
+neste arquivo é verdade...<press>
+Essa mulher pode representar*
+um problema relativamente grande*
+para nós, meu bom homem.<press>
+Devemos apagá-la, esta noite.
+
+-------------------------------
+
+[m14_0020][3303]
+
+<face:0072>
+E sobre aquele Jeego míope.*
+Jeego! Suas habilidades são tão*
+débeis quanto sua visão.<press>
+<face:0088>
+<sound:0015><blink>Não te preocupes senhor. Eu já*
+providenciei o <red>próximo passo<black>,*
+senhor.
+
+-------------------------------
+
+[m14_0030][3304]
+
+<face:0072>
+Hum, sim... Mas, te digo, a*
+última coisa que eu esperaria*
+seria falar com o nosso alvo.<press>
+Mesmo sendo por telefone.<press>
+Eu devo admitir, meu bom*
+homem, isso me deixou um*
+pouco confuso por um momento!<press>
+Hah ha ha!<press>
+<fchat:0001>
+Que lugar é esse?<press>
+Essa mobília extravagante*
+e luxuosa... Essa música*
+erudita e refinada...<press>
+E essa pequena e estranha*
+máquina... Eu nunca vi uma*
+sala assim antes.<press>
+Mas de uma coisa tenho*
+certeza...<press>
+Essas pessoas são*
+<red>assassinas<black>.<press>
+E, sabe o que mais...<press>
+<sound:0016>Aquela mulher ruiva é*
+outro <red>alvo<black> deles.
+
+-------------------------------
+
+[m14_0040][3305]
+
+<fchat:0001>
+Este arquivo que o velho*
+está segurando.<press>
+Talvez isso me dê alguma*
+informação a respeito da*
+ruiva.
+
+-------------------------------
+
+[m14_0050][3306]
+
+<face:0072>
+Hum, sim... quanto tempo*
+levará heim, meu bom homem?<press>
+<face:0088>
+Nós estamos carregando nosso*
+gerador agora, senhor.<press>
+O processo deve ser completo*
+em cerca de trinta minutos,*
+senhor.<press>
+<face:0072>
+Hum, sim...<press>
+Mas sobre o Jeego,*
+eu te digo!<press>
+A cada ano o "alcance*
+confiável" dele vai ficando*
+cada vez menor.<press>
+Ele irá receber carvão*
+no seu próximo envelope*
+de pagamento, tu verás!<press>
+<face:0088>
+Eu posso sugerir óculos*
+em seu próximo envelope,*
+senhor?
+
+-------------------------------
+
+[m14_0060][3307]
+
+<fchat:0001>
+Parece que esse arquivo*
+contém informações sobre*
+a garota ruiva.<press>
+Mas eu não posso ler*
+pois está fechado...
+
+-------------------------------
+
+[m14_0070][3308]
+
+<face:0072>
+<sound:0018><shake:011E>Minha nossa! Tu vistes isso?!<press>
+A pasta... Digo! A pasta*
+ergueu-se e abriu-se sozinha*
+para mim, meu bom homem!<press>
+Quase arrancando minha cabeça*
+fora!<press>
+<face:0088>
+Não te preocupes, senhor.<press>
+Eu já vi que o alvo, senhorita*
+Lynne, não será mais um*
+impecílio, senhor.<press>
+<face:0072>
+Bah! Não é disso que estou*
+a falar, homem!<press>
+<fchat:0001>
+<sound:0016>{28FF}{8000}yHum... "<red>Lynne<black>," é?*
+Então esse é o nome dela?<press>
+<blue>(Mas esse arquivo...)<black><press>
+<sound:0016><blue>(É como se estivesse escrito*
+em uma língua estrangeira.*
+<red>Eu não consigo ler algo
+sequer...<blue>){28FF}{0001}y<black><press>
+<face:0088>
+Eu posso sugerir que o senhor*
+ponha este arquivo de lado e*
+passe a relaxar, senhor?
+
+-------------------------------
+
+[m14_0080][3309]
+
+<face:0088>
+O senhor tem uma tarefa muito*
+importante à sua espera*
+esta noite, senhor.
+
+-------------------------------
+
+[m14_0090][330A]
+
+<fchat:0001>
+Droga...<press>
+Isso não é bom. O telefone*
+e eu fomos distanciados*
+um do outro...<press>
+E a única coisa que eu*
+aprendi foi o nome "<red>Lynne<black>."<press>
+Esta é certamente uma sala*
+estranha.<press>
+<blue>(Eu viajei através da*
+linha telefônica para chegar*
+até aqui...)<black><press>
+<sound:0016><blue>(Mas <red>onde <blue>exatamente é*
+"aqui"?)<black><press>
+<blue>(E <red>quem<blue> exatamente*
+são estas pessoas?)<black>
+
+-------------------------------
+
+[m14_0100][330B]
+
+<face:0072>
+<sound:0018><shake:011E>Egad, homem! Estás tentando*
+me matar de susto!?<press>
+<face:0088>
+Desculpe-me, senhor. Mas eu*
+não toquei nisto, senhor.<press>
+Parece-me que o equipamento*
+está em mal funcionamento*
+senhor.<press>
+<face:0072>
+Bah! Tecnologia é certamente*
+algo conveniente.<press>
+Mas nosso uso dela é que é*
+muito simplista!<press>
+Hmm, sim... De toda forma...<press>
+Eu não quero ver o rosto de*
+nosso atual alvo, meu bom*
+homem.<press>
+<face:0088>
+Como quiser, senhor. Neste*
+caso, posso sugerir este,*
+senhor?
+
+-------------------------------
+
+[m14_0110][330C]
+
+<fchat:0001>
+<sound:0015><blink>...!<blue>*
+(Ei! Mas este...!)<black>
+
+-------------------------------
+
+[m14_0120][330D]
+
+<face:0072>
+Hum, sim... Sissel...<press>
+<face:0088>
+Se tudo ocorrer bem com nossa "negociação"*
+esta noite, nós teremos o poder*
+para mudar o mundo, senhor.<press>
+<face:0072>
+Hum, sim... Esta é uma noite muito*
+importante, certamente, meu bom homem.*
+Nós não podemos tolerar erros.<press>
+E é por isto que não podemos*
+confiar em Sissel... Não, nós*
+devemos ser cautelosos...
+
+-------------------------------
+
+[m14_0130][330E]
+
+<face:0044>
+"<red>Sissel<black>"...<press>
+Este deve ser meu nome...<press>
+<blue>(Agora que eu o ouvi,*
+ele REALMENTE soa familiar...)<black><press>
+Uma "<red>negociação<black>," é?*
+A respeito do quê*
+poderia ser?<press>
+<sound:0016><blue>(Do que será que eu estava,*
+atrás?)<black>
+
+-------------------------------
+
+[m14_0140][330F]
+
+<face:0088>
+Nós estamos completamente*
+preparados para esta noite,*
+senhor.
+
+-------------------------------
+
+[m14_0150][3310]
+
+<face:0072>
+Hum, sim... Agora tudo o que*
+nós devemos fazer é colher*
+do fruto do sucesso. Hah ha ha!
+
+-------------------------------
+
+[m14_0160][3311]
+
+<face:0044>
+Uma coisa está clara. Esses*
+vilões parecem me conhecer.<press>
+E tem mais.<press>
+Parece que há algum tipo*
+de conexão entre mim e essa*
+"<red>Lynne<black>."<press>
+Por que outra razão nossos*
+nomes seriam citados aqui*
+assim?
+
+-------------------------------
+
+[m14_0170][3312]
+
+<face:0072>
+<sound:0018><shake:011E>Onde está tua cabeça, homem?*
+Eu já te disse que não quero*
+ver este rosto!<press>
+<face:0088>
+Minhas desculpas, senhor. Parece*
+ser mais um mal funcionamento,*
+senhor.<press>
+<face:0072>
+<sound:0018><shake:011E>Bem, trate de consertar isso, homem,*
+a não ser que queiras ver a MIM*
+em mal funcionamento!<press>
+<face:0088>
+Certamente, senhor.
+
+-------------------------------
+
+[m14_0180][3313]
+
+<fchat:0001>
+Esses caras me assassinaram*
+e agora o alvo deles é a*
+ruiva.<press>
+Que tipo de "conexão" nós*
+tínhamos um com o outro?
+
+-------------------------------
+
+[m14_0190][3314]
+
+<face:0072>
+Eu te digo, esta sala está me*
+dando calafrios,*
+meu bom homem!<press>
+Todos esses quadros girando*
+e essas coisas! Já é mais*
+que suficiente para...<press>
+me deixar tenso!<press>
+<face:0088>
+Minhas desculpas, senhor.*
+A sala foi recém construída,*
+senhor.<press>
+Nós ainda estamos tentando*
+ajustar as engrenagens,*
+senhor.<press>
+<face:0072>
+Hum, sim... Eu só espero que seja apenas isso...*
+Quero dizer, Egad, homem!<press>
+Como poderia eu relaxar*
+e desfrutar de minhas uvas?
+
+-------------------------------
+
+[m14_0200][3315]
+
+<face:0072>
+Mas que situação miserável eu sendo*
+assustado por um telefone que nem*
+sequer tocou!
+
+-------------------------------
+
+[m14_0210][3316]
+
+<face:0072>
+É até mais patético ser assustado pelo*
+mesmo telefone duas vezes. Ah!<press>
+<face:0088>
+O problema deve ter sido*
+solucionado, senhor.<press>
+<sound:0016>O problema da*
+"Senhorita Lynne", senhor...<press>
+<fchat:0001>
+<sound:0015>{1CFF}A<blue>(O quê?! "Lynne"...?!)<black><press>
+<face:0072>
+Hum, sim...<press>
+Você mencionou ter tomado o "<red>próximo passo<black>"*
+há pouco tempo, não foi meu bom homem?<press>
+<face:0088>
+Sim, senhor. Eu enviei o*
+Tengo "Um passo à frente"*
+ao apartamento dela, senhor.<press>
+Esta chamada telefônica deve*
+ser ele reportando, senhor.<press>
+<face:0072>
+Muito bom, muito bom!
+
+-------------------------------
+
+[m14_0220][3317]
+
+<fchat:0001>
+Lynne está em perigo*
+novamente!
+
+-------------------------------
+
+[m14_0230][3318]
+
+<fchat:0001>
+Aquele telefone é minha*
+<red>salvação<black>.<press>
+É melhor que eu não fique*
+muito longe dele agora.<press>
+<blue>(Além disso, eu quero ouvir*
+o que eles estão falando sobre*
+a <red>Lynne<blue>.)<black>
+
+-------------------------------
+
+[m14_0240][3319]
+
+<face:007F>
+Aqui é o Tengo "Um passo*
+à frente".Eu estou no*
+apartamento do alvo agora.<press>
+<face:0072>
+E? Fale homem!*
+Tu cuidastes dela?<press>
+<face:007F>
+Não. Ela ainda não voltou.<press>
+<face:0072>
+<sound:0016>O quê?<press>
+<face:007F>
+Isso faz todo o sentido.<press>
+Se o alvo já estivesse*
+chegado aqui, eu não seria*
+chamado de...<press>
+Tengo "Um passo à frente",*
+seria?<press>
+<face:0072>
+.........<press>
+Eu não entendo... mas de*
+qualquer modo, homem, uma*
+vez que tu cuidares dela...<press>
+<face:007F>
+Então você me promoverá para*
+líder da divisão de*
+assassinos...?<press>
+<face:0072>
+<sound:0018><shake:011E>Bah! Não, homem! Agora*
+tu estás ficando "Um passo à*
+frente" até de mim!<press>
+<face:007F>
+Nós podemos discutir meu*
+novo salário depois.<press>
+<face:0072>
+<sound:0018><shake:011E>Minha nossa! Agora tu*
+estás um passo à frente até*
+do seu último passo à frente!<press>
+<face:007F>
+Eu voltarei ao meu trabalho*
+agora, senhor.<press>
+<face:0072>
+<sound:0018><shake:011E>Oras! Tu estás*
+desligando o telefone um passo*
+à frente!?
+
+-------------------------------
+
+[m14_0250][331A]
+
+<face:0088>
+{1CFF}LO que ele disse, senhor?<press>
+<face:0072>
+Ele pediu um aumento de salário.<press>
+<face:0088>
+O que o senhor fará, senhor?<press>
+<face:0072>
+Talvez eu dê a ele um pouco*
+do salário de Jeego, o Míope.<press>
+<fchat:0001>
+Lynne...*
+Eu não posso perdê-la!<press>
+Ela é minha única <red>pista<black>*
+se eu quiser mesmo solucionar*
+o mistério da minha morte!
+
+-------------------------------
+
+[m14_0280][331D]
+
+Egad!
+
+-------------------------------
+
+[m14_0290][331E]
+
+<fchat:0001>
+Girar este quadro*
+faz com que o velho fique*
+perturbado, mas isso é tudo.<press>
+Eu tenho que achar o <red>momento<black>*
+correto para chegar do outro*
+lado do projetor.<press>
+<blue>(O que eu preciso esta*
+noite é de um jeito de*
+"inverter" essa situação!)<black>
+
+-------------------------------
+
+[m14_0300][331F]
+
+<face:0072>
+<sound:0018><shake:011E>Tu poderias tentar controlar*
+esta coisa, homem? Estás*
+tentando me deixar com embolia?!<press>
+<face:0088>
+Minhas desculpas, senhor.*
+Mas eu não toquei nisto,*
+senhor.<press>
+<face:0072>
+Ah, eu estou entendendo! Tu estás*
+tentando me matar para assim poder*
+tomar o meu lugar, não é mesmo?<press>
+Pode esquecer!<press>
+Eu posso estar ficando careca, mas*
+meu coração é tão forte quanto*
+minhas sobrancelhas são grossas!
+
+-------------------------------
+
+[m14_0310][3320]
+
+<fchat:0001>
+É melhor eu ir.<press>
+Eu não posso pôr um*
+fim nos seus planos se*
+eu ficar aqui.
+
+-------------------------------
+
+[m14_0320][3321]
+
+<fchat:0001>
+<blue>(É melhor eu usar este*
+telefone para chegar até*
+a Lynne... e rápido!)<black>
+
+-------------------------------
+

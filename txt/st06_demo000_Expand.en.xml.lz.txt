@@ -1,0 +1,230 @@
+[m000][2200]
+
+<face:0027>
+Vejamos. Antes de qualquer*
+coisa, acho melhor eu ver*
+como foi sua morte, mocinho.<press>
+<face:0076>
+<sound:0016>Desculpe, mas...<press>
+<sound:0018><shake:021E>...onde exatamente nós*
+estamos?<press>
+<face:0036>
+Hã? Você me seguiu?<press>
+<face:0076>
+<sound:0033><shake:0128><blink>Eu segui você. Você*
+me trouxe. Uma*
+das duas coisas.<press>
+<face:002B>
+<blue>(Hum... Parece que os*
+mortos podem <red>se mover*
+juntos<blue>.)<black><press>
+<change:0029>
+<end>
+Este é o momento quatro minutos*
+antes de sua morte.<press>
+<face:0076>
+<sound:0018><shake:021E>Sério?! Nós estamos aqui*
+mesmo?!<press>
+Então isso significa que você*
+irá salvar a senhorita Kamila,*
+não é!<press>
+<face:0036>
+Você não está surpreso?*
+Quero dizer, nós acabamos de*
+viajar pelo tempo e...<press>
+<face:0076>
+<sound:0015><blink>Não muito!<press>
+Bem, a senhorita Kamila*
+pode caminhar em duas patas,*
+mas eu não posso...<press>
+...então se ela pode fazer*
+isso...<press>
+<sound:0033><blink><shake:021E>...não é tão*
+estranho você poder caminhar*
+de volta no tempo assim!<press>
+<face:002B>
+Então é dessa forma que sua*
+mente funciona, é? Eu acho*
+que faz um certo sentido.<press>
+<face:0076>
+<sound:0033><blink><shake:021E>Vamos lá! Vamos lá!*
+Vamos começar!<press>
+<face:0029>
+Tudo bem. Primeiro, vamos*
+assistir aos seus últimos quatro*
+minutos de vida.<press>
+Então usaremos o que aprendemos*
+para salvar Kamila.<press>
+<blue>(Assim como eu salvei*
+Lynne lá no ferro velho!)<black><press>
+Se nós prestarmos bastante atenção,*
+nós seremos capazes de encontrar*
+algumas <red>pistas<black>.<press>
+Mantenha os olhos abertos!<press>
+<face:0076>
+<sound:0017><blink><shake:0128>É claro!<press>
+<sound:0033><shake:021E>Deixe isso comigo!*
+Vou farejar algumas pistas!
+
+-------------------------------
+
+[girl_m1][2201]
+
+Ebaaaa! Encontrei*
+o controle remoto!
+
+-------------------------------
+
+[woman_m1][2202]
+
+Cale esse*
+viralata!
+
+-------------------------------
+
+[woman_m2][2203]
+
+Se ele latir novamente...
+
+-------------------------------
+
+[woman_m3][2204]
+
+...Eu vou derrubar*
+essa parede!
+
+-------------------------------
+
+[m001][2205]
+
+<face:0065>
+Não, Missile! Não é*
+pra você latir!<press>
+A senhora nossa vizinha*
+está mais estressada*
+do que nunca hoje.
+
+-------------------------------
+
+[m002][2206]
+
+<face:0063>
+Você não quer que ela*
+derrube a parede, quer,*
+mocinho?<press>
+<change:0065>
+<end>
+#suspiro# Por quê você gosta*
+tanto de latir, hein?<press>
+Você é muito fofinho, mas*
+só não vá nos matar, tá bem?<press>
+Pôxa. Eu também queria*
+mesmo assistir TV.<press>
+<change:0067>
+<end>
+<sound:0015><blink>Ei, já sei! Vou*
+ouvir música!
+
+-------------------------------
+
+[girl_m2][2207]
+
+<sound:0015>Ops! Ops!
+
+-------------------------------
+
+[girl_m3][2208]
+
+Ufa!*
+Essa passou perto!
+
+-------------------------------
+
+[girl_m4][2209]
+
+Estou com vontade*
+de comer rosquinhas.
+
+-------------------------------
+
+[m004][220A]
+
+<face:007E>
+Hum. Não gosto muito*
+quando o trabalho sai*
+um pouco dos limites planejados.<press>
+Eu tenho que cuidar disso como*
+uma tarefa adicional, e o*
+contratante nunca gosta disso.<press>
+Mas eu acho que não há*
+outro jeito... Desculpe, garoto.
+
+-------------------------------
+
+[m005][220B]
+
+<face:002B>
+Então essa é toda a história*
+dramática sobre o que aconteceu*
+nos seus quatro últimos minutos.<press>
+<face:0076>
+<shake:0128>Nossa, veja isso. Eu estou*
+morto. Estou meio chocado,*
+pra falar a verdade.<press>
+<sound:0033><blink><shake:021E>Beleza, vamos começar*
+a salvá-la!<press>
+<face:0029>
+Mas, vejamos... Como*
+vamos fazer isso?<press>
+Parece que a forma mais fácil seria*
+você dar uma grande mordida*
+na perna daquele cara.<press>
+<face:0076>
+<sound:0015><blink>Oh, Eu não acho que eu*
+seria capaz disso!<press>
+Sempre que alguém que eu não*
+conheço aparece tudo o que eu*
+consigo dizer a eles é...<press>
+<sound:0033><blink><shake:021E>{2EFF}l{17FF}"Bem Vindo!"{17FF}<press>
+Eu não consigo evitar!<press>
+<face:002B>
+Certo, então a única coisa que*
+podemos fazer é tentar fazer a*
+garotinha se ajudar de algum jeito.<press>
+<face:0076>
+<sound:0015><blink>Ah, eu não acho que ela poderia*
+fazer isso!<press>
+Você percebeu que ela*
+colocou aquela <red>coisa*
+vermelha<black> na cabeça?<press>
+<face:0029>
+Coisa vermelha...? Ah, você*
+quer dizer os*
+<red>fones de ouvido<black>?<press>
+<face:0076>
+Sempre que ela coloca aquela coisa vermelha,*
+já era! Eu posso chamar por ela*
+até ficar rouco, mas ela não me ouve!<press>
+Para ser bem honesto...<press>
+<sound:0033><blink><shake:021E>{2EFF}m{17FF} Eu odeio aquela*
+<red>coisa vermelha<black>!{17FF}<press>
+<face:002B>
+Hum, você tá certo.<press>
+Com aqueles fones de ouvido nossa garotinha*
+não ouve nem mesmo o som do*
+disparo da arma do invasor.<press>
+<change:0029>
+<end>
+<blue>(Então talvez essa seja nossa primeira*
+"<red>pista<blue>." Agora nós sabemos que*
+temos que fazer algo a respeito disto.)<black>
+
+-------------------------------
+
+[woman_m4][220C]
+
+Eu vou derrubar*
+essa parede!
+
+-------------------------------
+

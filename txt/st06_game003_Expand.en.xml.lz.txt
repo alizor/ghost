@@ -1,0 +1,272 @@
+[tel_lost][2700]
+
+De novo não!
+
+-------------------------------
+
+[op_demo_mes][2701]
+
+<face:006D>
+<shake:0128><blink>Droga. Agora eu deixei*
+cair o telefone, também.<press>
+<change:0067>
+<end>
+Que tal se nós dissermos*
+a ela que você fez isso*
+também, Missile?
+
+-------------------------------
+
+[op_demo_mes2][2702]
+
+<face:006D>
+Mas eu realmente espero que*
+esteja tudo bem com a Lynne...<press>
+É melhor eu ir. Eu sei*
+exatamente onde fica o beco*
+sem saída.<press>
+<change:0065>
+<end>
+<sound:0016>Mas eu nunca vi nenhuma*
+<red>caixa de música<black> por*
+aqui!<press>
+Onde será que eu posso*
+encontrar isso?<press>
+Você sabe onde está, Missile?
+
+-------------------------------
+
+[op_demo_mes3][2703]
+
+<face:0067>
+Me ajude a encontrar, tá?
+
+-------------------------------
+
+[cicel_00][2704]
+
+<fchat:0001>
+Bem, eu acho que o telefone*
+está "<red>morto<black> agora,*
+também... <press>
+Quais eram as chances de que*
+isso aconteceria?<press>
+Parece que nossa garotinha*
+é um pouco desastrada.<press>
+Provavelmente na próxima*
+vez ela vai derrubar o*
+pobre cãozinho no tanque.<press>
+De qualquer forma, <red>algo<black>*
+está acontecendo com a*
+Lynne.<press>
+É melhor eu ajudar a*
+Kamila a encontrar o seu*
+<red>tesouro<black>.<press>
+<blue>(Hum. Eu não sei se*
+é porque eu perdi minha*
+memória ou algo assim...<press>
+Mas eu não consigo lembrar*
+o que uma "<red>caixa de música<blue>"*
+é exatamente...)<black>
+
+-------------------------------
+
+[tel_info][2705]
+
+<fchat:0001>
+Droga...<press>
+Com o receptor dentro*
+do aquário, eu <red>não posso*
+usar a linha telefônica<black>.<press>
+Não me diga que...<press>
+<sound:0016>...Eu estou <red>preso<black>*
+nesta sala?
+
+-------------------------------
+
+[dog_talk2][2706]
+
+<face:0028>
+Parece que esta é sua*
+chance de brilhar.<press>
+<face:0075>
+<sound:0015><blink>Eu? O que você quer*
+dizer?<press>
+<face:0035>
+Você pode realmente*
+ajudá-la agora, com esse*
+seu incrível nariz!<press>
+<face:0075>
+Ah, você está certo!*
+Eu não tinha pensado nisso!<press>
+<sound:0033><blink><shake:021E> Então que tipo de cheiro*
+eu devo procurar?<press>
+<face:0037>
+<blink>Ah, hum... Eu simplesmente*
+não sei.<press>
+<face:0075>
+Ah.<press>
+<face:0075>
+Tudo bem. Não se sinta*
+mal por isso...<press>
+<face:002C>
+<blue>(Estou sendo consolado*
+por um cão...)<black>
+
+-------------------------------
+
+[caster_mes][2708]
+
+<face:0065>
+Ei, espere um minuto. Este*
+carrinho se moveu, não foi?<press>
+Eu sempre desconfiei, isso*
+prova como esse apartamento*
+está....<press>
+.........<press>
+<change:0063>
+<end>
+<sound:0016>...se inclinando para um lado.<press>
+<fchat:0001>
+Nossa! Essa garotinha*
+sabe como me fazer*
+roer as unhas!
+
+-------------------------------
+
+[caster_mes2][2709]
+
+<face:0065>
+O carrinho se moveu, não foi?<press>
+Eu estou dizendo, esse prédio*
+é torto para um lado!<press>
+Desde que aquela mulher*
+se mudou pro apartamento*
+ao lado...
+
+-------------------------------
+
+[girl_center_mes][270A]
+
+<face:0065>
+Droga. Eu não consigo achar*
+essa tal caixa de música*
+em lugar algum.<press>
+Se ela tinha que gritar, devia ter*
+feito isso só depois de me contar*
+onde a caixa de música está...<press>
+<fchat:0001>
+Kamila deve estar assustada.*
+Afinal, ela é só uma garotinha*
+ainda.<press>
+É uma graça o jeito que ela*
+continua procurando nos*
+mesmos lugares repetidamente.<press>
+<blue>(Deve haver uma forma*
+de eu ajudá-la...)<black>
+
+-------------------------------
+
+[tree_mes][270B]
+
+<face:0065>
+Hum. Parece que até a árvore*
+está ficando impaciente*
+pelo Natal.<press>
+<change:0067>
+<end>
+Ha ha! Não seria*
+fofinho se a árvore pensasse*
+assim mesmo?<press>
+<change:0065>
+<end>
+Mas, falando sério, talvez*
+o plugue não esteja bem*
+colocado.<press>
+Só o que me faltava pra fazer*
+o Missile latir mais ainda...
+
+-------------------------------
+
+[cicel_01][270C]
+
+<fchat:0001>
+Esta <red>caixa de madeira<black>*
+acabou de cair...<press>
+Ela deve ser a tal*
+"<red>caixa de música<black>" que*
+nós estávamos procurando.<press>
+Eu aposto que a garotinha*
+vai saber quando a vir.<press>
+<blue>(Nós estamos bem perto*
+agora!)<black>
+
+-------------------------------
+
+[ed_demo_mes1][270D]
+
+<face:0067>
+Aí está! A <red>caixa de música<black>!
+
+-------------------------------
+
+[ed_demo_mes3][270E]
+
+Ebaaaaa!
+
+-------------------------------
+
+[ed_demo_mes2][270F]
+
+<face:0068>
+Certo, estou de saída*
+agora, Missile.<press>
+Eu tenho que ir ajudar*
+a Lynne! Ela é como uma*
+irmã pra mim, você sabe!<press>
+<change:0064>
+<end>
+Seja bonzinho*
+enquanto eu estou fora!*
+E sem latidos!
+
+-------------------------------
+
+[ed_demo_mes4][2710]
+
+<face:0064>
+Vou deixar o controle*
+remoto aqui.<press>
+Mas não toque nele, Missile!<press>
+<change:0066>
+<end>
+Se a TV ligar,*
+você vai começar a latir.<press>
+<change:006E>
+<end>
+Eu não gostaria de encontrar você esmagado*
+em baixo da parede quando eu*
+voltar pra casa...
+
+-------------------------------
+
+[monologue][2711]
+
+<center>A garotinha ainda não teve paz...<space>
+<center>E a ruiva, Lynne, está passando*
+<center>por novos apuros neste momento.<press>
+<center>Enquanto isso, eu estou com*
+<center>um pequeno problema.<space>
+<center>Com o receptor do telefone*
+<center>no fundo do aquário...<space>
+<center>Eu me encontro preso neste*
+<center>apartamento.<press>
+<center>Infelizmente eu não posso*
+<center>me deitar e dormir sacodindo*
+<center>a cauda também...<space>
+<center>Porque há algo que devo fazer.<space>
+<center>A pergunta é, como eu poderei*
+<center>sair daqui...?
+
+-------------------------------
+

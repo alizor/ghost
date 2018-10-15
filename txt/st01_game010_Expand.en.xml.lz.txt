@@ -1,0 +1,168 @@
+[m01_0050][0106]
+
+Adeus, gracinha.
+
+-------------------------------
+
+[m01_0160][0110]
+
+<center>Uh!
+
+-------------------------------
+
+[m01_0170][0111]
+
+<center>Parada!
+
+-------------------------------
+
+[m01_0230][0118]
+
+<center>Quem está aí?
+
+-------------------------------
+
+[m01_0280][0122]
+
+<center>Minha vista...*
+<center>e o teu futuro!
+
+-------------------------------
+
+[m01_0540][013A]
+
+{20FF}P<center>Parece que agora vou voltar*
+<center>ao passado, para os últimos*
+<center>quatro minutos de vida desta garota.<space>
+<center>Não como uma memória vaga*
+<center>e distante do passado, mas*
+<center>como um presente "vivo" e real...
+
+-------------------------------
+
+[m01_0550][013B]
+
+<face:000B>
+Acorda! Você tá bem?*
+O que houve?<press>
+<change:0019>
+<end>
+Ah, não...!*
+Ele está... morto...
+
+-------------------------------
+
+[m01_0560][013C]
+
+Quem é você?
+
+-------------------------------
+
+[m01_0570][013D]
+
+<face:007C>
+O meu cartão de visita está*
+bem aqui. Minha amiguinha dourada.<press>
+<face:0007>
+Foi você. Você o matou, não*
+foi?<press>
+<face:007C>
+Em vez de brincar de detetive, você*
+deveria estar preocupada com*
+o seu próprio destino agora.
+
+-------------------------------
+
+[m01_0580][013E]
+
+<face:0007>
+Você é um*
+assassino ou algo assim?*
+O que quer de mim?<press>
+<face:007C>
+Disseram que tínhamos que apagar*
+todos os rastros de "Temsik"*
+que haviam no país.<press>
+<face:0013>
+<blink>"Temsik"? E o que é isso?<press>
+<face:007C>
+Não sei. Só cumpro com o que me*
+pedem.<press>
+Só sei que você não*
+tem mais para onde ir.*
+Tua hora chegou, mocinha.
+
+-------------------------------
+
+[m01_0590][013F]
+
+<face:007D>
+<sound:0016><blink>Só basta que essa bola de*
+demolição fique bem ali*
+onde está...
+
+-------------------------------
+
+[m01_0600][0140]
+
+<face:0013>
+Pelo menos me diga quem você é.<press>
+<face:007C>
+Você não me conhece*
+e eu não te conheço.<press>
+São só negócios.
+
+-------------------------------
+
+[m01_0610][0141]
+
+<face:0007>
+Uma escopeta? Uma arma bem*
+chamativa pra um assassino,*
+não acha?<press>
+<face:007B>
+Não é chamativa. É efetiva.<press>
+Me chamam de "Jeego, o Míope" mas*
+nunca deixo minha presa fugir.<press>
+<face:000D>
+Nunca pensou em comprar um*
+óculos pra você?<press>
+<face:007B>
+Bem, garota.*
+É o seguinte:<press>
+Duas coisas estão ficando*
+bem escuras agora...
+
+-------------------------------
+
+[m01_0620][0142]
+
+<face:0083>
+Aí estão. Os quatro últimos*
+minutos da vida dela.<press>
+<face:002D>
+Não...!<press>
+<face:0083>
+<sound:0015><blink>É curioso, se pensar...<press>
+Uma mulher contra o destino e*
+um homem contra um fantasma.*
+Interessante...<press>
+<face:0029>
+Mas ela ainda morreu.<press>
+<face:0083>
+Sim, e você pode mudar isso.*
+Com os seus truques fantasma!<press>
+Como fez quatro minutos atrás.<press>
+<face:002B>
+<blue>(Possuir... e manipular, é...?*
+"Fantasma", depois "Truque"..)<black><press>
+<face:0083>
+Além disso, você pode*
+voltar o tempo quantas*
+vezes quiser também.<press>
+Bem, está pronto?<press>
+<face:0027>
+Sim. Mãos à obra.
+
+-------------------------------
+

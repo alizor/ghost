@@ -1,0 +1,273 @@
+[m01_1220][020E]
+
+<face:002B>
+Hum... Parece que ela está <red>dizendo*
+algo<black> a si mesma.<press>
+<blue>(Mas, infelizmente não*
+posso ouvir daqui.)<black><press>
+<face:0083>
+Isso não é um problema para nós*
+fantasmas, sempre que o objetivo*
+não está muito próximo.<press>
+Faça o mesmo que fazes com seus*
+próprios <red>balões<black>...<press>
+...se você tocar nos balões*
+dos vivos, pode escutar*
+o que estão dizendo.<press>
+<face:0027>
+<blue>(Bom, então talvez eu*
+deva escutar um pouco...)<black><press>
+<face:0083>
+Fique sempre atento aos*
+balões dos vivos. Eles podem*
+te dar pistas importantes.
+
+-------------------------------
+
+[m01_1260][0210]
+
+<face:000D>
+Mas falando sério...*
+Que raios aconteceu aqui?
+
+-------------------------------
+
+[m01_1280][0211]
+
+O que é isto?
+
+-------------------------------
+
+[m01_1290][0212]
+
+Uma espécie*
+de anotação?
+
+-------------------------------
+
+[m01_1291][0213]
+
+<fchat:0001>
+Quero ver essa <red>anotação<black>.*
+<blue>(O que será que escrevi nela?)<black><press>
+<fchat:0004>
+Esperemos que não seja uma*
+simples lista de compras.<press>
+<fchat:0001>
+Sim. Não me serviria de nada.*
+<blue>(Será que devo tentar ler...?)<black>
+
+-------------------------------
+
+[m01_1295][0214]
+
+<face:002B>
+<blue>(Eu escrevi essa anotação?*
+Talvez eu deva lê-la.)<black><press>
+<face:0083>
+Porém não se lembra de ter*
+escrito algo, né?<press>
+<face:002B>
+Não, não lembro de ter escrito nada.*
+Mas, o mais importante é que...
+
+-------------------------------
+
+[m01_1300][0215]
+
+<face:002B>
+<blue>(Hum. Não tive a chance de*
+ler a anotação.)<black><press>
+<face:0083>
+Não queria interromper*
+seus pensamentos, mas...<press>
+Não sei se notou...<press>
+<sound:0016>...de <red>onde<black> vem esta*
+chamada telefônica, sabes?<press>
+<face:0034>
+Quê? Como você quer que eu saiba?<press>
+<face:0083>
+Pense.<press>
+<sound:0016><red>Antes<black>, quando você não tinha*
+mudado o destino da moça, não houve*
+uma chamada a esta mesma hora?<press>
+<face:002F>
+<sound:0015><blink>Ah, sim!
+
+-------------------------------
+
+[m01_1310][0216]
+
+Está feito.
+
+-------------------------------
+
+[m01_1320][0217]
+
+Já estou a caminho.
+
+-------------------------------
+
+[m01_1330][0218]
+
+<face:002D>
+<blue>(Essa chamada telefônica!)<black><press>
+<face:0083>
+Exato! Em outras palavras...<press>
+Neste mesmo instante, no outro*
+lado da linha telefônica...<press>
+<sound:0016>...está o <red>responsável*
+<black>por ordenar sua morte!<press>
+<face:003A>
+<sound:0018><shake:0128><blink>Quê?
+
+-------------------------------
+
+[m01_1340][0219]
+
+<face:0083>
+Eu sugiro que você possua*
+o <red>telefone<black>.<press>
+Quando o tiver feito,*
+te contarei outro de*
+seus truques fantasmas.
+
+-------------------------------
+
+[m01_1350][021A]
+
+{20FF}Z<center>E então eu o vi...<space>
+<center>Bem ali, do outro lado da*
+<center>linha, vi o rosto do homem*
+<center>que ordenou minha morte.
+
+-------------------------------
+
+[m01_1360][021B]
+
+<face:0072>
+Está feito?<press>
+<face:0014>
+.........<press>
+<face:0072>
+Diga algo, homem.*
+Cuidou dela?<press>
+<face:0014>
+.........<press>
+Quem é?<press>
+<face:0072>
+.........<press>
+Hum. Mil perdões querida*
+senhora. Eu devo ter ligado para*
+o número errado. Ha, ha, ha!
+
+-------------------------------
+
+[m01_1370][021C]
+
+<face:002D>
+<blue>(Então esse é o homem*
+que me roubou a vida!)<black><press>
+<face:0083>
+Exato. Bem, o que acha?*
+Gostaria de ir vê-lo?<press>
+<face:0029>
+Não tenha a menor dúvida!<press>
+<face:0083>
+Se é assim, você deve me *
+escutar bem.<press>
+Nós fantasmas existimos possuindo *
+objetos inanimados. No entanto...<press>
+<sound:0016>...existe um modo no qual*
+podemos <red>nos mover<black> grandes*
+distâncias com facilidade.<press>
+<face:0036>
+<blink>Ah, é? Como?<press>
+<face:0083>
+Os mortos podem saltar*
+de um ponto A para um ponto B...<press>
+...através das <red>linhas telefônicas<black>!<press>
+<face:002F>
+<sound:0015><blink>Como é que é?<press>
+<face:0083>
+Eu fiz tudo o possível para*
+te ajudar.<press>
+O resto está em suas mãos.<press>
+<face:0029>
+Você não vem comigo?<press>
+<face:0083>
+Temo que não.<press>
+Meus poderes enfraqueceram.<press>
+Quase gastei toda a minha força*
+para chegar até aqui*
+esta noite.<press>
+Mas tinha que vir para*
+pedir sua ajuda.<press>
+<face:0029>
+Minha ajuda?<press>
+<face:0083>
+Muitas coisas misteriosas vão*
+acontecer nesta noite na cidade.<press>
+Confio em você para que chegue até*
+o fundo desses mistérios e*
+descubra a <red>verdade<black>.<press>
+Só você pode conseguir.<press>
+Quero que use seus poderes de*
+fantasma para descobrir a verdade.<press>
+<face:002B>
+.........<press>
+<change:0029>
+<end>
+Eu te agradeço por tudo o que*
+você fez. Mas não*
+posso prometer te ajudar.<press>
+<face:0083>
+.........<press>
+<face:0029>
+Amanhã de manhã deixarei de*
+existir. Isso não me dá*
+muito tempo...<press>
+Devo perseguir meu próprio mistério,*
+descobrir a verdade sobre mim mesmo.<press>
+<face:0083>
+Isso é mais que o suficiente.<press>
+<face:0036>
+<sound:0015><blink>É?<press>
+<face:0083>
+Se conseguires fazer isso, também*
+terás conseguido o que lhe pedi.*
+As duas são <red>uma mesma coisa<black>.<press>
+<face:0029>
+Uma mesma coisa?<press>
+<change:002B>
+<end>
+.........*
+<blue>(Hum.)<black><press>
+<blue>(Esta luminária sabe muito mais*
+do que está me contando...)<black><press>
+<face:0083>
+Pois bem.<press>
+Graças à chamada anterior,*
+agora você tem o número do*
+telefone do culpado.<press>
+O resto depende de ti.
+
+-------------------------------
+
+[m01_1390][021D]
+
+<center>E assim começa a história*
+<center>da busca sobre mim mesmo,*
+<center>história que durará uma noite.<space>
+<center>Amanhã de manhã*
+<center>deixarei de existir.*
+<center>E, surpreendentemente aceito*
+<center>este fato sem nenhuma dor.<press>
+<center>Devo encontrar as respostas*
+<center>antes que o sol apareça.<space>
+<center>Por que me assassinaram?<space>
+<center>E o que exatamente acontecerá*
+<center>à cidade esta noite?
+
+-------------------------------
+

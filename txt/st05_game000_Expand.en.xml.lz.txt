@@ -1,0 +1,549 @@
+[m05_0010][1E01]
+
+<face:005F>
+Esta noite é a mais sagrada de*
+todas, o meu prazo final.<press>
+Tudo que preciso para me*
+inspirar é dessa garrafa*
+e um pocuo de queijo.<press>
+Um brinde as pessoas*
+bregas ali do outro lado!
+
+-------------------------------
+
+[m05_0020][1E02]
+
+Atchim!*
+Atchim!
+
+-------------------------------
+
+[m05_0040][1E03]
+
+<face:005E>
+Está se sentido bem,*
+minha anjinha querida?<press>
+Já tomou o remédio como*
+uma boa menina?
+
+-------------------------------
+
+[m05_0030][1E04]
+
+<fchat:0001>
+Bem, aqui estou em*
+mais outro lugar*
+esquisito...<press>
+O que há como esse*
+ambiente? Uma atmosfera*
+bem estranha...<press>
+Aonde estará o pequeno*
+tesouro que estou*
+procurando?
+
+-------------------------------
+
+[m05_0050][1E05]
+
+<fchat:0001>
+Ali está. O <red>telefone<black>.*
+<blue>(Ah se pudesse pegá-lo*
+emprestado...)<black>
+
+-------------------------------
+
+[m05_0160][1E06]
+
+<fchat:0001>
+Até mesmo agora, a vida de*
+Lynne está em perigo.<press>
+Tenho que usar esse telefone,*
+e logo.<press>
+<blue>(Não acho que essa senhora*
+vai trazê-lo até mim...)<black><press>
+<blue>(Acho que eu mesmo terei de*
+chegar até ele.)<black>
+
+-------------------------------
+
+[m05_0310][1E07]
+
+<fchat:0001>
+É muito pesado.*
+Não posso manipulá-lo.<press>
+Talvez essa mulher tenha*
+adquirido o poder destrutivo*
+que tem levantando isso.<press>
+Parece mais uma arma do que*
+um livro.
+
+-------------------------------
+
+[m05_0060][1E08]
+
+<face:005E>
+<blue>"Ah, Sr. Primeiro Ministro,*
+você não devia! Sou uma*
+mulher casada...!"<black><press>
+<blue>"E eu sou um homem casado...*
+Mas nós não podemos resistir*
+mais a isso!"<black><press>
+<blue>"Estou pronto para abdicar*
+tudo por você!"<black><press>
+<sound:0017><blink><shake:011E><blue>"Mesmo que isso signifique*
+meu total arruinamento!"<black><press>
+.........<press>
+Hum...<press>
+<sound:0016>"<red>Arruinamento<black>."*
+Isso é mesmo uma palavra?<press>
+E esse "<red>abdicar<black>" não parece*
+soar muito bem.<press>
+.........*
+Isso não vai me deixar em*
+paz até que seja corrigido.
+
+-------------------------------
+
+[m05_0340][1E09]
+
+<face:005E>
+<blue>"Não, eu não devia... eu não devia*
+me deixar acreditar nesse seu*
+amor, Sr. Primeiro Ministro..."<black><press>
+<blue>"Mas por que não acredita em mim?"<black><press>
+<blue>"Meu amor por você é verdadeiro,*
+eu juro!"<black><press>
+<sound:0017><blink><shake:0128><blue>"E é tão forte,*
+ele me sobredomina completamente...!"<black><press>
+.........<press>
+Sempre quis saber.<press>
+<sound:0016>Se você pode ser "sobredominado"*
+por alguma coisa, não poderia ser*
+apenas "<red>dominado<black>"?<press>
+.........*
+Isso não vai me deixar em*
+paz até que seja corrigido.
+
+-------------------------------
+
+[m05_0350][1E0A]
+
+<face:005E>
+<blue>"Não, Sr. Primeiro Ministro,*
+não devemos! Se as pessoas*
+descobrirem..."<black><press>
+<blue>"Não ligo pro que elas*
+devem achar!"<black><press>
+<sound:0017><blink><shake:0128><blue>"Até porque, o*
+que esses plebeus vão entender?*
+Certamente não o nosso amor!"<black><press>
+.........<press>
+Hum...<press>
+<sound:0016>O que esse primeiro*
+ministro está falando?<press>
+Nunca ouvi falar dessa palavra*
+"<red>plebeu<black>" na minha vida.<press>
+.........*
+Isso não vai me deixar em*
+paz até que seja corrigido.
+
+-------------------------------
+
+[m05_0360][1E0B]
+
+Onde está*
+aquele dicionário?
+
+-------------------------------
+
+[m05_0180][1E0C]
+
+<face:005F>
+Vamos ver... eu sei que*
+o coloquei por aqui...<press>
+E agora, onde será*
+que ele foi parar?
+
+-------------------------------
+
+[m05_0370][1E0D]
+
+Não consigo achá-lo.
+
+-------------------------------
+
+[m05_0210][1E0E]
+
+<sound:0018><blink><shake:0128>Na próxima*
+eu te pego!
+
+-------------------------------
+
+[m05_0220][1E0F]
+
+<fchat:0001>
+Acho que essa mulher não*
+é do tipo que grita quando*
+vê um rato.<press>
+Ela prefere levar isso*
+como um desafio, algo como*
+ir até o fim...<press>
+Devo me identificar um*
+pouco com esse jeito de*
+pensar..<press>
+Hum. Será se posso utilizar*
+esse <red>tipo de personalidade<black>*
+que ela tem?
+
+-------------------------------
+
+[m05_0230][1E10]
+
+<blink>Ah! Ali está!
+
+-------------------------------
+
+[m05_0240][1E11]
+
+<face:005E>
+Mas que estranho...<press>
+Tinha certeza de ter deixado*
+este dicionário na estante.<press>
+É como se um ajinho estivesse*
+fazendo brincadeiras comigo.
+
+-------------------------------
+
+[m05_0250][1E12]
+
+<face:005E>
+Talvez... minha ajinha querida...?
+
+-------------------------------
+
+[m05_0390][1E13]
+
+Mama.
+
+-------------------------------
+
+[m05_0080][1E15]
+
+<face:005E>
+O que foi, minha anjinha querida?<press>
+<face:00DE>
+<shake:0128>Ai... minha cabeça dói, Mama.<press>
+<face:005E>
+Minha pobrezinha, não estou surpresa,*
+você está com uma febre de 39 graus!<press>
+Esse vai para uma noite febril, mais*
+quente que o amor do meu*
+primeiro ministro!
+
+-------------------------------
+
+[m05_0100][1E16]
+
+<face:00DE>
+Já está quase na hora de eu sair para*
+a aula... será que posso sair agora?<press>
+<face:005E>
+Sim, acho que seria melhor...*
+Mas espera aí!<press>
+<sound:0016>Aposto que está feliz em ter*
+uma desculpa para sair, não é?<press>
+<face:00DE>
+<sound:0015><blink>Não especialmente. Se eu não quiser*
+ir, simplesmente não vou, e*
+finjo que não quero.<press>
+Eu vou brincar com Kamila*
+ao lado ou algo assim.<press>
+<face:005E>
+Esse vai para a incrível*
+honestidade da minha ajinha querida!
+
+-------------------------------
+
+[m05_0110][1E17]
+
+<face:00DE>
+Ei, hoje é o <red>aniversário<black> do papai.<press>
+<face:005E>
+Ah, é?<press>
+<face:00DE>
+Não vamos celebrar*
+todos juntos?<press>
+<face:005E>
+.........*
+Não vamos falar sobre*
+o seu pai, querida.<press>
+Agora Mama tem que voltar ao*
+trabalho. Afinal, tenho um prazo de*
+entrega hoje!
+
+-------------------------------
+
+[m05_0300][1E18]
+
+<sound:0017><blink><shake:0128>Mama, espera!
+
+-------------------------------
+
+[m05_0120][1E19]
+
+<face:00DE>
+Só tenho uma coisa a dizer.<press>
+<sound:0016>Não tente me pôr no meio*
+de vocês dois, tá?
+
+-------------------------------
+
+[m05_0130][1E1A]
+
+<face:005E>
+Mas do que você está*
+falando?<press>
+<face:00DE>
+Eu já sei o que está acontecendo.<press>
+Você escreve novelas, e*
+o papai quer que você pare.<press>
+Mas foi muito egoísmo de sua*
+parte <red>me tirar de lá<black>.<press>
+Quero voltar pra casa.<press>
+<face:005E>
+.........<press>
+Opa, opa. Já é hora das menininhas*
+boas dormirem.*
+Especialmente aquelas doentes!
+
+-------------------------------
+
+[m05_013a][1E1B]
+
+<sound:0018><blink><shake:0128>Eu te odeio,*
+Mama!
+
+-------------------------------
+
+[m05_0410][1E1C]
+
+<fchat:0001>
+Essas duas, eu ein...<press>
+O pai teria de ser um*
+homem bem forte para*
+aguentá-las.<press>
+Parece que as circunstâncias*
+familiares deles estão*
+bem complicadas.<press>
+<blue>(Será que eu tenho família?)<black>
+
+-------------------------------
+
+[m05_0400][1E1D]
+
+Minha nossa.*
+A lamparina apagou.
+
+-------------------------------
+
+[m05_0260][1E1E]
+
+<face:005E>
+<blue>"Minha querida! E pensar que*
+todo esse tempo eras uma espiã!"<black><press>
+<blue>"O que você vai fazer comigo,*
+Sr. Primeiro Ministro?"<black><press>
+<blue>"Irei te prender e tomar medidas para*
+que receba uma punição adequada."<black><press>
+<sound:0016><blue>"Sua sentença: Ficar presa na*
+cela do meu amor, e ser punida com*
+meu chicote da paixão!"<black><press>
+<blue>"Ah, Sr. Primeiro Ministro!"<black><press>
+<blue>"Ah, minha querida!"<black><press>
+.........<press>
+Hum...<press>
+Odiaria viver nesse país*
+do primeiro ministro.
+
+-------------------------------
+
+[m05_0320][1E1F]
+
+<fchat:0001>
+Ela trouxe esse dicionário*
+de lá para cá para procurar*
+por algo nele...<press>
+Obstante, aqui está ele,*
+sozinho. Ou ela esqueceu*
+o que iria procurar...<press>
+...ou esqueceu até mesmo*
+de que estava querendo*
+procurar algo.<press>
+.........<press>
+Hum... "<red>Obstante<black>".*
+Isso é mesmo uma palavra?
+
+-------------------------------
+
+[m05_0330][1E20]
+
+Ah! Errei uma palavra!
+
+-------------------------------
+
+[m05_0270][1E21]
+
+<shake:0128><blink>Ai!
+
+-------------------------------
+
+[m05_0280][1E22]
+
+O que está havendo?!
+
+-------------------------------
+
+[m05_0290][1E23]
+
+<fchat:0001>
+O telefone está*
+bem ali. Se somente*
+pudesse chegar lá...
+
+-------------------------------
+
+[m05_0291][1E24]
+
+<fchat:0001>
+Só preciso <red>pular<black> para*
+perto dali de alguma maneira.<press>
+É melhor manter meus olhos*
+abertos para o <red>momento<black>*
+certo de me mover.
+
+-------------------------------
+
+[m05_0140][1E25]
+
+<face:00E3>
+Olá? É você?<press>
+<face:005F>
+Quantas vezes quer eu continue*
+repetindo?<press>
+Esta noite é a mais sagrada de*
+todas, meu prazo final.<press>
+<face:00E3>
+Por favor. Te imploro.*
+Mude de ideia e volte*
+para casa comigo!<press>
+<face:005F>
+O único que tem que mudar*
+de ideia é você.<press>
+<face:00E3>
+Por favor, coloque-se no meu lugar.*
+Você pode escrever suas novelas tão*
+bem quanto escreve, aqui em casa.<press>
+<face:005F>
+Até que mude de ideia,*
+sua filha e eu não*
+estaremos voltando para casa!<press>
+<change:0061>
+<end>
+<sound:0018><shake:0128>Mesmo que isso dure PARA SEMPRE!
+
+-------------------------------
+
+[m05_0145][1E26]
+
+<face:00E3>
+Me deixe falar com Amelie então,*
+pelo menos isso.<press>
+<face:005F>
+Não pode falar com ela. Ela está*
+doente de febre agora, e não vou*
+permitir que provoque pesadelos nela!<press>
+<face:00DE>
+<sound:0018><blink><shake:0128>Quero falar com o papai!<press>
+<face:005F>
+Não quero voltar a ouvir*
+mais sua voz esta noite.<press>
+<face:00E3>
+Por favor... espera um pouco...<press>
+<face:005F>
+Não tente ligar de novo.*
+Não vou responder.<press>
+<change:0061>
+<end>
+<sound:0018><blink><shake:0128>Eu me RECUSO a responder!
+
+-------------------------------
+
+[m05_0420][1E28]
+
+<fchat:0001>
+Agora finalmente tenho as*
+linhas telefônicas que preciso.<press>
+<blue>(Estou curioso em relação*
+ao marido dessa mulher...)<black><press>
+<blue>(Mas devo ir atrás da*
+minha "única pista" primeiro.)<black><press>
+Aquele assassino que está*
+atrás de Lynne sem dúvida*
+está indo para o <red>ferro velho<black>.<press>
+Melhor me apressar.
+
+-------------------------------
+
+[m05_9900][2100]
+
+<fchat:0001>
+É melhor não apagar o fogo*
+da lamparina agora.<press>
+<sound:0016><blue>(Vai apenas derramar óleo*
+nas chamas de raiva do*
+coração dessa senhroa.)<black><press>
+Se eu quiser arrumar uma*
+chance de Amelie usar*
+o telefone...*
+<press>
+<sound:0015><blink>...tenho que pensar <red>num*
+jeito de manter a mãe dela*
+fora do caminho<black>.
+
+-------------------------------
+
+[m05_9901][2101]
+
+<fchat:0001>
+Se me lembro bem, a novelista*
+disse que não gostava do*
+escuro.<press>
+Não quero ver ela se*
+debatendo mais do que*
+já está...<press>
+<blue>(É melhor não apagar o fogo*
+da lamparina agora.)<black>
+
+-------------------------------
+
+[m05_1330][1F27]
+
+<fchat:0001>
+Não posso remover o lustre*
+agora com ela se debatendo*
+desse jeito...<press>
+Estou ouvindo um sinistro*
+rangido vindo do teto*
+também...<press>
+<blue>(Essa é uma situação*
+perigosa...)<black>
+
+-------------------------------
+
+[m05_1460][1F3D]
+
+<sound:0018><shake:0128>Não se atreva,*
+Amelie!
+
+-------------------------------
+

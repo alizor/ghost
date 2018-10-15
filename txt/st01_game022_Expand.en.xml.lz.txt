@@ -1,0 +1,102 @@
+[m01_2325][0329]
+
+<fchat:0001>
+Disparar uma arma é uma*
+coisa, mas matar um detetive*
+durante o processo é outra.<press>
+<fchat:0004>
+Tudo bem. Se você matar*
+alguém, você pode voltar no*
+tempo e salvá-lo.<press>
+<fchat:0001>
+Eu não acho que esteja*
+precisando aumentar meu*
+trabalho nesse momento.<press>
+<blue>(Melhor não disparar isso...)<black>
+
+-------------------------------
+
+[m01_2900][032E]
+
+<face:00CA>
+Eu quero ser um detetive*
+lendário algum dia.<press>
+<face:00C6>
+Ah, é? Nesse caso, você*
+devia começar a se esforçar*
+a partir de hoje.<press>
+<face:00CA>
+Para ser honesto, eu já*
+estou fazendo isso.<press>
+<sound:0016>Comecei a praticar alguns*
+passos de dança para fazer*
+quando estiver investigando.<press>
+<face:00C6>
+<sound:0015><blink>Como é?<press>
+<face:00CA>
+O Inspetor Cabanela já tem o*
+título de "Detetive Lendário*
+na dança de Degraus".
+
+-------------------------------
+
+[m01_2910][032F]
+
+<face:00CA>
+Então, eu serei o*
+"Detetive de Investigações Lendário"!<press>
+<face:00C6>
+Estou começando a ficar*
+um pouco preocupado...<press>
+Preocupado com o futuro da*
+organização policial detse país...
+
+-------------------------------
+
+[m01_2390][034F]
+
+<face:0027>
+Lynne escapou da morte*
+pela segunda vez.<press>
+Mas isso não significa*
+que ela esteja fora de*
+perigo ainda.<press>
+<change:002B>
+<end>
+É melhor eu ir ver como*
+ela está.
+
+-------------------------------
+
+[m01_2400][0350]
+
+<face:0083>
+<sound:0016><blink>Bem...<press>
+Parece que "parabéns"*
+é bem apropriado.<press>
+Você evitou mais uma morte.<press>
+<face:0034>
+Mas eu ainda não consegui*
+chegar perto de resolver*
+meu próprio mistério.<press>
+<face:0083>
+Mas aquela mulher tem*
+a chave. Não esqueça disso.<press>
+<face:002B>
+Lynne, hã?<press>
+Agora que ela está viva novamente,*
+provavelmente ela ainda está detida*
+no escritório do superintendente.<press>
+Ela não será capaz de prosseguir*
+com o caso dela já que não possui*
+liberdade para ir e vir.<press>
+<change:0027>
+<end>
+<blue>(Melhor voltar ao*
+escritório do superintendente*
+e vê-la.)<black><press>
+<face:0083>
+Parece uma boa idéia.
+
+-------------------------------
+
