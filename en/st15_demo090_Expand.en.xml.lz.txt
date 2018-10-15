@@ -1,0 +1,17 @@
+[m15_0160][3E17]
+
+<face:00C9>
+<shake:0128><blink><center>There! How do you like*
+<center>that? Not bad, huh?<0CFF_8C00><wait><press>
+<face:00C7>
+<center>But definitely not... good...<0CFF_8C00><wait><press>
+<face:00C9>
+<shake:0128><blink><center>Maybe now I can be a*
+<center>great detective, just like*
+<center>Inspector Cabanela!<0CFF_8C00><wait><press>
+<face:00C7>
+<center>What kind of example is the*
+<center>inspector providing for his men...?<0CFF_8C00><wait>
+
+-------------------------------
+

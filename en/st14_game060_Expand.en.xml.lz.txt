@@ -1,0 +1,593 @@
+[m14_7000][3A00]
+
+<fchat:000D>
+<sound:0017><blink><shake:0128>Detective Jowd!<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>I bet that big, masked*
+man did this!<press>
+<sound:0033><blink><shake:0128>I'm going to bite him!<press>
+<fchat:000D>
+You'd better not. You*
+might break your teeth.<press>
+<blue>(The command room*
+has lost power, and*
+is sinking.)<black><press>
+<sound:0016><blue>(So I wonder what*
+this masked man is*
+going to do...?)<black><press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Let's talk to*
+Detective Jowd!
+
+-------------------------------
+
+[m14_7240][3A01]
+
+<face:0076>
+<sound:0033><blink><shake:0128>Detective Jowd is*
+lying on the floor!<press>
+<face:0031>
+...I'm glad you came*
+along, Missile.<press>
+<face:0076>
+<sound:0015><blink><shake:0128>Huh?<press>
+<face:0031>
+After all, you and I*
+are the only ones...<press>
+<sound:0016><blink>...who can bring Detective*
+Jowd back to life.<press>
+<face:0076>
+<sound:0015><blink>...!<press>
+That's right!<press>
+<sound:0033><blink><shake:0128>Let's save him... together!
+
+-------------------------------
+
+[m14_7010][3A02]
+
+<face:0031>
+Sorry for the wait,*
+Detective Jowd.<press>
+<face:00A7>
+<sound:0015><blink><shake:0128>Wh-Who are you?!<press>
+<sound:0016>Are you... <red>"Sissel"<black>?<press>
+<face:0031>
+Please excuse my appearance.<press>
+<face:00AB>
+I can't believe you made it here!<press>
+<change:00A9>
+<end>
+<sound:0018><blink><shake:0128>How is Kamila?!*
+And what about Lynne...?!<press>
+<face:0031>
+Well...<press>
+It's kind of a long story...
+
+-------------------------------
+
+[m14_7020][3A03]
+
+<face:0033>
+<NJ:003C>
+<blue>(I told Detective Jowd about*
+everything that happened*
+on the submarine Yonoa.)<black>
+
+-------------------------------
+
+[m14_7030][3A04]
+
+<face:00B9>
+<sound:0018><blink><shake:0128>So the submarine is badly*
+damaged?! Why would he do*
+that to his own submarine?!<press>
+<face:0031>
+I wish I knew...<press>
+<face:0041>
+<NJ:003C>
+<1EFF_A000>I know the answer to that one.<press>
+<face:003F>
+<sound:0016><blink>It's because he's afraid*
+of my <red>powers<black>.<press>
+<face:0032>
+<sound:0015><blink>Y-You...!<press>
+<sound:0017><blink>You followed us?!*
+<blue>(I didn't even notice!)<black><press>
+<face:003F>
+It's been ten long years,*
+Detective Jowd.<press>
+<face:00A7>
+<NJ:003C>
+.........<press>
+Are you...<press>
+<sound:0016><blink><1EFF_8C00>...Yomiel?<press>
+<face:003F>
+<NJ:003C>
+.........<press>
+{07FF}<0CFF_5000><show><wait>
+
+-------------------------------
+
+[m14_7031][3A05]
+
+{07FF}<change:0029>
+1<0CFF_7800><1DFF_2100><0001_5000>{06FF}<sound:0016><blink>So you remember me, do you?<press>
+<face:00A7>
+How could I possibly forget?<press>
+<face:0032>
+So that's your <red>real name<black>, huh?*
+"Yomiel"?<press>
+<face:0029>
+That's right.<press>
+<face:0032>
+But those people on the Yonoa*
+were calling you "Sissel"...?<press>
+<face:0029>
+That's just an alias I was*
+using for my deal with them.<press>
+<change:0034>
+<end>
+<sound:0015><blink>I didn't see any need to*
+tell them my real name.<press>
+<face:0032>
+Could you do me a favor?<press>
+Would you let me ask*
+you some questions?<press>
+I've been trying to find out*
+my true identity all night...<press>
+<face:0029>
+Sure. Go ahead.<press>
+I'm sure there's plenty*
+we can still tell you.*
+Right, Detective Jowd?<press>
+<face:00A7>
+...Right.
+
+-------------------------------
+
+[m14_7040][3A06]
+
+About Yomiel
+
+-------------------------------
+
+[m14_7050][3A07]
+
+Real motive for revenge
+
+-------------------------------
+
+[m14_7060][3A08]
+
+The deal
+
+-------------------------------
+
+[m14_7230][3A09]
+
+Betrayal
+
+-------------------------------
+
+[m14_7070][3A0A]
+
+<face:00A7>
+Ten years ago...<press>
+...you were a top systems*
+engineer, weren't you?<press>
+<face:0075>
+<sound:0015><blink>"Systems engineer"...?*
+What's that?<press>
+<sound:0033><blink><shake:0128>By the way, I'm a top*
+Pomeranian, you know.<press>
+<face:00A7>
+Well, it's kind of hard to explain*
+to a dog... but it's <red>a person who's*
+good at using computers<black>.<press>
+<face:0038>
+I don't mean to brag, but I was*
+one of the best in the industry.<press>
+<sound:0016>That's how I got roped*
+into joining that project.<press>
+<face:0032>
+Project? What project?<press>
+<face:0029>
+It was a project aimed at*
+reorganizing the nation's*
+top-secret information.<press>
+The goal was to build a new*
+system using multidimensional*
+programming theory.<press>
+I was asked to join the project*
+by an agent of the government.<press>
+<face:0076>
+<sound:0033><blink><shake:0128>It doesn't sound like something*
+a top Pomeranian would know*
+anything about...<press>
+<face:0038>
+To me, it just sounded like*
+another challenging job.
+
+-------------------------------
+
+[m14_7074][3A0B]
+
+<face:0044>
+<NJ:003C>
+<center>However...<press>
+<center>...this project was also the*
+<center>target of a <red>secret plot<black>.<press>
+<center>I bet you can imagine the kind*
+<center>of crime the nation's top*
+<center>secrets might attract...<press>
+<NJ:003C>
+<center>I never thought for the*
+<center>life of me I'd ever have*
+<center>to deal with <red>spies<black>.<press>
+<face:00A7>
+It was never made public ,*
+but every organization in the*
+country moved on this one.<press>
+And then, one day, the name*
+of a certain programmer*
+emerged as a <red>suspect<black>.
+
+-------------------------------
+
+[m14_7078][3A0C]
+
+<face:0029>
+<sound:0016><blink>I was the guy who built*
+the core of the system.<press>
+<face:00A7>
+The police arrested you, and*
+then... that incident happened...
+
+-------------------------------
+
+[m14_7079][3A0D]
+
+<face:0033>
+<sound:0016><NJ:003C>
+<center><blue>(He escaped from the*
+<center>interrogation room, and took<black>*
+<center><blue>little Lynne as a hostage...)<black>
+
+-------------------------------
+
+[m14_7250][3A0E]
+
+<face:0038>
+By the way, Detective Jowd.<press>
+<change:0027>
+<end>
+When was it that I was*
+proven <red>innocent<black>...?<press>
+<face:00A7>
+About six months*
+after your <red>death<black>.<press>
+I'm so sorry, Yomiel...
+
+-------------------------------
+
+[m14_7080][3A0F]
+
+<face:0029>
+Ten years ago...
+
+-------------------------------
+
+[m14_7081][3A10]
+
+<face:0044>
+<sound:0000><NJ:0078>
+<center>...my soul was split from my*
+<center>body, and I lost everything.<press>
+<sound:0000><NJ:003C>
+<center>I was sealed in eternal darkness.
+
+-------------------------------
+
+[m14_7082][3A11]
+
+<face:0044>
+<sound:0000><NJ:0078>
+<center>I "existed" in this world.*
+<center>No question about that...<15FF_2C01>{07FF}<0CFF_7800>{06FF}<sound:0000><NJ:0078>
+<center>...but nobody noticed*
+<center>my presence.<15FF_2C01>{07FF}<0CFF_7800>{06FF}<sound:0000><NJ:0078>
+<center>What good were my "powers"?*
+<center>They didn't help anybody.<15FF_2C01>{07FF}<0CFF_7800>{06FF}<sound:0000><NJ:0078>
+<center>Not even the passage of*
+<center>time could heal my pain.<15FF_2C01>{07FF}<0CFF_7800>{06FF}<sound:0000><NJ:0078>
+<center>In fact, it only made it worse.<0CFF_2C01><wait>
+
+-------------------------------
+
+[m14_7083][3A12]
+
+<face:0044>
+<NJ:003C>
+<center>I wanted to disappear.<press>
+<NJ:003C>
+<center>But I wasn't even*
+<center>allowed to do that.<press>
+<NJ:003C>
+<center>The way Lynne described*
+<center>it is exactly right.<press>
+<NJ:0078>
+<center>"Sinking slowly toward the*
+<center>bottom of an endless sea..."<press>
+<NJ:003C>
+<center>An overwhelming feeling of*
+<center>loneliness and despair...<press>
+<NJ:003C>
+<center>And I wanted all of you to*
+<center>suffer what I was suffering...
+
+-------------------------------
+
+[m14_7084][3A13]
+
+<face:00A9>
+And so that's why*
+you murdered Alma.<press>
+<face:0038>
+That's right.<press>
+I wanted you to know what*
+it was like to lose everything*
+you cared about...<press>
+<change:0029>
+<end>
+<sound:0016><blink>I wanted you to feel*
+the same pain I felt.<press>
+<face:00A9>
+<sound:0015><blink><shake:0128>What...?!<press>
+<face:0029>
+<NJ:003C>
+.........
+
+-------------------------------
+
+[m14_7085][3A14]
+
+<face:0029>
+It was the twisted wish*
+of a mind poisoned by*
+infinite loneliness...<press>
+And then...<press>
+...as I was plotting my*
+revenge, I had an idea.<press>
+<sound:0016>I came up with a plan to*
+use these powers of mine*
+to make a <red>deal<black>.
+
+-------------------------------
+
+[m14_7090][3A15]
+
+<face:00A7>
+There's something I just don't*
+understand about that deal.<press>
+I'm sure your powers would*
+be very valuable to them.<press>
+But...<press>
+<change:00BB>
+<end>
+<sound:0016>...what would you get*
+out of the deal?<press>
+<face:0038>
+A <red>new life<black>.<press>
+<face:00A9>
+<sound:0015><blink>"Life"...?<press>
+<face:002B>
+I asked them for two conditions.<press>
+Number one was that they help*
+me with my revenge plot.<press>
+<change:0029>
+<end>
+And the second was*
+a "<red>rebirth<black>" for me.<press>
+<face:00A7>
+<sound:0016>"Rebirth"...? A <red>new beginning<black>, eh?<press>
+<face:0038>
+I didn't care if it was a "fake"*
+life, an "artificial" life...<press>
+I just wanted a physical receptacle*
+for my soul, a name, an identity --*
+an everyday life.<press>
+I wanted to grow old in a*
+society that would accept me.<press>
+And, finally, I wanted to die,*
+surrounded by a loving family.<press>
+<change:0029>
+<end>
+That's the kind of "life"*
+I asked them for.<press>
+<face:00A9>
+A completely man-made life...<press>
+<face:0034>
+That's right. I knew I couldn't hope*
+for anything more than that...<press>
+<change:0038>
+<end>
+To make it all come true, I*
+knew it would take a lot of*
+money and a lot of power.<press>
+That's why I decided to ask*
+a national government*
+to help me.<press>
+And their response, in the end...<press>
+<change:0029>
+<end>
+<sound:0015><blink>...was <red>betrayal<black>.
+
+-------------------------------
+
+[m14_7200][3A16]
+
+<face:002B>
+They were making their moves much*
+more carefully than I suspected.<press>
+They sent spies to this*
+country, and researched*
+my powers on their own.<press>
+And...<press>
+<change:0029>
+<end>
+<sound:0016><blink>...they even figured out*
+<red>what Temsik was all about<black>.<press>
+<face:00A7>
+And you had no idea they*
+were doing all this?<press>
+<face:0029>
+None at all. I was a fool...<press>
+<face:0032>
+So, then...<press>
+<sound:0015><blink>...why did they go to all the trouble*
+of making a deal with you?<press>
+Why didn't they just steal*
+a hunk of the Temsik*
+meteorite from the park?<press>
+<face:0029>
+<sound:0016><1EFF_3C00><blink>They <red>couldn't<black>.<press>
+<face:0032>
+<blink>Huh?
+
+-------------------------------
+
+[m14_7202][3A17]
+
+<face:0044>
+<center>After the "manipulator"*
+<center>incidents, research was*
+<center>conducted in this country, too.
+
+-------------------------------
+
+[m14_7204][3A18]
+
+<face:0044>
+<center>A report was submitted to the*
+<center>government about the source*
+<center>of the manipulator's power.
+
+-------------------------------
+
+[m14_7205][3A19]
+
+<face:0033>
+<sound:0015><blink><center><blue>(By Inspector Cabanela and*
+<center>the old pigeon guy, eh...?)<black>
+
+-------------------------------
+
+[m14_7206][3A1A]
+
+<face:0044>
+<center>At first, the government*
+<center>didn't believe the report.
+
+-------------------------------
+
+[m14_7207][3A1B]
+
+<face:0044>
+<center>But then, they decided*
+<center>to put the park under*
+<center>surveillance, just in case.<press>
+<face:0032>
+<sound:0016>Surveillance, huh?<press>
+<face:0029>
+It just looks like an ordinary,*
+peaceful park, but there are*
+armed agents there at all times.
+
+-------------------------------
+
+[m14_7208][3A1C]
+
+<face:0032>
+<sound:0015><blink><shake:0128>Don't tell me that odd leaflet*
+guy is one of them...?<press>
+<face:0034>
+<sound:0016>No, not him. He's just a*
+plain old odd person.
+
+-------------------------------
+
+[m14_7209][3A1D]
+
+<face:0029>
+That park is like a <red>silent battlefield<black>,*
+on an international scale...<press>
+<face:00A9>
+So that's why they couldn't*
+steal the Temsik meteorite...<press>
+<face:0029>
+And, lately, under the pretense*
+of building a <red>housing site<black>...<press>
+<sound:0016>...they've been working on a plan*
+to destroy that park in order to*
+secure the Temsik meteorite.<press>
+<face:0032>
+<blue>(So that's it, eh...?)<black>
+
+-------------------------------
+
+[m14_7100][3A1E]
+
+<face:00A7>
+So the upshot of*
+your grand "deal"...<press>
+<change:00BB>
+<end>
+...was this, eh?<press>
+<face:0029>
+Yeah. It's the ending I deserve...<press>
+<face:00A7>
+But at least there's one thing*
+you must be happy about.<press>
+<face:0029>
+What's that?<press>
+<face:00A7>
+<sound:0016><1DFF_0900><0001_6400>You've managed to seal me away*
+at the bottom of the sea forever.<press>
+<face:0029>
+<NJ:003C>
+.........<press>
+<face:0032>
+Well...<press>
+Shall we get started?<press>
+<face:0036>
+<sound:0015><blink>Started with what?<press>
+<face:0032>
+Bringing Detective Jowd*
+back to life, of course.<press>
+<face:003A>
+<sound:0018><blink><shake:0128>What?! What good*
+will that do now?!<press>
+<face:0076>
+<sound:0017><blink><shake:0128>But we promised!<press>
+<sound:0033><blink><shake:0128>We promised Miss Lynne and*
+Miss Kamila we'd save them!<press>
+<face:0032>
+<sound:0016>And we can't do that without*
+you, Detective Jowd.<press>
+<face:00A6>
+<sound:0015><blink>...!<press>
+<face:0032>
+I've been guided by fate*
+tonight to this place.<press>
+I won't give up now.<press>
+<face:00A6>
+All right, fine.<press>
+Let's see where it leads us!<press>
+<face:002A>
+.........<press>
+<face:0032>
+Here we go, then. Back to four*
+minutes before your death!
+
+-------------------------------
+

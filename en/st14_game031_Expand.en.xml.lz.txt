@@ -1,0 +1,367 @@
+[m14_3050][3617]
+
+<face:006A>
+Well, well. I see there's no*
+need to introduce myself.<press>
+<face:000F>
+<sound:0017><shake:0128><blink>Give Kamila back! She has*
+nothing to do with any of this!<press>
+<face:006A>
+Afraid I can't do that.*
+This is my last chance.
+
+-------------------------------
+
+[m14_3051][3618]
+
+<face:0013>
+The phone is ringing.<press>
+<face:006A>
+It's not for me. Nobody*
+ever calls the dead.
+
+-------------------------------
+
+[m14_3065][361A]
+
+<face:0007>
+<shake:0128>W-Well...<press>
+<face:006A>
+Knowing him, I half*
+expected as much...<press>
+That's why I was waiting here like*
+this... waiting for him to show up.
+
+-------------------------------
+
+[m14_3220][361C]
+
+<face:0007>
+Wh-What in the world...?*
+An explosion...?<press>
+<face:006A>
+Uh-oh... I've got a bad*
+feeling about this...<press>
+<sound:0016>Have I been had...?
+
+-------------------------------
+
+[m14_3080][361D]
+
+<sound:0017><shake:0128><blink>Look out!
+
+-------------------------------
+
+[m14_3190][3622]
+
+<fchat:0001>
+So, let's see... The cause*
+of death this time...<press>
+<fchat:0003>
+<sound:0017><shake:0128><blink>...was that mysterious*
+explosion!<press>
+<fchat:0001>
+<blue>(You're pretty "up,"*
+for a dead woman...)<black><press>
+<fchat:0003>
+<sound:0015><blink>You know how detectives*
+love a good mystery! It's*
+like a shot of <red>vitamins<black>!<press>
+<sound:0018><shake:0128><blink>And what do you mean,*
+"for a dead woman"?!<press>
+<fchat:0001>
+Anyway...<press>
+...I guess we should*
+look for a way to*
+stop that explosion.<press>
+<fchat:0003>
+<sound:0017><shake:0128><blink>All right! Let's do this thing!<press>
+<sound:0015><blink>Finding clues is like*
+a dose of <red>minerals*
+<black>to a detective!<press>
+<fchat:0001>
+<blue>(I'm afraid, with my memory*
+loss, I have no idea what*
+"vitamins" or "minerals" are...)<black>
+
+-------------------------------
+
+[m14_3140][3623]
+
+Are you okay?
+
+-------------------------------
+
+[m14_3230][3624]
+
+K-Kamila...?
+
+-------------------------------
+
+[m14_3150][3625]
+
+It's been*
+ten years.
+
+-------------------------------
+
+[m14_3160][3626]
+
+Are you...?
+
+-------------------------------
+
+[m14_3240][3627]
+
+<face:006A>
+It didn't happen tonight, did it?<press>
+<sound:0016>His execution.
+
+-------------------------------
+
+[m14_3250][3628]
+
+<face:006A>
+Wouldn't it be just what he*
+wanted? To be executed by*
+his own daughter?<press>
+<face:001B>
+.........<press>
+I heard about ten years ago.*
+I feel sorry about what*
+happened to you.<press>
+<face:0007>
+<sound:0018><blink><shake:0128>But revenge...?
+
+-------------------------------
+
+[m14_3120][3629]
+
+<fchat:0001>
+<sound:0018><shake:0128><blink>It's no use. I can't get*
+the line to work!<press>
+<blue>(That's funny...)<black><press>
+<sound:0016><blue>(I thought I could use the*
+phone in the past <red>if*
+somebody was calling<blue>...)<black><press>
+<fchat:0003>
+<sound:0015><blink><shake:0128>What are you talking about?*
+The receiver has to be off*
+the hook first, silly!<press>
+<fchat:0001>
+.........<press>
+<fchat:0003>
+<sound:0018><shake:0128><blink>Well, don't look at me! I*
+can't do it. I don't have any*
+hands or feet right now.<press>
+<fchat:0001>
+<blue>(Somebody, please*
+answer the phone...)<black><press>
+<fchat:0003>
+<sound:0017><shake:0128><blink>If you want something done,*
+you have to do it yourself!
+
+-------------------------------
+
+[m14_3130][362A]
+
+<fchat:0003>
+<sound:0015><blink><shake:0128>Hey, we somehow managed*
+to knock down the receiver!<press>
+<fchat:0001>
+<blue>("Somehow managed"?*
+Who's to say that's not*
+how I planned it?)<black><press>
+<fchat:0003>
+<sound:0017><shake:0128><blink>C'mon, hurry! Now's your*
+chance to get on the phone!<press>
+<sound:0016>It might be Detective Jowd!<press>
+<fchat:0001>
+<sound:0015><shake:0128><blink>...!<press>
+<blue>(She's right. I'd better*
+check it out!)<black>
+
+-------------------------------
+
+[m14_3170][362B]
+
+<face:002B>
+Well, it looks like I can't stop the*
+explosion from this engine room...<press>
+<face:0013>
+<sound:0017><blink><shake:0128>How dare he manipulate Kamila!<press>
+<face:0036>
+Don't look at me*
+when you say that.<press>
+<change:002B>
+<end>
+<blue>(I guess we'll have to look*
+for leads <red>somewhere else<blue>.)<black>
+
+-------------------------------
+
+[m14_3200][362C]
+
+<fchat:0001>
+They hung up. Can't use*
+the phone line now...<press>
+<fchat:0003>
+Hmm... And now*
+we're stuck here.<press>
+<sound:0016>Maybe we should've gone*
+when we had the chance.<press>
+<fchat:0001>
+<shake:0128><blink>Oh, I dunno... You think so?<press>
+<blue>(Maybe she's right...*
+Maybe we should have...)<black><press>
+<fchat:0003>
+<sound:0015><blink>So, what were you trying to*
+do? Pretend everything was*
+perfectly fine? Hee hee!<press>
+<fchat:0001>
+.........
+
+-------------------------------
+
+[m14_3999][362D]
+
+<face:0106>
+<sound:0018><shake:0128><blink>Hello?! Anybody there?!<press>
+<sound:0017><blink><shake:0128>If anybody's still there, get*
+yourself here, on the double!*
+We're about to head out!<press>
+<NJ:003C>
+.........<press>
+<sound:0016><shake:0128><blink>Speak up! Why don't you answer...?!<press>
+<sound:0018><shake:0128><blink>A-Anyway, come if you're coming!*
+We're leaving!
+
+-------------------------------
+
+[m14_9990][3B00]
+
+Torpedo room
+
+-------------------------------
+
+[m14_9996][3B06]
+
+<fchat:0001>
+It looks like a pipe.*
+It's made out of glass.<press>
+I see a lot of cracks*
+in the glass...<press>
+I can't fix them, but I*
+guess I don't have to.
+
+-------------------------------
+
+[m14_9997][3B07]
+
+<fchat:0001>
+Each of the three machines*
+is equipped with a fan.<press>
+Now that I take*
+a closer look...<press>
+...it appears there are...*
+two sizes of fans.
+
+-------------------------------
+
+[m14_9998][3B08]
+
+<fchat:0001>
+What a cute little fan.<press>
+It must be connected to*
+one of those big machines.
+
+-------------------------------
+
+[m14_9999][3B09]
+
+<fchat:0001>
+I'd better leave*
+the flashlight on.<press>
+If I turn it off now, Lynne*
+won't be able to see.
+
+-------------------------------
+
+[m14_4000][3700]
+
+<face:0106>
+So it must be true*
+what they say...<press>
+<sound:0016>...that there are restless*
+ghosts onboard...
+
+-------------------------------
+
+[m14_4220][3709]
+
+The Temsik fragment!
+
+-------------------------------
+
+[m14_4320][3713]
+
+<face:002B>
+Well, at least now we know the*
+<red>cause <black>of the explosion for sure.<press>
+<face:000F>
+<sound:0018><blink><shake:0128>I can't believe he'd sink his own*
+submarine! What a waste.<press>
+<face:0034>
+...Okaaay. But, more importantly,*
+we need to get to that torpedo.<press>
+<change:002B>
+<end>
+<blue>(I'd better find a <red>path*
+<blue>to it somehow.)<black>
+
+-------------------------------
+
+[m14_4130][3722]
+
+<face:002D>
+This is bad... We couldn't stop*
+the torpedo from launching...<press>
+<face:0005>
+<sound:0015><blink>Don't worry! If we can*
+stop it from going off,*
+there's still hope, right?<press>
+<change:0011>
+<end>
+Our Missile doesn't have one,*
+but usually these kind of*
+missiles have a <red>safety device<black>!<press>
+<face:0027>
+<blue>(It sounds like that "<red>safety*
+device<blue>" is our only hope...!)<black>
+
+-------------------------------
+
+[m14_5900][3812]
+
+<fchat:0001>
+Hmm.<press>
+<sound:0016>The phone doesn't*
+seem to be working.<press>
+<blue>(The impact of the missile*
+must've broken it...)<black>
+
+-------------------------------
+
+[m14_5830][3819]
+
+<fchat:0001>
+There's a door here, too.<press>
+But it's stuck or something.*
+I can't open it.<press>
+.........<press>
+I'll leave it to your*
+superhuman strength,*
+Detective.
+
+-------------------------------
+

@@ -1,0 +1,35 @@
+[m15_0270][3E24]
+
+<face:0072>
+<center>This deal is going quite well...*
+<center>Oh! I must say. These grapes*
+<center>are quite good, my man.<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0280][3E25]
+
+<face:0088>
+<center>The Yonoa is about to*
+<center>scrape the bottom of the*
+<center>sea, sir. Be forewarned, sir.<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0290][3E26]
+
+<face:0072>
+<shake:0128><blink><center>Keep it together, man!*
+<center>Are you trying to give me*
+<center>a case of the vapors?!<0CFF_6400><wait><press>
+<center>I believe I nearly died*
+<center>of fright just now!<0CFF_8C00><wait>
+
+-------------------------------
+
+[m14_0280][331D]
+
+Egad!
+
+-------------------------------
+

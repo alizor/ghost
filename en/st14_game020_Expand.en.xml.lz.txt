@@ -1,0 +1,567 @@
+[m14_2000][3500]
+
+A single telephone line connects*
+me and the "other Sissel."<space>
+But that single line spreads out*
+like a spider's web to ensnare*
+the fates of many people...
+
+-------------------------------
+
+[m14_2001][3501]
+
+And I just reached the*
+center of the web.
+
+-------------------------------
+
+[m14_2010][3502]
+
+<face:010D>
+<sound:0021><NJ:003C>
+<center>Welcome to the Yonoa...
+
+-------------------------------
+
+[m14_2020][3503]
+
+<face:010D>
+<sound:0016><blink><center>...Detective Jowd.
+
+-------------------------------
+
+[m14_2022][3504]
+
+<face:00A6>
+My detective sense*
+must've gotten rusty.<press>
+I didn't even sense your*
+presence here in the dark.<press>
+<face:0088>
+That's because I switched*
+the power to my mask*
+off, Detective Jowd.<press>
+<face:00BA>
+I used your phone.*
+Hope you don't mind.
+
+-------------------------------
+
+[m14_2030][3505]
+
+<face:0073>
+Egad! Never thought you'd*
+track us here! Especially seeing*
+as you're a death-row inmate...<press>
+<face:00A6>
+And I'm equally surprised about*
+your choice of transportation.*
+A submarine, eh?<press>
+<face:0073>
+But how did you find us, my man?<press>
+Not even the police knew*
+where the Yonoa was going*
+to surface, confound it.<press>
+<face:00BA>
+We detectives have a little saying.<press>
+<sound:0015><blink>"If there's something you*
+want to know about a*
+case, ask the criminals."
+
+-------------------------------
+
+[m14_2040][3506]
+
+<face:00BC>
+<sound:0016><blink><center>The <red>bullet <black>the man in*
+<center>red was shot with had a*
+<center><red>radio transmitter<black> in it.
+
+-------------------------------
+
+[m14_2050][3507]
+
+<face:00BC>
+<NJ:003C>
+<center>Cabanela has given me*
+<center>some pretty weird*
+<center>presents in the past...<press>
+<sound:0015><blink><center>...but they always prove useful.*
+<center>This one was a <red>radio receiver<black>*
+<center>made to look like a pocket watch.
+
+-------------------------------
+
+[m14_2060][3508]
+
+<face:0073>
+Hmm, yes. Inspector Cabanela. I*
+hear he's an excellent investigator.
+
+-------------------------------
+
+[m14_2070][3509]
+
+<face:00A6>
+By the way, where is*
+that man in red?<press>
+I know he's on this*
+submarine somewhere.<press>
+<face:0073>
+Ah, Sissel, you mean?
+
+-------------------------------
+
+[m14_2071][350A]
+
+You!
+
+-------------------------------
+
+[m14_2080][350B]
+
+<face:0073>
+You can relax. That's*
+nothing but his "<red>shell<black>."
+
+-------------------------------
+
+[m14_2081][350C]
+
+<face:00A6>
+His "shell," eh?<press>
+<face:0073>
+His spirit isn't here right now.<press>
+Most likely, right about now...<press>
+<sound:0016><blink>...he's <red>controlling <black>your daughter.
+
+-------------------------------
+
+[m14_2090][350D]
+
+<face:00A8>
+Please! I beg you!*
+Let my daughter go!<press>
+<change:00B8>
+<end>
+<sound:0018><shake:0128><blink>If you need a hostage, take*
+me. Just, please, let her go!<press>
+<face:0073>
+Bah!
+
+-------------------------------
+
+[m14_2100][350E]
+
+<face:0073>
+There's something our nation*
+needs. Sissel has it.<press>
+That's all we care about, my*
+man! Nothing else matters.<press>
+However, it would appear...<press>
+<sound:0016><blink>...Sissel has underestimated us.<press>
+He's left behind his precious*
+bargaining chip here.<press>
+<face:00A8>
+<red>Bargaining chip<black>...?
+
+-------------------------------
+
+[m14_2110][350F]
+
+<face:0073>
+Our nation has already*
+researched it...<press>
+...this "product" that*
+Sissel has to offer...<press>
+<sound:0017><shake:0128><blink>...the <red>source of his powers<black>!
+
+-------------------------------
+
+[m14_2111][3510]
+
+<face:00A9>
+Wha...<press>
+<sound:0018><shake:0128><blink>What in the world was that?!<press>
+<face:0073>
+The <red>Temsik <black>fragment. It gives*
+spirits special powers.<press>
+And now our deal with*
+Sissel is concluded... as*
+far as we're concerned.<press>
+<face:00A8>
+<sound:0015><blink><shake:0128>What are you talking about?!<press>
+<face:0073>
+<sound:0016><blink>Tsk, tsk. What a mistake to make...*
+right at the most critical moment.<press>
+Now, then, Detective Jowd.
+
+-------------------------------
+
+[m14_2112][3511]
+
+<face:0074>
+<NJ:003C>
+<center>Farewell.
+
+-------------------------------
+
+[m14_2130][3514]
+
+<fchat:0001>
+<sound:0017><blink><shake:0128>What in the world...?!<press>
+<blue>(The whole room*
+just <red>vanished<blue>.)<black><press>
+<blue>(Detective Jowd!)<black><press>
+<sound:0016><blink><blue>(Where did he go...?)<black>
+
+-------------------------------
+
+[m14_2140][3515]
+
+<fchat:0001>
+What now...?<press>
+<blue>(I think I heard an*
+<red>explosion <blue>somewhere...)<black><press>
+In any case...<press>
+...Lynne and the little lady*
+should be here somewhere.<press>
+<blue>(I smell danger. I'd better*
+find them... and fast!)<black>
+
+-------------------------------
+
+[m14_2150][3517]
+
+<face:0034>
+So you're here, huh?<press>
+<face:0076>
+<sound:0017><1CFF_2B00><blink>{2EFF}w{17FF}It's "Missile"!{17FF}<press>
+<face:0036>
+<blue>(Yes, I think even I remember*
+who you are by now...)<black><press>
+<change:0029>
+<end>
+What do you suppose that*
+shock was a minute ago?<press>
+<face:0076>
+<sound:0033><shake:0128><blink>I have no idea, of course.<press>
+<sound:0017><shake:0128><blink>I'm just a little sheltered*
+apartment dog!<press>
+<face:002B>
+<blue>(What with my loss of memory,*
+I can't say I'm much better...)<black><press>
+<face:0076>
+Anyway!<press>
+<sound:0033><shake:0128><blink>Let's hurry up and go save*
+Miss Lynne and Miss Kamila!<press>
+<face:0034>
+Do you think that trusty nose*
+of yours can sniff them out?<press>
+<face:0076>
+.........<press>
+<sound:0016>I'm sorry to say I don't think it can!<press>
+<face:002B>
+<blue>(Why did I even bother to ask?)<black><press>
+But you DO have the*
+power to swap objects.<press>
+<change:0027>
+<end>
+So let's go find that lady detective*
+and the little lady together.<press>
+<face:0076>
+<sound:0033><shake:0128><blink>{2EFF}Ê{17FF}You got it!{17FF}
+
+-------------------------------
+
+[m14_2160][3518]
+
+<fchat:0001>
+The telephone is ringing.<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>{2EFF}{4D00}{17FF}Wow!{17FF}<press>
+<sound:0017><blink><shake:0128>It's Miss Kamila!*
+I just know it!<press>
+<sound:0033><shake:0128><blink>My trusty nose is practically*
+screaming it at me!<press>
+<fchat:0001>
+<sound:0015><blink>I think you'd call that*
+more of a "<red>hunch<black>."<press>
+Anyway, let's get to*
+that phone before*
+it stops ringing.<press>
+<fchat:0002>
+<sound:0033><shake:0128><blink>{2EFF}É{17FF}You bet!{17FF}
+
+-------------------------------
+
+[m14_2161][3519]
+
+<face:0076>
+<sound:0017><blink><shake:0128>That black "Hello?"*
+is calling to us!<press>
+<face:0034>
+Black "Hello?"...? Oh, you*
+mean the telephone?<press>
+<face:0076>
+I almost feel like...<press>
+<sound:0033><shake:0128><blink>...I could actually talk*
+to Miss Kamila now!<press>
+<face:002B>
+<blue>(That just might be one of*
+the perks of being dead...)<black><press>
+<change:0027>
+<end>
+Anyway, let's get to that phone*
+before the line goes dead.<press>
+<face:0076>
+<sound:0033><shake:0128><blink>{2EFF}É{17FF}You bet!{17FF}
+
+-------------------------------
+
+[m14_2162][351A]
+
+<fchat:0001>
+I think I just heard another*
+little explosion in the*
+distance...<press>
+<blue>(I've got a bad feeling*
+about this...)<black><press>
+<fchat:0002>
+<sound:0033><shake:0128><blink>Sissel! Look!
+
+-------------------------------
+
+[m14_2165][351B]
+
+<fchat:0002>
+<sound:0016>That black "Hello?"! It*
+came off the hook!<press>
+<fchat:0001>
+<blue>(Uh-oh... I'd better*
+answer it... fast!)<black>
+
+-------------------------------
+
+[m14_2163][351C]
+
+<fchat:0002>
+<sound:0033><shake:0128><blink>Hello?! Hello?! Miss Kamila?!<press>
+<sound:0017><blink><shake:0128>{2EFF}{4E00}{17FF}Hello?!{17FF}
+
+-------------------------------
+
+[m14_2166][351D]
+
+<fchat:0002>
+<sound:0018><blink><shake:0128>It's no use!<press>
+<sound:0033><shake:0128><blink>This black "Hello?" just*
+doesn't like me!<press>
+<fchat:0001>
+Just create a path*
+for me, Missile!<press>
+<shake:0128><blink>I'll come right over!
+
+-------------------------------
+
+[m14_2164][351E]
+
+<fchat:0002>
+<sound:0033><shake:0128><blink>Hello?! Hello?! Miss Kamila?!<press>
+<sound:0017><blink><shake:0128>{2EFF}g{17FF}Miss Kamila!!!{17FF}<press>
+<fchat:0001>
+<shake:0128><blink>What is it, Missile?!<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>Oh, Sissel! Hurry! Hurryyy!<press>
+<fchat:0001>
+<shake:0128><blink>Okay, I'm coming!<press>
+<blue>(The path is right here in*
+front of me. I just have to*
+use it!)<black>
+
+-------------------------------
+
+[m14_2170][351F]
+
+<face:006F>
+<shake:0128><blink>Hello?! Is anybody there?!<press>
+<fchat:0001>
+<sound:0015><blink>...!*
+<blue>(It's her! The little lady!)<black><press>
+<sound:0018><blink><shake:0128>It's Sissel! Where are you?<press>
+<face:006B>
+Somebody please answer...!<press>
+<fchat:0001>
+<blue>(I guess she can't*
+hear my "voice"...)<black><press>
+<fchat:0002>
+<sound:0033><shake:0128><blink>You, too, huh? Oh, good!*
+I thought she was ignoring*
+me.<press>
+<face:006B>
+<shake:0128><blink>Somebody help me...<press>
+<sound:0016>Lynne... Lynne is...<press>
+<fchat:0001>
+<sound:0015><blink>...!*
+<blue>(She said "Lynne"!)<black><press>
+<fchat:0002>
+<sound:0017><blink><shake:0128>{2EFF}{4F00}{17FF}Miss Lynne!!!{17FF}<press>
+<fchat:0001>
+<blue>(We'd better hurry!)<black><press>
+<fchat:0002>
+<sound:0033><shake:0128><blink>Let's go, Sissel!
+
+-------------------------------
+
+[m14_2171][3520]
+
+<face:006F>
+<shake:0128><blink>Hello?! Please... somebody...*
+Somebody answer...!<press>
+<change:006B>
+<end>
+Please come help me... Sissy...<press>
+<face:002A>
+<sound:0015><blink>...!*
+<blue>(The little lady called*
+me by name...!)<black><press>
+<face:0076>
+<sound:0033><shake:0128><blink>She's asking for you, Sissel!<press>
+<sound:0017><blink><shake:0128>Miss Kamila! Don't forget me!<press>
+<face:002C>
+<blue>(We'd better hurry!)<black><press>
+<face:0076>
+<sound:0033><shake:0128><blink>Let's go, Sissel!
+
+-------------------------------
+
+[m14_2220][3521]
+
+<fchat:0002>
+<sound:0017><blink>Come on, Sissel! We can't do*
+anything to help them here!<press>
+<fchat:0001>
+I thought I'd check this*
+place out a little more...<press>
+<blue>(But, I admit, I AM worried*
+about the little lady, too...)<black><press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>What do you mean "<red>I admit<black>"?!<press>
+<sound:0033><shake:0128><blink>Shouldn't that*
+be "<red>of course<black>"?!<press>
+<fchat:0001>
+<sound:0016><blue>(I've been chastised for*
+my choice of words by*
+a little doggie.)<black>
+
+-------------------------------
+
+[m14_2240][3523]
+
+<fchat:0001>
+<sound:0016>Nothing's happening.<press>
+<fchat:0002>
+What did you think would*
+happen, by the way?<press>
+<fchat:0001>
+<shake:0128><blink>I... I don't know.<press>
+<fchat:0002>
+Tsk, tsk.<press>
+<sound:0033><shake:0128><blink>I really think you should*
+have a plan before you start*
+touching things willy-nilly.<press>
+<fchat:0001>
+<blue>(I'm being given reasonable*
+advice by a little doggie...)<black>
+
+-------------------------------
+
+[m14_2250][3524]
+
+<fchat:0001>
+<sound:0016>This switch is too stiff.*
+I can't lower it.<press>
+<fchat:0002>
+<sound:0015><blink>Hey, wait a minute...<press>
+<sound:0017><blink><shake:0128>Don't tell me your ghost*
+tricks don't work anymore!<press>
+<fchat:0001>
+<shake:0128><blink>.........<press>
+<fchat:0002>
+<sound:0033><shake:0128><blink>Oh, come on, Sissel!*
+That was just a little joke!<press>
+<fchat:0001>
+<blue>(I'm being made fun*
+of by a little doggie...)<black>
+
+-------------------------------
+
+[m14_2260][3525]
+
+<fchat:0001>
+I've seen this kind of thing*
+before. I think the lid opens.<press>
+But I can't open it right*
+now. Maybe because*
+it's lying on its side...?
+
+-------------------------------
+
+[m14_2270][3526]
+
+<fchat:0001>
+Nothing's happening.<press>
+<blue>(It sure seems like it*
+should do something...)<black><press>
+Maybe it's just some*
+kind of ornament...?
+
+-------------------------------
+
+[m14_2280][3527]
+
+<fchat:0001>
+It won't budge.*
+Maybe it's broken...?<press>
+Oh, well. I guess I don't*
+have to lower it right now.<press>
+<blue>(And if I ever had to move it,*
+I could probably get Lynne*
+to do it for me.)<black>
+
+-------------------------------
+
+[m14_9991][3B01]
+
+Engine room
+
+-------------------------------
+
+[m14_9993][3B03]
+
+<fchat:0001>
+In the "four minutes before*
+death" world, I can't use*
+the phone anytime I want.<press>
+<blue>(I'll have to try and find*
+something I can do here...)<black>
+
+-------------------------------
+
+[m14_9995][3B05]
+
+<fchat:0001>
+This phone isn't*
+working anymore.<press>
+I guess we can't leave*
+the submarine...
+
+-------------------------------
+
+[m03_8112][181F]
+
+<face:0089>
+<sound:0016>I have a little something for you.
+
+-------------------------------
+

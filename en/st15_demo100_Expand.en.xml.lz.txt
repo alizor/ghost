@@ -1,0 +1,20 @@
+[m15_0350][3E2C]
+
+<face:00F2>
+<center>Ten long years, Yomiel.*
+<center>Your time's up today.<0CFF_8C00><wait><press>
+<face:00F2>
+<center>The young lady who*
+<center>always comes to visit*
+<center>you is waiting outside.<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0360][3E2D]
+
+<face:0059>
+<NJ:003C>
+<center>Thank you, Sissel.<0CFF_9600><wait>
+
+-------------------------------
+

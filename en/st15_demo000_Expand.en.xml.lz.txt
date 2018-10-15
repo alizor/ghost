@@ -1,0 +1,261 @@
+[m15_0000][3E00]
+
+<face:001D>
+<sound:0000><center>Huh? How come it's dark?<0CFF_B400><wait>
+
+-------------------------------
+
+[m15_0001][3E01]
+
+<face:001D>
+<sound:0000><center>I'll just turn on the lights here...<0CFF_B400><wait>
+
+-------------------------------
+
+[m15_0010][3E02]
+
+<face:0063>
+<sound:0015><shake:0128>Heh heh. Were you surprised?<press>
+<face:0016>
+You bet I was! You nearly*
+scared me to death!
+
+-------------------------------
+
+[m15_0020][3E03]
+
+<face:0067>
+<sound:0017><blink><shake:0128><1CFF_0D00>Yippee! It worked!
+
+-------------------------------
+
+[m15_0030][3E04]
+
+<face:000E>
+But it's not even my birthday today.<press>
+<face:0067>
+It was my mom's birthday*
+the day before yesterday.<press>
+I made this surprise for her,*
+but it came out so well,*
+I wanted to use it again!
+
+-------------------------------
+
+[m15_0040][3E05]
+
+<face:00A5>
+That's all right, Lynne.<press>
+<change:00B5>
+<end>
+After all, we're celebrating*
+the "birth" of your new*
+position as detective, right?
+
+-------------------------------
+
+[m15_0041][3E06]
+
+<face:0003>
+Really?*
+Thank you, Detective Jowd.<press>
+<face:0067>
+<sound:0017><blink><shake:0128>Dad! You're home!<press>
+<face:00A5>
+Hi, Kamila. Let me introduce you.<press>
+This is Lynne. She was just assigned*
+to the detective division today.
+
+-------------------------------
+
+[m15_0042][3E07]
+
+<face:0006>
+Hi, Kamila! It's nice to meet you!<press>
+<face:0067>
+Nice to meet you, too,*
+Lynne! Congratulations*
+on becoming a detective!<press>
+<change:0063>
+<end>
+<sound:0015><blink>...Huh?<press>
+<face:0004>
+Is something wrong?
+
+-------------------------------
+
+[m15_0043][3E08]
+
+<face:0063>
+<sound:0016><blink>You have one of*
+those <red>badges<black>, too?<press>
+<face:0004>
+<shake:0128>Oh, this? Yeah.<press>
+<face:0067>
+I have one just like it.*
+My dad just gave it to*
+me the other day.
+
+-------------------------------
+
+[m15_0044][3E09]
+
+<face:0065>
+<sound:0016>But yours looks a lot*
+<red>older <black>than mine, though.<press>
+<face:00B5>
+Ha ha! How long are you*
+going to keep wearing*
+that toy badge, Lynne?
+
+-------------------------------
+
+[m15_0050][3E0A]
+
+<face:0011>
+<sound:0018><blink><shake:0128>What's wrong with it?*
+To me, this is the symbol*
+of a real detective!
+
+-------------------------------
+
+[m15_0060][3E0B]
+
+<face:00A5>
+It's been ten years since*
+then, hasn't it?<press>
+Who would've guessed*
+you'd actually become*
+a detective one day?<press>
+<face:0003>
+When you gave me this*
+badge, I just knew.<press>
+<change:0005>
+<end>
+I knew it was my*
+destiny, somehow!<press>
+<face:00A5>
+Destiny, eh?<press>
+<face:000D>
+And now that I'm a detective...<press>
+<change:0005>
+<end>
+...I'll find out where that*
+destiny will lead me!<press>
+<face:00A5>
+Ha ha! That, you will.*
+That, you will!
+
+-------------------------------
+
+[m15_0070][3E0C]
+
+<face:0016>
+<sound:0015><blink>Oh, hello! Don't tell me you're*
+that same little kitten...?<press>
+<face:00A5>
+<shake:0128>That's right. The very one.<press>
+<face:0063>
+<sound:0015><blink>You know what? This is*
+a very, very special cat!<press>
+<change:0067>
+<end>
+He's ten years old,*
+but he's still a kitten!<press>
+<face:0016>
+<sound:0016>Still a <red>kitten<black>?<press>
+<face:0063>
+Yup! He never got any*
+bigger or anything!<press>
+<face:0016>
+Wow. What a mysterious*
+little fellow...<press>
+<face:0067>
+<sound:0015><blink><shake:0128>I know, right?*
+His name is "Sissel"!<press>
+<face:0004>
+Sissel...
+
+-------------------------------
+
+[m15_0071][3E0D]
+
+<face:000E>
+<sound:0016>Hmm. It seems to me*
+I've heard that name*
+somewhere before...
+
+-------------------------------
+
+[m15_0080][3E0E]
+
+<face:0067>
+I think Sissel likes you, Lynne!
+
+-------------------------------
+
+[m15_0090][3E0F]
+
+<face:0109>
+All right, everyone!*
+Let's start the celebration!<press>
+<face:0068>
+<sound:0017><blink><shake:0128>Okay, Mom!
+
+-------------------------------
+
+[m15_0100][3E10]
+
+<face:001D>
+<center>I bet you're just like me.<press>
+<center>Your destiny led you*
+<center>here somehow, too.
+
+-------------------------------
+
+[m15_0101][3E11]
+
+<face:001D>
+<sound:0015><blink><center>And so we meet again, Sissel!<0CFF_B400><wait>
+
+-------------------------------
+
+[m15_0110][3E12]
+
+From just that single night*
+as a human, I got a glimpse*
+into their world.<space>
+And I learned something...<space>
+<15FF_6400><0CFF_1E00><20FF_2800>Their fates, their lives --*
+they were all interconnected...<space>
+Somewhere, somehow, in some way.<15FF_6400>
+
+-------------------------------
+
+[m15_0120][3E13]
+
+<20FF_1900>And, now, this is*
+MY new fate.<15FF_5000>
+
+-------------------------------
+
+[m15_0130][3E14]
+
+I guess I really AM a cat.<space>
+It suits me just fine to*
+curl up and watch...<space>
+...watch the strange and*
+beautiful patterns of their*
+lives as they unfold.<15FF_5000><22FF_0200><20FF_2800><0CFF_1E00>And it looks like...<space>
+*
+...I'll have plenty to watch*
+here for quite a while...<15FF_9B00>
+
+-------------------------------
+
+[m15_0330][3E2B]
+
+You got it!
+
+-------------------------------
+

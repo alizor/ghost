@@ -1,0 +1,107 @@
+[m14_9990][3B00]
+
+Torpedo room
+
+-------------------------------
+
+[m14_9996][3B06]
+
+<fchat:0001>
+It looks like a pipe.*
+It's made out of glass.<press>
+I see a lot of cracks*
+in the glass...<press>
+I can't fix them, but I*
+guess I don't have to.
+
+-------------------------------
+
+[m14_9997][3B07]
+
+<fchat:0001>
+Each of the three machines*
+is equipped with a fan.<press>
+Now that I take*
+a closer look...<press>
+...it appears there are...*
+two sizes of fans.
+
+-------------------------------
+
+[m14_9998][3B08]
+
+<fchat:0001>
+What a cute little fan.<press>
+It must be connected to*
+one of those big machines.
+
+-------------------------------
+
+[m14_9999][3B09]
+
+<fchat:0001>
+I'd better leave*
+the flashlight on.<press>
+If I turn it off now, Lynne*
+won't be able to see.
+
+-------------------------------
+
+[m14_4040][3724]
+
+<sound:0016>Wh-What was*
+that noise...?
+
+-------------------------------
+
+[m14_4045][3725]
+
+<face:002B>
+<1CFF_0100>Hmm. It looks like the torpedo*
+still hit the submarine...<press>
+<face:000E>
+But it looks like the*
+submarine is still okay.<press>
+<change:0012>
+<end>
+This changes everybody's fate,*
+including the little rat's.<press>
+<face:0006>
+<sound:0017><shake:0128><blink>Sissel, we did it!
+
+-------------------------------
+
+[m14_4050][3726]
+
+<face:002B>
+<NJ:003C>
+.........<press>
+<face:0016>
+<sound:0015><blink>What's the matter?*
+You still look unhappy.<press>
+<face:002B>
+We stopped the torpedo*
+from blowing up...<press>
+<change:0034>
+<end>
+<sound:0016><blink>...but we still opened up a*
+gaping hole in the submarine.<press>
+<face:000E>
+Hmm... You're right.*
+I guess--<press>
+<face:0079>
+<sound:0017><shake:0128><blink><center><green>...I guess that's just*
+<center>what "missiles" do!*
+<center>They're unstoppable!<black><press>
+<face:0036>
+<sound:0015><blink><blue>(Huh? Am I hearing things...?)<black><press>
+<change:0029>
+<end>
+Anyway...<press>
+...I guess we'd better get back to*
+the present as quickly as we can.<press>
+<face:0014>
+<blink>Right! I'm worried about Kamila!
+
+-------------------------------
+

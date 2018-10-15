@@ -1,0 +1,41 @@
+[m15_0200][3E1B]
+
+<face:00FE>
+<center>{FE00} La la la! I've never*
+<center>cooked this way before!*
+<center>So exotic! So exciting!<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0201][3E1C]
+
+<face:00FE>
+<center>{FE00} Turmeric, coriander, cumin*
+<center>and fenugreek! Curried*
+<center>chicken paradise! La la la!<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0210][3E1D]
+
+<face:00D0>
+<center>Is this really necessary,*
+<center>this new "curried chicken"*
+<center>menu item?<0CFF_8C00><wait><press>
+<face:00FE>
+<center>Oh, but our very best customer*
+<center>requested it! Now, good luck*
+<center>with the taste testing!<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0220][3E1E]
+
+<face:00D0>
+<shake:0128><center>Oh, boy. I don't think I*
+<center>could eat another bite.<0CFF_8C00><wait><press>
+<blink><shake:0128><center>Just who exactly is this "very*
+<center>best customer," anyway?!<0CFF_8C00><wait>
+
+-------------------------------
+

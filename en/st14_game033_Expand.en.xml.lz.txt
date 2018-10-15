@@ -1,0 +1,808 @@
+[m14_5010][3806]
+
+<face:006E>
+<NJ:003C>
+Lynne...<press>
+<face:0005>
+<sound:0018><blink><shake:0128>Kamila! You're awake!*
+How do you feel?!<press>
+<face:006C>
+I'm so sorry...<press>
+<sound:0016><shake:0128>I'm sorry I pointed*
+that gun at you...<press>
+<face:0011>
+<blink>Don't worry about that!*
+That... wasn't you.<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>{2EFF}g{17FF}Miss Kamila!!!{17FF}<press>
+<face:006E>
+<sound:0015><blink>Oh, Missile! You're here.<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>Oh, poor Miss Kamila!<press>
+<sound:0033><blink><shake:0128>Miss Lynne, what*
+should we do?!<press>
+<face:000D>
+We have to get out of here,*
+before any more water comes in.<press>
+<change:0013>
+<end>
+Sissel should be along any second.<press>
+<face:0064>
+<sound:0015><blink>I knew Sissy would come!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>And "Missy" is here, too!<press>
+<face:0068>
+<NJ:003C>
+I'm so happy everybody's*
+going to be with me now!
+
+-------------------------------
+
+[m14_5020][3808]
+
+<face:0013>
+I'll get you out of here!
+
+-------------------------------
+
+[m14_5041][381D]
+
+Ow...
+
+-------------------------------
+
+[m14_5042][381E]
+
+<face:0007>
+<sound:0016>What happened now?!<press>
+<fchat:0001>
+<sound:0015><blink>It looks like the submarine*
+decided to rear up on its*
+hind legs.<press>
+<face:001B>
+<shake:0128>I can't believe we're*
+still okay after that fall...<press>
+<change:000D>
+<end>
+Either we're really lucky,*
+or we're dead and we just*
+haven't realized it yet...<press>
+<fchat:0001>
+<blue>(Come on, now. As if*
+the latter could be true!)<black>
+
+-------------------------------
+
+[m14_5050][381F]
+
+<face:000F>
+<sound:0018><blink><shake:0128>What now?!<press>
+<face:0019>
+<sound:0017><blink><shake:0128>The water sure is rising fast!<press>
+<fchat:0001>
+Come on!
+
+-------------------------------
+
+[m14_5060][3820]
+
+<fchat:0001>
+<sound:0017><blink><shake:0128>You'll just have to go up!*
+Up to the top!<press>
+<blue>(Let's see how I can help*
+with my ghost tricks!)<black>
+
+-------------------------------
+
+[m14_5680][3822]
+
+<face:0036>
+<sound:0015><blink>Well, well! I think I see a*
+familiar "flame" over there...
+
+-------------------------------
+
+[m14_5681][3823]
+
+<face:0076>
+<sound:0017><blink><shake:0128>Sissel! There you are!<press>
+<sound:0033><blink><shake:0128>How's it going?<press>
+<face:0034>
+"How is it going"? I'd say*
+it was going pretty badly!<press>
+<change:0029>
+<end>
+You DO understand how*
+dangerous this situation*
+is, don't you?<press>
+<face:0076>
+Of course! After all...<press>
+<sound:0033><blink><shake:0128>...just ask anybody who*
+knows me how much I*
+<red>hate taking a bath<black>!<press>
+<face:002B>
+<blue>(Maybe he's been in danger of*
+drowning before himself...)<black><press>
+<change:0027>
+<end>
+Okay, ready to create a*
+path for these ladies?<press>
+<face:0076>
+<sound:0017><blink><shake:0128>{2EFF}Ã{17FF}Of course!{17FF}
+
+-------------------------------
+
+[m14_5061][3824]
+
+<face:0008>
+"Go up" is easier said than done*
+when I'm holding Kamila!<press>
+<face:0029>
+I know. We're gonna try to create*
+a path for you somehow!<press>
+<face:0008>
+The water just keeps*
+on rising... Please hurry!<press>
+<change:000E>
+<end>
+<sound:0015><blink>Oh, and by the way,*
+did I ever tell you--<press>
+<face:0034>
+<sound:0016>...You can't swim.*
+Neither can Kamila.<press>
+<face:0006>
+<sound:0017><blink><shake:0128>Oops! Already said that, didn't I?*
+Okay, well... good luck!
+
+-------------------------------
+
+[m14_5450][3825]
+
+<face:0076>
+<sound:0033><blink><shake:0128>Okay, Sissel! What do we do?*
+I'm ready!<press>
+<face:002B>
+<blue>(Here's a little doggie who's*
+raring to go after his rest...)<black><press>
+<change:0029>
+<end>
+We have to create a path*
+that will get Lynne up to*
+the top... and fast.<press>
+So we look for anything*
+and everything we can*
+move, and try things out!<press>
+<face:0076>
+<sound:0017><blink><shake:0128>How about if we tip*
+the whole submarine?!<press>
+<face:0034>
+...If we could do that, there*
+wouldn't be any problem.<press>
+<face:0076>
+<sound:0033><blink><shake:0128>Well, in any case, I'm*
+ready and raring to go!
+
+-------------------------------
+
+[m14_5690][3826]
+
+<face:0007>
+<sound:0015><blink>Uh-oh! The water is still*
+rising! It's up to my knees!<press>
+<change:000F>
+<end>
+<sound:0017><blink><shake:0128>And it's freezing cold!<press>
+<fchat:0001>
+Just hold on!*
+<blue>(We'd better create*
+a path... fast.)<black><press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Hang in there, Miss Lynne!<press>
+<face:001B>
+<shake:0128>Thanks, Missile.
+
+-------------------------------
+
+[m14_5700][3827]
+
+<face:0017>
+<sound:0018><blink><shake:0128>Now the water's up to my waist!<press>
+<fchat:0001>
+I-I know. Keep hanging on!<press>
+<face:0007>
+Could you arrange these pistons*
+so I can climb them somehow?<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Hang in there, Miss Lynne!<press>
+<face:001B>
+<shake:0128>#shiver#*
+Thanks, Missile.
+
+-------------------------------
+
+[m14_5710][3828]
+
+<face:000A>
+<shake:0128>This water is so cold... I'm scared.<press>
+<face:0029>
+I'm really sorry. Try to hold*
+on just a little longer.<press>
+<face:000E>
+<sound:0015><blink>I guess I better tell*
+you one thing...<press>
+<face:0034>
+Yes, yes. You can't swim.*
+Neither can Kamila.*
+You've already told me.<press>
+<face:0076>
+<sound:0033><blink><shake:0128>And, by the way, this*
+little Pomeranian can't*
+swim a stroke, either!<press>
+<face:000E>
+<sound:0015><blink>And, by the way, I literally just*
+bought these boots and coat the*
+other day.<press>
+<face:0036>
+I think you're gonna be out of*
+luck on that last one. You might*
+as well resign yourself now.
+
+-------------------------------
+
+[m14_5063][3829]
+
+<face:000D>
+<sound:0015><blink>These pistons sticking out right*
+in front of me... It's almost like*
+they're <red>taunting <black>me.<press>
+<change:0011>
+<end>
+<sound:0016>Maybe it's a <red>challenge<black>?<press>
+<fchat:0001>
+It might be just that. Think*
+you can climb them?<press>
+<face:000D>
+<shake:0128>Hmm...<press>
+If I wasn't holding Kamila, I*
+could probably do it easily.<press>
+<fchat:0002>
+<sound:0015><blink>Sissel!*
+Y-Y-Y...<press>
+<sound:0018><blink><shake:0128>You're not telling Miss*
+Lynne to leave poor Miss*
+Kamila behind, ARE YOU?!<press>
+<fchat:0001>
+#sigh# Could you just be*
+quiet for a minute, Missile?<press>
+<blue>(Those pistons sure do*
+look like they could be*
+<red>used to our advantage<blue>...)<black>
+
+-------------------------------
+
+[m14_5064][382A]
+
+<face:000D>
+These pistons sticking out right*
+in front of me... It's almost like*
+they're taunting me.<press>
+<change:0011>
+<end>
+<sound:0016>It's like they're silently*
+pressuring me to climb them.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Oh, I doubt they're doing*
+that, Miss Lynne...<press>
+<fchat:0001>
+<blue>(Hmm. It looks like <red>how much<blue>*
+the pistons thrust out...)<black><press>
+<sound:0016><blue>(...is related to <red>how large*
+<blue>the fans are...)<black><press>
+<face:000D>
+Hey, Sissel! My arms are*
+full, but my legs are free.<press>
+<change:0003>
+<end>
+<sound:0015><blink>If you could just move these*
+pistons so they're a little easier*
+to climb, I think I could do it.<press>
+<fchat:0001>
+<blue>(Okay, so in order*
+to do that...)<black><press>
+<blue>(...we need three different*
+sizes of fans...)<black>
+
+-------------------------------
+
+[m14_5840][382B]
+
+<face:0029>
+I have to find a way for Lynne*
+to get up to the <red>top<black>...<press>
+<face:0012>
+<sound:0015><blink>A woman who can't swim and*
+an ambitious woman -- they*
+both head for the top!<press>
+<face:002B>
+<blue>(To do that, I need to create*
+some kind of <red>footholds <blue>for her.)<black><press>
+<face:0012>
+<sound:0015><blink>A woman who can't swim and*
+a sensible woman -- they both*
+keep their feet on the ground!
+
+-------------------------------
+
+[m14_5062][382C]
+
+<fchat:0001>
+<sound:0017><blink><shake:0128>There! How about that?<press>
+<face:0005>
+<sound:0015><blink>Wow, this is great! You*
+made a staircase for me!<press>
+<fchat:0001>
+You'd better hurry!*
+I don't think that water*
+is gonna wait for you.
+
+-------------------------------
+
+[m14_5460][382D]
+
+<sound:0015>Ouch!
+
+-------------------------------
+
+[m14_5065][382E]
+
+<face:000C>
+<sound:0018><blink><shake:0128>Now this <red>steam<black> is getting*
+in the way! It's too hot to*
+get through!<press>
+<fchat:0001>
+<sound:0015><blink>What?!<press>
+<face:000E>
+And there's no way to*
+go around, either. Think*
+you can do something?<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Of course we can!<press>
+<fchat:0001>
+<blue>(We have to!)<black>
+
+-------------------------------
+
+[m14_5470][382F]
+
+<fchat:0001>
+<sound:0016><blink><blue>(So by closing this valve,*
+I've shut off the steam*
+flow to that <red>first pipe<blue>.)<black>
+
+-------------------------------
+
+[m14_5480][3830]
+
+<face:000E>
+Darn this thing called "water"!*
+Look what it's done!<press>
+<face:0029>
+Huh?<press>
+<face:000E>
+Just a second ago, it was*
+chilling me to the bone.<press>
+And now it's hitting me*
+as steam hot enough*
+to melt a person!<press>
+<change:0014>
+<end>
+My boots and my coat are*
+soaking wet! Water just*
+pours out of them when I move.<press>
+<face:0076>
+<sound:0033><blink><shake:0128>How dare that water treat*
+you like that! Here, let me*
+lap it all up for you!<press>
+<face:0014>
+Hmm. You'd better not,*
+Missile. It's salt water.<press>
+<face:002B>
+<sound:0016><blue>(It sounds like she's*
+starting to get crabby...)<black><press>
+<face:0010>
+<sound:0017><blink><shake:0128>Achoo!<press>
+<face:0036>
+Okay, okay. I'm working on it!
+
+-------------------------------
+
+[m14_5490][3831]
+
+<face:0076>
+<sound:0033><blink><shake:0128>Look at poor Miss Lynne*
+and Miss Kamila!<press>
+<sound:0017><blink><shake:0128>They're "mist-ified"!<press>
+<face:0034>
+Huh? I don't get it.<press>
+<change:0027>
+<end>
+Anyway, I think we're gonna*
+need your powers here.<press>
+We have to do something*
+about those steam pipes fast.<press>
+<face:0076>
+<sound:0033><blink><shake:0128>Leave it to me!<press>
+<sound:0017><blink><shake:0128>I'll "de-mist-ify" this*
+situation in no time!<press>
+<face:002B>
+<blue>(Careful, there, little doggie.*
+Don't get overconfident.)<black><press>
+<change:0029>
+<end>
+I'll try going up. There must*
+be something I can do, too!
+
+-------------------------------
+
+[m14_5491][3832]
+
+<fchat:0002>
+<sound:0015><blink>Look at this!*
+If I swap the pipes...<press>
+<fchat:0001>
+<sound:0016>...It changes <red>how the*
+steam comes out<black>, huh?<press>
+<face:000E>
+Oh, I get it! Because the cracks in*
+each pipe are different, right?<press>
+<fchat:0001>
+<blue>(So each pipe sprays*
+out the steam in a*
+different way, eh?)<black><press>
+<blue>(I bet that will*
+<red>come in handy<blue>!)<black>
+
+-------------------------------
+
+[m14_5730][3833]
+
+<face:0008>
+<sound:0015><blink>Here comes that water again!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Oh! I wish I could drink*
+it all up for you!<press>
+<face:000C>
+<sound:0015><blink>No, Missile! It's too salty!<press>
+<fchat:0001>
+<blue>(Uh, I think the more*
+relevant point is that he's*
+dead, so he can't drink it...)<black><press>
+<face:000C>
+Whatever! Just do something*
+about this steam!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Leave it to me, Miss Lynne!<press>
+<face:001C>
+<shake:0128>#shiver#*
+Thanks, Missile.
+
+-------------------------------
+
+[m14_5740][3834]
+
+<face:0018>
+Oh, no! The water is getting*
+really close now!<press>
+<change:000E>
+<end>
+Not that I can see all that well*
+with all this steam here.<press>
+<fchat:0001>
+<sound:0017><blink><shake:0128>Missile will switch the*
+pipes around so you*
+can get across!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>That's right! Don't*
+give up, Miss Lynne!<press>
+<face:001C>
+<shake:0128>My back is really*
+starting to hurt...
+
+-------------------------------
+
+[m14_5850][3835]
+
+<face:0034>
+You couldn't take a*
+little warm mist?<press>
+<face:0010>
+<sound:0018><blink><shake:0128>Hey, that was no "<red>warm mist<black>"!*
+It was boiling hot steam!<press>
+<face:0027>
+Anyway, it looks like you're the*
+key player for this one, Missile.<press>
+<face:0076>
+<sound:0033><blink><shake:0128>But I don't think my powers alone*
+are going to be enough!
+
+-------------------------------
+
+[m14_5066][3836]
+
+<fchat:0001>
+<sound:0017><blink><shake:0128>There. How does that look?<press>
+<face:0006>
+<sound:0015><blink>It looks great! All that horrible*
+steam is cleared out of the way!<press>
+<fchat:0001>
+Okay, it's not far now.*
+Try to move forward!
+
+-------------------------------
+
+[m14_5760][3837]
+
+Ouch!
+
+-------------------------------
+
+[m14_5580][3838]
+
+<face:0012>
+<sound:0015><blink>Look up there! If I can*
+just make it to that <red>door<black>...<press>
+<change:0006>
+<end>
+<sound:0017><blink><shake:0128>...we can <red>escape<black>!
+
+-------------------------------
+
+[m14_5067][3839]
+
+<face:000C>
+<sound:0018><blink><shake:0128>Now how in the world am*
+I going to get up there?!<press>
+<fchat:0001>
+Don't yell at me.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>If you want to yell,*
+you can yell at me!<press>
+<face:0016>
+<sound:0015><blink>Missile...<press>
+<change:0010>
+<end>
+<sound:0017><blink><shake:0128>How can I yell at you when*
+you're so sweet about it?!<press>
+<fchat:0001>
+<blue>(Uh, I think you just did...)<black><press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Let's look for something to*
+pull Miss Lynne up with!<press>
+<fchat:0001>
+<sound:0016>Yes, something to whisk Miss*
+Lynne up and glide her <red>ever*
+so gently<black> to the top with.<press>
+<face:000C>
+<sound:0015><blink><shake:0128>Hey! Are you being sarcastic?!
+
+-------------------------------
+
+[m14_5510][383A]
+
+<fchat:0001>
+<sound:0015><blink>If I can get this door open,*
+Lynne can <red>escape<black>!<press>
+.........<press>
+<sound:0016>I can't budge it. It must*
+be stuck or something...<press>
+.........<press>
+I guess we'll have to wait*
+for Lynne to use her*
+<red>miraculous power <black>on it.<press>
+<blue>(But first we have to*
+get her up here!)<black>
+
+-------------------------------
+
+[m14_5500][383B]
+
+<face:0076>
+<sound:0033><blink><shake:0128>Okay! Let's get Miss*
+Lynne up to the top!<press>
+<face:0036>
+<sound:0016>That's easy enough*
+for you to say.<press>
+<change:002B>
+<end>
+<blue>(So I have to get Lynne up to*
+the door in the ceiling, eh?)<black><press>
+<change:0029>
+<end>
+<blue>(I'd better find something*
+we can use to do that*
+with... and fast!)<black>
+
+-------------------------------
+
+[m14_5521][383C]
+
+<face:0012>
+<sound:0015><blink>Okay! Whisk me away to*
+the top, ever so gently!<press>
+<face:0036>
+Are YOU being sarcastic now?<press>
+<face:000E>
+I'd hate to drown now,*
+after coming all this way.<press>
+<face:0034>
+I'd hate that, too.<press>
+<change:002B>
+<end>
+<blue>(So I have to get Lynne up to*
+the door in the ceiling, eh?)<black><press>
+<blue>(I'd better find something*
+we can use to do that*
+with... and fast!)<black>
+
+-------------------------------
+
+[m14_5068][383D]
+
+<face:0006>
+<sound:0017><blink><shake:0128>All right! Now THIS is*
+what I'm talking about!
+
+-------------------------------
+
+[m14_5069][383E]
+
+Okay!*
+Raise away!
+
+-------------------------------
+
+[m14_5590][383F]
+
+<face:0076>
+<sound:0033><blink><shake:0128>Please hurry and open*
+the door for Miss Lynne!<press>
+<sound:0017><blink><shake:0128>I'm not very good at*
+opening doors, I'm afraid.<press>
+<face:002B>
+But you managed to open the*
+door when you escaped Lynne's*
+apartment, didn't you?<press>
+<face:0076>
+Yes, but do you have any idea*
+how many times I had to attack*
+that horrible door to open it?<press>
+<face:0034>
+No, I guess I don't have any idea...<press>
+<face:0076>
+<sound:0033><blink><shake:0128>Neither do I! Because I can't*
+count beyond "three"!<press>
+<face:0034>
+Gee, I'm sorry to hear that.<press>
+<change:0029>
+<end>
+<blue>(We're almost there now. Just*
+have to get this door open...!)<black>
+
+-------------------------------
+
+[m14_5520][3840]
+
+<face:000C>
+<sound:0017><blink><shake:0128>C'mon, hurry up and*
+raise the chain!<press>
+<change:000E>
+<end>
+<sound:0016>I get this bad feeling*
+the water level is going*
+to rise any second now!<press>
+<face:0029>
+Okay. Hold on tight!
+
+-------------------------------
+
+[m14_5600][3841]
+
+Hnnnh!
+
+-------------------------------
+
+[m14_5071][3842]
+
+<face:001C>
+<sound:0016>Sorry, I can't do it.*
+Open it. Hurry.<press>
+<fchat:0001>
+Is that any way to*
+ask for something?
+
+-------------------------------
+
+[m14_5750][3843]
+
+<face:0008>
+<sound:0018><blink><shake:0128>Please get this door open!<press>
+I'm afraid I just can't do it...<press>
+<change:0010>
+<end>
+<sound:0017><blink><shake:0128>It's all up to you and your*
+<red>miraculous powers<black> now!<press>
+<face:0029>
+<blue>(We're almost there now. Just*
+have to get this door open...!)<black>
+
+-------------------------------
+
+[m14_5860][3844]
+
+<face:0076>
+<sound:0033><blink><shake:0128>Oh, we were so close!*
+Just one more step!<press>
+<face:000E>
+Like I always say...<press>
+<change:0012>
+<end>
+<sound:0015><blink>A woman who can't swim and*
+an ambitious woman -- they*
+both head for the top!<press>
+<face:0034>
+Yeah, yeah. Got it.*
+<blue>(I need to find a way to lift her up...)<black>
+
+-------------------------------
+
+[m14_5072][3845]
+
+<fchat:0001>
+<sound:0018><blink><shake:0128>It's no use!<press>
+<sound:0017><blink><shake:0128>I can't budge it.*
+It must be stuck!<press>
+<face:0008>
+<sound:0015><blink><shake:0128>Oh, no!
+
+-------------------------------
+
+[m14_5770][3846]
+
+<face:0018>
+<shake:0128><blink>Nooooo!
+
+-------------------------------
+
+[m14_5080][3848]
+
+<sound:0017>This way!
+
+-------------------------------
+
+[m14_5530][384A]
+
+Eeeeek!
+
+-------------------------------
+
+[m14_5780][384B]
+
+What just happened?*
+I can't believe my eyes...<space>
+Lynne and the little lady*
+suddenly vanished, leaving*
+only darkness and seawater.<press>
+The submarine continues*
+to sink down -- down into*
+the deep, deep sea.<space>
+But I still want to try*
+and make my way "up"*
+as far as possible.<press>
+I still want to head up, to*
+find a single ray of light...<space>
+Light to illuminate the*
+"truth" at the bottom of*
+this deep, deep darkness...
+
+-------------------------------
+

@@ -1,0 +1,1122 @@
+[m14_9990][3B00]
+
+Torpedo room
+
+-------------------------------
+
+[m14_9991][3B01]
+
+Engine room
+
+-------------------------------
+
+[m14_9994][3B04]
+
+<fchat:000D>
+Hmm.<press>
+The phone line to*
+the engine room isn't*
+working right now.<press>
+<blue>(All that water probably*
+damaged the line...)<black><press>
+I guess I don't need to*
+go back there anyway.
+
+-------------------------------
+
+[m14_5010][3806]
+
+<face:006E>
+<NJ:003C>
+Lynne...<press>
+<face:0005>
+<sound:0018><blink><shake:0128>Kamila! You're awake!*
+How do you feel?!<press>
+<face:006C>
+I'm so sorry...<press>
+<sound:0016><shake:0128>I'm sorry I pointed*
+that gun at you...<press>
+<face:0011>
+<blink>Don't worry about that!*
+That... wasn't you.<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>{2EFF}g{17FF}Miss Kamila!!!{17FF}<press>
+<face:006E>
+<sound:0015><blink>Oh, Missile! You're here.<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>Oh, poor Miss Kamila!<press>
+<sound:0033><blink><shake:0128>Miss Lynne, what*
+should we do?!<press>
+<face:000D>
+We have to get out of here,*
+before any more water comes in.<press>
+<change:0013>
+<end>
+Sissel should be along any second.<press>
+<face:0064>
+<sound:0015><blink>I knew Sissy would come!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>And "Missy" is here, too!<press>
+<face:0068>
+<NJ:003C>
+I'm so happy everybody's*
+going to be with me now!
+
+-------------------------------
+
+[m14_5020][3808]
+
+<face:0013>
+I'll get you out of here!
+
+-------------------------------
+
+[m14_5090][3849]
+
+<sound:0017><center>Eeeeeeek!
+
+-------------------------------
+
+[m14_5800][384E]
+
+The upended submarine*
+continues to sink,*
+slowly but surely...<space>
+A long, long journey to*
+the bottom of the sea.
+
+-------------------------------
+
+[m14_5810][384F]
+
+Lynne and the little lady*
+found the darkness and the*
+salt water closing in on them.<space>
+But at the very last second,*
+"something" saved them. Now*
+it looks down at them quietly.
+
+-------------------------------
+
+[m14_5820][3850]
+
+My head is filled with*
+one giant question:<space>
+What in the world*
+is this thing?
+
+-------------------------------
+
+[m14_5100][3851]
+
+<face:003F>
+<sound:0016><1CFF_1700><blink>I see you managed to*
+survive, Detective.
+
+-------------------------------
+
+[m14_5101][3852]
+
+<face:0008>
+<sound:0018><blink><shake:0128>Hey, y-you're...!
+
+-------------------------------
+
+[m14_5102][3853]
+
+<face:003F>
+Excuse my appearance.*
+I seem to have lost my body.
+
+-------------------------------
+
+[m14_5103][3854]
+
+<face:0041>
+<NJ:003C>
+<center>Oh, and <red>YOU <black>there.<press>
+<sound:0016><blink><center>You're the <red>ghost <black>who's*
+<center>been saving Lynne all*
+<center>evening, aren't you?<press>
+<face:003B>
+<sound:0015><blink><shake:0128>Y-You knew about me all along?<press>
+<face:0041>
+<center>Of course. What else would*
+<center>explain all those unnatural*
+<center>things happening?<press>
+<face:000C>
+<shake:0128>If you knew, how come you*
+didn't do anything about it*
+all this time?<press>
+And how come you decided*
+to save us all of a sudden?<press>
+<change:0014>
+<end>
+I thought you wanted*
+to get <red>revenge <black>on us?
+
+-------------------------------
+
+[m14_5107][3855]
+
+<face:003F>
+<NJ:003C>
+.........<press>
+I don't really know...<press>
+<face:002E>
+<sound:0018><blink><shake:0128>Please! You gotta tell me...<press>
+I need to know...<press>
+{07FF}<0CFF_1E00><show><wait>
+
+-------------------------------
+
+[m14_5104][3856]
+
+{07FF}<change:0032>
+1<0CFF_D200><1CFF_2100>{06FF}<sound:0016><blink><center>Who in the world are you?<press>
+<face:001A>
+<sound:0015><blink><shake:0128>S-Sissel! Look at you!*
+What happened?<press>
+<face:0032>
+I can't hold on to that image*
+of myself any longer.<press>
+<face:003F>
+You can't remember who you are?<press>
+<face:0032>
+That's right.<press>
+I came all this way tonight, trying*
+to chase down my lost memory.<press>
+For quite a bit of tonight,*
+I thought I was you, Sissel...<press>
+<face:003F>
+"Sissel"...? My name isn't "Sissel."<press>
+<NJ:003C>
+.........<press>
+I bet you'll remember really soon.<press>
+<sound:0016>Who you are... and who I am, too.<press>
+<face:0032>
+<sound:0015><blink><shake:0128>What?!
+
+-------------------------------
+
+[m14_5105][3857]
+
+The man in front of me is*
+not me. I'm even further*
+away from the truth.<space>
+Or maybe not...<space>
+Something is stirring in my mind,*
+a memory about to emerge...<press>
+Do I know this man...?<space>
+Now that I've shed my image*
+of myself, I feel like I'm*
+one step closer...<0CFF_2800><space>
+...to the truth.
+
+-------------------------------
+
+[m14_5106][3858]
+
+<face:003F>
+They got us good. It's all*
+over for this submarine.<press>
+Its engine room is destroyed.*
+There's a hole in the hull,*
+and it's sinking as we speak.<press>
+<face:0014>
+What are you doing here?<press>
+I thought you had a deal*
+with those people?<press>
+<face:003F>
+They betrayed me. I was*
+a fool to trust them.<press>
+They already have what*
+they wanted now.<press>
+<face:0032>
+The <red>Temsik fragment<black>...<press>
+<face:003F>
+I didn't know they*
+had it all figured out.<press>
+<face:0016>
+<sound:0015><blink>You mean, they figured out*
+the source of your powers?<press>
+<face:003F>
+Yeah... That meteorite's*
+radiation has <red>two effects<black>*
+on living creatures.<press>
+<sound:0016><blink>It gives <red>power<black>, and <red>time<black>.<press>
+<face:0014>
+If you don't mind... we'd*
+like to hear more.
+
+-------------------------------
+
+[m14_5110][3859]
+
+The radiation's power effect
+
+-------------------------------
+
+[m14_5120][385A]
+
+The radiation's time effect
+
+-------------------------------
+
+[m14_5130][385B]
+
+Revenge
+
+-------------------------------
+
+[m14_5140][385C]
+
+Contradictory existence
+
+-------------------------------
+
+[m14_5141][385D]
+
+One final target
+
+-------------------------------
+
+[m14_5150][385E]
+
+<face:003F>
+These ten years...<press>
+...I've been watching that*
+junkyard superintendent*
+do his research.<press>
+And I think I've kind of got*
+some of it figured out.
+
+-------------------------------
+
+[m14_5155][385F]
+
+<face:003F>
+The meteorite's <red>radiation<black>*
+gives spirits special powers.<press>
+<face:0032>
+<blue>(Like <red>possessing <blue>and*
+<red>manipulating <blue>objects...)<black><press>
+<face:0076>
+<sound:0033><blink><shake:0128>And in my case, <red>swapping <black>objects!<press>
+<face:003F>
+Exactly. Apparently, there*
+are <red>individual differences<black>*
+in the powers we get.<press>
+<sound:0016>And it seems these powers*
+<red>change <black>as time goes by.<press>
+<face:0032>
+<sound:0015><blink>They do?<press>
+<face:003F>
+Yeah. My powers have changed*
+over these past ten years.<press>
+At first, I could only manipulate*
+small living creatures.
+
+-------------------------------
+
+[m14_5157][3860]
+
+<face:003F>
+Now, then. <red>How <black>do you suppose*
+we got these powers...?<press>
+It's simple.<press>
+<face:0016>
+<sound:0015><blink><shake:0128>It is? How, then?!<press>
+<face:003F>
+In a nutshell...<press>
+<sound:0016><1EFF_1E00><blink>...we <red>died while exposed to<black>*
+the energy emitted by the*
+meteorite -- <red>its radiation<black>.<press>
+<face:0008>
+That's what does it? Dying*
+while being exposed to*
+the radiation...?
+
+-------------------------------
+
+[m14_5158][3861]
+
+<face:0041>
+<NJ:003C>
+<center>On that day ten years ago...
+
+-------------------------------
+
+[m14_5160][3862]
+
+<face:0041>
+<center>...a fragment of that meteorite*
+<center>pierced my heart, and I died.
+
+-------------------------------
+
+[m14_5170][3863]
+
+<face:0041>
+<center>So, of course, I received*
+<center>special powers.
+
+-------------------------------
+
+[m14_5180][3864]
+
+<face:0076>
+<sound:0015><blink><shake:0128>Hey, wait a minute!<press>
+<sound:0016>Is that how I got my powers, too?<press>
+<face:0008>
+<sound:0017><blink><shake:0128>You know, you might be right...!
+
+-------------------------------
+
+[m14_5190][3865]
+
+<face:001A>
+Aren't the Temsik remnants*
+still right there in that park,*
+at the bottom of the crater?<press>
+<face:0032>
+You're right!<press>
+<blue>(So... that must mean...)<black><press>
+<sound:0016><blink><blue>(...I must've died <red>in the presence of*
+the meteorite's radiation<blue>, too...)<black>
+
+-------------------------------
+
+[m14_5200][3866]
+
+<face:003F>
+Another effect the meteorite's*
+radiation has on us is that it*
+gives us "<red>time<black>."<press>
+Again, I think this "time effect"*
+is centered around the theme of*
+<red>death<black>, but it's not all that clear.<press>
+<face:0032>
+<blue>(So the fact that I can*
+<red>return <blue>to four minutes*
+before a person's death...)<black><press>
+<blue>(...is another effect of*
+that meteorite...?)<black><press>
+<face:003F>
+<NJ:003C>
+.........<press>
+<sound:0016>One of the characteristics of that*
+meteorite is its ability to replay*
+the <red>moment of death<black>.<press>
+<face:000E>
+<sound:0015><blink><red>Replay <black>the moment of death...?<press>
+<change:0018>
+<end>
+<shake:0128>Argh! This is all so strange and*
+confusing! I can't take it all in.<press>
+<face:0076>
+<sound:0033><blink><shake:0128>It makes about as much sense*
+to me as anything else!<press>
+<face:003F>
+Yeah, strange and confusing...*
+That just about sums up the object*
+that pierced my body that day...<press>
+Thanks to that meteorite*
+fragment...<press>
+<sound:0016><blink>...my very existence*
+is a <red>contradiction<black>.<press>
+<face:0032>
+What do you mean?
+
+-------------------------------
+
+[m14_5210][3867]
+
+<face:003F>
+That day...<press>
+...when the fragment pierced*
+my heart, I lost my life.<press>
+However...<press>
+...because it remained inside of*
+me, that fragment continued to*
+constantly <red>regenerate <black>my body.<press>
+In other words...<press>
+<sound:0016>{28FF}0F<blink>My body was continuously <red>cycling*
+between the moments <black>that*
+seperated my "life" and "death."<press>
+<face:0008>
+<sound:0018><blink><shake:0128>Whaaat?!<press>
+<face:003F>
+My body's vital functions*
+stopped ten years ago.<press>
+But my body's "time" is perpetually*
+<red>stopped <black>at the moment just before*
+death.<press>
+<face:0032>
+Time... just stopped, huh...?<press>
+<face:003F>
+{28FF}<0001_7800>So I just simply existed, not really*
+alive, and not really dead.<press>
+That pretty much sums up these*
+last ten years for me, ever since*
+that incident in the park.<press>
+My body hasn't aged a day.*
+My hair hasn't grown an inch.<press>
+<face:0032>
+<blue>(Come to think of it,*
+that old pigeon guy*
+mentioned something...)<black><press>
+<blue>(He said he <red>couldn't cut this*
+guy's body<blue> with the scalpel...)<black><press>
+<face:001A>
+So I guess, as soon as an incision*
+was made... his body would be*
+<red>regenerated<black>... Wow...
+
+-------------------------------
+
+[m14_5220][3868]
+
+<face:003F>
+Before I left this country,*
+I wanted to do one thing.<press>
+I wanted to get revenge on*
+the people who stole our lives.<press>
+<face:0014>
+"Our" lives?<press>
+<face:003F>
+...*
+As part of the deal, I made those*
+guys promise to <red>cooperate<black>.<press>
+<face:000C>
+<sound:0015><blink><shake:0128>"Cooperate"...? You mean*
+the <red>kidnapping<black>?!<press>
+<face:003F>
+It all went fine... I manipulated*
+the justice minister and made*
+him issue the execution order.<press>
+But I thought he might call off*
+the execution at the last second.<press>
+<face:0032>
+So that's why you wanted*
+his daughter <red>kidnapped<black>...<press>
+<face:0014>
+But they kidnapped*
+the wrong girl.<press>
+<face:003F>
+Little did I know...<press>
+<sound:0016><1EFF_0F00><blink>...they had <red>their own reasons<black>*
+for cooperating with me.<press>
+<face:0016>
+Huh?
+
+-------------------------------
+
+[m14_5225][3869]
+
+<face:0041>
+<sound:0000><center>Their objective was<red>*
+<center>to wipe out<black> everybody who*
+<center>had to do with Temsik.
+
+-------------------------------
+
+[m14_5230][386A]
+
+<face:0041>
+<center>Detective Jowd was one*
+<center>such person, so they*
+<center>were happy to cooperate.
+
+-------------------------------
+
+[m14_5240][386B]
+
+<face:0041>
+<center>Inspector Cabanela and that*
+<center>junkyard super... They were*
+<center>slated to be wiped out, too.
+
+-------------------------------
+
+[m14_5243][386C]
+
+<face:0041>
+<NJ:003C>
+<center>And, as it turns out...
+
+-------------------------------
+
+[m14_5245][386D]
+
+<face:003F>
+...I was one of their*
+targets as well.<press>
+So they stole my Temsik*
+fragment, and here I am.
+
+-------------------------------
+
+[m14_5250][386E]
+
+<face:0041>
+<NJ:003C>
+<center>But they had one*
+<center>more, final target...
+
+-------------------------------
+
+[m14_5255][386F]
+
+<face:003F>
+<sound:0016>You, Detective.<press>
+<face:001A>
+<sound:0015><blink><shake:0128>Me...?
+
+-------------------------------
+
+[m14_5260][3870]
+
+<face:003F>
+If you weren't there in the*
+park that day ten years ago...
+
+-------------------------------
+
+[m14_5262][3871]
+
+<face:003F>
+...I never would've thought*
+of doing something as*
+stupid as taking a hostage.<press>
+<face:001C>
+<shake:0128>O-Okay...<press>
+...but I was just a little kid*
+playing in the park.<press>
+<face:003F>
+<NJ:003C>
+<1EFF_A000>.........<press>
+Yeah, I know...<press>
+<face:0016>
+<sound:0015><blink>Huh?
+
+-------------------------------
+
+[m14_5265][3872]
+
+<face:003F>
+Ten years later, and you'd become a*
+detective, looking into Jowd's case.<press>
+Tonight, I invited you to a quiet*
+spot on the edge of town...<press>
+<sound:0016><blink>It was a <red>trap<black>, you see.
+
+-------------------------------
+
+[m14_5270][3873]
+
+<face:0041>
+<center>I told you who I was.<press>
+<center>You never saw my face*
+<center>that day ten years ago...<press>
+<center>...so of course you*
+<center>didn't recognize me.
+
+-------------------------------
+
+[m14_5280][3874]
+
+<face:0041>
+<center>I took possession of you...*
+<center>to make you <red>shoot <black>me.
+
+-------------------------------
+
+[m14_5290][3875]
+
+<face:0041>
+<center>Your subconscious resisted me...*
+<center>Such incredible power...!<press>
+<sound:0016><blink><center>It was the first time I*
+<center>wasn't able to control*
+<center>somebody completely.
+
+-------------------------------
+
+[m14_5300][3876]
+
+<face:0041>
+<center>The aim was off, and the*
+<center>first shot missed the mark.
+
+-------------------------------
+
+[m14_5310][3877]
+
+<face:0041>
+<center>The junkyard was equipped*
+<center>with <red>security cameras<black>.<press>
+<center>I knew you'd be*
+<center>wanted for <red>murder<black>.<press>
+<NJ:003C>
+<center>That was my plan, anyway.
+
+-------------------------------
+
+[m14_5320][3878]
+
+<face:0041>
+<center>But they had other ideas. They*
+<center>simply wanted you <red>wiped out<black>.<press>
+<center>But then...<press>
+<center>...something threw a big monkey*
+<center>wrench into their scheme.
+
+-------------------------------
+
+[m14_5330][3879]
+
+<face:0033>
+<NJ:003C>
+<center><blue>(I showed up.)<black>
+
+-------------------------------
+
+[m14_5335][387A]
+
+<face:0041>
+<center>
+
+-------------------------------
+
+[m14_5340][387B]
+
+<face:0016>
+<sound:0015><blink><press>
+<face:003F>
+
+
+-------------------------------
+
+[m14_5350][387C]
+
+<face:003F>
+<press>
+<sound:0016><press>
+<face:0016>
+<sound:0015><blink>
+
+-------------------------------
+
+[m14_5360][387D]
+
+
+
+-------------------------------
+
+[m14_5370][387E]
+
+<face:000E>
+<press>
+<face:003F>
+
+
+-------------------------------
+
+[m14_5380][387F]
+
+<face:003F>
+<1DFF_1C00><0001_8C00>I was supposed to meet*
+up with them after that.<press>
+<sound:0015><blink>But then something <red>went wrong<black>...<press>
+<face:0014>
+What happened?<press>
+<face:003F>
+<sound:0016>My body <red>disappeared<black>.<press>
+<face:0032>
+<blue>(Aha. The inspector in white*
+was responsible for that one.)<black><press>
+<face:003F>
+My precious bargaining*
+chip was in that body.<press>
+I had to get it back,*
+no matter what.<press>
+That inspector caused*
+me no end of trouble...<press>
+<face:000E>
+But why were those*
+people targeting me?<press>
+<change:001C>
+<end>
+I never even heard of*
+the Temsik meteorite.<press>
+<face:003F>
+Because you were looking*
+into the Jowd case.<press>
+They thought you would find out*
+about Temsik sooner or later.
+
+-------------------------------
+
+[m14_5381][3880]
+
+<face:003F>
+And that's pretty much*
+the whole story.<press>
+The only thing left to do now*
+is wait for water pressure*
+to crush this submarine.<press>
+<face:0008>
+<shake:0128>Oh, no...<press>
+<face:003F>
+There are no cores that link from*
+here to the water's surface.<press>
+<face:0032>
+<sound:0015><blink><shake:0128>I have an idea! We hook*
+up the <red>phone line<black> and--<press>
+<face:003F>
+There are no communication*
+cables down this deep.<press>
+They meant for this submarine*
+to be my coffin -- <red>a coffin*
+for the dead<black>.<press>
+There's no escape.
+
+-------------------------------
+
+[m14_5390][3881]
+
+<face:001C>
+<NJ:003C>
+.........<press>
+I think I kind of understand now...<press>
+<change:000A>
+<end>
+<sound:0016><blink><1CFF_2100>...what you've been*
+feeling these ten years.<press>
+<face:003F>
+You what...?<press>
+<face:000A>
+This feeling... Cut off from the*
+world, all alone in a submarine...<press>
+Sinking slowly toward the*
+bottom of an endless sea...<press>
+This must be how you felt all along.<press>
+<face:003F>
+<NJ:003C>
+.........
+
+-------------------------------
+
+[m14_5400][3882]
+
+<face:006E>
+Lynne...?
+
+-------------------------------
+
+[m14_5401][3883]
+
+<face:0016>
+<sound:0018><blink><shake:0128>K-Kamila!<press>
+<face:006E>
+Is it true? We're stuck here...?<press>
+<face:0008>
+<blink><shake:0128>What?! Oh, uh...
+
+-------------------------------
+
+[m14_5402][3884]
+
+<face:006E>
+If my dad...
+
+-------------------------------
+
+[m14_5403][3885]
+
+<face:006C>
+If my dad was here...*
+I bet he'd save us.
+
+-------------------------------
+
+[m14_5404][3886]
+
+<face:0018>
+Oh, Kamila! I'm so sorry!!!
+
+-------------------------------
+
+[m14_5405][3887]
+
+<face:0033>
+<sound:0016><center><blink><blue>(Hmm... That's funny...)<black><press>
+<face:003F>
+What is it, Sissel?<press>
+<face:0032>
+There's something I*
+don't understand.<press>
+<sound:0015><blink>Why would they go to all*
+the trouble of <red>detaching<black>*
+the control room?<press>
+<face:003F>
+What?<press>
+<face:0032>
+Why didn't they just steal the*
+Temsik fragment and escape,*
+if that's what they wanted?<press>
+Why did they have to jettison*
+your body off into the sea?<press>
+<face:003F>
+<shake:0128><blink>Hmm... That's a good question.<press>
+But I guess it doesn't*
+matter why now.<press>
+We'll never find it again.<press>
+We have no idea where*
+it was launched to...
+
+-------------------------------
+
+[m14_5411][3888]
+
+<sound:0018><shake:0128>Wait a minute!!!
+
+-------------------------------
+
+[m14_5420][3889]
+
+<face:0012>
+<sound:0017><blink><shake:0128>Yes, we do!
+
+-------------------------------
+
+[m14_5430][388A]
+
+<face:0004>
+<sound:0015><blink><1CFF_1D00>This will tell us <red>where<black>*
+Detective Jowd is!<press>
+<face:0031>
+That <red>present <black>from the*
+inspector in white!<press>
+<face:0006>
+<blink>That's right! Detective Jowd told*
+me to hold on to it for him.<press>
+<change:0004>
+<end>
+And the bullet is still in*
+this person's body in the*
+command room, right?
+
+-------------------------------
+
+[m14_5440][388B]
+
+<face:0012>
+<sound:0017><blink><shake:0128>Then we should be able to tell*
+<red>exactly where it is <black>with this!<press>
+<face:0031>
+B-But...<press>
+...even if we find out where*
+it is, how do we get there?<press>
+<face:0076>
+<sound:0015><blink>We should be able to*
+figure something out,*
+between the three of us!<press>
+<sound:0033><shake:0128>With our <red>powers<black>... right, Miss Lynne?!
+
+-------------------------------
+
+[m14_5445][388C]
+
+<face:0004>
+<sound:0016><blink><shake:0128>Right...! Oh, and wait a minute!*
+What about a <red>torpedo<black>...?!<press>
+<face:0031>
+A torpedo...?<press>
+<face:0012>
+In any case, it's way*
+too early to give up!<press>
+<face:0031>
+<blue>(Hmm. It looks like Detective*
+Jowd is our last hope...)<black><press>
+<face:0006>
+<sound:0017><blink><shake:0128>Come on! Let's get started!
+
+-------------------------------
+
+[m14_5790][388D]
+
+<fchat:000D>
+I'd better not open this.<press>
+<sound:0016><blue>(That water would come*
+gushing in, I bet.)<black><press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>It's such a peaceful mood*
+at the moment. No need to*
+throw cold water on it!<press>
+<fchat:000D>
+<blue>(Well, I wouldn't go so far*
+as to call it "peaceful"...)<black>
+
+-------------------------------
+
+[m14_5540][388E]
+
+<face:000E>
+So his "<red>shell<black>" is definitely there*
+in the command room, right?*
+Just without the fragment?<press>
+<face:0031>
+It's there, yeah, but I don't know*
+about calling it a "shell"...<press>
+<face:0012>
+<sound:0016>Detective Jowd's watch will*
+tell us exactly where it is.<press>
+<face:0031>
+<blue>(Right. He said it was a*
+"<red>radio receiver<blue>," didn't he.)<black><press>
+<face:000E>
+There might still be another*
+torpedo on this submarine.<press>
+<change:0006>
+<end>
+<sound:0015><blink>If we use it, we can get*
+to Detective Jowd!<press>
+<face:0031>
+That's a brilliant plan, Detective.<press>
+<face:0006>
+<shake:0128>You think so? Heh heh.<press>
+<face:0031>
+<sound:0016>So what are you gonna do, ride*
+on the top of the torpedo...?<press>
+<face:0010>
+<sound:0018><blink><shake:0128>Of course not!*
+You guys are going to go!<press>
+<face:0031>
+Darn. I kind of wanted*
+to see that...<press>
+<face:000C>
+<sound:0017><blink><shake:0128>Did you want to see*
+me drown?!
+
+-------------------------------
+
+[m14_5550][388F]
+
+<face:0066>
+So, my dad isn't here on*
+the submarine...?<press>
+<face:0031>
+Don't worry. We're going*
+to go get him right now.<press>
+<face:006E>
+Okay...<press>
+I hope I didn't hurt Lynne's*
+feelings... What I said about my*
+dad saving us if he was here...<press>
+<face:0075>
+<sound:0018><blink><shake:0128>Oh, don't worry about that!<press>
+<sound:0033><blink><shake:0128>Comments like that just roll*
+right off Miss Lynne's back!*
+She's really thick-skinned!<press>
+<face:0031>
+<blue>(Ouch.)<black><press>
+<face:0064>
+I'm going to start*
+being tougher, too.<press>
+<change:0068>
+<end>
+<sound:0015><blink>I want to make my*
+dad proud of me!<press>
+<face:0075>
+<shake:0128>M-Miss Kamila...<press>
+<face:0031>
+I'm sure your dad is very*
+proud of you, Kamila.
+
+-------------------------------
+
+[m14_5560][3890]
+
+<face:0076>
+<sound:0033><blink><shake:0128>Okay! What do we do now?!<press>
+<face:0031>
+We go find the command room*
+that was launched somewhere*
+into the sea.<press>
+<face:0076>
+<sound:0018><blink><shake:0128>What?! How?<press>
+Just to let you know... I don't like*
+water very much...<press>
+<face:0031>
+According to Lynne...<press>
+<sound:0016><blink>...the key to our plan is a <red>torpedo<black>,*
+kind of a "missile."<press>
+<face:0076>
+<sound:0033><blink><shake:0128>"Missile"? You have*
+a "Missile" right here!<press>
+<face:0031>
+I... don't think she's talking*
+about that kind of a "missile."<press>
+<blue>(Now, then... <red>Where <blue>did we*
+see another mis... torpedo?)<black>
+
+-------------------------------
+
+[m14_5620][3891]
+
+<fchat:000D>
+<sound:0016>Why is this machine*
+shoving grapes at me?<press>
+<face:000E>
+Well, this looks like the private*
+cabin of the top officer, doesn't it?<press>
+<change:0004>
+<end>
+<sound:0015><blink>This machine is probably*
+for feeding him grapes*
+while he lies in bed.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Oh, it sounds heavenly!<press>
+<face:003F>
+I've been thinking about*
+this for a while now...<press>
+<sound:0016>...but don't you think that*
+country's use of technology*
+is just a little "off"...?<press>
+<fchat:000D>
+<blue>(Says the guy who made*
+a deal with said country...)<black><press>
+<face:0014>
+Anyway...<press>
+<change:000E>
+<end>
+...it looks like the arm of this*
+machine is a bit busted...
+
+-------------------------------
+
+[m14_5570][3892]
+
+<face:0014>
+<sound:0016>The torpedo room, huh?<press>
+<face:0031>
+There might be another torpedo*
+left there. I'll go check it out.<press>
+<face:0076>
+<sound:0015><blink><shake:0128>Oh, I get it! You're going*
+to use a missile to ram*
+the control room!<press>
+<face:0031>
+Well, I don't know about "ram."*
+We don't wanna blow Detective*
+Jowd up... But something like that.<press>
+<face:000E>
+We'll climb up to the torpedo room,*
+too. "Up" is definitely safer...<press>
+<face:0031>
+Okay. I'll see you there, then.
+
+-------------------------------
+

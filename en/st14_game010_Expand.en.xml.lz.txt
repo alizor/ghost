@@ -1,0 +1,54 @@
+[m14_1000][3400]
+
+<face:0088>
+<1CFF_1500>Preparations are*
+almost complete, sir.<press>
+<face:0072>
+<shake:0128>Hmm, yes... Finally! I'm starting to*
+get sick of grapes, my good man.<press>
+<face:0088>
+We have other fruit, sir. Might I*
+suggest you try one of them, sir?<press>
+<face:0072>
+Bah! I thought I would,*
+after I finish this bunch...<press>
+...but, I say, no matter how*
+many I eat, there always*
+seem to be more...<press>
+<face:0088>
+I see, sir.<press>
+<sound:0015><blink>In any case, soon, the*
+telephone will be out of*
+service for a while, sir.<press>
+So you will be receiving*
+"One Step Ahead" Tengo's*
+report a little later, sir.<press>
+<face:0072>
+Very good, very good.<press>
+<fchat:0001>
+<sound:0016><blink><blue>(The telephone is going*
+to be "<red>out of service<blue>"?!)<black>
+
+-------------------------------
+
+[m14_1010][3401]
+
+<face:0072>
+<sound:0018><shake:011E>Great Scott, man!*
+There it goes again!<press>
+<sound:0017><blink><shake:0128>I almost got one of those*
+grapes lodged in my gizzard!<press>
+<face:0088>
+My apologies, sir.<press>
+<sound:0015><blink>Next time, I will be sure to*
+get you smaller grapes, sir.<press>
+<face:0072>
+<sound:0018><shake:011E>Just you worry about getting these*
+confounded contraptions fixed*
+first! Bah!<press>
+Did you see how surprised*
+I was again? Take some pity*
+on me, man! I certainly am!
+
+-------------------------------
+

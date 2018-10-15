@@ -1,0 +1,22 @@
+[m15_0230][3E1F]
+
+<face:00D9>
+<center>Are you sure we really*
+<center>need all these explosives?<0CFF_8C00><wait><press>
+<face:00D5>
+<center>Not to worry, Beauty, my dear!*
+<center>I followed the instructions exactly.<0CFF_8C00><wait><press>
+<center>Twenty kilograms of*
+<center>gunpowder, just like it said!<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0240][3E20]
+
+<face:00D9>
+<blink><center>Wait a minute. "Twenty*
+<center>KILOGRAMS"?! I thought*
+<center>it was "twenty GRAMS"...!<0CFF_8C00><wait>
+
+-------------------------------
+

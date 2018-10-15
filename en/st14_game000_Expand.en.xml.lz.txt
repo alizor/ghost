@@ -1,0 +1,485 @@
+[m14_0000][3300]
+
+<center>Who am I?<space>
+<center>Why was I killed?<space>
+<center>The one who is sure to know the*
+<center>answers to those questions is*
+<center>the man who ordered my murder.
+
+-------------------------------
+
+[m14_0005][3301]
+
+<center>At the other end of the*
+<center>phone line is the very*
+<center>man who had me killed.<space>
+<center>Our meeting -- it's all so sudden.*
+<center>I'm not sure I'm really prepared*
+<center>for what's to come.
+
+-------------------------------
+
+[m14_0010][3302]
+
+<face:0072>
+Hmm, yes... If what I*
+read in this file is true...<press>
+...this woman could be quite a*
+bedeviling bit of trouble for us.*
+She needs to be erased -- tonight.
+
+-------------------------------
+
+[m14_0020][3303]
+
+<face:0072>
+Confound that Nearsighted*
+Jeego! His skills are as*
+feeble as his eyesight.<press>
+<face:0088>
+<sound:0015><blink>Not to worry, sir. I have already*
+taken the <red>next step<black>, sir.
+
+-------------------------------
+
+[m14_0030][3304]
+
+<face:0072>
+Hmm, yes... But, I say, the last*
+thing I ever expected was to*
+talk to the target herself...<press>
+...even if it was only*
+over the telephone.<press>
+I must admit, my good man,*
+it put me in quite the tizzy*
+there for a moment! Fah ha ha!<press>
+<fchat:0001>
+What is this place?<press>
+These oddly luxurious*
+furnishings... This oddly*
+refined music...<press>
+And that odd little*
+machine... I've never seen*
+a room like this before.<press>
+But one thing's for sure...<press>
+These people are <red>assassins<black>.<press>
+And, what's more...<press>
+<sound:0016>That red-headed woman is*
+another of their <red>targets<black>.
+
+-------------------------------
+
+[m14_0040][3305]
+
+<fchat:0001>
+That file the old man has...<press>
+Maybe it'll give me some*
+information on my redhead.
+
+-------------------------------
+
+[m14_0050][3306]
+
+<face:0072>
+Hmm, yes... How much*
+longer, my good man?<press>
+<face:0088>
+We are charging up our*
+backup power now, sir.<press>
+The process should be complete*
+in about thirty minutes, sir.<press>
+<face:0072>
+Hmm, yes...<press>
+But confound that*
+Jeego, I say!<press>
+Every year, his "reliable range"*
+gets shorter and shorter!<press>
+He'll get coal in his next pay*
+envelope, confound it!<press>
+<face:0088>
+Or might I suggest glasses in*
+his envelope instead, sir?
+
+-------------------------------
+
+[m14_0060][3307]
+
+<fchat:0001>
+It seems this file contains*
+information about that*
+redhead.<press>
+But I can't read it*
+when it's closed...
+
+-------------------------------
+
+[m14_0070][3308]
+
+<face:0072>
+<sound:0018><shake:011E>Great Scott! D-Did you see that?!<press>
+The file... I say! The file reared up*
+and snapped at me, my good man!*
+Nearly bit my head off!<press>
+<face:0088>
+Not to worry, sir.<press>
+I've already seen to it that the*
+target, Miss Lynne, is no longer*
+a threat, sir.<press>
+<face:0072>
+Bah! That's not what I'm*
+talking about, man!<press>
+<fchat:0001>
+<sound:0016>{28FF}{8000}yHmm... "<red>Lynne<black>," eh? So*
+that's her name, is it?<press>
+<blue>(But this file...)<black><press>
+<sound:0016><blue>(It's like it's written*
+in a foreign language.*
+<red>I can't read it at all.<blue>){28FF}<0001_3C00><black><press>
+<face:0088>
+Might I suggest putting away*
+the file and relaxing, sir?
+
+-------------------------------
+
+[m14_0080][3309]
+
+<face:0088>
+You have a very important job*
+ahead of you tonight, sir.
+
+-------------------------------
+
+[m14_0090][330A]
+
+<fchat:0001>
+Darn...<press>
+This is a pickle. The phone*
+and I got put away neatly...<press>
+And the only thing I've*
+learned is the name "<red>Lynne<black>."<press>
+This sure is a weird room.<press>
+<blue>(I traveled through the*
+phone line to get here...)<black><press>
+<sound:0016><blue>(But <red>where <blue>exactly is "here"?)<black><press>
+<blue>(And <red>who <blue>exactly*
+are these people?)<black>
+
+-------------------------------
+
+[m14_0100][330B]
+
+<face:0072>
+<sound:0018><shake:011E>Egad, man! Are you trying to*
+give me a case of the vapors?!<press>
+<face:0088>
+My apologies, sir. But*
+I did not touch it, sir.<press>
+It appears the equipment is*
+still malfunctioning, sir.<press>
+<face:0072>
+Bah! Granted, technology is*
+certainly a convenient thing.<press>
+But our use of it is just*
+plain "off," confound it!<press>
+Hmm, yes... In any case...<press>
+I don't wish to see the face of*
+our current target, my good man.<press>
+<face:0088>
+As you wish, sir. In that case,*
+might I suggest this, sir?
+
+-------------------------------
+
+[m14_0110][330C]
+
+<fchat:0001>
+<sound:0015><blink>...!<blue>*
+(Hey! That's...!)<black>
+
+-------------------------------
+
+[m14_0120][330D]
+
+<face:0072>
+Hmm, yes... Sissel...<press>
+<face:0088>
+If all goes well with our "deal"*
+tonight, we will have the power*
+to change the world, sir.<press>
+<face:0072>
+Hmm, yes... It's a very important*
+night, indeed, my good man. We*
+can't afford to make mistakes.<press>
+And that is why we can't afford*
+to trust that Sissel... No, we*
+must be very careful...
+
+-------------------------------
+
+[m14_0130][330E]
+
+<face:0044>
+"<red>Sissel<black>"...<press>
+That must be my name...<press>
+<blue>(Now that I hear it, it*
+DOES sound familiar...)<black><press>
+A "<red>deal<black>," eh? What*
+could that be all about?<press>
+<sound:0016><blue>(Just what exactly was I up to,*
+I wonder?)<black>
+
+-------------------------------
+
+[m14_0140][330F]
+
+<face:0088>
+We are completely*
+prepared for tonight, sir.
+
+-------------------------------
+
+[m14_0150][3310]
+
+<face:0072>
+Hmm, yes... Now all we*
+have to do is pluck the*
+fruit of success. Fah ha ha!
+
+-------------------------------
+
+[m14_0160][3311]
+
+<face:0044>
+One thing's clear. These*
+villains seem to know me.<press>
+And another thing.<press>
+There seems to be some*
+kind of connection between*
+me and this "<red>Lynne<black>."<press>
+Why else would our names*
+both come up here like this?
+
+-------------------------------
+
+[m14_0170][3312]
+
+<face:0072>
+<sound:0018><shake:011E>Where is your head, man?! I told*
+you I don't wish to see this face!<press>
+<face:0088>
+My apologies, sir. It appears to*
+be another malfunction, sir.<press>
+<face:0072>
+<sound:0018><shake:011E>Well, get it fixed, man, unless*
+you want to see ME malfunction!<press>
+<face:0088>
+Certainly, sir.
+
+-------------------------------
+
+[m14_0180][3313]
+
+<fchat:0001>
+These guys murdered*
+me, and now they're*
+targeting the redhead.<press>
+What kind of "connection"*
+did we have with each other?
+
+-------------------------------
+
+[m14_0190][3314]
+
+<face:0072>
+I say, this room is giving me the*
+heebie-jeebies, my good man!<press>
+What with paintings spinning*
+around and the like! It's enough*
+to give a man the jitters!<press>
+<face:0088>
+My apologies, sir. The room was*
+just completed recently, sir.<press>
+We are still trying to*
+iron out the kinks, sir.<press>
+<face:0072>
+Hmm, yes... I just hope*
+that's all it is...<press>
+I mean, egad, man! How*
+am I supposed to relax*
+and enjoy my grapes?
+
+-------------------------------
+
+[m14_0200][3315]
+
+<face:0072>
+It's a miserable state of affairs*
+when I can even be startled by a*
+telephone that doesn't even ring!
+
+-------------------------------
+
+[m14_0210][3316]
+
+<face:0072>
+It's even more pathetic to*
+be startled by the same*
+telephone twice. Bah!<press>
+<face:0088>
+The problem must be solved, sir.<press>
+<sound:0016>The "Miss Lynne" problem, sir...<press>
+<fchat:0001>
+<sound:0015><1CFF_0A00><blue>(What?! "Lynne"...?!)<black><press>
+<face:0072>
+Hmm, yes...<press>
+You did mention taking the*
+"<red>next step<black>" a moment ago,*
+didn't you, my good man?<press>
+<face:0088>
+Yes, sir. I sent "One Step Ahead"*
+Tengo to her apartment, sir.<press>
+That telephone call must*
+be him reporting in, sir.<press>
+<face:0072>
+Very good, very good!
+
+-------------------------------
+
+[m14_0220][3317]
+
+<fchat:0001>
+Lynne is in danger again!
+
+-------------------------------
+
+[m14_0230][3318]
+
+<fchat:0001>
+That phone is my <red>lifeline<black>.<press>
+I'd better not put it*
+away right now.<press>
+<blue>(Besides, I want to hear what*
+they're saying about <red>Lynne<blue>.)<black>
+
+-------------------------------
+
+[m14_0240][3319]
+
+<face:007F>
+This is "One Step Ahead" Tengo.*
+I'm at the target's apartment now.<press>
+<face:0072>
+And? Out with it, man!*
+Have you taken care of her?<press>
+<face:007F>
+No. She isn't back yet.<press>
+<face:0072>
+<sound:0016>What?<press>
+<face:007F>
+It only stands to reason.<press>
+If the target got here first, they*
+wouldn't call me "One Step*
+Ahead," now, would they?<press>
+<face:0072>
+.........<press>
+I don't get it... But in any*
+case, man, once you've*
+taken care of her --<press>
+<face:007F>
+Then you'll promote me to the*
+head of the hitman division...?<press>
+<face:0072>
+<sound:0018><shake:011E>Bah! No, man! Now you're even*
+getting "one step ahead" of me!<press>
+<face:007F>
+We can discuss my*
+new salary later.<press>
+<face:0072>
+<sound:0018><shake:011E>Great Scott! Now you're even*
+getting one step ahead of*
+your last one step ahead!<press>
+<face:007F>
+I'll get back to my job now, sir.<press>
+<face:0072>
+<sound:0018><shake:011E>Confound it! You're even*
+hanging up one step ahead!
+
+-------------------------------
+
+[m14_0250][331A]
+
+<face:0088>
+<1CFF_1500>What did he say, sir?<press>
+<face:0072>
+He asked me to raise his salary.<press>
+<face:0088>
+What will you do, sir?<press>
+<face:0072>
+Maybe I'll give him some of*
+Nearsighted Jeego's pay.<press>
+<fchat:0001>
+Lynne...<press>
+I can't lose her! She's my*
+only <red>lead <black>if I ever hope to*
+solve the mystery of me!
+
+-------------------------------
+
+[m14_0280][331D]
+
+Egad!
+
+-------------------------------
+
+[m14_0290][331E]
+
+<fchat:0001>
+Spinning this painting*
+around makes the old man's*
+head spin, but that's about it.<press>
+I've got to find the right*
+<red>timing <black>and get beyond*
+this projector.<press>
+<blue>(What I need tonight is a*
+way to "flip" this situation*
+around!)<black>
+
+-------------------------------
+
+[m14_0300][331F]
+
+<face:0072>
+<sound:0018><shake:011E>Would you try to control that*
+thing, man? Are you trying to*
+give me an embolism?!<press>
+<face:0088>
+My apologies, sir. But*
+I did not touch it, sir.<press>
+<face:0072>
+Ah, I get it now! You're trying*
+to kill me off so you can take*
+my place, aren't you?!<press>
+Confound it! I may*
+be losing my hair...<press>
+<sound:0018><shake:011E>...but my ticker is as robust*
+as my eyebrows are thick!
+
+-------------------------------
+
+[m14_0310][3320]
+
+<fchat:0001>
+I'd better get going.<press>
+I can't put a stop to*
+their plan if I stay here.
+
+-------------------------------
+
+[m14_0320][3321]
+
+<fchat:0001>
+<blue>(I'd better use that phone*
+to get to Lynne... and fast!)<black>
+
+-------------------------------
+

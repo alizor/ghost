@@ -1,0 +1,716 @@
+[m13_3000][3200]
+
+<face:00A7>
+So, Yomiel...<press>
+...it looks like your plan for*
+revenge ended in failure.<press>
+<face:0038>
+<NJ:003C>
+.........<press>
+<change:0029>
+<end>
+<sound:0016>Yes... and I'm glad, too.<press>
+<face:00A7>
+<sound:0015><blink>...?
+
+-------------------------------
+
+[m13_3010][3201]
+
+<face:001D>
+<sound:0000><NJ:0078>
+<center><green>.........<black><press>
+<sound:0000><NJ:003C>
+<center><green>I think I kind of*
+<center>understand now...<black><press>
+<sound:0000><NJ:003C>
+<center><green>...what you've been*
+<center>feeling these ten years.<black>
+
+-------------------------------
+
+[m13_3020][3202]
+
+<face:0044>
+<center>She understood...*
+<center>She shed tears for me...<press>
+<center>That's when my*
+<center>revenge was over.<press>
+<NJ:003C>
+<center>She saved me from*
+<center>the darkness.
+
+-------------------------------
+
+[m13_3030][3203]
+
+<face:003C>
+Well, I guess it's*
+time we got back.<press>
+A new "<red>ten years*
+later<black>" was just born.<press>
+<face:00A7>
+Right... We should get back*
+to our "new <red>present<black>"...<press>
+<face:0076>
+<sound:0033><blink><shake:0128>I can't wait to see Miss Lynne*
+and Miss Kamila again!<press>
+<face:003E>
+<NJ:003C>
+<center><blue>(So these past ten years*
+<center>will now all <red>vanish<blue>...)<black><press>
+<face:002A>
+<sound:0016><blink><1EFF_3C00>Well, not completely...<press>
+<face:003C>
+<sound:0015><blink>...!<press>
+<face:002A>
+The <red>memories <black>of all of*
+us here will remain.<press>
+Including the memory of*
+what I did, my <red>crime<black>...<press>
+<face:00A6>
+That's the way this "<red>game*
+of the dead<black>" works, eh...?<press>
+<face:002A>
+And no matter what the reason...
+
+-------------------------------
+
+[m13_3040][3204]
+
+<face:0044>
+<sound:0016><blink><center>...there's no denying the fact*
+<center>that I took Lynne hostage and*
+<center>tried to point a gun at her.<press>
+<NJ:003C>
+<center>I have no intention of running*
+<center>away from that, either -- the most*
+<center>inexcusable <red>crime<black> in my "new life."
+
+-------------------------------
+
+[m13_3050][3205]
+
+<face:002A>
+Hey, Sissel.<press>
+<face:003C>
+Yes?<press>
+<face:0039>
+When we go back, our fates will*
+no longer be interconnected.<press>
+It will be <red>like we never met<black>...<press>
+So, before that happens, I just*
+wanted to say one thing.<press>
+<change:002A>
+<end>
+Tonight, I stole away your*
+life with my own hands.<press>
+I'm... truly sorry.<press>
+<face:003C>
+<NJ:003C>
+.........<press>
+That's already a thing*
+of the lost past.<press>
+Our fates have changed*
+now... Right, Yomiel?<press>
+<face:002A>
+<NJ:0078>
+.........<press>
+Thank you, Sissel.<press>
+<change:0028>
+<end>
+I'm so very glad I met you.<press>
+<face:003C>
+Me too, Yomiel.<press>
+<face:0076>
+<sound:0015><blink><shake:0128>Sissel?<press>
+Are we... ever going to*
+see each other again...?<press>
+<sound:0033><blink><shake:0128>I couldn't stand it if we weren't!<press>
+<face:003C>
+Don't worry, Missile. I bet we'll*
+see each other again someday.<press>
+Ten years from now, our*
+paths are sure to cross.<press>
+We'll just have to wait until then.<press>
+<face:0076>
+Sissel... I'll...<press>
+<sound:0033><blink><shake:0128>{2EFF}r{17FF}I'll never forget you!{17FF}<press>
+<face:003E>
+<NJ:003C>
+<center><blue>(I'll never forget you, either,*
+<center>valiant little doggie...)<black><press>
+<face:00AB>
+Well, it looks like you come*
+to live with me now.<press>
+<change:00BB>
+<end>
+So let's be getting home,*
+little black cat.<press>
+<face:003C>
+"Home," huh?<press>
+That sounds good, Detective Jowd.
+
+-------------------------------
+
+[m13_3090][3206]
+
+We all witnessed the birth*
+of a new beginning.<space>
+And now...<space>
+...we're each going back*
+to our own new "present."
+
+-------------------------------
+
+[m13_3095][3207]
+
+<20FF_1E00>We said goodbye to the*
+parts of our stories that*
+would be lost...<space>
+...believing that someday our*
+paths would all cross again.
+
+-------------------------------
+
+[m13_3100][3208]
+
+<face:0086>
+<sound:0017><blink><shake:0128><center>Wait!
+
+-------------------------------
+
+[m13_3110][3209]
+
+<face:0086>
+<sound:0000><NJ:0078>
+<center>Before you go back to*
+<center>a new "present," I*
+<center>wanted to thank you.
+
+-------------------------------
+
+[m13_3120][320A]
+
+{07FF}<change:0083>
+Ó<0CFF_5A00>{06FF}<sound:0016><blink><1CFF_0B00>Before I <red>cease to exist<black>...<press>
+<face:003C>
+<sound:0015><blink><shake:0128>Oh! It's you!<press>
+<face:0083>
+Yes, it is I, Ray, in case you*
+have forgotten again...<press>
+Thanks to you, everything has*
+turned out as I had hoped.<press>
+<NJ:003C>
+I am really grateful to*
+you, Sissel. Thank you.<press>
+<face:003C>
+.........<press>
+But don't forget.<press>
+I was only on a journey to*
+find my own lost memory.<press>
+<face:0083>
+Yes, yes. I know that.<press>
+<sound:0016><blink>I know all about <red>you<black>.<press>
+<face:003C>
+Can I ask you a question, Ray?<press>
+I want to know...<press>
+...who exactly are you?<press>
+<face:0083>
+<NJ:0078>
+.........<press>
+Fair enough.<press>
+I will tell you.<press>
+<face:0086>
+<NJ:0078>
+<center>Let me tell you about another*
+<center>version of tonight's events.
+
+-------------------------------
+
+[m13_3130][320B]
+
+<face:0086>
+<center>You changed the fates of*
+<center>many people tonight.<press>
+<NJ:003C>
+<center>The first of which was hers...
+
+-------------------------------
+
+[m13_3140][320C]
+
+<face:0086>
+<center>If you had not been*
+<center>there for her tonight...<press>
+<center>...<red>her fate would have been*
+<center>to die <black>in that lonely spot*
+<center>on the outskirts of town.<press>
+<NJ:003C>
+<center>If that had occurred,*
+<center>what do you suppose*
+<center>would have happened?
+
+-------------------------------
+
+[m13_3150][320D]
+
+<face:0086>
+<NJ:003C>
+<center>Let me tell you a story...<press>
+<NJ:0078>
+<center>...the story of a little creature...
+
+-------------------------------
+
+[m13_3160][320E]
+
+<face:0086>
+<center>After they stole her*
+<center>life that night...<press>
+<center>...they broke into*
+<center>her apartment.
+
+-------------------------------
+
+[m13_3170][320F]
+
+<face:0086>
+<center>They stole the wooden*
+<center>box from the ceiling*
+<center>hiding place and left.<press>
+<NJ:0078>
+<center>And in the process...
+
+-------------------------------
+
+[m13_3180][3210]
+
+<fchat:0005>
+<sound:0016><blink><center>...two little dead bodies*
+<center>were left behind.
+
+-------------------------------
+
+[m13_3190][3211]
+
+<fchat:0005>
+<NJ:0078>
+<center>However...<press>
+<NJ:003C>
+<center>...<red>the little fellow's<black>*
+<center>spirit lived on.<press>
+<NJ:003C>
+<center>He desperately reached out*
+<center>his paw toward his mistress...<press>
+<blink><center>...and that's when a*
+<center><red>miracle <black>occurred.
+
+-------------------------------
+
+[m13_3200][3212]
+
+<face:003C>
+<sound:0018><blink><shake:0128>What?! Look at that!*
+The <red>powers of the dead<black>...!*
+But how...?<press>
+<face:0083>
+He didn't really understand*
+it himself. Not yet, anyway.<press>
+<sound:0016>But, with all you know now,*
+I bet YOU understand it,*
+do you not?<press>
+<face:003C>
+<sound:0015><blink><shake:0128>...Hey, wait a minute!
+
+-------------------------------
+
+[m13_3210][3213]
+
+<fchat:0005>
+<NJ:0078>
+<center>That's right.<press>
+<NJ:003C>
+<center>He died inside the "<red>aura<black>"*
+<center>of that strange energy.
+
+-------------------------------
+
+[m13_3220][3214]
+
+<face:0083>
+But, unfortunately, with*
+his meager powers...<press>
+<sound:0016><blink>...he was unable to save*
+his little mistress.<press>
+There just wasn't anything*
+he could do with only the*
+power to swap objects.<press>
+<face:003C>
+<sound:0015><blink><blue>(He needed the power to*
+<red>manipulate objects<blue> in order*
+to save the little lady...)<black><press>
+<face:0083>
+The little fellow chased*
+after the men...<press>
+...but there still wasn't*
+anything he could do.
+
+-------------------------------
+
+[m13_3230][3215]
+
+<face:0086>
+<NJ:003C>
+<center>In the end, he was left*
+<center>behind with the man in*
+<center>red in the deep, deep sea.<press>
+<NJ:0078>
+<center>And then...
+
+-------------------------------
+
+[m13_3240][3216]
+
+<face:0083>
+<sound:0016><blink>...he <red>went back<black>. He went back to <red>the*
+world of ten years before<black> -- to the*
+moment of the man in red's death.<press>
+<face:003C>
+<sound:0018><blink><shake:0128>What?!
+
+-------------------------------
+
+[m13_3250][3217]
+
+<face:0086>
+<NJ:0078>
+<center>He decided to wait it out.<press>
+<NJ:003C>
+<center>He decided to wait until*
+<center><red>that night<black> came again.
+
+-------------------------------
+
+[m13_3260][3218]
+
+<face:0083>
+And that's the other version*
+of the story of this night.<press>
+A story that has taken these*
+<red>ten years <black>to be retold.<press>
+<face:003C>
+<NJ:0078>
+.........<press>
+So that was you, huh?
+
+-------------------------------
+
+[m13_3265][3219]
+
+<sound:0000>{07FF}<face:0083>
+<0CFF_3C00><show><wait>
+
+-------------------------------
+
+[m13_3270][321A]
+
+{07FF}<change:0078>
+1<show>{06FF}<sound:0006>That's right.<press>
+<sound:0016>I'm <red>Missile<black>.<press>
+Ten years is a very long*
+time in dog years.<press>
+<face:003C>
+You couldn't change the fates of*
+these people on your own...<press>
+...so you decided to wait*
+those ten years out...
+
+-------------------------------
+
+[m13_3280][321B]
+
+<face:007A>
+<NJ:003C>
+<center>Exactly. And then, at last...<press>
+<center>...that fateful night*
+<center>rolled around again.
+
+-------------------------------
+
+[m13_3290][321C]
+
+<face:007A>
+<center>By this time, I had grown old,*
+<center>and my powers were weak.<press>
+<center>So I decided I needed to*
+<center>find <red>somebody to help me*
+<center><black>this time around.
+
+-------------------------------
+
+[m13_3300][321D]
+
+<face:007A>
+<center>Somebody who possessed*
+<center>different powers than me...<press>
+<face:003C>
+<sound:0015><shake:0128><blink>But, wait a second!<press>
+<sound:0018><shake:0128>You were able to <red>manipulate<black>*
+that desk lamp!<press>
+<face:0078>
+Over the course of the long*
+years, my powers changed.<press>
+My ability to swap*
+objects weakened...<press>
+...but I became able to*
+<red>manipulate <black>small objects.<press>
+<face:003C>
+<shake:0128><blink>B-But, in that case...<press>
+<sound:0015><blink>...why didn't you cooperate*
+with <red>yourself<black>...?!<press>
+<face:0078>
+<sound:0016><blink>Because I couldn't.<press>
+<face:003C>
+Huh?<press>
+<face:0078>
+From watching the man in red, I*
+found out there were <red>individual*
+differences<black> in our powers.<press>
+I couldn't do any of the*
+things he could do.<press>
+<sound:0016>Like <red>travel through the*
+telephone lines<black>, for example.<press>
+<face:003C>
+<sound:0015><shake:0128><blink>...!*
+What...?!<press>
+<face:0078>
+It may not seem like much, but*
+it's a very important power.<press>
+Especially if you're trying*
+to <red>chase <black>somebody.
+
+-------------------------------
+
+[m13_3310][321E]
+
+<face:003C>
+But there's something*
+I don't understand.<press>
+You knew <red>from the very beginning*
+<black>that I had that power.<press>
+<sound:0016><blink>How did you know*
+so much about <red>me<black>?<press>
+<face:0078>
+Why wouldn't I?<press>
+<sound:0017><blink><shake:0128><1EFF_1400>After all, we had met before, on*
+<red>that night <black>the first time around!<press>
+<face:003C>
+<sound:0018><blink><shake:0128>We what?! We met before...?
+
+-------------------------------
+
+[m13_3330][321F]
+
+<face:007A>
+<NJ:003C>
+<center>From listening to the*
+<center>conversation of the two*
+<center>intruders to the apartment...<press>
+<NJ:003C>
+<center>...I learned that Miss Lynne*
+<center>had lost her life at that*
+<center>junkyard on the edge of town.
+
+-------------------------------
+
+[m13_3340][3220]
+
+<face:007A>
+<NJ:003C>
+<center>I followed the Ghost World*
+<center>paths to the junkyard, and*
+<center>came upon an incredible scene.
+
+-------------------------------
+
+[m13_3350][3221]
+
+<face:0078>
+Imagine, if you will, there in*
+the darkness, a twisting*
+and swiveling desk lamp...<press>
+<sound:0016>It made my <red>fur stand*
+on end<black>, I can tell you.<press>
+<face:003C>
+<shake:0128>Th-That was <red>me<black>...?<press>
+<blue>(So I was shot on that night the*
+first time around as well...)<black>
+
+-------------------------------
+
+[m13_3360][3222]
+
+<face:0078>
+You had lost your memory*
+that time, too.<press>
+You had just died, and*
+you felt confused.<press>
+<sound:0016><blink>You <red>declined <black>to*
+cooperate with me.<press>
+<face:003C>
+<sound:0018><blink><shake:0128>I did what?!
+
+-------------------------------
+
+[m13_3370][3223]
+
+<face:003E>
+<NJ:003C>
+<center><green>I just want to find my own*
+<center>lost memory. I'm sorry,*
+<center>but I can't help you.<black><press>
+<face:007A>
+<center>That's what you said.
+
+-------------------------------
+
+[m13_3380][3224]
+
+<face:007A>
+<sound:0016><blink><center>And then you disappeared...<press>
+<NJ:003C>
+<center>...away over the <red>telephone line<black>.
+
+-------------------------------
+
+[m13_3390][3225]
+
+<face:003C>
+<shake:0128>I'm really sorry I didn't help you.<press>
+<face:0078>
+That's why I decided*
+that, this time...<press>
+<sound:0016>...I would use that desire of*
+yours to our <red>mutual advantage<black>.<press>
+<face:003C>
+<sound:0015><blink><shake:0128>Mutual advantage...?<press>
+<face:0078>
+The only thing you were*
+interested in was finding*
+your own lost memory.<press>
+If I could guide you along*
+<red>the right path<black> to doing that,*
+we would both benefit.<press>
+And, namely, the "right path"*
+would be...<press>
+...the path to the man*
+in red, to <red>Yomiel<black>.<press>
+<face:003C>
+<shake:0128>What...?<press>
+<face:0078>
+I gave you the information*
+you needed to know to set*
+you in the right direction.<press>
+And then I gave you a <red>time limit<black>.<press>
+<face:003C>
+A time limit...?<press>
+<face:0078>
+<sound:0015><blink>That's right. As you know,*
+I said you only had until*
+<red>tomorrow morning<black>.<press>
+If I hadn't done that,*
+you wouldn't have found*
+out the truth tonight...
+
+-------------------------------
+
+[m13_3400][3226]
+
+<face:0078>
+<sound:0016><blink><center>...and the man in red would*
+<center>have been sealed away at the*
+<center>bottom of the sea forever.<press>
+<center>If that had happened, it*
+<center>would've all been over.
+
+-------------------------------
+
+[m13_3410][3227]
+
+<face:003C>
+<blink><shake:0128>Th-Then... you mean...<press>
+...that thing about*
+<red>ceasing to exist<black>...?!<press>
+<face:0078>
+<sound:0015><1EFF_2800><blink>Oh, that? Completely made up.*
+A little <red>naughty <black>of me, I know...<press>
+<NJ:003C>
+But I just wanted you to*
+use your time wisely.<press>
+<face:003C>
+<sound:0018><blink><shake:0128><blue>(Oh, boy...)<black><press>
+<NJ:003C>
+<blue>(I hate to admit it, but this*
+little doggie really outsmarted*
+me in every way...)<black><press>
+<face:0078>
+<sound:0016><blink>Let's just call it <red>the wisdom*
+that comes with age<black>.
+
+-------------------------------
+
+[m13_3420][3228]
+
+<face:0078>
+.........<press>
+And now it's time to say farewell.<press>
+These past ten years will*
+cease to exist, and, with*
+them, so will I.<press>
+<face:003C>
+Missile...<press>
+<face:0078>
+I believed in you.<press>
+I always knew you could do it.<press>
+And so you did!<press>
+<1EFF_3C00><sound:0017><blink><shake:0128>Thank you! Thank you from*
+the bottom of my heart!
+
+-------------------------------
+
+[m13_3430][3229]
+
+<face:003E>
+<NJ:003C>
+<center><blue>(Missile...)<black><press>
+<NJ:003C>
+<center><blue>(So you waited and waited,*
+<center>these ten long years...)<black><press>
+<NJ:0078>
+<center><blue>(...all for the sake of your two*
+<center>ladies, Lynne and Kamila, eh...?)<black><press>
+<face:0078>
+Of course!<press>
+<sound:0033><blink><shake:0128><1CFF_0100>Because that's what doggies do!<press>
+Now, then, farewell, Sissel...
+
+-------------------------------
+
+[m13_3440][322A]
+
+And so the story of a single*
+night came to an end.<space>
+Nobody but us knew*
+what had really happened*
+in this town tonight.<15FF_7800>
+
+-------------------------------
+
+[m13_3450][322B]
+
+<20FF_1E00>I made my way back --<space>
+back to a new present.<15FF_B400>
+
+-------------------------------
+

@@ -1,0 +1,17 @@
+[m15_0300][3E27]
+
+<face:00F4>
+<blink><shake:0128><center>Love, peace and pigeons!*
+<center>Long live rock-'n'-roll!<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0310][3E28]
+
+<face:00F9>
+<shake:0128><blink><center>Stop the park from charging*
+<center>admission! Protect the rights*
+<center>of those who live here!<0CFF_8C00><wait>
+
+-------------------------------
+

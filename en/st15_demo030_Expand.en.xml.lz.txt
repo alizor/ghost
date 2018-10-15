@@ -1,0 +1,32 @@
+[m15_0170][3E18]
+
+<face:00D0>
+<center>Here's your food, gentlemen!<0CFF_6400><wait>
+
+-------------------------------
+
+[m15_0180][3E19]
+
+<face:00CE>
+<center>Memry?! What are*
+<center>you doing here?<0CFF_8C00><wait><press>
+<face:00D0>
+<center>I heard you were gonna be*
+<center>picking new members for the*
+<center>Special Investigation Unit today...<0CFF_8C00><wait><press>
+<face:0101>
+<blink><shake:0128><center>So you took on a part-time*
+<center>job here again, just so you*
+<center>could eavesdrop?!<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0190][3E1A]
+
+<face:00D0>
+<center>Oh, you have no idea*
+<center>the lengths I'd go*
+<center>to reach my goals!<0CFF_8C00><wait>
+
+-------------------------------
+

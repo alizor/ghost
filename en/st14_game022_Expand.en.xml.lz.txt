@@ -1,0 +1,380 @@
+[m14_9991][3B01]
+
+Engine room
+
+-------------------------------
+
+[m14_9992][3B02]
+
+Top officer's private cabin
+
+-------------------------------
+
+[m14_9994][3B04]
+
+<fchat:000D>
+Hmm.<press>
+The phone line to*
+the engine room isn't*
+working right now.<press>
+<blue>(All that water probably*
+damaged the line...)<black><press>
+I guess I don't need to*
+go back there anyway.
+
+-------------------------------
+
+[m14_6030][3902]
+
+<face:0004>
+It looks like the torpedoes*
+can be launched <red>manually*
+<black>with these switches.<press>
+<change:000E>
+<end>
+There are two tubes, so there*
+should be one more left.<press>
+I guess the first thing we have*
+to do is load it into the tube.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>When it comes to missiles,*
+you can count on me!
+
+-------------------------------
+
+[m14_6031][3903]
+
+<face:0004>
+I'll enter the coordinates of the*
+command room into the torpedo.
+
+-------------------------------
+
+[m14_6032][3904]
+
+<face:0012>
+And I just turned on the backup*
+power. We ought to be able to*
+use the switches now!<press>
+<fchat:000D>
+Okay. Let's try it!<press>
+<face:0006>
+<sound:0017><blink><shake:0128>Good luck!
+
+-------------------------------
+
+[m14_6020][3905]
+
+<fchat:000D>
+This switch won't budge.*
+Maybe it's broken?<press>
+But I don't think the entire*
+device is broken, though...<press>
+It would probably work*
+just fine if only I could*
+move this switch...<press>
+<blue>(We'll just have to find a*
+way to <red>move it somehow<blue>.)<black><press>
+<sound:0016><blue>(But I can't do it with*
+my powers alone...)<black>
+
+-------------------------------
+
+[m14_6070][3906]
+
+<face:0076>
+What will happen to*
+these two ladies...?<press>
+<face:0031>
+<sound:0016>I think that's up to*
+us... and our powers.<press>
+<face:0076>
+<sound:0015><blink>What?<press>
+<face:0031>
+This is no time to be standing*
+around, unsure of ourselves.<press>
+Will you lend me*
+your strength, Missile?<press>
+<face:0076>
+Me? Of course I will.<press>
+<sound:0033><blink><shake:0128>Count on it!
+
+-------------------------------
+
+[m14_6050][3907]
+
+<face:006D>
+Please help my dad, Sissy.<press>
+<shake:0128>I'll be okay here. I'm not scared.<press>
+<face:0032>
+Leave it to me, Kamila.<press>
+We'll be back with your father*
+to save you. I promise.<press>
+<face:0075>
+<sound:0018><blink><shake:0128>Wait a minute, Sissel!<press>
+<face:0032>
+Wh-What is it?<press>
+<face:0075>
+What you just said...<press>
+<sound:0033><blink><shake:0128>...I wanted to say that!<press>
+<face:0067>
+Thank you, Missile.<press>
+<face:0075>
+We can do it.<press>
+<sound:0033><blink><shake:0128>I know we can!
+
+-------------------------------
+
+[m14_6060][3908]
+
+<face:0031>
+How's it going there?<press>
+<face:0014>
+I'm just calculating the command*
+room's coordinates now.<press>
+<sound:0016>I have to put in a slight offset,*
+though. Don't want to blow it up...<press>
+<face:0031>
+I'm sure Detective Jowd*
+would appreciate that.<press>
+<face:0012>
+<sound:0015><blink>Well, leave this to me!<press>
+<sound:0017><blink><shake:0128>Good luck with loading*
+the missile!<press>
+<face:0031>
+Okay, thanks.
+
+-------------------------------
+
+[m14_6080][3909]
+
+<fchat:000D>
+<sound:0017><blink><shake:0128>There we go! That torpedo*
+looks serviceable.
+
+-------------------------------
+
+[m14_6090][390A]
+
+<face:0004>
+<sound:0015><blink>All set on this end, too!<press>
+<change:000E>
+<end>
+But something's odd...<press>
+<fchat:000D>
+What is?<press>
+<face:000E>
+<sound:0016>The command room. It looks*
+like it's slowly <red>sinking<black>.<press>
+<fchat:000D>
+<sound:0015><blink>Sinking...?<press>
+<face:0014>
+Yeah, like it's completely<red> run out of*
+power<black>. I wonder what happened?<press>
+<fchat:000D>
+I don't know... but*
+I guess I'll find out.<press>
+<face:0014>
+Right. Okay, hop into the missile!<press>
+I'll launch it for you.<press>
+<fchat:000D>
+Okay. Thanks!
+
+-------------------------------
+
+[m14_6091][390B]
+
+<face:0010>
+<sound:0017><shake:0128><blink>All right, go ahead and*
+hop into that missile!*
+No time to lose!<press>
+<face:0031>
+All right, I'm going.<press>
+<face:000E>
+That control room*
+is still sinking.<press>
+<change:0014>
+<end>
+I'm worried... What could be*
+happening, I wonder?<press>
+<face:0031>
+<blue>(I'm worried, too.*
+I guess I'd better hurry.)<black>
+
+-------------------------------
+
+[m14_6040][390C]
+
+<face:000E>
+I've already set the*
+torpedo's course.<press>
+It'll head toward the command*
+room where Detective Jowd is.<press>
+<face:0014>
+<sound:0016>Twelve seconds after launching,*
+it'll pass by the command room*
+for an instant.<press>
+That instant will be your window*
+of opportunity to jump over to*
+the command room.<press>
+<fchat:000D>
+Okay, got it.<press>
+And then we'll find a way to*
+come back and save you.<press>
+That'll probably be my*
+last task tonight...<press>
+Just hold on until*
+we get back.
+
+-------------------------------
+
+[m14_6100][390D]
+
+<fchat:000D>
+Okay, c'mon, Missile.<press>
+<face:0076>
+<NJ:003C>
+.........<press>
+<fchat:000D>
+<1EFF_8C00>Missile...?<press>
+<face:0076>
+I...<press>
+<sound:0016><blink>I'm sorry. I can't go.<press>
+<fchat:000D>
+<sound:0015><blink><shake:0128>What?<press>
+<face:0076>
+<sound:0018><blink><shake:0128>I just can't! How could I leave?!<press>
+I can't leave Miss Lynne*
+and Miss Kamila behind!<press>
+<sound:0033><blink><shake:0128><1CFF_2100>{2EFF}{5200}{17FF}I can't do it!{17FF}<press>
+<fchat:000D>
+Missile...<press>
+<face:0076>
+I swapped the switches so the*
+missile can be launched.<press>
+<shake:0128><blink>You'll have to do the rest, Sissel!<press>
+<fchat:000D>
+<NJ:003C>
+.........<press>
+<blue>(I can't do it, either...)<black><press>
+<blue>(I can't ask Missile to come*
+with me after that.)<black><press>
+<blue>(I understand exactly*
+how he feels...)<black>
+
+-------------------------------
+
+[m14_6110][390E]
+
+<face:0004>
+I want you to go, Missile.<press>
+<face:0075>
+<sound:0015><blink><shake:0128>What...? But, Miss Lynne...!<press>
+<face:0004>
+You staying here won't*
+change our fate.<press>
+But if you go with Sissel...<press>
+...you might be able to*
+make something happen.*
+And that's our only hope.<press>
+<face:0075>
+<blink><shake:0128>But... what if that "something"*
+doesn't happen?!<press>
+<sound:0018><blink><shake:0128>I'll never be able to see you*
+again! Never, ever again!<press>
+<sound:0033><blink><shake:0128>Even I can understand that!<press>
+I... I couldn't stand that...<press>
+<face:0068>
+<sound:0016>Don't worry, Missile.<press>
+<face:0075>
+<sound:0015><blink><shake:0128>Miss Kamila...?<press>
+<face:0064>
+I just know you and Sissy*
+can make something*
+happen. I believe in you!<press>
+I'll be right here waiting for you.<press>
+<change:0068>
+<end>
+<blink>We'll see each other*
+then. Don't worry!<press>
+<face:0075>
+<NJ:003C>
+.........<press>
+<sound:0018><blink><shake:0128>{2EFF}Õ{17FF}Miss Kamilaaa!!!{17FF}
+
+-------------------------------
+
+[m14_6120][390F]
+
+<face:0004>
+That's a good boy, Missile.
+
+-------------------------------
+
+[m14_6130][3910]
+
+<face:0014>
+Now, are you ready? Remember!*
+It's twelve seconds after I throw*
+this switch!<press>
+<fchat:000D>
+We're ready.
+
+-------------------------------
+
+[m14_6131][3911]
+
+<face:001C>
+Sissel?<press>
+<fchat:000D>
+Yes?<press>
+<face:001C>
+We never found out*
+who you really were...<press>
+<change:0014>
+<end>
+...but that doesn't matter now.<press>
+<change:0004>
+<end>
+All I know is, I'm truly*
+glad I met you tonight.<press>
+<change:0006>
+<end>
+Thank you... for everything.<press>
+<fchat:000D>
+And I'm glad I met*
+you, Detective.<press>
+<face:0068>
+But we're going to see each other*
+again! Right, Sissy? Right, Missile?<press>
+<fchat:000D>
+That's right.*
+We promise, little lady.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>{2EFF}{4400}{17FF}Of course we will!{17FF}<press>
+<face:0004>
+I'll never forget you... no*
+matter what happens.<press>
+<fchat:000D>
+...Here goes, then.<press>
+<face:0012>
+<sound:0017><blink><shake:0128><1CFF_2200>Good luck... friend!
+
+-------------------------------
+
+[m14_6140][3912]
+
+These twelve seconds are*
+lasting an eternity.<space>
+I strive to think of a way*
+to save Lynne and the*
+little lady the whole time...<press>
+But how can a ray of light,*
+of hope, reach this far*
+down into the deep sea?<space>
+Before I can think of*
+an answer, the twelve*
+seconds are up...
+
+-------------------------------
+

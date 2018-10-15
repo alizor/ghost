@@ -1,0 +1,24 @@
+[m15_0140][3E15]
+
+<face:008A>
+<shake:0128><blink><center>Happy birthday to*
+<center>our looovely Lynne!<0CFF_8C00><wait><press>
+<face:0015>
+<center>Uh, like I said, it*
+<center>isn't my birthday.<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0150][3E16]
+
+<face:000D>
+<center>Hey, Missile. I thought I*
+<center>asked you to stay home*
+<center>and guard the fort?<0CFF_8C00><wait><press>
+<face:008D>
+<center>But birthdays are for celebrating*
+<center>together, with friends and loved*
+<center>ones! Nothing like it, baby!<0CFF_8C00><wait>
+
+-------------------------------
+

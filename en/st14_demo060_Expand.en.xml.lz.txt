@@ -1,0 +1,131 @@
+[m14_7110][3A1F]
+
+<face:00A6>
+So...<press>
+<change:00BA>
+<end>
+...where are we headed?<press>
+<face:0088>
+<sound:0016>We are not headed*
+anywhere, Detective.<press>
+<face:00A8>
+<sound:0015><blink>What?!<press>
+<face:0088>
+There was only enough*
+fuel onboard to launch*
+us away, Detective.<press>
+We will run out soon,*
+and that will be our*
+destination, Detective.<press>
+<face:00A8>
+<sound:0018><blink><shake:0128>What are you talking about?!*
+That would mean...<press>
+<face:00B8>
+<sound:0017><blink><shake:0128>...that you're trapped here, too!
+
+-------------------------------
+
+[m14_7120][3A20]
+
+<face:0088>
+<sound:0016>By the way, I am not*
+human, Detective.
+
+-------------------------------
+
+[m14_7121][3A21]
+
+<face:0088>
+<sound:0015><blink>I am a <red>remote-controlled*
+robot<black>, Detective.<press>
+<face:00A8>
+<sound:0018><blink><shake:0128>What?!
+
+-------------------------------
+
+[m14_7122][3A22]
+
+<face:00A8>
+Your country's use*
+of technology...<press>
+<sound:0016>...is just plain "off"!<press>
+<face:0088>
+We get that a lot, Detective.
+
+-------------------------------
+
+[m14_7123][3A23]
+
+<face:00A6>
+Why would you go to all*
+the trouble to do this?
+
+-------------------------------
+
+[m14_7130][3A24]
+
+<face:00A8>
+That's nothing but a "<red>shell<black>" there.*
+It's hardly a threat anymore.<press>
+<face:0088>
+Commander Sith likes to provide*
+against any possibility, no matter*
+how small, Detective.
+
+-------------------------------
+
+[m14_7131][3A25]
+
+<face:00A6>
+<sound:0016><blink>"<red>Possibility<black>"...?
+
+-------------------------------
+
+[m14_7140][3A26]
+
+<face:00A8>
+What are you talking about?<press>
+<face:0088>
+There is no need for you*
+to know, Detective.
+
+-------------------------------
+
+[m14_7150][3A27]
+
+<face:0088>
+Now it is time to say*
+goodbye, Detective.<press>
+In the end, your fate remains*
+the same, it seems, Detective.<press>
+<face:00A8>
+<blink><shake:0128>Grrr!<press>
+<NJ:003C>
+Kamila... forgive me...
+
+-------------------------------
+
+[m14_7160][3A28]
+
+<face:0031>
+<sound:0016><blink>It isn't over yet.<press>
+<face:0076>
+<sound:0015><blink><shake:0128>It isn't?<press>
+<face:0031>
+Remember what that*
+"big, masked man" said?<press>
+"Any possibility, no*
+matter how small."<press>
+<face:00A7>
+Possibility...<press>
+<face:0031>
+In other words, there must be*
+a chance here somewhere.<press>
+<sound:0017><blink><shake:0128>The <red>possibility <black>of turning*
+this situation around!<press>
+<face:002C>
+<NJ:003C>
+.........
+
+-------------------------------
+

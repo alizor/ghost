@@ -1,0 +1,1547 @@
+[m13_2006][3104]
+
+<face:00A3>
+<sound:0018><blink><shake:0128>Huh...? Oh, a kitten...*
+Shoo! You might get hurt.
+
+-------------------------------
+
+[m13_2520][3108]
+
+<fchat:000D>
+Now, how are we*
+gonna save you?<press>
+If Lynne would just wander*
+off somewhere, that would*
+solve everything.<press>
+<fchat:0009>
+<sound:0015><blink>When her sweet potato is*
+almost ready? Ha. She's not*
+gonna budge from that spot.<press>
+<fchat:0001>
+But, you know, it*
+makes me wonder...<press>
+<sound:0016>A little girl, all alone in the*
+park, listening to music and*
+roasting a sweet potato...<press>
+What kind of childhood*
+did this girl have...?<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Doesn't everybody have at*
+least one day in their life*
+like that?! Give her a break!<press>
+<fchat:000D>
+<blue>(Anyway, if Lynne won't*
+budge from that spot...)<black><press>
+<blue>(...then we'll just have*
+to have the <red>fragment*
+<blue>move, instead.)<black>
+
+-------------------------------
+
+[m13_2525][3109]
+
+<face:0076>
+<sound:0015><blink>Miss Lynne looks so happy!<press>
+<face:0031>
+Sure, she's happy. She's about*
+to eat some sweet potato.<press>
+<face:0076>
+<sound:0016>And that happiness is*
+about to be shattered,*
+in a single instant...<press>
+<sound:0017><blink><shake:0128>...when she drops*
+her sweet potato!<press>
+<face:0031>
+<blue>(Uh, I don't think you're*
+seeing the big picture...)<black><press>
+Anyway, we have to keep*
+our eyes peeled for a*
+chance to make our move.<press>
+<face:0076>
+<sound:0033><blink><shake:0128>Right! We won't drop the*
+ball or the sweet potato!
+
+-------------------------------
+
+[m13_2720][310A]
+
+<face:0031>
+So this is the start of it all, huh?<press>
+<blue>(If we change Yomiel's <red>fate<blue>,*
+what will happen to everything*
+else, I wonder...?)<black><press>
+<face:00AA>
+It won't do us any good*
+to think about that now.<press>
+<face:0031>
+Right. We just have to take that*
+first step forward, just as we*
+always do...
+
+-------------------------------
+
+[m13_2640][310B]
+
+<sound:0015>It's ready!
+
+-------------------------------
+
+[m13_2650][310C]
+
+Hold it!
+
+-------------------------------
+
+[m13_2660][310D]
+
+Eeeeek!
+
+-------------------------------
+
+[m13_2670][310E]
+
+Just calm down!
+
+-------------------------------
+
+[m13_2680][310F]
+
+S-Stay back!
+
+-------------------------------
+
+[m13_2690][3110]
+
+I'll shoot her!
+
+-------------------------------
+
+[m13_2530][3111]
+
+<face:0076>
+<sound:0018><blink><shake:0128>Oh, poor Miss Lynne!<press>
+<face:002A>
+I'm sorry...<press>
+<face:0076>
+<sound:0033><blink><shake:0128>If you're so sorry,*
+then put her down!<press>
+<face:0031>
+All right, now, Missile...<press>
+<face:002A>
+I was really out of*
+my head that day...<press>
+<face:00A7>
+Well... we can talk*
+about all of this later.<press>
+<face:0031>
+<blue>(The Temsik meteorite is*
+gonna fall very soon!)<black><press>
+<blue>(Before that happens...)<black><press>
+<sound:0015><blink><blue>(...I have to think of a way to do*
+something about that <red>fragment<blue>!)<black><press>
+<face:0076>
+<sound:0033><blink><shake:0128>And I'll do everything*
+I can to help, too!
+
+-------------------------------
+
+[m13_2538][3112]
+
+<fchat:0002>
+<sound:0018><blink><shake:0128>What are you doing?!*
+You're going to hurt*
+poor Miss Lynne's ears!<press>
+<fchat:000D>
+<shake:0128>I'm sorry. I wasn't thinking...<press>
+<fchat:0009>
+You really startled her.<press>
+<sound:0016>You even made her drop*
+her sweet potato.<press>
+<fchat:000D>
+<blue>(I know how much this*
+girl loves her food, too...)<black><press>
+Anyway...<press>
+<sound:0017><blink><shake:0128>...at least her fate has*
+changed, albeit ever so*
+slightly!
+
+-------------------------------
+
+[m13_2575][3113]
+
+<fchat:0002>
+<sound:0017><blink><shake:0128>It's about time for that*
+meteorite to come down!<press>
+<fchat:000D>
+Uh-oh!*
+We have to change the*
+fragment's path somehow!<press>
+<fchat:0001>
+Hmm. It looks like both*
+"paths" and "fates" can be*
+difficult things to change...<press>
+<fchat:000D>
+<sound:0018><blink><shake:0128><blue>(There HAS to be a way!)<black><press>
+<fchat:0002>
+If we worked together,*
+you and me...<press>
+<sound:0033><blink><shake:0128>...I thought we'd be*
+able to do something!<press>
+<fchat:000D>
+<blue>("Thought"? That's funny...*
+I wonder why he's using*
+the past tense?)<black>
+
+-------------------------------
+
+[m13_2730][3114]
+
+<face:0031>
+I doubt we can move*
+those two from that spot...<press>
+<face:00A6>
+<sound:0016><blink>Which means we have to do*
+something with the Temsik*
+fragment instead.<press>
+<face:0075>
+<sound:0033><blink><shake:0128>That should be easy with our powers!<press>
+<face:0031>
+I think you're right, Missile.*
+<blue>(This is gonna be the <red>grand finale<blue>...)<black>
+
+-------------------------------
+
+[m13_2540][3115]
+
+<fchat:0002>
+<sound:0018><blink><shake:0128>Please don't do that!<press>
+<fchat:000D>
+I just thought maybe it*
+would wake her up...<press>
+<fchat:0009>
+Even if you did wake her up...<press>
+...what good would that*
+do at the moment?<press>
+<fchat:0002>
+<sound:0017><blink><shake:0128>You're the one who*
+needs to wake up, Sissel!<press>
+<fchat:000D>
+<blue>(This little doggie says*
+some pretty smart*
+things sometimes.)<black>
+
+-------------------------------
+
+[m13_2545][3116]
+
+<fchat:000D>
+What in the world*
+is this thing?<press>
+<fchat:0009>
+Oh, boy. You even forgot*
+what a sweet potato is?<press>
+<sound:0016>It's a roasted root*
+vegetable. It's good.<press>
+<fchat:0001>
+<sound:0016>There's nothing like them*
+on a cold winter's day.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>They're sweet and*
+they smell delicious!<press>
+<fchat:000D>
+<blue>(These guys sure are making*
+me want to try one.)<black>
+
+-------------------------------
+
+[m13_2550][3117]
+
+<fchat:000D>
+It looks like the basket*
+is empty now.<press>
+<blue>(Did Lynne think she was*
+gonna eat both of those*
+huge sweet potatoes?)<black><press>
+<fchat:0009>
+<sound:0016>Who knows? There might*
+even have been more than*
+two...<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>When Miss Lynne finds out*
+her sweet potato is gone,*
+she might cry VERY loudly!<press>
+<fchat:000D>
+<blue>(Are we trying to make*
+her out to be some kind*
+of sweet potato freak?)<black>
+
+-------------------------------
+
+[m13_2560][3118]
+
+<fchat:000D>
+<sound:0015><blink>That's some pretty*
+spirited water there...<press>
+<fchat:0009>
+That's what's known*
+as a "fountain."<press>
+<fchat:0002>
+With that much force...<press>
+<sound:0033><blink><shake:0128>...I bet it could lift me*
+right up into the air!<press>
+<fchat:000D>
+<red>Lift you into the air<black>, huh...?<press>
+<blue>(He's right. It just might be*
+able to lift <red>something if it*
+was small enough<blue>...)<black><press>
+<fchat:0009>
+<sound:0016>Like that thing that*
+just went floating by,*
+for example...?
+
+-------------------------------
+
+[m13_2565][3119]
+
+<fchat:000D>
+<sound:0016>Hmm. That was kind*
+of disappointing...<press>
+<blue>(Maybe the timing*
+was a little off?)<black><press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Miss Lynne always says it's*
+better to be early than late!<press>
+<fchat:000D>
+<blue>(I'd better try it again.)<black>
+
+-------------------------------
+
+[m13_2570][311A]
+
+<fchat:0002>
+<sound:0015><blink>Oh! Look at that*
+sweet potato!
+
+-------------------------------
+
+[m13_2572][311B]
+
+<fchat:0002>
+<sound:0017><blink><shake:0128>That big, scary*
+sweet potato!<press>
+<fchat:000D>
+<sound:0016>That's not a sweet potato,*
+Missile. That's <red>Mino<black>.<press>
+<fchat:0002>
+<shake:0128>O-Oh, right! Of course!
+
+-------------------------------
+
+[m13_2574][311C]
+
+<fchat:0002>
+But look at them, the*
+potato and Mino.<press>
+<sound:0033><blink><shake:0128>Right now, they both*
+have <red>the same shape<black>!<press>
+<fchat:000D>
+So you're saying you*
+could swap them, huh?*
+Good idea, Missile!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Okay, here I go! And I'm*
+going to need your help!<press>
+<fchat:000D>
+<sound:0015><blink><blue>(My help...?)<black>
+
+-------------------------------
+
+[m13_2600][311D]
+
+<fchat:000D>
+It's no use. I can't get*
+any water to come out.<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>Well, we can see why not!<press>
+<fchat:000D>
+<blue>(Yeah... the overwhelming*
+presence of Mino there...)<black><press>
+<blue>(If only we could use it to*
+our advantage somehow...)<black>
+
+-------------------------------
+
+[m13_2610][311E]
+
+<fchat:0009>
+<sound:0015><blink>Oh, look! The lamp*
+post is bending!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>But it hasn't broken yet!<press>
+<fchat:0009>
+It really is a wonder*
+it hasn't snapped.<press>
+It just might hold out for*
+a little while longer!<press>
+<fchat:000D>
+<sound:0016><blue>(Which will fall first, Mino*
+or the meteorite...?)<black>
+
+-------------------------------
+
+[m13_2620][311F]
+
+<fchat:0009>
+<sound:0015><blink>Oh, look! The lamp*
+post is bending!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>But it hasn't broken yet!<press>
+<fchat:0009>
+It really is a wonder*
+it hasn't snapped.<press>
+It just might hold out for*
+a little while longer!<press>
+<fchat:000D>
+<blue>(If I recall...)<black><press>
+<sound:0016><blue>(...the Temsik fragment*
+smashed through the glass*
+lantern on its way down.)<black><press>
+<fchat:0009>
+<sound:0015><blink>But if Mino sits*
+firmly in its way...
+
+-------------------------------
+
+[m13_2630][3120]
+
+<fchat:000D>
+<sound:0017><blink><shake:0128>...Then fate should <red>change<black>!
+
+-------------------------------
+
+[m13_2580][3121]
+
+<fchat:0009>
+That was quite*
+a sight to see.<press>
+<fchat:000D>
+It looks like this park*
+just got a new feature.
+
+-------------------------------
+
+[m13_2590][3122]
+
+<fchat:0002>
+<sound:0015><blink>But neither one of them*
+even glanced this way!<press>
+<fchat:000D>
+Guess that's not surprising,*
+seeing as even a meteorite*
+didn't distract them.<press>
+<fchat:0009>
+Hey, it was a desperate*
+situation. "<red>Kill or be killed<black>"!<press>
+<fchat:000D>
+And Yomiel IS killed,*
+right after this -- by*
+the meteorite.<press>
+<blue>(Well, now that the park*
+has a new feature...)<black><press>
+<sound:0016><blue>(...can we use it to our*
+advantage in any way?)<black>
+
+-------------------------------
+
+[m13_2576][3123]
+
+<fchat:0002>
+<sound:0017><blink><shake:0128>It's about time for that*
+meteorite to come down!<press>
+<fchat:000D>
+Don't worry, Missile!*
+I think we're ready for it.<press>
+Look what's right in*
+the fragment's path.
+
+-------------------------------
+
+[m13_2577][3124]
+
+<fchat:0002>
+<sound:0015><blink>Oh, okay! That*
+giant sweet potato!<press>
+<sound:0033><blink><shake:0128>If anything can get*
+in the way, that ugly*
+monster can!<press>
+<fchat:000D>
+<blue>(Ouch.)<black><press>
+Anyway...<press>
+...now the fragment's*
+path ought to change!
+
+-------------------------------
+
+[m13_2740][3125]
+
+<fchat:000D>
+<sound:0017><blink><shake:0128>There! How's that?!<press>
+<fchat:0002>
+Look! The fragment's*
+<red>course<black>...<press>
+<sound:0033><blink><shake:0128>It changed a little!<press>
+<fchat:0009>
+Now Yomiel's <red>fate<black>*
+should really change!<press>
+<fchat:0001>
+<sound:0016>...Wait a minute.<press>
+<fchat:0001>
+Take another look at the*
+fragment's trajectory.<press>
+Now that it's changed,*
+what's <red>in its path<black>?<press>
+<fchat:000D>
+<sound:0016><red>In its path<black>...?<press>
+<sound:0015><blink><shake:0128><blue>(N-Nooo...!)<black>
+
+-------------------------------
+
+[m13_2750][3126]
+
+Uuuuunh!
+
+-------------------------------
+
+[m13_2760][3127]
+
+<fchat:000D>
+<sound:0018><blink><shake:0128>Detective Jowd!<press>
+<sound:0017><blink><shake:0128>{28FF}<0001_7800><blue>(The Temsik fragment*
+<red>shot through<blue> his leg!)<black><press>
+<fchat:0009>
+<shake:0128><blink>What?!
+
+-------------------------------
+
+[m13_2770][3128]
+
+But the cruel twists of*
+fate weren't over yet...
+
+-------------------------------
+
+[m13_2780][3129]
+
+Ngh...!
+
+-------------------------------
+
+[m13_2790][312A]
+
+<fchat:0009>
+<sound:0016>C'mon, put it down...<press>
+<fchat:000D>
+<sound:0015><blink>Huh?<press>
+<fchat:0009>
+<sound:0018><blink><shake:0128>Jowd,<red> put the*
+gun down<black>... now!<press>
+If you don't...<press>
+<fchat:0009>
+<sound:0017><blink><shake:0128>...you're going to <red>shoot him<black>!
+
+-------------------------------
+
+[m13_2800][312B]
+
+<fchat:000D>
+<blue>(I don't know if*
+it's his detective*
+<red>training <blue>or what...)<black><press>
+<sound:0016><blue>(...but even though he's*
+shaking from the pain,*
+the gun doesn't waver.)<black><press>
+<fchat:0009>
+<sound:0018><blink><shake:0128><1EFF_0800>{2EFF}{5500}{17FF}Put the gun down!{17FF}
+
+-------------------------------
+
+[m13_2805][312C]
+
+<sound:0017>No!
+
+-------------------------------
+
+[m13_2810][312D]
+
+<fchat:0009>
+<NJ:003C>
+I knew it. This is*
+my true fate...<press>
+In the end...<press>
+<sound:0018><blink><shake:0128>...I stole his life away*
+with my own hands...
+
+-------------------------------
+
+[m13_2820][312E]
+
+<fchat:0002>
+<sound:0033><blink><shake:0128>I won't let that happen!<press>
+<fchat:000D>
+<sound:0015><blink>Missile!*
+<blue>(The bullet is*
+stopped in midair!)<black><press>
+<fchat:0002>
+I'm here, inside the bullet!<press>
+<sound:0033><blink><shake:0128>Now let's <red>swap <black>it*
+with something!<press>
+<fchat:0009>
+<sound:0018><blink><shake:0128>Wh-What?!*
+With what...?!<press>
+<fchat:000D>
+Detective Jowd...<press>
+The meteorite fragment*
+is what made you pull*
+the trigger.<press>
+<blink><shake:0128>We won't let you*
+become a murderer!<press>
+<fchat:0009>
+<sound:0015><blink>...!<press>
+<fchat:000D>
+<blue>(We have to prove*
+that murder isn't the*
+detective's "true fate"...)<black><press>
+<sound:0016><blue>(And to do that, we have*
+to stop this bullet!)<black><press>
+<sound:0017><blink><shake:0128><blue>(There must be something*
+with <red>the same shape<blue> as the*
+bullet around here...!)<black>
+
+-------------------------------
+
+[m13_2535][312F]
+
+<face:0031>
+Okay, now go ahead*
+and <red>swap <black>that bullet!<press>
+Just like you did when we*
+saved Inspector Cabanela!<press>
+<blue>(We have to prove that murder*
+isn't Detective Jowd's "true fate"...)<black><press>
+<sound:0017><blink><shake:0128><blue>(And to do that, we have*
+to stop this bullet!)<black><press>
+<face:0076>
+Hmm. Something with the*
+same shape as the bullet...<press>
+<sound:0033><blink><shake:0128>I'm pretty sure I saw something*
+like that around here somewhere!<press>
+<face:0031>
+You can do it, Missile!
+
+-------------------------------
+
+[m13_2840][3131]
+
+<fchat:000D>
+Oh, no...*
+<blue>(We stopped the bullet...)<black><press>
+<shake:0128><blink><blue>(...but we still*
+couldn't save him!)<black><press>
+<fchat:0001>
+<sound:0016><blink>That's not true.<press>
+<fchat:000D>
+<sound:0015><blink>...!<press>
+<fchat:0001>
+My fate of getting pierced*
+through the back might*
+not have changed...<press>
+<sound:0016><blink>...but I'm still <red>alive<black>.<press>
+<fchat:0009>
+<sound:0018><blink><shake:0128>What?!<press>
+<fchat:0001>
+<sound:0017><blink>I'm not dead.*
+I'm just <red>unconscious<black>!<press>
+<fchat:000D>
+<shake:0128><blink>Okay, so your fate of death*
+has changed... But, still!<press>
+<sound:0015><blink><blue>(This fate is just too painful*
+to watch -- in every sense...)<black><press>
+<fchat:0001>
+<NJ:003C>
+I don't think so.<press>
+<NJ:003C>
+As long as I'm alive, that's*
+good enough for me.
+
+-------------------------------
+
+[m13_2850][3132]
+
+But we were overlooking*
+one thing.<space>
+The wheel of fate was*
+still slowly turning...
+
+-------------------------------
+
+[m13_2030][3133]
+
+Look out!
+
+-------------------------------
+
+[m13_2040][3134]
+
+<face:00B3>
+<sound:0018><blink><shake:0128>Wake up! You gotta*
+get out of there!
+
+-------------------------------
+
+[m13_2060][3136]
+
+<face:00A3>
+<sound:0018><shake:0128>Dammit! My leg won't work!<press>
+<fchat:0002>
+<sound:0018><shake:0128>It's all over! We're*
+out of time!<press>
+<sound:0017><blink><shake:0128>{2EFF}{4F00}{17FF}Miss Lynne!!!{17FF}
+
+-------------------------------
+
+[m13_2860][3137]
+
+<fchat:000D>
+<sound:0018><blink><shake:0128>It's not over yet!<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>But there isn't anything*
+else to swap with!<press>
+<fchat:0001>
+<sound:0016>Why don't we just let it play*
+out, and then try to find*
+another way next time?<press>
+Even if she dies, all you have*
+to do is possess her corpse...<press>
+...and then you can <red>redo<black> her*
+last four minutes as many*
+times as it takes.<press>
+<fchat:000D>
+<sound:0018><blink><shake:0128>No. I won't do that!<press>
+<fchat:0001>
+<sound:0015><blink>Why not?<press>
+<fchat:000D>
+Sure, the fact of her*
+death would be erased...<press>
+<sound:0016>...but her <red>memory <black>of it*
+would <red>remain<black>, like a*
+scar on her psyche.<press>
+<fchat:0001>
+<sound:0015><blink>...!<press>
+<fchat:000D>
+<sound:0018><blink><shake:0128>I won't let that happen,*
+not if I can help it!<press>
+<fchat:0002>
+<sound:0033><shake:0128>But what can we do now?<press>
+Even if we work together...?!
+
+-------------------------------
+
+[m13_2865][3138]
+
+<fchat:0001>
+<sound:0000><NJ:0078>
+<1EFF_8C00>.........<press>
+<sound:0016>I think there might be*
+something that can be done.<press>
+<fchat:0002>
+<sound:0015><blink>What is it?!<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>What can Sissel and I do?<press>
+<fchat:0001>
+<sound:0016>Don't forget. I'm here, too.<press>
+<fchat:000D>
+<sound:0015><blink>...!<press>
+<fchat:0001>
+With <red>three <black>kinds of powers*
+among us, we ought to be*
+able to fight this battle.<press>
+<sound:0017><blink><shake:0128><1CFF_1D00>This battle against*
+the fate of death!<press>
+<fchat:000D>
+<sound:0015><blink>Y-Yomiel!
+
+-------------------------------
+
+[m13_2870][3139]
+
+<fchat:0001>
+Sissel, your power is*
+<red>manipulating objects<black>.
+
+-------------------------------
+
+[m13_2880][313A]
+
+<fchat:0001>
+Use your power to*
+manipulate this!<press>
+<fchat:000D>
+<shake:0128>Huh? I don't get it...<press>
+<fchat:0001>
+<sound:0016>Just trust me. Let's go!<press>
+<fchat:000D>
+<sound:0015><blink>...!*
+<blue>(All right. I'll try*
+to move there!)<black>
+
+-------------------------------
+
+[m13_2890][313B]
+
+<fchat:0001>
+Now, gather your strength*
+and make it spray as if*
+<red>your life<black> depended on it!<press>
+<fchat:000D>
+<blue>(Uh, I'm dead, though...)<black><press>
+<fchat:0001>
+In that case...<press>
+<sound:0016><blink>Make it spray as if your*
+death depended on it!*
+<red>Give it your all!<black><press>
+<fchat:0001>
+And remember, you'll only*
+have a <red>split-second<black>.
+
+-------------------------------
+
+[m13_2900][313C]
+
+<fchat:0001>
+<sound:0017><blink>Okay... Now, DO IT!<show><wait>
+
+-------------------------------
+
+[m13_2910][313D]
+
+<fchat:000D>
+<sound:0018><blink><shake:0128>{2EFF}{4C00}{17FF}Got it!<show><wait>{17FF}
+
+-------------------------------
+
+[m13_2920][313E]
+
+<fchat:0001>
+<sound:0017><blink><shake:0128>Now it's your turn, Missile!<press>
+<fchat:0002>
+<sound:0015><blink><shake:0128>What? Um, me?*
+But what can I do?!<press>
+<fchat:0001>
+<sound:0016>I think you know*
+the answer to that.<press>
+<fchat:0002>
+<sound:0018><shake:0128><blink>Okay, got it!
+
+-------------------------------
+
+[m13_2930][313F]
+
+<fchat:000D>
+<sound:0017><blink><shake:0128>You can <red>swap <black>them!<press>
+<blue>(That hunk of concrete*
+will <red>go back <blue>to its original*
+position!)<black>
+
+-------------------------------
+
+[m13_2935][3140]
+
+<fchat:0002>
+<sound:0033><shake:0128>But...!<press>
+<sound:0016><blink>Even if I swap them, it'll still*
+be right above Miss Lynne!<press>
+<fchat:0001>
+Don't worry.<press>
+<fchat:0002>
+<sound:0015><blink><shake:0128>...!<press>
+<sound:0033><shake:0128>Okay, I'll do it! I'll swap them!
+
+-------------------------------
+
+[m13_2536][3141]
+
+<face:0031>
+<sound:0017><blink><shake:0128>Okay, Missile!*
+Go ahead and swap them!<press>
+<sound:0018><blink><shake:0128>We just have to trust him!<press>
+<face:0076>
+<sound:0033><blink><shake:0128>O-Okay!<press>
+<sound:0017><blink><shake:0128>Swap the two sweet*
+potatoes! Got it!
+
+-------------------------------
+
+[m13_2940][3142]
+
+<fchat:0002>
+<sound:0018><blink><shake:0128>It's no use! We can't*
+stop that horrible Mino!<press>
+<fchat:0009>
+<sound:0018><blink><shake:0128>What can we do now?!<press>
+I don't see how gaining a*
+second or two helped!<press>
+<fchat:0001>
+Oh, it helped all right.<press>
+<sound:0016><blink>Those <red>few seconds <black>were*
+exactly what I wanted.
+
+-------------------------------
+
+[m13_2950][3143]
+
+<fchat:0001>
+Last up, it's my turn.<press>
+<fchat:000D>
+<sound:0015><blink><shake:0128>Your turn...?
+
+-------------------------------
+
+[m13_2960][3144]
+
+<fchat:0001>
+You know what my*
+power is, right?<press>
+<sound:0016>I can manipulate*
+living creatures.<press>
+<fchat:000D>
+<sound:0018><blink><shake:0128>Wait a minute! You mean...?<press>
+<fchat:0001>
+That's right.<press>
+I'm going to save*
+that little girl.<press>
+<sound:0017><blink><shake:0128>Save her by manipulating <red>my*
+own<black>, unconscious body!
+
+-------------------------------
+
+[m13_2080][3146]
+
+<face:00A3>
+Ye gods...
+
+-------------------------------
+
+[m13_2090][3147]
+
+<face:00A5>
+Ah, you're awake.
+
+-------------------------------
+
+[m13_2100][3148]
+
+<face:0023>
+<sound:0018><blink><shake:0128>Hey, mister! Is your knee okay?
+
+-------------------------------
+
+[m13_2105][3149]
+
+<face:00A4>
+Huh? Oh, it'll be fine.*
+It's just a scrape.<press>
+I'm lucky it wasn't a fatal hit.*
+But the main thing is that*
+you're not hurt.
+
+-------------------------------
+
+[m13_2106][314A]
+
+<face:0023>
+Y-You... saved me, mister?<press>
+<face:00A4>
+I was just doing my job.<press>
+<change:00B4>
+<end>
+The gods... They're the*
+ones who saved you.<press>
+<face:0023>
+What's your job, mister?<press>
+<face:00A4>
+Me? I'm a police detective.
+
+-------------------------------
+
+[m13_2110][314B]
+
+<face:00A4>
+Do you think you could*
+go call the police for me?<press>
+I think you could do it*
+quicker than I could.<press>
+<face:0023>
+<sound:0018><blink><shake:0128>B-But...!
+
+-------------------------------
+
+[m13_2120][314C]
+
+<face:0023>
+<sound:0015><blink>What's that?<press>
+<face:00A4>
+This is a detective's badge.*
+We give them to children*
+who've been very brave.<press>
+<face:0023>
+A detective's badge...?
+
+-------------------------------
+
+[m13_2700][314D]
+
+Thanks!
+
+-------------------------------
+
+[m13_2125][314E]
+
+<face:00A4>
+Okay, you know what*
+to do, little detective!
+
+-------------------------------
+
+[m13_2130][314F]
+
+<face:00A1>
+Are you alive...?<press>
+<face:002D>
+<NJ:003C>
+Yeah... sadly...<press>
+<face:00A1>
+Hang on. Help is coming.<press>
+What made you do such*
+a reckless thing?<press>
+<face:0038>
+<NJ:003C>
+.........<press>
+To be perfectly honest,*
+I don't really know.<press>
+<change:0029>
+<end>
+When I came to, my body was*
+already moving all by itself.<press>
+<sound:0016><blink>It was as if somebody*
+else was <red>controlling <black>me.<press>
+<face:00A1>
+I see...<press>
+<face:0038>
+But, you know...<press>
+<change:0027>
+<end>
+<sound:0016>...I'm glad it happened.
+
+-------------------------------
+
+[m13_2710][3150]
+
+Hey, mister.
+
+-------------------------------
+
+[m13_2150][3151]
+
+<face:0025>
+I found this kitten.*
+It was over there.<press>
+<face:00A0>
+<sound:0015><blink>Come to think of it...<press>
+...I just saw it a few minutes ago.*
+It's probably a stray.<press>
+<face:0025>
+It's kind of limp.*
+Is it okay...?
+
+-------------------------------
+
+[m13_2155][3152]
+
+<face:00A0>
+I don't know.*
+I think it's unconscious.<press>
+That's funny. It doesn't look*
+like it's injured or anything...<press>
+<face:0025>
+Poor little kitty...<press>
+<face:00A0>
+How about if I take it to my*
+house and look after it?<press>
+<change:00A4>
+<end>
+Would you like to come home*
+with me, little kitten?
+
+-------------------------------
+
+[m13_2160][3153]
+
+<face:0039>
+<NJ:003C>
+Well...<press>
+<change:002A>
+<end>
+...it looks like HIS fate just*
+changed in a big way.<press>
+<face:0031>
+Whose fate?<press>
+<face:002A>
+That kitten's, of course.<press>
+<change:0028>
+<end>
+<sound:0016><1EFF_1400><red>Sissel's<black>.<press>
+<face:0031>
+<sound:0015><blink><shake:0128><red>Sissel<black>...?
+
+-------------------------------
+
+[m13_2170][3154]
+
+<22FF_0300><20FF_4B00>The name "Sissel"*
+echoes in my head.<15FF_A000>
+
+-------------------------------
+
+[m13_2180][3155]
+
+<22FF_0100><20FF_4B00>That's my real name...<15FF_7800>
+
+-------------------------------
+
+[m13_2190][3156]
+
+<face:0044>
+<NJ:003C>
+<center>These long,*
+<center>lonely ten years...<press>
+<center>...you were my one*
+<center>and only friend.
+
+-------------------------------
+
+[m13_2200][3157]
+
+<face:0044>
+<center>How about it?*
+<center>Do you remember now...
+
+-------------------------------
+
+[m13_2210][3158]
+
+<face:0044>
+<sound:0016><center>...old friend?<press>
+<face:0031>
+<sound:0015><blink>...!<press>
+{07FF}<0CFF_3C00><show><wait>
+
+-------------------------------
+
+[m13_2220][3159]
+
+{07FF}<change:003C>
+1<show>{06FF}<NJ:0078>
+I think...<show><press>
+I think I finally remember.
+
+-------------------------------
+
+[m13_2240][315A]
+
+Ten years ago, I was a*
+little kitten that*
+wandered into this park.<space>
+I was weak, and all*
+alone in the world.
+
+-------------------------------
+
+[m13_2250][315B]
+
+<20FF_5000>Somebody, please look at me...
+
+-------------------------------
+
+[m13_2260][315C]
+
+<20FF_3200>Somebody, please reach*
+a hand out to me...
+
+-------------------------------
+
+[m13_2270][315D]
+
+<face:0039>
+<NJ:003C>
+<center>I had just only*
+<center>died at the time.<press>
+<NJ:003C>
+<center>I had lost everything --*
+<center>my life, my memory...<press>
+<change:002A>
+<end>
+<NJ:003C>
+<center>My body wouldn't move*
+<center>anymore, but I still managed*
+<center>to reach out a "hand" to him.
+
+-------------------------------
+
+[m13_2280][315E]
+
+<face:002A>
+<center>The next thing I knew,*
+<center>my soul had <red>transferred<black>*
+<center>to the black kitten.<press>
+<center>With no recollection*
+<center>of who I was...<press>
+<center>...I lived as a <red>cat <black>with*
+<center>you for a while.
+
+-------------------------------
+
+[m13_2285][315F]
+
+After a while, the man*
+regained his memory.<space>
+I went back to being just a cat.<space>
+And then the man*
+got his body back.
+
+-------------------------------
+
+[m13_2290][3160]
+
+<face:0044>
+<sound:0000><NJ:003C>
+<center>I took my body back*
+<center>from the morgue.<press>
+<sound:0000><NJ:003C>
+<center>There was somebody I*
+<center>just had to go see...<press>
+<sound:0000><NJ:003C>
+<center>...just one more time...
+
+-------------------------------
+
+[m13_2300][3161]
+
+<face:0044>
+<sound:0000><NJ:003C>
+<center>I took control of my body,*
+<center>and hurried to her house.
+
+-------------------------------
+
+[m13_2302][3162]
+
+<face:0044>
+<sound:0000><NJ:003C>
+<center>But I was just a little too late.
+
+-------------------------------
+
+[m13_2305][3163]
+
+<face:0044>
+<sound:0000><NJ:0078>
+<center>I had just missed her*
+<center>as she left this world...<press>
+<sound:0000><NJ:0078>
+<center>She left me a note that said,*
+<center><green>"I'm coming to you, Yomiel."<black>
+
+-------------------------------
+
+[m13_2310][3164]
+
+The man named me "Sissel."<space>
+It was the name of*
+something important he had*
+lost -- along with his life.<press>
+<0CFF_1E00>His fiancée.<space>
+He told me about it once, but I*
+didn't understand what it was.
+
+-------------------------------
+
+[m13_2330][3165]
+
+Those ten years were*
+very happy for me.<space>
+But they weren't*
+happy for the man...<space>
+And there was nothing*
+I could do for him.
+
+-------------------------------
+
+[m13_2340][3166]
+
+<face:0044>
+<sound:0000><NJ:0078>
+<center>For ten years, I wandered*
+<center>through the darkness, with*
+<center>no particular place to go.<show>
+
+-------------------------------
+
+[m13_2350][3168]
+
+<face:0044>
+<sound:0000><NJ:003C>
+<center>As time passed, my powers*
+<center>gradually changed.<show><press>
+<NJ:003C>
+<center>At first, I could only manipulate*
+<center>small creatures and objects.<press>
+<NJ:003C>
+<center>But then, after a while,*
+<center>I could manipulate people.<press>
+<NJ:0078>
+<center>That's when the darkness*
+<center>inside me deepened, and I*
+<center>started to get a little twisted.
+
+-------------------------------
+
+[m13_2360][316A]
+
+<face:0044>
+<sound:0000><NJ:0078>
+<center>I wanted "light"...<show><press>
+<NJ:0078>
+<center>...distorted, artificial "light"...
+
+-------------------------------
+
+[m13_2370][316C]
+
+<face:0044>
+<NJ:003C>
+<center>When I got my*
+<center>revenge on Lynne...<press>
+<NJ:003C>
+<center>...I would see that light.*
+<center>Or, at least, that's*
+<center>what I tried to believe.
+
+-------------------------------
+
+[m13_2380][316D]
+
+<face:0044>
+<NJ:003C>
+<center>I left <red>my old self<black> buried in that*
+<center>junkyard, and "walked" away.
+
+-------------------------------
+
+[m13_2390][316E]
+
+<face:00A9>
+<sound:0016><blink>The <red>black cat<black>...<press>
+<face:0038>
+I was possessing Sissel then.<press>
+It wouldn't look very much like*
+a murder if the corpse got up*
+and walked away, after all.<press>
+<face:00A7>
+So you borrowed the*
+body of your old friend.
+
+-------------------------------
+
+[m13_2400][316F]
+
+<face:0038>
+Sissel was inside that bag*
+I was carrying tonight.<press>
+I had no intention of*
+leaving my friend behind in*
+this country when I left.<press>
+But then...<press>
+...when I went to possess his body...<press>
+<change:0029>
+<end>
+...I realized something horrible.<press>
+<face:00A7>
+What was that?<press>
+<face:0029>
+Sissel, there inside the bag...<press>
+<sound:0016><blink>{28FF}0K...was <red>dead<black>.<press>
+<face:00A9>
+<sound:0018><blink><shake:0128>What?!
+
+-------------------------------
+
+[m13_2420][3170]
+
+<face:0044>
+<NJ:003C>
+<center>I wasn't able to control*
+<center>her <red>completely<black>.
+
+-------------------------------
+
+[m13_2430][3171]
+
+<face:0038>
+The first bullet didn't hit anything.<press>
+<NJ:003C>
+Or so I thought.<press>
+<face:00A9>
+But it <red>did hit <black>something, didn't it...?
+
+-------------------------------
+
+[m13_2440][3172]
+
+<face:00A9>
+<sound:0016><blink>It hit Sissel, inside that <red>bag<black>.
+
+-------------------------------
+
+[m13_2450][3173]
+
+<20FF_1E00>Yes, that's when I lost my life.<space>
+Right there in the presence*
+of Temsik radiation.
+
+-------------------------------
+
+[m13_2455][3174]
+
+<20FF_3200>And that's when I got my*
+powers of the dead -- my*
+"ghost tricks."
+
+-------------------------------
+
+[m13_2460][3175]
+
+<face:003C>
+I think I understand it now.<press>
+Why I was the only one who*
+couldn't get his memory back...
+
+-------------------------------
+
+[m13_2470][3176]
+
+<face:003E>
+<center>It was because I thought*
+<center>that corpse was <red>me<black>.<press>
+<center><red>It was the only corpse<black> I could*
+<center>see at the time, after all.<press>
+<NJ:0078>
+<center>But, as it turns out, it wasn't*
+<center>the only dead body...
+
+-------------------------------
+
+[m13_2480][3177]
+
+<face:003E>
+<sound:0016><blink><center>My true death was hiding*
+<center>just behind that corpse.
+
+-------------------------------
+
+[m13_2490][3178]
+
+<face:003C>
+Now that I think about it, do*
+you remember what you said?<press>
+That you <red>knew <black>all along about*
+me saving Lynne tonight?<press>
+If you knew, why didn't*
+you try to stop me?<press>
+<face:0039>
+It's simple.<press>
+<change:002A>
+<end>
+<sound:0016>Because I <red>couldn't<black>,*
+even if I wanted to.<press>
+<face:003C>
+<sound:0015><blink>Huh? Why not?<press>
+<face:002A>
+Remember the thing about*
+<red>individual differences<black> in*
+the powers we get?<press>
+I can control all kinds of things --*
+from the living to the dead...<press>
+But, even so...<press>
+<change:0035>
+<end>
+<sound:0016><blink>...there are some things that*
+you can do that <red>I can't<black>.<press>
+<face:003C>
+<sound:0015><shake:0128>...!*
+You mean...?!<press>
+<face:002C>
+I can't even rewind time, let alone*
+change the fate of a death.<press>
+If I could do those things...<press>
+<change:002A>
+<end>
+<sound:0016><blink><1DFF_1B00><0001_5A00>I would've saved your life.<press>
+<face:003C>
+<sound:0015><blink>...!<press>
+<face:002A>
+Not only that...<press>
+...but I never would've just let*
+my fiancée stay dead like that.<press>
+<face:003C>
+<shake:0128>B-But you're here ten*
+years in the past now...!<press>
+<face:0035>
+That's thanks to your powers.<press>
+<change:0039>
+<end>
+I just tagged along with you.<press>
+{07FF}<0CFF_5000><show><wait>
+
+-------------------------------
+
+[m13_2500][3179]
+
+<face:00A7>
+In any case...<press>
+...now the starting point of this*
+entire tragedy has changed*
+dramatically, altering fate...<press>
+<face:0029>
+<NJ:003C>
+.........<press>
+<face:00A7>
+The fate of your death...*
+The kitten Sissel's fate...<press>
+...and I can just bet you the*
+fate of the woman you*
+love has changed, too.<press>
+<face:0029>
+Yes... I believe you're right.
+
+-------------------------------
+
+[m13_2510][317A]
+
+<face:003E>
+<NJ:0078>
+<center><blue>(So... This was the last*
+<center>fate to be averted, eh?)<black>
+
+-------------------------------
+

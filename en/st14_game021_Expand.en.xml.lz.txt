@@ -1,0 +1,462 @@
+[m14_2071][350A]
+
+You!
+
+-------------------------------
+
+[m14_2240][3523]
+
+<fchat:0001>
+<sound:0016>Nothing's happening.<press>
+<fchat:0002>
+What did you think would*
+happen, by the way?<press>
+<fchat:0001>
+<shake:0128><blink>I... I don't know.<press>
+<fchat:0002>
+Tsk, tsk.<press>
+<sound:0033><shake:0128><blink>I really think you should*
+have a plan before you start*
+touching things willy-nilly.<press>
+<fchat:0001>
+<blue>(I'm being given reasonable*
+advice by a little doggie...)<black>
+
+-------------------------------
+
+[m14_2250][3524]
+
+<fchat:0001>
+<sound:0016>This switch is too stiff.*
+I can't lower it.<press>
+<fchat:0002>
+<sound:0015><blink>Hey, wait a minute...<press>
+<sound:0017><blink><shake:0128>Don't tell me your ghost*
+tricks don't work anymore!<press>
+<fchat:0001>
+<shake:0128><blink>.........<press>
+<fchat:0002>
+<sound:0033><shake:0128><blink>Oh, come on, Sissel!*
+That was just a little joke!<press>
+<fchat:0001>
+<blue>(I'm being made fun*
+of by a little doggie...)<black>
+
+-------------------------------
+
+[m14_2260][3525]
+
+<fchat:0001>
+I've seen this kind of thing*
+before. I think the lid opens.<press>
+But I can't open it right*
+now. Maybe because*
+it's lying on its side...?
+
+-------------------------------
+
+[m14_2270][3526]
+
+<fchat:0001>
+Nothing's happening.<press>
+<blue>(It sure seems like it*
+should do something...)<black><press>
+Maybe it's just some*
+kind of ornament...?
+
+-------------------------------
+
+[m14_2280][3527]
+
+<fchat:0001>
+It won't budge.*
+Maybe it's broken...?<press>
+Oh, well. I guess I don't*
+have to lower it right now.<press>
+<blue>(And if I ever had to move it,*
+I could probably get Lynne*
+to do it for me.)<black>
+
+-------------------------------
+
+[m14_9991][3B01]
+
+Engine room
+
+-------------------------------
+
+[m14_9993][3B03]
+
+<fchat:0001>
+In the "four minutes before*
+death" world, I can't use*
+the phone anytime I want.<press>
+<blue>(I'll have to try and find*
+something I can do here...)<black>
+
+-------------------------------
+
+[m14_9995][3B05]
+
+<fchat:0001>
+This phone isn't*
+working anymore.<press>
+I guess we can't leave*
+the submarine...
+
+-------------------------------
+
+[m14_4000][3700]
+
+<face:0106>
+So it must be true*
+what they say...<press>
+<sound:0016>...that there are restless*
+ghosts onboard...
+
+-------------------------------
+
+[m14_4001][3701]
+
+<face:0106>
+<sound:0015><blink>That does it! I promise to*
+turn over a new leaf, Mom.
+
+-------------------------------
+
+[m14_4290][3702]
+
+<fchat:0003>
+<sound:0018><shake:0128><blink>Who is he calling*
+"restless ghosts"?!<press>
+<fchat:0001>
+Well, it's true neither*
+one of us is really*
+"resting in peace"...<press>
+<fchat:0003>
+Anyway...<press>
+<sound:0015><shake:0128><blink>...it looks like the sub just*
+lost one of its crew.<press>
+<fchat:0001>
+<blue>(Hmm...)<black><press>
+<sound:0016><blink><blue>(I guess that means*
+the "fate" of this sub*
+has changed slightly.)<black>
+
+-------------------------------
+
+[m14_4300][3703]
+
+<face:0073>
+...Sissel has underestimated us.<press>
+<sound:0016><blink>He's left behind his precious*
+bargaining chip here.<press>
+<face:00A6>
+Bargaining chip...?
+
+-------------------------------
+
+[m14_4190][3704]
+
+<fchat:0003>
+<sound:0017><shake:0128><blink>It's Detective Jowd!<press>
+<shake:0128><blink>What's going on there?!<press>
+<fchat:0001>
+I saw this little "<red>deal<black>" go*
+down once before...<press>
+<blue>(In just a moment...)<black><press>
+<sound:0016><blink><blue>(...the man in red is about*
+to get his Temsik fragment*
+<red>taken away<blue>...)<black>
+
+-------------------------------
+
+[m14_4310][3705]
+
+<fchat:0003>
+<sound:0015><blink>I don't get it.*
+What's happening?<press>
+<fchat:0001>
+They decided to conclude*
+the deal without the other*
+party present.<press>
+<sound:0016>They're just going to*
+go ahead and steal*
+the Temsik fragment.<press>
+<fchat:0003>
+Huh? But that's...<press>
+<sound:0017><blink><shake:0128>{2EFF}Ú{17FF}That's cheating!{17FF}<press>
+<fchat:0001>
+.........<press>
+I think we have more*
+important things to*
+think about right now.<press>
+<blue>(Where's the Temsik*
+fragment going to go...?)<black>
+
+-------------------------------
+
+[m14_4010][3706]
+
+<face:0072>
+<sound:0017><blink><shake:0128>Ah! The Temsik fragment!*
+You're mine at last!
+
+-------------------------------
+
+[m14_4210][3708]
+
+Ah!
+
+-------------------------------
+
+[m14_4220][3709]
+
+The Temsik fragment!
+
+-------------------------------
+
+[m14_4020][370A]
+
+<face:0072>
+The objective has been achieved.<press>
+Now we detach the control*
+room as planned.<press>
+<face:0088>
+Yes, sir. Farewell, sir!
+
+-------------------------------
+
+[m14_4230][370B]
+
+<fchat:0003>
+<sound:0018><shake:0128><blink>S-Sissel!*
+What just happened?!<press>
+<sound:0017><shake:0128><blink>The whole room just*
+disappeared... with*
+Detective Jowd in it!<press>
+<fchat:0001>
+Don't worry, Lynne.<press>
+<sound:0016>I bet Detective Jowd can*
+take care of himself.<press>
+The main thing right*
+now is rescuing you*
+and the little lady.<press>
+<fchat:0003>
+<shake:0128>I can't believe this*
+is happening...!
+
+-------------------------------
+
+[m14_4030][370C]
+
+<face:0072>
+Now, then. I'd better hurry along...<press>
+...before Sissel discovers*
+what he's lost and comes*
+after me!<press>
+<sound:0016><blink>The Yonoa will be his <red>coffin<black>.
+
+-------------------------------
+
+[m14_4035][370D]
+
+<face:0072>
+<sound:0017><blink>May it lie buried here in*
+the deep sea... forever!*
+Farewell, Sissel!
+
+-------------------------------
+
+[m14_4240][370E]
+
+<fchat:0003>
+<sound:0017><shake:0128><blink>Aha! So that's the <red>cause*
+<black>of that giant explosion!<press>
+<fchat:0001>
+Huh? What is?<press>
+<fchat:0003>
+<sound:0015><shake:0128><blink>Don't tell me that's another*
+thing you've forgotten!<press>
+<sound:0018><shake:0128><blink>The torpedo! It's like... Well,*
+you've heard of a "missile"*
+before, haven't you?<press>
+<fchat:0001>
+Yeah, sure.<press>
+<blue>(But a different*
+"Missile" comes more*
+readily to mind...)<black><press>
+<fchat:0003>
+It looks like he plans*
+to sink the submarine*
+with that thing!
+
+-------------------------------
+
+[m14_4250][370F]
+
+<fchat:0003>
+<sound:0016><blink>This is NOT good!<press>
+<sound:0017><shake:0128><blink>We have to do something*
+before that torpedo is fired!
+
+-------------------------------
+
+[m14_4260][3710]
+
+<fchat:0003>
+<sound:0018><shake:0128><blink>We can't let it launch!<press>
+<fchat:0001>
+<shake:0128>But what can we do?!<press>
+<fchat:0003>
+Let's just get to the torpedo*
+as fast as we can!<press>
+<sound:0017><shake:0128><blink>Maybe we can find a way*
+to stop it somehow!<press>
+<fchat:0001>
+<sound:0016>"Somehow"...?<press>
+<fchat:0003>
+<sound:0015><blink>A true detective*
+never gives up!<press>
+<fchat:0001>
+<blue>(Well, we certainly*
+can't just ignore it!)<black>
+
+-------------------------------
+
+[m14_4032][3711]
+
+<fchat:0003>
+There goes the missile...<press>
+<fchat:0001>
+Now there's REALLY*
+nothing we can do...<press>
+<fchat:0003>
+If only OUR Missile*
+was here right now!<press>
+<sound:0015><shake:0128><blink>I bet he'd try to take it*
+head on for us.<press>
+<fchat:0001>
+<blue>(Yeah, I bet he would.)<black><press>
+Hmm. Looks like we'd better*
+rethink this whole thing...
+
+-------------------------------
+
+[m14_4280][3712]
+
+<fchat:0001>
+<sound:0018><shake:0128><blink>There's no time!*
+It's gonna launch!<press>
+<fchat:0003>
+It's no use! There's nothing*
+we can do from here!
+
+-------------------------------
+
+[m14_4320][3713]
+
+<face:002B>
+Well, at least now we know the*
+<red>cause <black>of the explosion for sure.<press>
+<face:000F>
+<sound:0018><blink><shake:0128>I can't believe he'd sink his own*
+submarine! What a waste.<press>
+<face:0034>
+...Okaaay. But, more importantly,*
+we need to get to that torpedo.<press>
+<change:002B>
+<end>
+<blue>(I'd better find a <red>path*
+<blue>to it somehow.)<black>
+
+-------------------------------
+
+[m14_4270][3714]
+
+<fchat:0001>
+<sound:0018><shake:0128><blink>There's no time!*
+It's gonna launch!<press>
+<fchat:0003>
+<sound:0017><shake:0128><blink>Don't worry! We can still*
+find a way to stop it!<press>
+<fchat:0001>
+<sound:0015><blink>What?! How?!<press>
+<fchat:0003>
+Even if the torpedo does*
+launch, we just have to stop*
+it from detonating, right?<press>
+There's still something*
+we can do...<press>
+<sound:0018><shake:0128><blink>{2EFF}Ó{17FF}...I hope!{17FF}<press>
+<fchat:0001>
+<blue>(Why was the "I hope"*
+at the end the strongest*
+part of that sentence...?)<black><press>
+<fchat:0003>
+<sound:0017><blink><shake:0128>Okay! Here goes!
+
+-------------------------------
+
+[m14_4130][3722]
+
+<face:002D>
+This is bad... We couldn't stop*
+the torpedo from launching...<press>
+<face:0005>
+<sound:0015><blink>Don't worry! If we can*
+stop it from going off,*
+there's still hope, right?<press>
+<change:0011>
+<end>
+Our Missile doesn't have one,*
+but usually these kind of*
+missiles have a <red>safety device<black>!<press>
+<face:0027>
+<blue>(It sounds like that "<red>safety*
+device<blue>" is our only hope...!)<black>
+
+-------------------------------
+
+[m14_3220][361C]
+
+<face:0007>
+Wh-What in the world...?*
+An explosion...?<press>
+<face:006A>
+Uh-oh... I've got a bad*
+feeling about this...<press>
+<sound:0016>Have I been had...?
+
+-------------------------------
+
+[m14_3080][361D]
+
+<sound:0017><shake:0128><blink>Look out!
+
+-------------------------------
+
+[m14_3150][3625]
+
+It's been*
+ten years.
+
+-------------------------------
+
+[m14_3170][362B]
+
+<face:002B>
+Well, it looks like I can't stop the*
+explosion from this engine room...<press>
+<face:0013>
+<sound:0017><blink><shake:0128>How dare he manipulate Kamila!<press>
+<face:0036>
+Don't look at me*
+when you say that.<press>
+<change:002B>
+<end>
+<blue>(I guess we'll have to look*
+for leads <red>somewhere else<blue>.)<black>
+
+-------------------------------
+

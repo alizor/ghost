@@ -1,0 +1,155 @@
+[m13_2000][3100]
+
+<face:00B3>
+When was Yomiel's death...?<space>
+It was ten years ago, when*
+the Temsik meteorite fell.
+
+-------------------------------
+
+[m13_2001][3101]
+
+We traveled back through*
+time, and now we're here*
+at the scene of that death.<space>
+The start of it all is*
+about to replay itself...
+
+-------------------------------
+
+[m13_2004][3102]
+
+<face:00A1>
+Give it up. Do you really*
+think you can outrun me?
+
+-------------------------------
+
+[m13_2005][3103]
+
+<face:00B3>
+<sound:0018><blink><shake:0128>Now, just calm down!*
+And drop that weapon!<press>
+<face:004B>
+<blink><shake:0128>S-Stay back!*
+If you come any closer...<press>
+<sound:0018><blink><shake:0128>...I'll shoot her!
+
+-------------------------------
+
+[m13_2006][3104]
+
+<face:00A3>
+<sound:0018><blink><shake:0128>Huh...? Oh, a kitten...*
+Shoo! You might get hurt.
+
+-------------------------------
+
+[m13_2009][3105]
+
+Are you okay?
+
+-------------------------------
+
+[m13_2010][3106]
+
+<face:00A4>
+You're all right now.*
+Are you hurt?<press>
+<face:0023>
+Y-You... saved me, mister?<press>
+<face:00A4>
+I was just doing my job.<press>
+<change:00B4>
+<end>
+The gods... They're the*
+ones who saved you.<press>
+<face:0023>
+What's your job, mister?<press>
+<face:00A4>
+Me? I'm a police detective.
+
+-------------------------------
+
+[m13_2020][3107]
+
+<face:00A7>
+So that's the Temsik meteorite, eh?<press>
+<face:0029>
+It's... beautiful, looking*
+at it from this angle...<press>
+<face:00A7>
+It changed all of our*
+fates completely.<press>
+<face:0031>
+We can't stop Temsik*
+from falling from the sky.<press>
+<sound:0016>But we might be able to protect*
+you from that fragment and <red>save*
+your life<black>.<press>
+<face:002A>
+<sound:0015><blink>...!<press>
+<face:00A7>
+<NJ:003C>
+.........<press>
+<sound:0016>I don't know...<press>
+<face:0031>
+<sound:0015><blink>What's the matter, Detective Jowd?<press>
+<face:00A9>
+To be perfectly honest,*
+I'm scared.<press>
+If that meteorite fragment*
+doesn't get him...<press>
+<sound:0018><blink><shake:0128>...I'm pretty sure I*
+would've shot him!<press>
+<face:0038>
+<NJ:003C>
+.........<press>
+<face:00A9>
+We might <red>not be able to*
+change<black> your fate of dying.<press>
+<face:0038>
+<NJ:003C>
+.........<press>
+<change:0029>
+<end>
+<sound:0016>I can accept that.<press>
+<face:00A7>
+<sound:0015><blink>...!<press>
+<face:0038>
+What I did is inexcusable.<press>
+No matter how the future*
+might change, that fact*
+will never go away.<press>
+<change:0027>
+<end>
+If my fate is to die here...*
+then I accept that.<press>
+<face:0031>
+<blue>(This will be our last*
+battle against fate...)<black><press>
+<sound:0017><shake:0128><blink><blue>(Beyond that will*
+be a <red>new future<blue>!)<black><press>
+<face:0076>
+<sound:0033><blink><shake:0128>Okay! Let's get started!
+
+-------------------------------
+
+[m13_2640][310B]
+
+<sound:0015>It's ready!
+
+-------------------------------
+
+[m13_2650][310C]
+
+Hold it!
+
+-------------------------------
+
+[m13_2660][310D]
+
+Eeeeek!
+
+-------------------------------
+

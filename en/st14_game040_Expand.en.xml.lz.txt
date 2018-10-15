@@ -1,0 +1,310 @@
+[m14_4320][3713]
+
+<face:002B>
+Well, at least now we know the*
+<red>cause <black>of the explosion for sure.<press>
+<face:000F>
+<sound:0018><blink><shake:0128>I can't believe he'd sink his own*
+submarine! What a waste.<press>
+<face:0034>
+...Okaaay. But, more importantly,*
+we need to get to that torpedo.<press>
+<change:002B>
+<end>
+<blue>(I'd better find a <red>path*
+<blue>to it somehow.)<black>
+
+-------------------------------
+
+[m14_4060][3715]
+
+<fchat:0001>
+I came along for the*
+ride without giving it*
+too much thought...<press>
+<blue>(...but was this really*
+the best move?)<black><press>
+<fchat:0003>
+<sound:0017><blink><shake:0128>I think so!<press>
+<sound:0015><blink>We just have to keep*
+it from going off, right?
+
+-------------------------------
+
+[m14_4061][3716]
+
+<fchat:0003>
+I'm sure this poor little*
+rat will thank us, too!<press>
+<fchat:0001>
+<sound:0016><blue>(How in the world*
+did it get in here?)<black>
+
+-------------------------------
+
+[m14_4140][3717]
+
+<fchat:0003>
+Do you know how*
+a torpedo works?<press>
+<fchat:0001>
+<shake:0128><blink>No, I can't say I do...*
+<blue>(Wow, detectives sure*
+know a lot.)<black><press>
+<fchat:0003>
+<sound:0016>I saw it explained*
+once in a book.
+
+-------------------------------
+
+[m14_4150][3718]
+
+<fchat:0003>
+On impact, the <red>fuse <black>in*
+the tip is depressed.
+
+-------------------------------
+
+[m14_4160][3719]
+
+<fchat:0003>
+That in turn sets*
+off the <red>detonator<black>.
+
+-------------------------------
+
+[m14_4161][371A]
+
+<fchat:0001>
+The detonator, huh? That*
+must be that <red>red button<black>.<press>
+So how do we stop it?<press>
+<fchat:0003>
+<sound:0016>Hmm... They didn't explain*
+anything about that in the*
+book...<press>
+<fchat:0001>
+<blue>(Wow... Detectives sure*
+know a lot... or not.)<black>
+
+-------------------------------
+
+[m14_4070][371B]
+
+<fchat:0003>
+<sound:0015><blink>I think these outside parts*
+are supposed to be <red>weights*
+<black>of some sort.<press>
+<fchat:0001>
+The spinning black*
+things, right?<press>
+<fchat:0003>
+Apparently, their spinning*
+helps the torpedo maintain*
+its balance.<press>
+<sound:0016>They must be <red>pretty heavy<black>.<press>
+<fchat:0001>
+<blue>(I wonder if we can use*
+these <red>weights <blue>to our*
+advantage somehow...?)<black>
+
+-------------------------------
+
+[m14_4080][371C]
+
+<fchat:0003>
+<sound:0016>This is probably*
+the <red>detonator<black>.<press>
+<sound:0015><blink>Hey, don't press it!*
+The torpedo will explode!<press>
+<fchat:0001>
+<blue>(Uh-oh! Better be careful...)<black><press>
+<fchat:0003>
+But, you know, there should*
+be a <red>safety device<black> around*
+here somewhere.<press>
+<fchat:0001>
+"Safety device," huh?*
+That sounds promising...<press>
+<fchat:0003>
+<sound:0017><blink><shake:0128>We have to put the safety*
+on before this thing blows*
+up!
+
+-------------------------------
+
+[m14_4090][371D]
+
+<fchat:0003>
+Hmm. This looks like*
+just the thing...<press>
+<sound:0017><blink><shake:0128>If we clamp this thing*
+on the fuse, it should*
+<red>keep it from moving<black>!<press>
+<fchat:0001>
+Uh... so what does*
+that mean, exactly?<press>
+<fchat:0003>
+<sound:0015><blink>It means we might be*
+able to stop the torpedo*
+from exploding with this!<press>
+<fchat:0001>
+I have to admit, I don't*
+understand all the details...<press>
+<sound:0016><blink>...but I do want*
+to <red>give it a try<black>.<press>
+<fchat:0003>
+But before we can do that...<press>
+<fchat:0001>
+<blue>(...It looks like we have*
+to get something out*
+of the way first, huh...)<black>
+
+-------------------------------
+
+[m14_4100][371E]
+
+<fchat:0001>
+It's a stubborn little*
+thing, isn't it?<press>
+<sound:0016><blink>Hmm. Quite a*
+worthy adversary...<press>
+<fchat:0003>
+You DO know the rat*
+isn't the main focus*
+here, don't you?<press>
+<fchat:0001>
+Okay, true.<press>
+But until it's out of the*
+way, we can't set the*
+safety device.<press>
+<fchat:0003>
+<shake:0128>Hmm. You're right.<press>
+<sound:0015><blink>If only OUR Missile*
+was here right now!<press>
+<fchat:0001>
+<sound:0016><blink>We have to get this little*
+creature to <red>leave <black>somehow.
+
+-------------------------------
+
+[m14_4110][371F]
+
+<fchat:0001>
+<sound:0017><blink>Great! We've dumped*
+the little creature off!<press>
+<fchat:0003>
+Wow. Those weights were*
+heavy enough to turn*
+the whole torpedo over.<press>
+<sound:0015><blink>Now for that <red>safety device<black>!<press>
+<fchat:0001>
+Right!
+
+-------------------------------
+
+[m14_4120][3720]
+
+<fchat:0001>
+<sound:0017><blink>There! We clamped the*
+safety device on!<press>
+<fchat:0003>
+<sound:0017><blink><1CFF_0100>We did it! That should keep*
+this torpedo from exploding!<press>
+But there's just*
+one problem...<press>
+<fchat:0001>
+<sound:0015><blink>"Problem"...? What's that?<press>
+<fchat:0003>
+<sound:0016><1EFF_2800>The torpedo is still going*
+to <red>impact<black>. We can't do*
+anything about that...<press>
+<fchat:0001>
+Uh-oh...
+
+-------------------------------
+
+[m14_4170][3721]
+
+<fchat:0003>
+We're almost out of time.*
+At this rate...<press>
+<sound:0018><blink><shake:0128>...we're going to blow*
+up the submarine!<press>
+<fchat:0001>
+<blue>(Uh-oh...)<black><press>
+<fchat:0003>
+<sound:0017><blink><shake:0128>We have to set that safety*
+and keep the torpedo from*
+detonating!
+
+-------------------------------
+
+[m14_4130][3722]
+
+<face:002D>
+This is bad... We couldn't stop*
+the torpedo from launching...<press>
+<face:0005>
+<sound:0015><blink>Don't worry! If we can*
+stop it from going off,*
+there's still hope, right?<press>
+<change:0011>
+<end>
+Our Missile doesn't have one,*
+but usually these kind of*
+missiles have a <red>safety device<black>!<press>
+<face:0027>
+<blue>(It sounds like that "<red>safety*
+device<blue>" is our only hope...!)<black>
+
+-------------------------------
+
+[m14_4180][3723]
+
+<fchat:0003>
+<sound:0017><blink><shake:0128>Oh, no! We're <red>out of time<black>!<press>
+<fchat:0001>
+<sound:0018><blink><shake:0128><blue>(Dammit!*
+We couldn't stop it!)<black><press>
+<fchat:0003>
+<sound:0018><blink><shake:0128>I'm sorry, Kamila! I'm sorry,*
+me! I'm sorry, rat!
+
+-------------------------------
+
+[m14_3220][361C]
+
+<face:0007>
+Wh-What in the world...?*
+An explosion...?<press>
+<face:006A>
+Uh-oh... I've got a bad*
+feeling about this...<press>
+<sound:0016>Have I been had...?
+
+-------------------------------
+
+[m14_3080][361D]
+
+<sound:0017><shake:0128><blink>Look out!
+
+-------------------------------
+
+[m14_3170][362B]
+
+<face:002B>
+Well, it looks like I can't stop the*
+explosion from this engine room...<press>
+<face:0013>
+<sound:0017><blink><shake:0128>How dare he manipulate Kamila!<press>
+<face:0036>
+Don't look at me*
+when you say that.<press>
+<change:002B>
+<end>
+<blue>(I guess we'll have to look*
+for leads <red>somewhere else<blue>.)<black>
+
+-------------------------------
+

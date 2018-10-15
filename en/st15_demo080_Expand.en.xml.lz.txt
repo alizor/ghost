@@ -1,0 +1,35 @@
+[m15_0320][3E29]
+
+<face:00EE>
+<center>Today's the day, you know.*
+<center>He's finally gettin' out.<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0325][3E2A]
+
+<face:00EE>
+<center>You know, everybody's*
+<center>starting to get real tired*
+<center>of seeing you do that...<0CFF_8C00><wait><press>
+<face:00EA>
+<shake:0128><blink><center>Then let me show you! A new*
+<center>dance! That's been passed down!*
+<center>In our family! For generations!<0CFF_8C00><wait><press>
+<center>We do this! When we*
+<center>have a stomachache!<0CFF_8C00><wait><press>
+<center>We call it!*
+<center>"Dance Away the Pain!"<0CFF_8C00><wait><press>
+<face:00EE>
+<center>Oh, I'm reeeal interested in*
+<center>that one. Think you could show*
+<center>it to me, say, next week?<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0330][3E2B]
+
+You got it!
+
+-------------------------------
+

@@ -1,0 +1,35 @@
+[m15_0250][3E21]
+
+<face:00E2>
+<blink><center>So this is where you*
+<center>work, huh, Papa?<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0255][3E22]
+
+<face:00E7>
+<center>That's right, sweetheart.<0CFF_6400><wait><press>
+<face:005E>
+<center>Darling husband, don't*
+<center>you have any ideas at*
+<center>all you could give me?<0CFF_8C00><wait>
+
+-------------------------------
+
+[m15_0260][3E23]
+
+<face:005E>
+<center>You must have heard some*
+<center>juicy stories. The indiscretions*
+<center>of a minister, perhaps...?<0CFF_8C00><wait><press>
+<face:00E8>
+<center>Now, now. Must you*
+<center>talk that way in front*
+<center>of our darling angel?<0CFF_8C00><wait><press>
+<face:005E>
+<center>Here is to the stodgy mind*
+<center>of my darling husband!<0CFF_8C00><wait>
+
+-------------------------------
+

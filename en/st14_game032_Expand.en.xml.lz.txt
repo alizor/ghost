@@ -1,0 +1,534 @@
+[m14_9990][3B00]
+
+Torpedo room
+
+-------------------------------
+
+[m14_9996][3B06]
+
+<fchat:0001>
+It looks like a pipe.*
+It's made out of glass.<press>
+I see a lot of cracks*
+in the glass...<press>
+I can't fix them, but I*
+guess I don't have to.
+
+-------------------------------
+
+[m14_9997][3B07]
+
+<fchat:0001>
+Each of the three machines*
+is equipped with a fan.<press>
+Now that I take*
+a closer look...<press>
+...it appears there are...*
+two sizes of fans.
+
+-------------------------------
+
+[m14_9998][3B08]
+
+<fchat:0001>
+What a cute little fan.<press>
+It must be connected to*
+one of those big machines.
+
+-------------------------------
+
+[m14_9999][3B09]
+
+<fchat:0001>
+I'd better leave*
+the flashlight on.<press>
+If I turn it off now, Lynne*
+won't be able to see.
+
+-------------------------------
+
+[m14_5000][3800]
+
+We managed to stop death*
+for now, but it hasn't*
+disappeared all together.<space>
+It's now slowly but*
+surely filling the room...
+
+-------------------------------
+
+[m14_5630][3801]
+
+<fchat:0001>
+Uh-oh.<press>
+<sound:0016>Water is seeping in*
+through the hole*
+where the torpedo hit.
+
+-------------------------------
+
+[m14_5640][3802]
+
+<fchat:0001>
+<sound:0015><blink>I've got to get them out*
+of here. I'd better go meet*
+up with Lynne!
+
+-------------------------------
+
+[m14_5001][3803]
+
+<fchat:0001>
+I'd better hurry*
+over to Lynne.<press>
+<sound:0016><blink>It's not safe to stay here.<press>
+And I just don't have*
+the power to stop that*
+water from coming in...
+
+-------------------------------
+
+[m14_5650][3804]
+
+<fchat:0001>
+<sound:0016>The lights went out, but*
+this machine apparently*
+<red>still works<black>.
+
+-------------------------------
+
+[m14_5660][3805]
+
+<fchat:0001>
+Unfortunately, I guess it*
+won't run for very long.<press>
+But maybe I can use*
+its movements to*
+help me create a path.
+
+-------------------------------
+
+[m14_5010][3806]
+
+<face:006E>
+<NJ:003C>
+Lynne...<press>
+<face:0005>
+<sound:0018><blink><shake:0128>Kamila! You're awake!*
+How do you feel?!<press>
+<face:006C>
+I'm so sorry...<press>
+<sound:0016><shake:0128>I'm sorry I pointed*
+that gun at you...<press>
+<face:0011>
+<blink>Don't worry about that!*
+That... wasn't you.<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>{2EFF}g{17FF}Miss Kamila!!!{17FF}<press>
+<face:006E>
+<sound:0015><blink>Oh, Missile! You're here.<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>Oh, poor Miss Kamila!<press>
+<sound:0033><blink><shake:0128>Miss Lynne, what*
+should we do?!<press>
+<face:000D>
+We have to get out of here,*
+before any more water comes in.<press>
+<change:0013>
+<end>
+Sissel should be along any second.<press>
+<face:0064>
+<sound:0015><blink>I knew Sissy would come!<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>And "Missy" is here, too!<press>
+<face:0068>
+<NJ:003C>
+I'm so happy everybody's*
+going to be with me now!
+
+-------------------------------
+
+[m14_5019][3807]
+
+<face:000B>
+<blink><shake:0128>Kamila!<press>
+<fchat:0002>
+<sound:0018><blink><shake:0128>{2EFF}g{17FF}Miss Kamila!!!{17FF}
+
+-------------------------------
+
+[m14_5020][3808]
+
+<face:0013>
+I'll get you out of here!
+
+-------------------------------
+
+[m14_5020_2][3809]
+
+<face:000F>
+<sound:0017><blink><shake:0128>{2EFF}Ô{17FF}If it's the last thing I do!{17FF}<press>
+<fchat:0002>
+<shake:0128>Aw... I think I'm*
+going to cry...<press>
+<fchat:0001>
+<blue>(...Or "whimper," as*
+the case may be...)<black><press>
+I'd better send a signal*
+to Lynne that I'm here.<press>
+<sound:0016>Before it's too late!
+
+-------------------------------
+
+[m14_5021][380A]
+
+<face:000E>
+Okay, I said I'd get*
+you out of here, Kamila...<press>
+<change:001C>
+<end>
+<sound:0016>...but it's so dark, I can*
+barely see. Now what?<press>
+<fchat:0001>
+<blue>(Out of ideas already, eh?)<black><press>
+I think she's asking for*
+my help. I should send*
+her a signal.
+
+-------------------------------
+
+[m14_5022][380B]
+
+<face:0016>
+<sound:0016>Oh! Look at that flashlight...<press>
+<change:0006>
+<end>
+<sound:0017><blink><shake:0128>It's Sissel. He's here!
+
+-------------------------------
+
+[m14_5023][380C]
+
+Up you go!
+
+-------------------------------
+
+[m14_5024][380D]
+
+<face:0004>
+<sound:0015><blink>I'm glad you're here, Sissel!<press>
+<fchat:0001>
+Sorry for the wait.<press>
+It looks like this room is*
+gonna fill up with water*
+fast.
+
+-------------------------------
+
+[m14_5025][380E]
+
+<fchat:0001>
+We'd better get out that*
+<red>door <black>as quick as we can.<press>
+<face:0008>
+We won't be getting out*
+that door, I'm afraid.<press>
+<sound:0016>The <red>water pressure<black> is too*
+great already. I can't open it.<press>
+<fchat:0001>
+<sound:0018><blink><shake:0128>What?!<press>
+<sound:0015><blink>What does "water*
+pressure" mean?<press>
+<face:0012>
+Think of it as the <red>force of the*
+water<black> holding the door closed.
+
+-------------------------------
+
+[m14_5026][380F]
+
+<face:000E>
+The water level keeps getting*
+higher and higher in here.<press>
+<fchat:0001>
+<blue>(So the only way out*
+of here is <red>up<blue>, huh?)<black><press>
+<face:0014>
+Exactly.<press>
+<fchat:0001>
+Okay, got it. Let's look*
+for a path that goes up!
+
+-------------------------------
+
+[m14_5031][3810]
+
+<face:000E>
+Hey, look at that <red>ladder<black>...*
+I wonder if we can get it*
+down somehow?<press>
+<fchat:0001>
+Good idea. Let's try it.<press>
+<face:0004>
+<sound:0015><blink>Oh, and by the way...<press>
+<fchat:0001>
+Yes?<press>
+<face:0012>
+<sound:0016>I can't swim. Neither can Kamila.<press>
+<fchat:0001>
+Don't you have any*
+good news for me?<press>
+<face:0006>
+<blink>Hmm, let me think about it!*
+In the meantime, could you*
+hurry, please?
+
+-------------------------------
+
+[m14_5032][3811]
+
+<face:000E>
+There must be a switch*
+or something somewhere*
+that lowers the ladder!<press>
+<change:0004>
+<end>
+<sound:0016>Provided the person who*
+designed the sub didn't*
+miscalculate the ladder length...<press>
+<face:0036>
+<sound:0015><blink><blue>(I didn't even consider*
+that possibility...)<black><press>
+<face:000E>
+And I have to warn you...<press>
+<change:0012>
+<end>
+<sound:0017><blink><shake:0128>I can't swim. Neither can Kamila.<press>
+<face:0034>
+Yeah. You already told me.
+
+-------------------------------
+
+[m14_5900][3812]
+
+<fchat:0001>
+Hmm.<press>
+<sound:0016>The phone doesn't*
+seem to be working.<press>
+<blue>(The impact of the missile*
+must've broken it...)<black>
+
+-------------------------------
+
+[m14_5033][3813]
+
+<face:0006>
+<sound:0017><blink><shake:0128>You did it, Sissel! Thanks!
+
+-------------------------------
+
+[m14_5034][3814]
+
+<sound:0015><center>Eeeeek!
+
+-------------------------------
+
+[m14_5035][3815]
+
+<face:0007>
+<sound:0016>What was that?<press>
+<fchat:0001>
+It looks like water seeping*
+in isn't the only thing*
+we have to worry about...
+
+-------------------------------
+
+[m14_5036][3816]
+
+<sound:0015><blink>Huh?
+
+-------------------------------
+
+[m14_5037][3817]
+
+<face:000B>
+<sound:0018><blink><shake:0128>Sissel! The flashlight*
+doesn't work anymore!<press>
+<fchat:0001>
+Hey, don't get mad at me.<press>
+<face:000D>
+Maybe the contacts are*
+bad or something.<press>
+<change:0003>
+<end>
+<sound:0015><blink>Hey, I know! You can fix*
+it with your powers!<press>
+<fchat:0001>
+<sound:0016><blue>(Okay, now that's just*
+taking things too far...)<black>
+
+-------------------------------
+
+[m14_5038][3818]
+
+<face:001B>
+<sound:0016>I don't know if you know this,*
+but I don't really like the dark.<press>
+<fchat:0001>
+You never mentioned*
+that before.<press>
+<face:001B>
+Not only that, but...<press>
+<change:000D>
+<end>
+<sound:0016>...I can't swim. Neither can Kamila.<press>
+<fchat:0001>
+You HAVE mentioned that.<press>
+<blue>(That flashlight*
+Lynne's holding...)<black><press>
+<blue>(I wonder if I can use my*
+powers to turn it on?)<black>
+
+-------------------------------
+
+[m14_5830][3819]
+
+<fchat:0001>
+There's a door here, too.<press>
+But it's stuck or something.*
+I can't open it.<press>
+.........<press>
+I'll leave it to your*
+superhuman strength,*
+Detective.
+
+-------------------------------
+
+[m14_5039][381A]
+
+<face:0005>
+<sound:0016><blink>Oh, hey, great! Did you used*
+to be an electrician in your*
+past life or something?<press>
+<fchat:0001>
+That's a cruel question,*
+considering the*
+circumstances.<press>
+Now, all we have to do...
+
+-------------------------------
+
+[m14_5030][381B]
+
+<face:0011>
+<sound:0017><blink><shake:0128>...Is get to that <red>door<black>,*
+and we're safe!
+
+-------------------------------
+
+[m14_5040][381C]
+
+Eeeeeeek!
+
+-------------------------------
+
+[m14_5450][3825]
+
+<face:0076>
+<sound:0033><blink><shake:0128>Okay, Sissel! What do we do?*
+I'm ready!<press>
+<face:002B>
+<blue>(Here's a little doggie who's*
+raring to go after his rest...)<black><press>
+<change:0029>
+<end>
+We have to create a path*
+that will get Lynne up to*
+the top... and fast.<press>
+So we look for anything*
+and everything we can*
+move, and try things out!<press>
+<face:0076>
+<sound:0017><blink><shake:0128>How about if we tip*
+the whole submarine?!<press>
+<face:0034>
+...If we could do that, there*
+wouldn't be any problem.<press>
+<face:0076>
+<sound:0033><blink><shake:0128>Well, in any case, I'm*
+ready and raring to go!
+
+-------------------------------
+
+[m14_3120][3629]
+
+<fchat:0001>
+<sound:0018><shake:0128><blink>It's no use. I can't get*
+the line to work!<press>
+<blue>(That's funny...)<black><press>
+<sound:0016><blue>(I thought I could use the*
+phone in the past <red>if*
+somebody was calling<blue>...)<black><press>
+<fchat:0003>
+<sound:0015><blink><shake:0128>What are you talking about?*
+The receiver has to be off*
+the hook first, silly!<press>
+<fchat:0001>
+.........<press>
+<fchat:0003>
+<sound:0018><shake:0128><blink>Well, don't look at me! I*
+can't do it. I don't have any*
+hands or feet right now.<press>
+<fchat:0001>
+<blue>(Somebody, please*
+answer the phone...)<black><press>
+<fchat:0003>
+<sound:0017><shake:0128><blink>If you want something done,*
+you have to do it yourself!
+
+-------------------------------
+
+[m14_3130][362A]
+
+<fchat:0003>
+<sound:0015><blink><shake:0128>Hey, we somehow managed*
+to knock down the receiver!<press>
+<fchat:0001>
+<blue>("Somehow managed"?*
+Who's to say that's not*
+how I planned it?)<black><press>
+<fchat:0003>
+<sound:0017><shake:0128><blink>C'mon, hurry! Now's your*
+chance to get on the phone!<press>
+<sound:0016>It might be Detective Jowd!<press>
+<fchat:0001>
+<sound:0015><shake:0128><blink>...!<press>
+<blue>(She's right. I'd better*
+check it out!)<black>
+
+-------------------------------
+
+[m14_3200][362C]
+
+<fchat:0001>
+They hung up. Can't use*
+the phone line now...<press>
+<fchat:0003>
+Hmm... And now*
+we're stuck here.<press>
+<sound:0016>Maybe we should've gone*
+when we had the chance.<press>
+<fchat:0001>
+<shake:0128><blink>Oh, I dunno... You think so?<press>
+<blue>(Maybe she's right...*
+Maybe we should have...)<black><press>
+<fchat:0003>
+<sound:0015><blink>So, what were you trying to*
+do? Pretend everything was*
+perfectly fine? Hee hee!<press>
+<fchat:0001>
+.........
+
+-------------------------------
+

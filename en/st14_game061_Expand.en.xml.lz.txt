@@ -1,0 +1,172 @@
+[m14_7210][3A29]
+
+<fchat:0009>
+<sound:0016>Huh?<press>
+<fchat:0002>
+<sound:0033><blink><shake:0128>What is it, Detective?!<press>
+<fchat:0009>
+Look at Yomiel's "<red>shell<black>"...<press>
+<fchat:000D>
+<sound:0015><blink>...!*
+There's no <red>aura <black>emanating*
+from his body...<press>
+<fchat:0001>
+Of course there isn't.<press>
+The Temsik fragment*
+is gone.<press>
+<fchat:000D>
+<blue>(Could this <red>change*
+<blue>in his "shell"...)<black><press>
+<sound:0016><blue>(...give us some*
+kind of <red>lead<blue>...?)<black>
+
+-------------------------------
+
+[m14_7220][3A2A]
+
+<face:0076>
+<sound:0033><blink><shake:0128>So, what do you think, Sissel?!<press>
+Do you think we can rescue*
+Miss Lynne and Miss Kamila?<press>
+<face:0031>
+I can't say for sure right now...<press>
+...but we do have a <red>lead<black>...<press>
+<blue>(The change in Yomiel's "shell"...)<black><press>
+<sound:0017><blink><shake:0128><blue>(...that's the key to this thing!)<black><press>
+<face:0076>
+<sound:0033><blink><shake:0128>Then let's go grab that key!
+
+-------------------------------
+
+[m14_7190][3A2B]
+
+<face:0031>
+We've come all this way.*
+We can't waver now.<press>
+<face:00A6>
+The answer is right*
+in front of you.<press>
+All you have to do is*
+<red>possess <black>it, and that's*
+how it will all begin.<press>
+<face:0031>
+<blue>(Or maybe that's*
+how it will all end...)<black>
+
+-------------------------------
+
+[m14_7300][3A2C]
+
+<face:00BA>
+Where are we headed?<press>
+<face:0088>
+<sound:0016>We are not headed*
+anywhere, Detective.<press>
+We will run out of fuel*
+soon, and that will be our*
+destination, Detective.<press>
+<face:00A8>
+<sound:0018><blink><shake:0128>What are you talking about?!*
+That would mean...<press>
+<sound:0016>...that you're trapped here, too!
+
+-------------------------------
+
+[m14_7310][3A2D]
+
+<face:00A6>
+Why would you go to all*
+the trouble to do this?<press>
+<face:0088>
+Commander Sith likes to provide*
+against any possibility, no matter*
+how small, Detective.<press>
+<face:00A6>
+<sound:0016><blink>"<red>Possibility<black>"...?
+
+-------------------------------
+
+[m14_7320][3A2E]
+
+<face:0088>
+Now it is time to say*
+goodbye, Detective.<press>
+In the end, your fate remains*
+the same, it seems, Detective.<press>
+<face:00A8>
+<blink><shake:0128>Grrr!<press>
+<NJ:003C>
+Kamila... forgive me...
+
+-------------------------------
+
+[m14_7170][3A2F]
+
+<face:0039>
+<NJ:003C>
+.........<press>
+I figured it out...<press>
+<face:003B>
+<sound:0017><1CFF_0300><blink><shake:0128>I know what this "<red>possibility,*
+no matter how small<black>" is*
+that they are afraid of!<press>
+<face:0031>
+<sound:0015><blink>What is it?!<press>
+<face:002A>
+My "time" was <red>perpetually stopped<black>,*
+thanks to the power of Temsik.<press>
+<face:0031>
+<blue>(His body cycled between the*
+moments that seperated his*
+"life" and "death"...)<black><press>
+<face:00A6>
+Right. But not anymore.*
+The Temsik fragment*
+has been taken away.<press>
+<face:0028>
+Exactly. So what does that mean?<press>
+<face:0031>
+<sound:0015><blink>I get it!<press>
+Your body <red>won't come*
+back to life<black> anymore!<press>
+<face:002A>
+<sound:0016><blink>The moment the Temsik fragment*
+was removed, my "<red>shell<black>" became*
+a regular "<red>corpse<black>."<press>
+<face:0031>
+So... let's see... That means...<press>
+<sound:0015><blue>(We can <red>go back<blue>? Back to <red>four*
+minutes before<blue> your death...?)<black><press>
+<face:0075>
+But... wait a minute!<press>
+<sound:0033><blink><shake:0128>Exactly "<red>when<black>" is that death?!<press>
+<face:00BB>
+<sound:0016><blink><1EFF_2800>That's simple.<press>
+<change:00A7>
+<end>
+<NJ:003C>
+We'll find out...<press>
+<face:00B9>
+<sound:0017><1CFF_1D00><blink><shake:0128>...when we get there!*
+Let's move!
+
+-------------------------------
+
+[m14_7180][3A30]
+
+I fell back through the*
+cracks of time for what*
+seemed like forever.<space>
+And then I saw it.<space>
+The final death, at the*
+end of this long night...<press>
+Who exactly am I?<space>
+I've already seen all of the clues...<space>
+All I have to do now is remember.<press>
+<space>
+*
+The final journey to the truth...<space>
+...starts now.
+
+-------------------------------
+
